@@ -1,0 +1,22 @@
+# dfwsc2.0
+
+> Config by [DFW-Software-Consulting](https://github.com/DFW-Software-Consulting/dfwsc2.0) — distributed by [TomeVault](https://tomevault.io/claim/DFW-Software-Consulting)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [DFW-Software-Consulting/dfwsc2.0](https://github.com/DFW-Software-Consulting/dfwsc2.0).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+
+Browse all formats: [https://tomevault.io/claim/DFW-Software-Consulting](https://tomevault.io/claim/DFW-Software-Consulting)
+
+---
+
+Converted and distributed by [TomeVault](https://tomevault.io) — AI instruction files for every platform.
+Is this your repo? [Claim it](https://tomevault.io/claim/DFW-Software-Consulting) to manage distribution.
