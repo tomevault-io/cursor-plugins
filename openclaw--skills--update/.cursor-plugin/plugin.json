@@ -1,0 +1,9 @@
+{
+  "name": "openclaw--skills--update",
+  "displayName": "auto-updater",
+  "version": "1.0.0",
+  "description": "Automatically update Clawdbot and all installed skills once daily. Runs via cron, checks for updates, applies them, and messages the user with a summary of what changed. Use when this capability is needed.",
+  "author": "openclaw (via TomeVault)",
+  "keywords": [],
+  "license": "MIT"
+}
