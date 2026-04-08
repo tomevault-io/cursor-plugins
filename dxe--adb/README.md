@@ -1,0 +1,22 @@
+# adb
+
+> Config by [dxe](https://github.com/dxe/adb) — distributed by [TomeVault](https://tomevault.io/claim/dxe)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [dxe/adb](https://github.com/dxe/adb).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+
+Browse all formats: [https://tomevault.io/claim/dxe](https://tomevault.io/claim/dxe)
+
+---
+
+Converted and distributed by [TomeVault](https://tomevault.io) — AI instruction files for every platform.
+Is this your repo? [Claim it](https://tomevault.io/claim/dxe) to manage distribution.
