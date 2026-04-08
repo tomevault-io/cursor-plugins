@@ -1,0 +1,22 @@
+# ten-second-tom
+
+> Config by [sirkirby](https://github.com/sirkirby/ten-second-tom) — distributed by [TomeVault](https://tomevault.io/claim/sirkirby)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [sirkirby/ten-second-tom](https://github.com/sirkirby/ten-second-tom).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+
+Browse all formats: [https://tomevault.io/claim/sirkirby](https://tomevault.io/claim/sirkirby)
+
+---
+
+Converted and distributed by [TomeVault](https://tomevault.io) — AI instruction files for every platform.
+Is this your repo? [Claim it](https://tomevault.io/claim/sirkirby) to manage distribution.
