@@ -2,8 +2,6 @@
 
 > Tome by [cisco-ai-defense](https://github.com/cisco-ai-defense/skill-scanner) — distributed by [TomeVault](https://tomevault.io/claim/cisco-ai-defense)
 
-AI instruction files for skill-scanner by cisco-ai-defense
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
