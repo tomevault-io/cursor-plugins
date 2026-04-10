@@ -1,0 +1,15 @@
+---
+description: When implementing or runninh tests
+alwaysApply: true
+---
+
+# Rule: Test Runners
+
+Use the following runners:
+- **Unit and integration tests**: pytest
+- **API view tests**: Django test client
+- **Acceptance (end-to-end) tests**: Playwright
+
+---
+> Converted and distributed by [TomeVault](https://tomevault.io/claim/phainestai) — claim your Tome and manage your conversions.
+<!-- tomevault:4.0:cursor_mdc:2026-04-09 -->
