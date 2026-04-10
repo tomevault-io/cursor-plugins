@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [rainbowkillah/cloudflare-mono-repo](https://github.com/rainbowkillah/cloudflare-mono-repo).
+Original source: `AGENTS.md` in [rainbowkillah/cloudflare-mono-repo](https://github.com/rainbowkillah/cloudflare-mono-repo).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
