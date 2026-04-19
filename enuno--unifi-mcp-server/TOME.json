@@ -2,9 +2,9 @@
   "name": "unifi-mcp-server",
   "owner": "enuno",
   "repo": "unifi-mcp-server",
-  "description": "AI instruction files for unifi-mcp-server by enuno",
+  "description": "",
   "type": "tome",
-  "source_format": "GEMINI.md",
+  "source_format": "CLAUDE.md",
   "formats": [
     {
       "format": "claude_md",
@@ -30,6 +30,11 @@
       "format": "gemini_md",
       "display": "GEMINI.md",
       "platform": "Gemini CLI"
+    },
+    {
+      "format": "windsurf_rules",
+      "display": ".windsurf/rules/*.md",
+      "platform": "Windsurf"
     }
   ],
   "skills": [
@@ -52,7 +57,7 @@
       "description": ""
     }
   ],
-  "claim_url": "https://tomevault.io/claim/enuno",
+  "source_url": "https://github.com/enuno/unifi-mcp-server",
   "distributed_by": "TomeVault",
-  "distributed_at": "2026-04-09T01:49:52Z"
+  "distributed_at": "2026-04-19T14:32:38Z"
 }
