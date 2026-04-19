@@ -1,8 +1,6 @@
 # kotlin-logging-extensions
 
-> Tome by [doljae](https://github.com/doljae/kotlin-logging-extensions) — distributed by [TomeVault](https://tomevault.io/claim/doljae)
-
-AI instruction files for kotlin-logging-extensions by doljae
+> Tome by [doljae](https://github.com/doljae/kotlin-logging-extensions) — distributed by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
@@ -15,15 +13,17 @@ Original source: `GEMINI.md` in [doljae/kotlin-logging-extensions](https://githu
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-
-Browse all formats: [https://tomevault.io/claim/doljae](https://tomevault.io/claim/doljae)
+- **Windsurf** — `project-config.md`
 
 ## Bundled Skills (2)
 
 - [ksp-module-router](https://github.com/doljae/kotlin-logging-extensions/tree/main/.agents/skills/ksp-module-router)
 - [workload-regression-maintainer](https://github.com/doljae/kotlin-logging-extensions/tree/main/.agents/skills/workload-regression-maintainer)
 
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/doljae/kotlin-logging-extensions](https://github.com/doljae/kotlin-logging-extensions)
+
 ---
 
-Converted and distributed by [TomeVault](https://tomevault.io) — AI instruction files for every platform.
-Is this your repo? [Claim it](https://tomevault.io/claim/doljae) to manage distribution.
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:t-e-p -->
