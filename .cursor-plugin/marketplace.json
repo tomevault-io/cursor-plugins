@@ -10,6 +10,221 @@
   },
   "plugins": [
     {
+      "name": "garrytan--gstack",
+      "source": "./garrytan--gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+    },
+    {
+      "name": "paperclipai--paperclip",
+      "source": "./paperclipai--paperclip",
+      "description": "Open-source orchestration for zero-human companies"
+    },
+    {
+      "name": "mempalace--mempalace",
+      "source": "./mempalace--mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free."
+    },
+    {
+      "name": "chenglou--pretext",
+      "source": "./chenglou--pretext",
+      "description": "Fast, accurate & comprehensive text measurement & layout"
+    },
+    {
+      "name": "juliusbrussee--caveman",
+      "source": "./juliusbrussee--caveman",
+      "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "juliusbrussee--caveman",
+      "source": "./juliusbrussee--caveman",
+      "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "juliusbrussee--caveman",
+      "source": "./juliusbrussee--caveman",
+      "description": "\ud83e\udea8 why use many token when few token do trick \u2014 Claude Code skill that cuts 65% of tokens by talking like caveman"
+    },
+    {
+      "name": "santifer--career-ops",
+      "source": "./santifer--career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+    },
+    {
+      "name": "santifer--career-ops",
+      "source": "./santifer--career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing."
+    },
+    {
+      "name": "googleworkspace--cli",
+      "source": "./googleworkspace--cli",
+      "description": "Google Workspace CLI \u2014 one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills."
+    },
+    {
+      "name": "nvidia--nemoclaw",
+      "source": "./nvidia--nemoclaw",
+      "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference"
+    },
+    {
+      "name": "jcodesmore--ai-website-cloner-template",
+      "source": "./jcodesmore--ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents"
+    },
+    {
+      "name": "jcodesmore--ai-website-cloner-template",
+      "source": "./jcodesmore--ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents"
+    },
+    {
+      "name": "tirth8205--code-review-graph",
+      "source": "./tirth8205--code-review-graph",
+      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters \u2014 6.8\u00d7 fewer tokens on reviews and up to 49\u00d7 on daily coding tasks."
+    },
+    {
+      "name": "tirth8205--code-review-graph",
+      "source": "./tirth8205--code-review-graph",
+      "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters \u2014 6.8\u00d7 fewer tokens on reviews and up to 49\u00d7 on daily coding tasks."
+    },
+    {
+      "name": "emdash-cms--emdash",
+      "source": "./emdash-cms--emdash",
+      "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress"
+    },
+    {
+      "name": "larksuite--cli",
+      "source": "./larksuite--cli",
+      "description": "The official Lark/Feishu CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti"
+    },
+    {
+      "name": "nanmicoder--cc-haha",
+      "source": "./nanmicoder--cc-haha",
+      "description": "Claude Code \u6cc4\u9732\u6e90\u7801 - \u672c\u5730\u53ef\u8fd0\u884c\u7248\u672c\uff0c\u65b0\u589e\u8de8\u5e73\u53f0\u684c\u9762\u7aef\u8f6f\u4ef6\u8865\u9f50Computer Use\uff08\u9644\u5e26\u6838\u5fc3\u6a21\u5757\u89e3\u6790\uff09"
+    },
+    {
+      "name": "quipnetwork--xq-rs",
+      "source": "./quipnetwork--xq-rs",
+      "description": "A rust implementation of the Quip Network's quantum virtual machine."
+    },
+    {
+      "name": "quipnetwork--quip-node-manager",
+      "source": "./quipnetwork--quip-node-manager",
+      "description": "A simple GUI client to manage a Quip Network node"
+    },
+    {
+      "name": "arthur-ficial--apfel",
+      "source": "./arthur-ficial--apfel",
+      "description": "The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat \u2014 all on-device via Apple Intelligence. No API keys, no cloud, no downloads."
+    },
+    {
+      "name": "farzaa--clicky",
+      "source": "./farzaa--clicky",
+      "description": "clicky"
+    },
+    {
+      "name": "nomadamas--k-skill",
+      "source": "./nomadamas--k-skill",
+      "description": "\ud55c\uad6d\uc778\uc744 \uc704\ud55c \uc2a4\ud0ac \ubaa8\uc74c\uc9d1 - SRT, KTX, \uce74\uce74\uc624\ud1a1, \ud55c\uae00\uacfc\ucef4\ud4e8\ud130, \ub0a0\uc528, \ubbf8\uc138\uba3c\uc9c0, \ubc95\ub839, \uc8fc\uc2dd\uc815\ubcf4, \uc870\uc120\uc655\uc870\uc2e4\ub85d, KBO, K-\ub9ac\uadf8, LCK, \ud2b9\ud5c8 \uac80\uc0c9, \ud1a0\uc2a4 \uc99d\uad8c, \ub9de\ucda4\ubc95 \uac80\uc0ac, \uc911\uace0\ucc28 \uac00\uaca9, \ucfe0\ud321, \ub124\uc774\ubc84 \ube14\ub85c\uadf8, \ub2e4\uc774\uc18c, \uc62c\ub9ac\ube0c\uc601, \ud0dd\ubc30 \uc1a1\uc7a5 \uc870\ud68c \ub4f1\ub4f1..."
+    },
+    {
+      "name": "midudev--autoskills",
+      "source": "./midudev--autoskills",
+      "description": "One command. Your entire AI skill stack. Installed."
+    },
+    {
+      "name": "oboard--claude-code-rev",
+      "source": "./oboard--claude-code-rev",
+      "description": "Runnable ClaudeCode source code"
+    },
+    {
+      "name": "calesthio--openmontage",
+      "source": "./calesthio--openmontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "calesthio--openmontage",
+      "source": "./calesthio--openmontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio."
+    },
+    {
+      "name": "agricidaniel--claude-obsidian",
+      "source": "./agricidaniel--claude-obsidian",
+      "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
+    },
+    {
+      "name": "agricidaniel--claude-obsidian",
+      "source": "./agricidaniel--claude-obsidian",
+      "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
+    },
+    {
+      "name": "agricidaniel--claude-obsidian",
+      "source": "./agricidaniel--claude-obsidian",
+      "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch"
+    },
+    {
+      "name": "kurtgokhan--tegaki",
+      "source": "./kurtgokhan--tegaki",
+      "description": "Handwriting animation for the web. Supports any font or text."
+    },
+    {
+      "name": "vercel-labs--wterm",
+      "source": "./vercel-labs--wterm",
+      "description": "A terminal emulator for the web"
+    },
+    {
+      "name": "wquguru--harness-books",
+      "source": "./wquguru--harness-books",
+      "description": "harness-books"
+    },
+    {
+      "name": "deusyu--harness-engineering",
+      "source": "./deusyu--harness-engineering",
+      "description": "Harness Engineering \u5b66\u4e60\u6307\u5357 \u2014 \u4ece\u6982\u5ff5\u7406\u89e3\u5230\u72ec\u7acb\u5b9e\u8df5\u7684\u6df1\u5ea6\u5b66\u4e60\u6863\u6848"
+    },
+    {
+      "name": "minimax-ai--cli",
+      "source": "./minimax-ai--cli",
+      "description": "Generate text, images, video, speech, and music by MiniMax."
+    },
+    {
+      "name": "joeynyc--hermes-hudui",
+      "source": "./joeynyc--hermes-hudui",
+      "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory"
+    },
+    {
+      "name": "joeynyc--hermes-hudui",
+      "source": "./joeynyc--hermes-hudui",
+      "description": "Web UI consciousness monitor for Hermes \u2014 the AI agent with persistent memory"
+    },
+    {
+      "name": "wbh604--uzi-skill",
+      "source": "./wbh604--uzi-skill",
+      "description": "\u51b0\u51b7\u7684\u94b1\u5c31\u8fd9\u6837\u6d41\u8fdb\u6211\u6e29\u6696\u7684\u53e3\u888b-\u6e38\u8d44\uff08UZI\uff09Skills \u2014 51\u4f4d\u6295\u8d44\u5927\u4f6c\u5e2e\u4f60\u770b\u76d8 \u00b7 22\u7ef4\u6570\u636e \u00d7 180\u6761\u91cf\u5316\u89c4\u5219 \u00d7 17\u79cd\u673a\u6784\u5206\u6790\u65b9\u6cd5 \u00b7 A\u80a1/\u6e2f\u80a1/\u7f8e\u80a1 "
+    },
+    {
+      "name": "ar9av--obsidian-wiki",
+      "source": "./ar9av--obsidian-wiki",
+      "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
+    },
+    {
+      "name": "ar9av--obsidian-wiki",
+      "source": "./ar9av--obsidian-wiki",
+      "description": "Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern"
+    },
+    {
+      "name": "mduongvandinh--llm-wiki",
+      "source": "./mduongvandinh--llm-wiki",
+      "description": "H\u1ec7 th\u1ed1ng knowledge base c\u00e1 nh\u00e2n ho\u00e0n to\u00e0n t\u1ef1 \u0111\u1ed9ng, v\u1eadn h\u00e0nh b\u1edfi LLM. D\u1ef1a tr\u00ean pattern LLM Wiki c\u1ee7a Andrej Karpathy."
+    },
+    {
+      "name": "mduongvandinh--llm-wiki",
+      "source": "./mduongvandinh--llm-wiki",
+      "description": "H\u1ec7 th\u1ed1ng knowledge base c\u00e1 nh\u00e2n ho\u00e0n to\u00e0n t\u1ef1 \u0111\u1ed9ng, v\u1eadn h\u00e0nh b\u1edfi LLM. D\u1ef1a tr\u00ean pattern LLM Wiki c\u1ee7a Andrej Karpathy."
+    },
+    {
+      "name": "interfacex-co-jp--genshijin",
+      "source": "./interfacex-co-jp--genshijin",
+      "description": "genshijin \u539f\u59cb\u4eba \ud83d\uddff| Claude Code / Codex\u7b49AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8 \u5411\u3051\u8d85\u5727\u7e2e\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30b9\u30ad\u30eb\u3002caveman \u306e\u65e5\u672c\u8a9e\u7248\u3092\u30d9\u30fc\u30b9\u306b\u3001\u65e5\u672c\u8a9e\u7279\u6709\u306e\u5197\u9577\u8868\u73fe\u306b\u6700\u9069\u5316\u3002"
+    },
+    {
       "name": "constellos--claude-code",
       "source": "./constellos--claude-code",
       "description": "claude-code"
@@ -49738,6 +49953,271 @@
       "name": "davralin--cluster-ops",
       "source": "./davralin--cluster-ops",
       "description": "cluster-ops"
+    },
+    {
+      "name": "alibaba--rock",
+      "source": "./alibaba--rock",
+      "description": "ROCK"
+    },
+    {
+      "name": "ithorian--inspectwise-v1",
+      "source": "./ithorian--inspectwise-v1",
+      "description": "inspectwise-v1"
+    },
+    {
+      "name": "flowshapr--flowshapr",
+      "source": "./flowshapr--flowshapr",
+      "description": "flowshapr"
+    },
+    {
+      "name": "biholo--ipssi-hackathon",
+      "source": "./biholo--ipssi-hackathon",
+      "description": "IPSSI-hackathon"
+    },
+    {
+      "name": "johnathanoneal--byte-size-travel",
+      "source": "./johnathanoneal--byte-size-travel",
+      "description": "byte-size-travel"
+    },
+    {
+      "name": "marta-fret--10xdevs-flashcards",
+      "source": "./marta-fret--10xdevs-flashcards",
+      "description": "10xdevs-flashcards"
+    },
+    {
+      "name": "buildthingsthatbuildthings--divorcehelper",
+      "source": "./buildthingsthatbuildthings--divorcehelper",
+      "description": "divorcehelper"
+    },
+    {
+      "name": "tan0610--orla-db",
+      "source": "./tan0610--orla-db",
+      "description": "Orla_DB"
+    },
+    {
+      "name": "diegosvart--grupoebi-ms365-graph-automation",
+      "source": "./diegosvart--grupoebi-ms365-graph-automation",
+      "description": "grupoebi-ms365-graph-automation"
+    },
+    {
+      "name": "jesse-spevack--gb",
+      "source": "./jesse-spevack--gb",
+      "description": "gb"
+    },
+    {
+      "name": "mikhail-vlasenko--so-101-rl",
+      "source": "./mikhail-vlasenko--so-101-rl",
+      "description": "so-101-rl"
+    },
+    {
+      "name": "robertjam954--llm-summarization-br-ca",
+      "source": "./robertjam954--llm-summarization-br-ca",
+      "description": "llm_summarization_br_ca"
+    },
+    {
+      "name": "acutraaq--sandboxtest",
+      "source": "./acutraaq--sandboxtest",
+      "description": "SandboxTest"
+    },
+    {
+      "name": "nightmare99--nightmare99-github-io",
+      "source": "./nightmare99--nightmare99-github-io",
+      "description": "Nightmare99.github.io"
+    },
+    {
+      "name": "sayanseliv--sayanseliv-github-io",
+      "source": "./sayanseliv--sayanseliv-github-io",
+      "description": "sayanseliv.github.io"
+    },
+    {
+      "name": "semajyad--sparkops-enterprise",
+      "source": "./semajyad--sparkops-enterprise",
+      "description": "sparkops_enterprise"
+    },
+    {
+      "name": "dragonnzhang--savings-simulator",
+      "source": "./dragonnzhang--savings-simulator",
+      "description": "savings-simulator"
+    },
+    {
+      "name": "hackstert--personal-notes",
+      "source": "./hackstert--personal-notes",
+      "description": "personal-notes"
+    },
+    {
+      "name": "viz-org--anthropic-hackathon",
+      "source": "./viz-org--anthropic-hackathon",
+      "description": "anthropic-hackathon"
+    },
+    {
+      "name": "mankeylol--stryd",
+      "source": "./mankeylol--stryd",
+      "description": "stryd"
+    },
+    {
+      "name": "kexodus--concise-mouse-consistency-cmc",
+      "source": "./kexodus--concise-mouse-consistency-cmc",
+      "description": "concise-mouse-consistency-cmc"
+    },
+    {
+      "name": "avav25--ai-assets",
+      "source": "./avav25--ai-assets",
+      "description": "ai-assets"
+    },
+    {
+      "name": "chrisconnelley--notionplaylistetl",
+      "source": "./chrisconnelley--notionplaylistetl",
+      "description": "NotionPlaylistETL"
+    },
+    {
+      "name": "robonxt--web-base-converter",
+      "source": "./robonxt--web-base-converter",
+      "description": "web-base-converter"
+    },
+    {
+      "name": "jxnl--blog",
+      "source": "./jxnl--blog",
+      "description": "blog"
+    },
+    {
+      "name": "cyranoaladin--jupiter-swap",
+      "source": "./cyranoaladin--jupiter-swap",
+      "description": "jupiter_swap"
+    },
+    {
+      "name": "shihanfu--shopping-assistant-backend",
+      "source": "./shihanfu--shopping-assistant-backend",
+      "description": "shopping_assistant_backend"
+    },
+    {
+      "name": "ghettovoice--abnf",
+      "source": "./ghettovoice--abnf",
+      "description": "abnf"
+    },
+    {
+      "name": "danikp--php-location-apis",
+      "source": "./danikp--php-location-apis",
+      "description": "php-location-apis"
+    },
+    {
+      "name": "max-burleigh--max-portfolio-v4",
+      "source": "./max-burleigh--max-portfolio-v4",
+      "description": "max-portfolio-v4"
+    },
+    {
+      "name": "danikp--ts-location-apis",
+      "source": "./danikp--ts-location-apis",
+      "description": "ts-location-apis"
+    },
+    {
+      "name": "unime1988--expense-tracking",
+      "source": "./unime1988--expense-tracking",
+      "description": "Expense-tracking"
+    },
+    {
+      "name": "garg-aayush--handbook",
+      "source": "./garg-aayush--handbook",
+      "description": "handbook"
+    },
+    {
+      "name": "abc-software-solutions-company--autocount-pushup",
+      "source": "./abc-software-solutions-company--autocount-pushup",
+      "description": "autocount-pushup"
+    },
+    {
+      "name": "rohittp0--glighter",
+      "source": "./rohittp0--glighter",
+      "description": "glighter"
+    },
+    {
+      "name": "djscheuf--journeymans-blog",
+      "source": "./djscheuf--journeymans-blog",
+      "description": "journeymans-blog"
+    },
+    {
+      "name": "jimmysamportfolio--forky",
+      "source": "./jimmysamportfolio--forky",
+      "description": "forky"
+    },
+    {
+      "name": "ugorastell--modhubplatform",
+      "source": "./ugorastell--modhubplatform",
+      "description": "modhubPlatform"
+    },
+    {
+      "name": "khang-nt--ymusicv4",
+      "source": "./khang-nt--ymusicv4",
+      "description": "YMusicV4"
+    },
+    {
+      "name": "gustavop-dev--projectapp",
+      "source": "./gustavop-dev--projectapp",
+      "description": "projectapp"
+    },
+    {
+      "name": "davidiordan--davidiordan-github-io",
+      "source": "./davidiordan--davidiordan-github-io",
+      "description": "davidiordan.github.io"
+    },
+    {
+      "name": "anshjain-shwalia--mygithubmcp",
+      "source": "./anshjain-shwalia--mygithubmcp",
+      "description": "myGithubMCP"
+    },
+    {
+      "name": "feiyang472--naive-text",
+      "source": "./feiyang472--naive-text",
+      "description": "naive_text"
+    },
+    {
+      "name": "panos-dim--mission-planning",
+      "source": "./panos-dim--mission-planning",
+      "description": "mission-planning"
+    },
+    {
+      "name": "nekoyajolly--debate-arena",
+      "source": "./nekoyajolly--debate-arena",
+      "description": "debate-arena"
+    },
+    {
+      "name": "zhaowendao2005--prisim-paperlib---projectfolder",
+      "source": "./zhaowendao2005--prisim-paperlib---projectfolder",
+      "description": "Prisim-PaperLib---ProjectFolder"
+    },
+    {
+      "name": "cjinzy--jongji",
+      "source": "./cjinzy--jongji",
+      "description": "Jongji"
+    },
+    {
+      "name": "theaipetcompany--retina",
+      "source": "./theaipetcompany--retina",
+      "description": "retina"
+    },
+    {
+      "name": "bitua-io--bitua-3d-explorer",
+      "source": "./bitua-io--bitua-3d-explorer",
+      "description": "Bitua-3D-Explorer"
+    },
+    {
+      "name": "kiaquo981--spalla-dashboard",
+      "source": "./kiaquo981--spalla-dashboard",
+      "description": "spalla-dashboard"
+    },
+    {
+      "name": "adhamhelmy--my-paper",
+      "source": "./adhamhelmy--my-paper",
+      "description": "my-paper"
+    },
+    {
+      "name": "haymayndzultra--supertemplate",
+      "source": "./haymayndzultra--supertemplate",
+      "description": "SuperTemplate"
+    },
+    {
+      "name": "openssorck22--nightshift-scaffold",
+      "source": "./openssorck22--nightshift-scaffold",
+      "description": "nightshift-scaffold"
     }
   ]
 }
