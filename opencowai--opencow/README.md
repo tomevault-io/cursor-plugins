@@ -7,14 +7,14 @@ One task, one agent, delivered. The open-source platform for task-driven autonom
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [OpenCowAI/opencow](https://github.com/OpenCowAI/opencow).
+Original source: `AGENTS.md` in [OpenCowAI/opencow](https://github.com/OpenCowAI/opencow).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/OpenCowAI/opencow](https://github.com/OpenCowAI/opencow)
