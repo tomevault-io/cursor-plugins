@@ -1,0 +1,11 @@
+{
+  "name": "cloudflare--artifact-fs",
+  "displayName": "artifact-fs",
+  "version": "1.0.0",
+  "description": "ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxe",
+  "author": {
+    "name": "cloudflare",
+    "url": "https://github.com/cloudflare"
+  },
+  "homepage": "https://github.com/cloudflare/artifact-fs"
+}
