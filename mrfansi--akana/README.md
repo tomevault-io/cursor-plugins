@@ -1,6 +1,6 @@
-# akana — distributed by TomeVault
+# akana
 
-> Originally from [mrfansi/akana](https://github.com/mrfansi/akana). Converted and distributed by [TomeVault](https://tomevault.io)
+> Source: [mrfansi/akana](https://github.com/mrfansi/akana) — distributed by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
@@ -15,7 +15,7 @@ Original source: `.windsurf/rules/*.md` in [mrfansi/akana](https://github.com/mr
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 
-Quality verified by TomeVault's automated analysis pipeline. [View quality report](https://tomevault.io/claim/mrfansi#quality)
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/mrfansi/akana](https://github.com/mrfansi/akana)
 
 ---
 
