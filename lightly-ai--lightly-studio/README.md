@@ -7,12 +7,12 @@ Curate, Annotate, and Manage Your Data in LightlyStudio.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio).
+Original source: `AGENTS.md` in [lightly-ai/lightly-studio](https://github.com/lightly-ai/lightly-studio).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
