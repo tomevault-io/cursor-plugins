@@ -1,0 +1,11 @@
+{
+  "name": "chiicake--hybrid-kv",
+  "displayName": "hybrid-kv",
+  "version": "1.0.0",
+  "description": "A two-tier KV system where the kernel provides a reusable hot-key cache data plane and exposes configurable hooks for cache policies, while user space retains full semantics and durability.",
+  "author": {
+    "name": "Chiicake",
+    "url": "https://github.com/Chiicake"
+  },
+  "homepage": "https://github.com/Chiicake/hybrid-kv"
+}
