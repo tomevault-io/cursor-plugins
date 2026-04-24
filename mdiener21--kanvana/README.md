@@ -7,14 +7,14 @@ Kanvana, a local offline personal kanban with swim lanes, relations, sub-tasks, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [mdiener21/kanvana](https://github.com/mdiener21/kanvana).
+Original source: `copilot-instructions.md` in [mdiener21/kanvana](https://github.com/mdiener21/kanvana).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/mdiener21/kanvana](https://github.com/mdiener21/kanvana)
