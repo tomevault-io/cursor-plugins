@@ -7,14 +7,14 @@ This repository contains a comprehensive set of development rules, standards, an
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [LIDR-academy/ai-specs](https://github.com/LIDR-academy/ai-specs).
+Original source: `AGENTS.md` in [LIDR-academy/ai-specs](https://github.com/LIDR-academy/ai-specs).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [LIDR-academy/ai-specs](https://github.com/LIDR-academy/ai-specs) — a repo with 106+ stars on GitHub.
