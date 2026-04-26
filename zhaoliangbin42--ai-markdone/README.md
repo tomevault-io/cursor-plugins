@@ -7,12 +7,12 @@ Immersive reading mode, messages folding, bookmark system, Markdown & PDF export
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [zhaoliangbin42/AI-MarkDone](https://github.com/zhaoliangbin42/AI-MarkDone).
+Original source: `AGENTS.md` in [zhaoliangbin42/AI-MarkDone](https://github.com/zhaoliangbin42/AI-MarkDone).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
