@@ -7,14 +7,14 @@ AGENTS.db is AGENTS.md on steroids. A file format and toolkit for deterministic 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [krazyjakee/AGENTS.db](https://github.com/krazyjakee/AGENTS.db).
+Original source: `AGENTS.md` in [krazyjakee/AGENTS.db](https://github.com/krazyjakee/AGENTS.db).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [krazyjakee/AGENTS.db](https://github.com/krazyjakee/AGENTS.db) — a repo with 42+ stars on GitHub.
