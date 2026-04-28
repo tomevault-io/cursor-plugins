@@ -1,0 +1,11 @@
+{
+  "name": "pthm--melange",
+  "displayName": "melange",
+  "version": "1.0.0",
+  "description": "OpenFGA-to-PostgreSQL authorization compiler. Generates specialized SQL functions from .fga schemas that query your existing tables. Zero sync, always consistent.",
+  "author": {
+    "name": "pthm",
+    "url": "https://github.com/pthm"
+  },
+  "homepage": "https://github.com/pthm/melange"
+}
