@@ -7,11 +7,11 @@ Fast, accurate & comprehensive text measurement & layout
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [chenglou/pretext](https://github.com/chenglou/pretext).
+Original source: `CLAUDE.md` in [chenglou/pretext](https://github.com/chenglou/pretext).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
