@@ -7,11 +7,11 @@ Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw).
+Original source: `CLAUDE.md` in [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
