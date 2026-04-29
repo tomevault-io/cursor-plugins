@@ -7,11 +7,11 @@ Interactive AI-driven game to learn Docker, Linux, networking & Kubernetes. Open
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s).
+Original source: `CLAUDE.md` in [ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
