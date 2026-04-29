@@ -7,14 +7,14 @@ inkling -- the ai agent inside a raspberry pi. feed it chats & tasks.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [dkyazzentwatwa/inkling-bot](https://github.com/dkyazzentwatwa/inkling-bot).
+Original source: `AGENTS.md` in [dkyazzentwatwa/inkling-bot](https://github.com/dkyazzentwatwa/inkling-bot).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [dkyazzentwatwa/inkling-bot](https://github.com/dkyazzentwatwa/inkling-bot) — a repo with 9+ stars on GitHub.
