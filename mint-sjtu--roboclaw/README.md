@@ -7,11 +7,11 @@ RoboClaw is an Embodied AI Assistant.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [MINT-SJTU/RoboClaw](https://github.com/MINT-SJTU/RoboClaw).
+Original source: `CLAUDE.md` in [MINT-SJTU/RoboClaw](https://github.com/MINT-SJTU/RoboClaw).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
