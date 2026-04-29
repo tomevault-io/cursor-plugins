@@ -7,14 +7,14 @@ A local-first bookmark manager with a TUI-style interface.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [ian0x-S2/linkit](https://github.com/ian0x-S2/linkit).
+Original source: `AGENTS.md` in [ian0x-S2/linkit](https://github.com/ian0x-S2/linkit).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [ian0x-S2/linkit](https://github.com/ian0x-S2/linkit) — a repo with 9+ stars on GitHub.
