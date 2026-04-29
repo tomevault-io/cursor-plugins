@@ -7,11 +7,11 @@ LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & G
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Pratiyush/llm-wiki](https://github.com/Pratiyush/llm-wiki).
+Original source: `CLAUDE.md` in [Pratiyush/llm-wiki](https://github.com/Pratiyush/llm-wiki).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
