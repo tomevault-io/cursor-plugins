@@ -7,11 +7,11 @@ Making AI Assistants Cheap Again!
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [zevorn/rt-claw](https://github.com/zevorn/rt-claw).
+Original source: `CLAUDE.md` in [zevorn/rt-claw](https://github.com/zevorn/rt-claw).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
