@@ -7,11 +7,11 @@ An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Sc
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [redai-infra/Relax](https://github.com/redai-infra/Relax).
+Original source: `CLAUDE.md` in [redai-infra/Relax](https://github.com/redai-infra/Relax).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
