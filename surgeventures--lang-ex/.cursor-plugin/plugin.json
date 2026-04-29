@@ -1,0 +1,11 @@
+{
+  "name": "surgeventures--lang-ex",
+  "displayName": "lang_ex",
+  "version": "1.0.0",
+  "description": "A LangGraph-for-Elixir implementation covering the core pieces: state graphs, conditional routing, checkpointing (Redis + Postgres), human-in-the-loop interrupts, streaming, and pluggable LLM adapters",
+  "author": {
+    "name": "surgeventures",
+    "url": "https://github.com/surgeventures"
+  },
+  "homepage": "https://github.com/surgeventures/lang_ex"
+}
