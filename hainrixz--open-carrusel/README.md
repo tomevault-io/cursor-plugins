@@ -7,11 +7,11 @@ AI-powered Instagram carousel builder. Chat with Claude to design slides; export
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel).
+Original source: `CLAUDE.md` in [Hainrixz/open-carrusel](https://github.com/Hainrixz/open-carrusel).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
