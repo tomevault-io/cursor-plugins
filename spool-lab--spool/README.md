@@ -7,11 +7,11 @@ Search your Claude Code sessions, Codex history, GitHub stars, and 50+ sources �
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [spool-lab/spool](https://github.com/spool-lab/spool).
+Original source: `CLAUDE.md` in [spool-lab/spool](https://github.com/spool-lab/spool).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
