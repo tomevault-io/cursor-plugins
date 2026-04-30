@@ -7,11 +7,11 @@ Swift Package porting libnfc protocol-layer logic to iOS via CoreNFC
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Lakr233/CoreExtendedNFC](https://github.com/Lakr233/CoreExtendedNFC).
+Original source: `CLAUDE.md` in [Lakr233/CoreExtendedNFC](https://github.com/Lakr233/CoreExtendedNFC).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
