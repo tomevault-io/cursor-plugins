@@ -7,11 +7,11 @@ Real-time Claude Code session log viewer and monitor. Tail, search, and visualiz
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [delexw/claude-code-trace](https://github.com/delexw/claude-code-trace).
+Original source: `CLAUDE.md` in [delexw/claude-code-trace](https://github.com/delexw/claude-code-trace).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
