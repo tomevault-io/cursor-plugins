@@ -7,11 +7,11 @@ A local-only journal with serious encryption. Free, open source, and never touch
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium).
+Original source: `CLAUDE.md` in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
