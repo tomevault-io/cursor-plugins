@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-tn--gitops-reverse-engineer",
+  "displayName": "gitops-reverse-engineer",
+  "version": "1.0.0",
+  "description": "A Kubernetes admission controller that automatically syncs resource changes to a Git repository for GitOps auditing and compliance.",
+  "author": {
+    "name": "kubernetes-tn",
+    "url": "https://github.com/kubernetes-tn"
+  },
+  "homepage": "https://github.com/kubernetes-tn/gitops-reverse-engineer"
+}
