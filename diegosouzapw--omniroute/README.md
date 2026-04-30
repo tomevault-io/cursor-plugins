@@ -7,11 +7,11 @@ OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoin
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute).
+Original source: `CLAUDE.md` in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
