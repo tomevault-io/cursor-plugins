@@ -7,11 +7,11 @@ Vibe Design meets Figma. Let AI agents design directly in Figma.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ufira-ai/Vibma](https://github.com/ufira-ai/Vibma).
+Original source: `CLAUDE.md` in [ufira-ai/Vibma](https://github.com/ufira-ai/Vibma).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
