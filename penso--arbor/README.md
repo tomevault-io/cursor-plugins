@@ -7,11 +7,11 @@ Run agentic coding workflows in a fully native desktop app for Git worktrees, te
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [penso/arbor](https://github.com/penso/arbor).
+Original source: `CLAUDE.md` in [penso/arbor](https://github.com/penso/arbor).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
