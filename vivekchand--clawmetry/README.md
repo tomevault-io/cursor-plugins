@@ -7,11 +7,11 @@ See your agent think. Real-time observability dashboard for OpenClaw AI agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry).
+Original source: `CLAUDE.md` in [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
