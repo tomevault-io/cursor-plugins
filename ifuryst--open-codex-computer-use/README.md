@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use).
+Original source: `CLAUDE.md` in [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
