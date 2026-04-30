@@ -7,11 +7,11 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw).
+Original source: `CLAUDE.md` in [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
