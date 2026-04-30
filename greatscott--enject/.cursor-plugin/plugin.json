@@ -1,0 +1,11 @@
+{
+  "name": "greatscott--enject",
+  "displayName": "enject",
+  "version": "1.0.0",
+  "description": "enject: Hide .env secrets from prAIng eyes: secrets live in local encrypted stores (per project) and are injected directly into apps at runtime, never touching disk as plaintext.",
+  "author": {
+    "name": "GreatScott",
+    "url": "https://github.com/GreatScott"
+  },
+  "homepage": "https://github.com/GreatScott/enject"
+}
