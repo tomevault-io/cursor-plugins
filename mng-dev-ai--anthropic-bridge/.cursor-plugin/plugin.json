@@ -1,0 +1,11 @@
+{
+  "name": "mng-dev-ai--anthropic-bridge",
+  "displayName": "anthropic-bridge",
+  "version": "1.0.0",
+  "description": "Proxy server that translates Anthropic Messages API requests to OpenRouter, enabling use of Gemini, OpenAI, Grok, DeepSeek, and other LLMs through an Anthropic-compatible interface.",
+  "author": {
+    "name": "Mng-dev-ai",
+    "url": "https://github.com/Mng-dev-ai"
+  },
+  "homepage": "https://github.com/Mng-dev-ai/anthropic-bridge"
+}
