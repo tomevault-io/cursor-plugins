@@ -1,0 +1,11 @@
+{
+  "name": "abdelstark--claude-md-compiler",
+  "displayName": "claude-md-compiler",
+  "version": "1.0.0",
+  "description": "Compile CLAUDE.md into a lockfile, then enforce repo changes against it in local runs, staged diffs, or CI.",
+  "author": {
+    "name": "AbdelStark",
+    "url": "https://github.com/AbdelStark"
+  },
+  "homepage": "https://github.com/AbdelStark/claude-md-compiler"
+}
