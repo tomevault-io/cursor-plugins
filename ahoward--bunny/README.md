@@ -7,14 +7,14 @@ why are you wearing that stupid man suit? — a dark factory where AI agents bui
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [ahoward/bunny](https://github.com/ahoward/bunny).
+Original source: `AGENTS.md` in [ahoward/bunny](https://github.com/ahoward/bunny).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [ahoward/bunny](https://github.com/ahoward/bunny) — a repo with 9+ stars on GitHub.
