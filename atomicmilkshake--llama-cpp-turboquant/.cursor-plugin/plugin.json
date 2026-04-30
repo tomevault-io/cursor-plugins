@@ -1,0 +1,11 @@
+{
+  "name": "atomicmilkshake--llama-cpp-turboquant",
+  "displayName": "llama-cpp-turboquant",
+  "version": "1.0.0",
+  "description": "llama.cpp fork with TurboQuant quantization (turbo2/3/4) and TriAttention GPU-accelerated KV cache pruning. 75 tok/s on Qwen3-8B / RTX 3080.",
+  "author": {
+    "name": "atomicmilkshake",
+    "url": "https://github.com/atomicmilkshake"
+  },
+  "homepage": "https://github.com/atomicmilkshake/llama-cpp-turboquant"
+}
