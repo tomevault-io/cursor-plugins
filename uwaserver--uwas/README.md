@@ -7,11 +7,11 @@ Unified Web Application Server — Apache+Nginx+Varnish+Caddy in a single Go bin
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [uwaserver/uwas](https://github.com/uwaserver/uwas).
+Original source: `CLAUDE.md` in [uwaserver/uwas](https://github.com/uwaserver/uwas).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
