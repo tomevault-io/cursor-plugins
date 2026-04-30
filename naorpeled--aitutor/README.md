@@ -7,11 +7,11 @@ vimtutor like guide for AI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [naorpeled/aitutor](https://github.com/naorpeled/aitutor).
+Original source: `CLAUDE.md` in [naorpeled/aitutor](https://github.com/naorpeled/aitutor).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
