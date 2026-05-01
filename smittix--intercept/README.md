@@ -7,11 +7,11 @@ iNTERCEPT, a free and open-source platform that unites the best signal intellige
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [smittix/intercept](https://github.com/smittix/intercept).
+Original source: `CLAUDE.md` in [smittix/intercept](https://github.com/smittix/intercept).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
