@@ -7,11 +7,11 @@ Open-source email observability for AWS SES
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy).
+Original source: `CLAUDE.md` in [marckohlbrugge/sessy](https://github.com/marckohlbrugge/sessy).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
