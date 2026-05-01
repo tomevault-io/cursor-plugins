@@ -7,14 +7,14 @@ Workbench gives Claude Code, Gemini CLI, and Cursor Agent a shared workspace for
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [Blaise1030/workbench](https://github.com/Blaise1030/workbench).
+Original source: `AGENTS.md` in [Blaise1030/workbench](https://github.com/Blaise1030/workbench).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/Blaise1030/workbench](https://github.com/Blaise1030/workbench)
