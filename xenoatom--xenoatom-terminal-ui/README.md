@@ -7,11 +7,11 @@ XenoAtom.Terminal.UI is a modern, reactive retained-mode terminal UI framework f
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [XenoAtom/XenoAtom.Terminal.UI](https://github.com/XenoAtom/XenoAtom.Terminal.UI).
+Original source: `CLAUDE.md` in [XenoAtom/XenoAtom.Terminal.UI](https://github.com/XenoAtom/XenoAtom.Terminal.UI).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
