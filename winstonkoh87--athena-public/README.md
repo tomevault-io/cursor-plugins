@@ -7,11 +7,11 @@ The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness f
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public).
+Original source: `CLAUDE.md` in [winstonkoh87/Athena-Public](https://github.com/winstonkoh87/Athena-Public).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
