@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [crabwise-ai/crabwalk](https://github.com/crabwise-ai/crabwalk).
+Original source: `CLAUDE.md` in [crabwise-ai/crabwalk](https://github.com/crabwise-ai/crabwalk).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
