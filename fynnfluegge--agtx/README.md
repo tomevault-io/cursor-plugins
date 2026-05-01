@@ -7,11 +7,11 @@ Multi-session AI coding terminal manager - autonomously orchestrate Claude, Code
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx).
+Original source: `CLAUDE.md` in [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
