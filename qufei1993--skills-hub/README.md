@@ -7,11 +7,11 @@ A cross-platform desktop app to manage Agent Skills in one place and sync them t
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub).
+Original source: `CLAUDE.md` in [qufei1993/skills-hub](https://github.com/qufei1993/skills-hub).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
