@@ -1,0 +1,11 @@
+{
+  "name": "traceloop--opentelemetry-mcp-server",
+  "displayName": "opentelemetry-mcp-server",
+  "version": "1.0.0",
+  "description": "Unified MCP server for querying OpenTelemetry traces across multiple backends (Jaeger, Tempo, Traceloop, etc.), enabling AI agents to analyze distributed traces for automated debugging and observabili",
+  "author": {
+    "name": "traceloop",
+    "url": "https://github.com/traceloop"
+  },
+  "homepage": "https://github.com/traceloop/opentelemetry-mcp-server"
+}
