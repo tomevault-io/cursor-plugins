@@ -7,11 +7,11 @@ CLI for KakaoTalk.app so your agent can send and receive k-messages.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [channprj/kmsg](https://github.com/channprj/kmsg).
+Original source: `CLAUDE.md` in [channprj/kmsg](https://github.com/channprj/kmsg).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
