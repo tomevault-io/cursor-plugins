@@ -7,11 +7,11 @@ Build interactive AI agents in Elixir with OTP supervision, middleware compositi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [sagents-ai/sagents](https://github.com/sagents-ai/sagents).
+Original source: `CLAUDE.md` in [sagents-ai/sagents](https://github.com/sagents-ai/sagents).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
