@@ -7,11 +7,11 @@ OpenClaw-Style Local-First AI Agent in Go - Low-Memory, Private, UI-Ready, Out-o
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Lichas/maxclaw](https://github.com/Lichas/maxclaw).
+Original source: `CLAUDE.md` in [Lichas/maxclaw](https://github.com/Lichas/maxclaw).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
