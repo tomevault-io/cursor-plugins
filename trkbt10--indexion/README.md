@@ -7,11 +7,11 @@ source code exploration and documentation tool
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [trkbt10/indexion](https://github.com/trkbt10/indexion).
+Original source: `CLAUDE.md` in [trkbt10/indexion](https://github.com/trkbt10/indexion).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
