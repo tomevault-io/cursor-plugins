@@ -7,11 +7,11 @@ AI agent skills for social media content strategy, creation, and analysis across
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [blacktwist/social-media-skills](https://github.com/blacktwist/social-media-skills).
+Original source: `CLAUDE.md` in [blacktwist/social-media-skills](https://github.com/blacktwist/social-media-skills).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
