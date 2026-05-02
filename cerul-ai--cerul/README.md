@@ -7,11 +7,11 @@ The video search layer for AI agents. Search video by meaning — across speech,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cerul-ai/cerul](https://github.com/cerul-ai/cerul).
+Original source: `CLAUDE.md` in [cerul-ai/cerul](https://github.com/cerul-ai/cerul).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
