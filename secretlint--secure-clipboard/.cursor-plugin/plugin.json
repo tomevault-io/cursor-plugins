@@ -1,0 +1,11 @@
+{
+  "name": "secretlint--secure-clipboard",
+  "displayName": "secure-clipboard",
+  "version": "1.0.0",
+  "description": "macOS menu bar app that automatically scans clipboard content(text/image) with secretlint and masks detected secrets. Secure by default.",
+  "author": {
+    "name": "secretlint",
+    "url": "https://github.com/secretlint"
+  },
+  "homepage": "https://github.com/secretlint/secure-clipboard"
+}
