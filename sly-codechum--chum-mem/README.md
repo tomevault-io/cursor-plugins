@@ -7,11 +7,11 @@ Better memory for your AI agents. (Karpathy + Graphify + PCKC)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [sly-codechum/chum-mem](https://github.com/sly-codechum/chum-mem).
+Original source: `CLAUDE.md` in [sly-codechum/chum-mem](https://github.com/sly-codechum/chum-mem).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
