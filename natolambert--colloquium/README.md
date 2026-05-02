@@ -7,11 +7,11 @@ A markdown native slides tool for academics building with agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [natolambert/colloquium](https://github.com/natolambert/colloquium).
+Original source: `CLAUDE.md` in [natolambert/colloquium](https://github.com/natolambert/colloquium).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
