@@ -1,0 +1,26 @@
+# KernelBench-Hard
+
+> Source: [Infatoshi/KernelBench-Hard](https://github.com/Infatoshi/KernelBench-Hard) — distributed by [TomeVault](https://tomevault.io)
+
+Surgical GPU kernel benchmark: 7 hard problems, frontier coding agents, roofline-graded against hardware peak.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [Infatoshi/KernelBench-Hard](https://github.com/Infatoshi/KernelBench-Hard).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [Infatoshi/KernelBench-Hard](https://github.com/Infatoshi/KernelBench-Hard) — a repo with 8+ stars on GitHub.
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:d-c-s -->
