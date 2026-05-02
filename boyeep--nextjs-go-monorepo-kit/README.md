@@ -7,12 +7,12 @@ Full-stack starter template with Next.js, Go, PostgreSQL, auth, dashboard patter
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [Boyeep/nextjs-go-monorepo-kit](https://github.com/Boyeep/nextjs-go-monorepo-kit).
+Original source: `AGENTS.md` in [Boyeep/nextjs-go-monorepo-kit](https://github.com/Boyeep/nextjs-go-monorepo-kit).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
