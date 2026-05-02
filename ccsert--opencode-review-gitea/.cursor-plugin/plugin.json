@@ -1,0 +1,11 @@
+{
+  "name": "ccsert--opencode-review-gitea",
+  "displayName": "opencode-review-gitea",
+  "version": "1.0.0",
+  "description": "AI-powered PR review for Gitea/Forgejo built on OpenCode. Runs in Gitea Actions, fetches PR diffs, and posts structured reviews. Supports Docker or source install with isolated .opencode-review config",
+  "author": {
+    "name": "ccsert",
+    "url": "https://github.com/ccsert"
+  },
+  "homepage": "https://github.com/ccsert/opencode-review-gitea"
+}
