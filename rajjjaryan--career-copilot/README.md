@@ -7,11 +7,11 @@ AI-powered job search pipeline built on GitHub Copilot CLI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [RajjjAryan/career-copilot](https://github.com/RajjjAryan/career-copilot).
+Original source: `CLAUDE.md` in [RajjjAryan/career-copilot](https://github.com/RajjjAryan/career-copilot).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
