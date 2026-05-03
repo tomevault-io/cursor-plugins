@@ -7,11 +7,11 @@ Synchronized audio player for Sendspin servers
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Sendspin/sendspin-cli](https://github.com/Sendspin/sendspin-cli).
+Original source: `CLAUDE.md` in [Sendspin/sendspin-cli](https://github.com/Sendspin/sendspin-cli).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
