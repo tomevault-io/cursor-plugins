@@ -1,0 +1,30 @@
+# claude-code-discord-bridge
+
+> Source: [ebibibi/claude-code-discord-bridge](https://github.com/ebibibi/claude-code-discord-bridge) — distributed by [TomeVault](https://tomevault.io)
+
+Discord frontend for Claude Code CLI - chat with Claude Code via Discord threads
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `copilot-instructions.md` in [ebibibi/claude-code-discord-bridge](https://github.com/ebibibi/claude-code-discord-bridge).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/ebibibi/claude-code-discord-bridge](https://github.com/ebibibi/claude-code-discord-bridge)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install ebibibi/claude-code-discord-bridge
+```
+Source: [github.com/ebibibi/claude-code-discord-bridge](https://github.com/ebibibi/claude-code-discord-bridge).
+
+<!-- genome:d-i-q -->
