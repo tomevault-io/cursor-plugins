@@ -7,11 +7,11 @@ An extensible message broker for edge applications
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lonewolf-io/narwhal](https://github.com/lonewolf-io/narwhal).
+Original source: `CLAUDE.md` in [lonewolf-io/narwhal](https://github.com/lonewolf-io/narwhal).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
