@@ -7,11 +7,11 @@ Real-time speech transcription & translation for macOS — fully offline, privac
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Cyronlee/TransFlow](https://github.com/Cyronlee/TransFlow).
+Original source: `CLAUDE.md` in [Cyronlee/TransFlow](https://github.com/Cyronlee/TransFlow).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
