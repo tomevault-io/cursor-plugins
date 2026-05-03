@@ -7,11 +7,11 @@ Your Personal AI super intelligence. Private, Simple and extremely powerful.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman).
+Original source: `CLAUDE.md` in [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
