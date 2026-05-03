@@ -1,0 +1,11 @@
+{
+  "name": "boonzy00--bchan",
+  "displayName": "bchan",
+  "version": "1.0.0",
+  "description": "A high-performance, lock-free bounded MPSC channel in Zig \u2014 968 M msg/s (16p) \u00b7 150 M msg/s batched SPSC \u00b7 one-click reproducible.",
+  "author": {
+    "name": "boonzy00",
+    "url": "https://github.com/boonzy00"
+  },
+  "homepage": "https://github.com/boonzy00/bchan"
+}
