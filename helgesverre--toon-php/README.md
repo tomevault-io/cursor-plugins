@@ -7,11 +7,11 @@ Token-Oriented Object Notation - A compact data format for reducing token consum
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php).
+Original source: `CLAUDE.md` in [HelgeSverre/toon-php](https://github.com/HelgeSverre/toon-php).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
