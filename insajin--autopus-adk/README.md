@@ -7,11 +7,11 @@ Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchest
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk).
+Original source: `CLAUDE.md` in [Insajin/autopus-adk](https://github.com/Insajin/autopus-adk).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
