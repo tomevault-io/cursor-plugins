@@ -7,11 +7,11 @@ CLI for streamlined spec-driven development
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ariel-frischer/autospec](https://github.com/ariel-frischer/autospec).
+Original source: `CLAUDE.md` in [ariel-frischer/autospec](https://github.com/ariel-frischer/autospec).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
