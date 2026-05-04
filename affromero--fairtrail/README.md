@@ -7,11 +7,11 @@ The price trail airlines don't show you. Track flight prices over time with natu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [affromero/fairtrail](https://github.com/affromero/fairtrail).
+Original source: `CLAUDE.md` in [affromero/fairtrail](https://github.com/affromero/fairtrail).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
