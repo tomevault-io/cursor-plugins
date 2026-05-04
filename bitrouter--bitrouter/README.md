@@ -7,12 +7,12 @@ The agentic proxy for modern agent runtimes. Smart, safe, agent-controlled routi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter).
+Original source: `CLAUDE.md` in [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
