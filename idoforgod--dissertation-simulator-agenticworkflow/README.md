@@ -7,11 +7,11 @@ AI 에이전트 58개가 협업하는 211-step 박사 논문 연구 시뮬레이
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [idoforgod/Dissertation-Simulator-AgenticWorkflow](https://github.com/idoforgod/Dissertation-Simulator-AgenticWorkflow).
+Original source: `CLAUDE.md` in [idoforgod/Dissertation-Simulator-AgenticWorkflow](https://github.com/idoforgod/Dissertation-Simulator-AgenticWorkflow).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
