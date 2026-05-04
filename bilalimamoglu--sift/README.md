@@ -7,11 +7,11 @@ Turn noisy command output into a short, actionable first pass for coding agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bilalimamoglu/sift](https://github.com/bilalimamoglu/sift).
+Original source: `CLAUDE.md` in [bilalimamoglu/sift](https://github.com/bilalimamoglu/sift).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
