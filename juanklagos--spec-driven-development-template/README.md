@@ -1,0 +1,30 @@
+# spec-driven-development-template
+
+> Source: [juanklagos/spec-driven-development-template](https://github.com/juanklagos/spec-driven-development-template) — distributed by [TomeVault](https://tomevault.io)
+
+Operational SDD framework with AI guidance, GitHub Spec Kit workflows, and MCP support.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `GEMINI.md` in [juanklagos/spec-driven-development-template](https://github.com/juanklagos/spec-driven-development-template).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/juanklagos/spec-driven-development-template](https://github.com/juanklagos/spec-driven-development-template)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install juanklagos/spec-driven-development-template
+```
+Source: [github.com/juanklagos/spec-driven-development-template](https://github.com/juanklagos/spec-driven-development-template).
+
+<!-- genome:d-i-q -->
