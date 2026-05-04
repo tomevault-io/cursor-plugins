@@ -7,11 +7,11 @@ Help you with GTM, based on lessons from myself and other yc founders
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kathrynwu/GTMbrain](https://github.com/kathrynwu/GTMbrain).
+Original source: `CLAUDE.md` in [kathrynwu/GTMbrain](https://github.com/kathrynwu/GTMbrain).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
