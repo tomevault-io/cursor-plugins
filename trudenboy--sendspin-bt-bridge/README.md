@@ -7,12 +7,12 @@ Make any Bluetooth speaker smart. DIY multi-room audio with Music Assistant, Hom
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge).
+Original source: `CLAUDE.md` in [trudenboy/sendspin-bt-bridge](https://github.com/trudenboy/sendspin-bt-bridge).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
