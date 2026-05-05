@@ -7,11 +7,11 @@ AI agent runtime for Rust — type-safe state, multi-protocol serving, plugin ex
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [awakenworks/awaken](https://github.com/awakenworks/awaken).
+Original source: `CLAUDE.md` in [awakenworks/awaken](https://github.com/awakenworks/awaken).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
