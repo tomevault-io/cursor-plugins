@@ -7,15 +7,15 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [JIULANG9/PromptOptimizer](https://github.com/JIULANG9/PromptOptimizer).
+Original source: `AGENTS.md` in [JIULANG9/PromptOptimizer](https://github.com/JIULANG9/PromptOptimizer).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/JIULANG9/PromptOptimizer](https://github.com/JIULANG9/PromptOptimizer)
 
