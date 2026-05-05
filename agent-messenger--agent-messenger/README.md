@@ -7,11 +7,11 @@ Messenger automation CLI for AI agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [agent-messenger/agent-messenger](https://github.com/agent-messenger/agent-messenger).
+Original source: `CLAUDE.md` in [agent-messenger/agent-messenger](https://github.com/agent-messenger/agent-messenger).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
