@@ -1,0 +1,11 @@
+{
+  "name": "dicklesworthstone--frankenfs",
+  "displayName": "frankenfs",
+  "version": "1.0.0",
+  "description": "Memory-safe FUSE reimplementation of ext4 and btrfs in Rust with block-level MVCC and RaptorQ self-healing. 19-crate workspace, zero unsafe code.",
+  "author": {
+    "name": "Dicklesworthstone",
+    "url": "https://github.com/Dicklesworthstone"
+  },
+  "homepage": "https://github.com/Dicklesworthstone/frankenfs"
+}
