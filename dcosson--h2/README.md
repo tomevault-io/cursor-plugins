@@ -7,11 +7,11 @@ An agent runner, messaging, and orchestration layer.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [dcosson/h2](https://github.com/dcosson/h2).
+Original source: `CLAUDE.md` in [dcosson/h2](https://github.com/dcosson/h2).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
