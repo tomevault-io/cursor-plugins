@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [nickustinov/even-g2-notes](https://github.com/nickustinov/even-g2-notes).
+Original source: `CLAUDE.md` in [nickustinov/even-g2-notes](https://github.com/nickustinov/even-g2-notes).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
