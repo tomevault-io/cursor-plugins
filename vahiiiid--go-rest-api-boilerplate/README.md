@@ -1,21 +1,23 @@
 # go-rest-api-boilerplate
 
-> Tome by [vahiiiid](https://github.com/vahiiiid/go-rest-api-boilerplate) — distributed by [TomeVault](https://tomevault.io/claim/vahiiiid)
+> Tome by [vahiiiid](https://github.com/vahiiiid/go-rest-api-boilerplate) — distributed by [TomeVault](https://tomevault.io)
+
+🚀 Production-ready AI-friendly Go REST API boilerplate with Clean Architecture, JWT auth, RBAC, PostgreSQL migrations, and highly tested. AI-optimized with built-in guidelines for most used IDEs. Docker hot-reload, Swagger docs, one-command setup. Build production APIs in minutes, not weeks.
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [vahiiiid/go-rest-api-boilerplate](https://github.com/vahiiiid/go-rest-api-boilerplate).
+Original source: `copilot-instructions.md` in [vahiiiid/go-rest-api-boilerplate](https://github.com/vahiiiid/go-rest-api-boilerplate).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
-From a repo with 0+ stars on GitHub. [See the full profile](https://tomevault.io/claim/vahiiiid)
+From [vahiiiid/go-rest-api-boilerplate](https://github.com/vahiiiid/go-rest-api-boilerplate) — a repo with 51+ stars on GitHub.
 
 ---
 
