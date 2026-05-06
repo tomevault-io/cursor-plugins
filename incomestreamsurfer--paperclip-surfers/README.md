@@ -7,11 +7,11 @@ Self-improving AI agent companies — Paperclip V2 fork with persistent memory, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [IncomeStreamSurfer/paperclip-surfers](https://github.com/IncomeStreamSurfer/paperclip-surfers).
+Original source: `CLAUDE.md` in [IncomeStreamSurfer/paperclip-surfers](https://github.com/IncomeStreamSurfer/paperclip-surfers).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
