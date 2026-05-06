@@ -1,0 +1,93 @@
+{
+  "name": "vx",
+  "owner": "loonghao",
+  "repo": "vx",
+  "description": "Universal Development Tool Manager",
+  "type": "tome",
+  "source_format": "CLAUDE.md",
+  "formats": [
+    {
+      "format": "claude_md",
+      "display": "CLAUDE.md",
+      "platform": "Claude Code"
+    },
+    {
+      "format": "agents_md",
+      "display": "AGENTS.md",
+      "platform": "Codex"
+    },
+    {
+      "format": "copilot_instructions",
+      "display": "copilot-instructions.md",
+      "platform": "GitHub Copilot"
+    },
+    {
+      "format": "cursor_mdc",
+      "display": ".cursor/rules/*.mdc",
+      "platform": "Cursor"
+    },
+    {
+      "format": "gemini_md",
+      "display": "GEMINI.md",
+      "platform": "Gemini CLI"
+    },
+    {
+      "format": "windsurf_rules",
+      "display": ".windsurf/rules/*.md",
+      "platform": "Windsurf"
+    }
+  ],
+  "skills": [
+    {
+      "name": "llms-txt-generator",
+      "path": ".codebuddy/skills/llms-txt-generator",
+      "github_url": "https://github.com/loonghao/vx/tree/main/.codebuddy/skills/llms-txt-generator",
+      "description": ""
+    },
+    {
+      "name": "project-analyze",
+      "path": ".codebuddy/skills/project-analyze",
+      "github_url": "https://github.com/loonghao/vx/tree/main/.codebuddy/skills/project-analyze",
+      "description": ""
+    },
+    {
+      "name": "remotion",
+      "path": ".codebuddy/skills/remotion",
+      "github_url": "https://github.com/loonghao/vx/tree/main/.codebuddy/skills/remotion",
+      "description": ""
+    },
+    {
+      "name": "rfc-creator",
+      "path": ".codebuddy/skills/rfc-creator",
+      "github_url": "https://github.com/loonghao/vx/tree/main/.codebuddy/skills/rfc-creator",
+      "description": ""
+    },
+    {
+      "name": "vx-provider-creator",
+      "path": ".codebuddy/skills/vx-provider-creator",
+      "github_url": "https://github.com/loonghao/vx/tree/main/.codebuddy/skills/vx-provider-creator",
+      "description": ""
+    },
+    {
+      "name": "vx-provider-updater",
+      "path": ".codebuddy/skills/vx-provider-updater",
+      "github_url": "https://github.com/loonghao/vx/tree/main/.codebuddy/skills/vx-provider-updater",
+      "description": ""
+    },
+    {
+      "name": "vx-usage",
+      "path": ".opencode/skills/vx-usage",
+      "github_url": "https://github.com/loonghao/vx/tree/main/.opencode/skills/vx-usage",
+      "description": ""
+    },
+    {
+      "name": "vx-usage",
+      "path": ".claude/skills/vx-usage",
+      "github_url": "https://github.com/loonghao/vx/tree/main/.claude/skills/vx-usage",
+      "description": ""
+    }
+  ],
+  "source_url": "https://github.com/loonghao/vx",
+  "distributed_by": "TomeVault",
+  "distributed_at": "2026-05-06T22:31:34Z"
+}
