@@ -7,11 +7,11 @@ Rust implementation of Attention Residuals from MoonshotAI/Kimi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [AbdelStark/attnres](https://github.com/AbdelStark/attnres).
+Original source: `CLAUDE.md` in [AbdelStark/attnres](https://github.com/AbdelStark/attnres).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
