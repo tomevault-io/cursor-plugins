@@ -7,14 +7,14 @@ Lyra Intel is an intelligence platform designed to analyze repositories of any s
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [nirholas/lyra-intel](https://github.com/nirholas/lyra-intel).
+Original source: `AGENTS.md` in [nirholas/lyra-intel](https://github.com/nirholas/lyra-intel).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/nirholas/lyra-intel](https://github.com/nirholas/lyra-intel)
