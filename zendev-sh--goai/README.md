@@ -7,11 +7,11 @@ Go AI SDK, the Go way.  One unified API across 21+ providers. Streaming, structu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [zendev-sh/goai](https://github.com/zendev-sh/goai).
+Original source: `CLAUDE.md` in [zendev-sh/goai](https://github.com/zendev-sh/goai).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
