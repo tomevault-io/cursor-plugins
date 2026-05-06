@@ -7,11 +7,11 @@ The backend language for the htmx era
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kilnx-org/kilnx](https://github.com/kilnx-org/kilnx).
+Original source: `CLAUDE.md` in [kilnx-org/kilnx](https://github.com/kilnx-org/kilnx).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
