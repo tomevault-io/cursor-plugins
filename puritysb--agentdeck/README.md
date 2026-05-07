@@ -7,11 +7,11 @@ Physical controller & multi-surface dashboard for AI coding agents — Stream De
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck).
+Original source: `CLAUDE.md` in [puritysb/AgentDeck](https://github.com/puritysb/AgentDeck).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
