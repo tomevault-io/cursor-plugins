@@ -1,0 +1,11 @@
+{
+  "name": "codepuke--gobspect",
+  "displayName": "gobspect",
+  "version": "1.0.0",
+  "description": "A decode-only introspection library for Go\u2019s encoding/gob format. Inspect gob streams into a structured AST without original types. Includes CLI & query tools.",
+  "author": {
+    "name": "codepuke",
+    "url": "https://github.com/codepuke"
+  },
+  "homepage": "https://github.com/codepuke/gobspect"
+}
