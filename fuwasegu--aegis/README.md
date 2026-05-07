@@ -7,11 +7,11 @@ DAG-based Deterministic Context Compiler for AI Coding Agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [fuwasegu/aegis](https://github.com/fuwasegu/aegis).
+Original source: `CLAUDE.md` in [fuwasegu/aegis](https://github.com/fuwasegu/aegis).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
