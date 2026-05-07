@@ -1,0 +1,11 @@
+{
+  "name": "baidu-maps--stability-analysis-agent",
+  "displayName": "stability-analysis-agent",
+  "version": "1.0.0",
+  "description": "  AI Agent for app stability analysis \u2014 crash logs, ANR, OOM, freezes & more. Parses,   symbolizes (addr2line/atos), extracts code context, and generates root-cause fix   suggestions via LangGraph + R",
+  "author": {
+    "name": "baidu-maps",
+    "url": "https://github.com/baidu-maps"
+  },
+  "homepage": "https://github.com/baidu-maps/stability-analysis-agent"
+}
