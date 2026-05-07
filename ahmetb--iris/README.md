@@ -7,11 +7,11 @@ Webcam mirror window for macOS
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ahmetb/Iris](https://github.com/ahmetb/Iris).
+Original source: `CLAUDE.md` in [ahmetb/Iris](https://github.com/ahmetb/Iris).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
