@@ -7,11 +7,11 @@ antec - personal agentic system
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [rkinas/antec](https://github.com/rkinas/antec).
+Original source: `CLAUDE.md` in [rkinas/antec](https://github.com/rkinas/antec).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
