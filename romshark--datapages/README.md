@@ -7,11 +7,11 @@ A Datastar Go web frontend framework
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [romshark/datapages](https://github.com/romshark/datapages).
+Original source: `CLAUDE.md` in [romshark/datapages](https://github.com/romshark/datapages).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
