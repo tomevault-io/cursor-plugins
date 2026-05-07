@@ -7,11 +7,11 @@ Ask your Mac how to do anything. Watch the cursor do it.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [milind-soni/tiptour-macos](https://github.com/milind-soni/tiptour-macos).
+Original source: `CLAUDE.md` in [milind-soni/tiptour-macos](https://github.com/milind-soni/tiptour-macos).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
