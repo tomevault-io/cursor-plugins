@@ -1,0 +1,11 @@
+{
+  "name": "nyo16--net-runner",
+  "displayName": "net_runner",
+  "version": "1.0.0",
+  "description": "Safe OS process execution for Elixir. Zero zombie processes, NIF-based backpressure, PTY support, and cgroup isolation.",
+  "author": {
+    "name": "nyo16",
+    "url": "https://github.com/nyo16"
+  },
+  "homepage": "https://github.com/nyo16/net_runner"
+}
