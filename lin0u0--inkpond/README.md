@@ -7,11 +7,11 @@ A native iOS/iPadOS editor for Typst — the modern typesetting system.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Lin0u0/InkPond](https://github.com/Lin0u0/InkPond).
+Original source: `CLAUDE.md` in [Lin0u0/InkPond](https://github.com/Lin0u0/InkPond).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
