@@ -1,0 +1,20 @@
+---
+description: Use [AGENTS.md](../AGENTS.md) as the mandatory bootstrap surface and [docs/agent-rules/INDEX.md](../docs/agent-rules/INDEX.md) as the canonical governance dispatcher.
+alwaysApply: true
+---
+
+# GitHub Copilot Instructions — specfact-cli
+
+Use [AGENTS.md](../AGENTS.md) as the mandatory bootstrap surface and [docs/agent-rules/INDEX.md](../docs/agent-rules/INDEX.md) as the canonical governance dispatcher.
+
+## Minimal reminders
+
+- When a sibling internal repository (for example `../specfact-cli-internal/`) exists, read its `wiki/` files by absolute path before designing an OpenSpec change; see **Strategic context** in `AGENTS.md` and `docs/agent-rules/40-openspec-and-tdd.md` (section **Internal wiki and strategic context**). Do not copy wiki content into this repository.
+- This repository enforces the clean-code review gate through `hatch run specfact code review run --json --out .specfact/code-review.json`.
+- Public APIs require `@icontract` and `@beartype`.
+- Work belongs on `feature/*`, `bugfix/*`, `hotfix/*`, or `chore/*` branches, normally in a worktree.
+- The full governance rules live in `docs/agent-rules/`; do not treat this file as a complete standalone handbook.
+
+---
+> Source: [nold-ai/specfact-cli](https://github.com/nold-ai/specfact-cli) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:cursor_mdc:2026-05-07 -->
