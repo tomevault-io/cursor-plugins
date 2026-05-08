@@ -7,11 +7,11 @@ Claude Code CLI skill that delegates complex tasks to an OpenCode subagent via A
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [phonowell/invoke-opencode-acp](https://github.com/phonowell/invoke-opencode-acp).
+Original source: `CLAUDE.md` in [phonowell/invoke-opencode-acp](https://github.com/phonowell/invoke-opencode-acp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
