@@ -7,11 +7,11 @@ LVGLSharp 是一个跨平台的 WinForms API 兼容层，以 LVGL 作为底层�
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [IoTSharp/LVGLSharp](https://github.com/IoTSharp/LVGLSharp).
+Original source: `CLAUDE.md` in [IoTSharp/LVGLSharp](https://github.com/IoTSharp/LVGLSharp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
