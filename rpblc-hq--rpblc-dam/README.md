@@ -7,11 +7,11 @@ The PII firewall for AI agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [RPBLC-hq/RPBLC.DAM](https://github.com/RPBLC-hq/RPBLC.DAM).
+Original source: `CLAUDE.md` in [RPBLC-hq/RPBLC.DAM](https://github.com/RPBLC-hq/RPBLC.DAM).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
