@@ -7,11 +7,11 @@ The all-in-one Ruby framework for building AI-powered applications and agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [janeapp/riffer](https://github.com/janeapp/riffer).
+Original source: `CLAUDE.md` in [janeapp/riffer](https://github.com/janeapp/riffer).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
