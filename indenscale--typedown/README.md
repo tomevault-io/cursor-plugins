@@ -7,11 +7,11 @@ Typedown: Progressive formalization for Markdown. Bridge the gap between unstruc
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [IndenScale/Typedown](https://github.com/IndenScale/Typedown).
+Original source: `CLAUDE.md` in [IndenScale/Typedown](https://github.com/IndenScale/Typedown).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
