@@ -7,11 +7,11 @@ A Yaak plugin that parses Server-Sent Events (SSE) streaming responses from LLM 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [674019130/yaak-plugin-SSE-parser](https://github.com/674019130/yaak-plugin-SSE-parser).
+Original source: `CLAUDE.md` in [674019130/yaak-plugin-SSE-parser](https://github.com/674019130/yaak-plugin-SSE-parser).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
