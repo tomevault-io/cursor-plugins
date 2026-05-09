@@ -1,0 +1,26 @@
+# agit
+
+> Source: [agit-stuff/agit](https://github.com/agit-stuff/agit) — distributed by [TomeVault](https://tomevault.io)
+
+agit - Code Context Management for Git that captures reasoning context alongside code changes, creating a "Neural Graph" parallel to Git's commit history. Integrates seamlessly with AI coding assistants via MCP protocol.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [agit-stuff/agit](https://github.com/agit-stuff/agit).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/agit-stuff/agit](https://github.com/agit-stuff/agit)
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:d-c-q -->
