@@ -7,11 +7,11 @@ A linter for nginx configuration files with WASM plugin support
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [walf443/nginx-lint](https://github.com/walf443/nginx-lint).
+Original source: `CLAUDE.md` in [walf443/nginx-lint](https://github.com/walf443/nginx-lint).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
