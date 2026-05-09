@@ -7,11 +7,11 @@ Generate custom gridfinity bins with AI, from photos of your tools
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tracefinity/tracefinity](https://github.com/tracefinity/tracefinity).
+Original source: `CLAUDE.md` in [tracefinity/tracefinity](https://github.com/tracefinity/tracefinity).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
