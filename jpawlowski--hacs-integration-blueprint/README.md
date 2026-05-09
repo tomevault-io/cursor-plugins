@@ -7,12 +7,12 @@ AI-enabled Modern Home Assistant Custom Integration Blueprint
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [jpawlowski/hacs.integration_blueprint](https://github.com/jpawlowski/hacs.integration_blueprint).
+Original source: `AGENTS.md` in [jpawlowski/hacs.integration_blueprint](https://github.com/jpawlowski/hacs.integration_blueprint).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
