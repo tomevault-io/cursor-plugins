@@ -7,11 +7,11 @@ Tau Coding Agent - like Pi, but twice as much
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [dpc/tau](https://github.com/dpc/tau).
+Original source: `CLAUDE.md` in [dpc/tau](https://github.com/dpc/tau).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
