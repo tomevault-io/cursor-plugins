@@ -7,11 +7,11 @@ An agentic skills framework orchestration for the 1-Man Army. Implementing Auton
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [galyarderlabs/galyarder-framework](https://github.com/galyarderlabs/galyarder-framework).
+Original source: `CLAUDE.md` in [galyarderlabs/galyarder-framework](https://github.com/galyarderlabs/galyarder-framework).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
