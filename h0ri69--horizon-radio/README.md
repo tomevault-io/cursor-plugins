@@ -7,14 +7,14 @@ Transform YouTube Music into a live radio experience with AI-powered DJ voice-ov
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [H0ri69/Horizon-Radio](https://github.com/H0ri69/Horizon-Radio).
+Original source: `AGENTS.md` in [H0ri69/Horizon-Radio](https://github.com/H0ri69/Horizon-Radio).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/H0ri69/Horizon-Radio](https://github.com/H0ri69/Horizon-Radio)
