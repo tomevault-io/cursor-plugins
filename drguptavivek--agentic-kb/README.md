@@ -7,11 +7,11 @@ Cross repo knowledge base that may be referenced by multiple repositories as git
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [drguptavivek/agentic_kb](https://github.com/drguptavivek/agentic_kb).
+Original source: `CLAUDE.md` in [drguptavivek/agentic_kb](https://github.com/drguptavivek/agentic_kb).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
