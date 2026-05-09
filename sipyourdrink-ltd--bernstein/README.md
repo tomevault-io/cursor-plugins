@@ -7,11 +7,11 @@ Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein).
+Original source: `CLAUDE.md` in [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
