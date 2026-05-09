@@ -7,11 +7,11 @@ Open-source content studio for X/Twitter with AI writing, scheduling, Kanban, re
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [owklama/extudio](https://github.com/owklama/extudio).
+Original source: `CLAUDE.md` in [owklama/extudio](https://github.com/owklama/extudio).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
