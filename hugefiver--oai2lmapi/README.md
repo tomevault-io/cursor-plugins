@@ -7,12 +7,12 @@ OpenAI to Language Model API Bridge - Use OpenAI-Compatible API in Copilot - [VS
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [hugefiver/OAI2LMApi](https://github.com/hugefiver/OAI2LMApi).
+Original source: `AGENTS.md` in [hugefiver/OAI2LMApi](https://github.com/hugefiver/OAI2LMApi).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
