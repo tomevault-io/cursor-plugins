@@ -7,11 +7,11 @@ Compile CLAUDE.md into a lockfile, then enforce repo changes against it in local
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [AbdelStark/claude-md-compiler](https://github.com/AbdelStark/claude-md-compiler).
+Original source: `CLAUDE.md` in [AbdelStark/claude-md-compiler](https://github.com/AbdelStark/claude-md-compiler).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
