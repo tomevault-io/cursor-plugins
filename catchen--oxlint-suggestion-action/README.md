@@ -7,11 +7,11 @@ This GitHub Action runs Oxlint and provides inline feedback to the changes in a 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [CatChen/oxlint-suggestion-action](https://github.com/CatChen/oxlint-suggestion-action).
+Original source: `CLAUDE.md` in [CatChen/oxlint-suggestion-action](https://github.com/CatChen/oxlint-suggestion-action).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
