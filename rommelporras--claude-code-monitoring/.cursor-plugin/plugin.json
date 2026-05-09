@@ -1,0 +1,11 @@
+{
+  "name": "rommelporras--claude-code-monitoring",
+  "displayName": "claude-code-monitoring",
+  "version": "1.0.0",
+  "description": "Docker-based monitoring stack for Claude Code CLI. Track costs, tokens, cache efficiency, and events using OpenTelemetry, Prometheus, Loki, and Grafana with pre-configured dashboards. Just docker comp",
+  "author": {
+    "name": "rommelporras",
+    "url": "https://github.com/rommelporras"
+  },
+  "homepage": "https://github.com/rommelporras/claude-code-monitoring"
+}
