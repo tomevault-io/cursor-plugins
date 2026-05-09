@@ -7,11 +7,11 @@ A DeepAgents-based coding assistant with subagents for review, tests, docs, debu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hzhaoy/deep-code-agent](https://github.com/hzhaoy/deep-code-agent).
+Original source: `CLAUDE.md` in [hzhaoy/deep-code-agent](https://github.com/hzhaoy/deep-code-agent).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
