@@ -2,14 +2,16 @@
 
 > Sourced from [yourbuddyconner/valet](https://github.com/yourbuddyconner/valet) and converted for every major platform by [TomeVault](https://tomevault.io)
 
+Self-hosted background coding agents with full dev environments.
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [yourbuddyconner/valet](https://github.com/yourbuddyconner/valet).
+Original source: `AGENTS.md` in [yourbuddyconner/valet](https://github.com/yourbuddyconner/valet).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
