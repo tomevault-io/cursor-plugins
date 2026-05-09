@@ -7,11 +7,11 @@ Baduk (Go) Platform — KataGo AI 대국 + 실시간 분석 + Tauri 2.0 데스�
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [idoforgod/baduk-AgenticWorkflow](https://github.com/idoforgod/baduk-AgenticWorkflow).
+Original source: `CLAUDE.md` in [idoforgod/baduk-AgenticWorkflow](https://github.com/idoforgod/baduk-AgenticWorkflow).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
