@@ -7,12 +7,12 @@ Codingbuddy orchestrates 29 specialized AI agents to deliver code quality compar
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [JeremyDev87/codingbuddy](https://github.com/JeremyDev87/codingbuddy).
+Original source: `AGENTS.md` in [JeremyDev87/codingbuddy](https://github.com/JeremyDev87/codingbuddy).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
