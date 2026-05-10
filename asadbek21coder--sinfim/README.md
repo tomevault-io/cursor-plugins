@@ -7,11 +7,11 @@ sinfim.uz
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [asadbek21coder/sinfim](https://github.com/asadbek21coder/sinfim).
+Original source: `CLAUDE.md` in [asadbek21coder/sinfim](https://github.com/asadbek21coder/sinfim).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
