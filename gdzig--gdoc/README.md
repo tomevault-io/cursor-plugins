@@ -7,11 +7,11 @@ CLI documentation viewer for Godot API docs — parses XML class references and 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [gdzig/gdoc](https://github.com/gdzig/gdoc).
+Original source: `CLAUDE.md` in [gdzig/gdoc](https://github.com/gdzig/gdoc).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
