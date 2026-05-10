@@ -7,12 +7,12 @@ Deploy a detailed DevEx metrics dashboards, combining DORA and AI adoption to sh
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [DevExpGbb/gh-devlake](https://github.com/DevExpGbb/gh-devlake).
+Original source: `AGENTS.md` in [DevExpGbb/gh-devlake](https://github.com/DevExpGbb/gh-devlake).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
