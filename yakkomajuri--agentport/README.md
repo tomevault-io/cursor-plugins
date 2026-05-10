@@ -7,11 +7,11 @@ Secure gateway to connect your agents to any service with granular permissions.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [yakkomajuri/agentport](https://github.com/yakkomajuri/agentport).
+Original source: `CLAUDE.md` in [yakkomajuri/agentport](https://github.com/yakkomajuri/agentport).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
