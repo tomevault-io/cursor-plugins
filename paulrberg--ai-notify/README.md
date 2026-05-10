@@ -7,11 +7,11 @@ macOS notifications for Claude Code and Codex CLI with intelligent session track
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [PaulRBerg/ai-notify](https://github.com/PaulRBerg/ai-notify).
+Original source: `CLAUDE.md` in [PaulRBerg/ai-notify](https://github.com/PaulRBerg/ai-notify).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
