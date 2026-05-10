@@ -7,15 +7,15 @@ SIGNAL — Agent Skills: terse structured output (tiers, templates, checkpoints)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [mattbaconz/signal](https://github.com/mattbaconz/signal).
+Original source: `CLAUDE.md` in [mattbaconz/signal](https://github.com/mattbaconz/signal).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 From [mattbaconz/signal](https://github.com/mattbaconz/signal) — a repo with 8+ stars on GitHub.
 
