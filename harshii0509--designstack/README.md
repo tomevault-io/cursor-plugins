@@ -7,11 +7,11 @@ designStack is a collection of skills for people who have never written code or 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [harshii0509/designStack](https://github.com/harshii0509/designStack).
+Original source: `CLAUDE.md` in [harshii0509/designStack](https://github.com/harshii0509/designStack).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
