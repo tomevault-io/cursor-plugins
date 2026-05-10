@@ -7,11 +7,11 @@ yuanrong-datasystem
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [openyuanrong-project/yuanrong-datasystem](https://github.com/openyuanrong-project/yuanrong-datasystem).
+Original source: `CLAUDE.md` in [openyuanrong-project/yuanrong-datasystem](https://github.com/openyuanrong-project/yuanrong-datasystem).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
