@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lsa2127291/gpuRoi](https://github.com/lsa2127291/gpuRoi).
+Original source: `CLAUDE.md` in [lsa2127291/gpuRoi](https://github.com/lsa2127291/gpuRoi).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
