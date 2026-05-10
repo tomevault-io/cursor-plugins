@@ -7,11 +7,11 @@ dac is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bruin-data/dac](https://github.com/bruin-data/dac).
+Original source: `CLAUDE.md` in [bruin-data/dac](https://github.com/bruin-data/dac).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
