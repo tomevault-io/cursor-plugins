@@ -7,11 +7,11 @@ Neovim distribution
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [NazoVim-org/NazoVim](https://github.com/NazoVim-org/NazoVim).
+Original source: `CLAUDE.md` in [NazoVim-org/NazoVim](https://github.com/NazoVim-org/NazoVim).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
