@@ -1,0 +1,26 @@
+# AI instruction files for reineira-code
+
+> Sourced from [ReineiraOS/reineira-code](https://github.com/ReineiraOS/reineira-code) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+AI-assisted plugin development for ReineiraOS
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [ReineiraOS/reineira-code](https://github.com/ReineiraOS/reineira-code).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/ReineiraOS/reineira-code](https://github.com/ReineiraOS/reineira-code)
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:a-c-p -->
