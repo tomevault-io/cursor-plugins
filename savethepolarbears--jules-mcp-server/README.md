@@ -7,11 +7,11 @@ Production-ready Model Context Protocol (MCP) server for Google Jules API. Enabl
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [savethepolarbears/jules-mcp-server](https://github.com/savethepolarbears/jules-mcp-server).
+Original source: `CLAUDE.md` in [savethepolarbears/jules-mcp-server](https://github.com/savethepolarbears/jules-mcp-server).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
