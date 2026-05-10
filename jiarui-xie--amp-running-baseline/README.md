@@ -7,11 +7,11 @@ Locomotion training codebase for Unitree G1 competing in the 2026 Beijing Yizhua
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Jiarui-Xie/AMP_Running_baseline](https://github.com/Jiarui-Xie/AMP_Running_baseline).
+Original source: `CLAUDE.md` in [Jiarui-Xie/AMP_Running_baseline](https://github.com/Jiarui-Xie/AMP_Running_baseline).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
