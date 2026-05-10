@@ -7,11 +7,11 @@ Oracle DB Skills is a curated library of 100+ practical, documentation-backed gu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [oracle/skills](https://github.com/oracle/skills).
+Original source: `CLAUDE.md` in [oracle/skills](https://github.com/oracle/skills).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
