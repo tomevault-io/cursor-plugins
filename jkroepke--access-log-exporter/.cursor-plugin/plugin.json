@@ -1,0 +1,11 @@
+{
+  "name": "jkroepke--access-log-exporter",
+  "displayName": "access-log-exporter",
+  "version": "1.0.0",
+  "description": "A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.",
+  "author": {
+    "name": "jkroepke",
+    "url": "https://github.com/jkroepke"
+  },
+  "homepage": "https://github.com/jkroepke/access-log-exporter"
+}
