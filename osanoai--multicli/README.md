@@ -7,11 +7,11 @@ Gemini, Codex, Claude, and OpenCode all in a single MCP tool for use by any codi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [osanoai/multicli](https://github.com/osanoai/multicli).
+Original source: `CLAUDE.md` in [osanoai/multicli](https://github.com/osanoai/multicli).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
