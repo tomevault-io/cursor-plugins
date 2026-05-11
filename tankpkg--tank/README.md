@@ -7,19 +7,15 @@ Security-first package manager for AI agent skills
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [tankpkg/tank](https://github.com/tankpkg/tank).
+Original source: `AGENTS.md` in [tankpkg/tank](https://github.com/tankpkg/tank).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
-
-## Bundled Skills (1)
-
-- [tank-node-express](https://github.com/tankpkg/tank/tree/main/skills/node-express)
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/tankpkg/tank](https://github.com/tankpkg/tank)
 
