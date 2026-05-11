@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [myxiaoao/dujiaoka-next](https://github.com/myxiaoao/dujiaoka-next).
+Original source: `CLAUDE.md` in [myxiaoao/dujiaoka-next](https://github.com/myxiaoao/dujiaoka-next).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
