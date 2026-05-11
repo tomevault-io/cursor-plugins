@@ -7,11 +7,11 @@ Harness Engineering control plane for agent-first software delivery. Orchestrate
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [c9r-io/orchestrator](https://github.com/c9r-io/orchestrator).
+Original source: `CLAUDE.md` in [c9r-io/orchestrator](https://github.com/c9r-io/orchestrator).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
