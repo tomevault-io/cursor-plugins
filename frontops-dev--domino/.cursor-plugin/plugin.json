@@ -1,0 +1,11 @@
+{
+  "name": "frontops-dev--domino",
+  "displayName": "domino",
+  "version": "1.0.0",
+  "description": "High-performance semantic change detection for monorepos. Analyzes code changes at the AST level using the Oxc      parser to determine which projects are truly affected by a diff, not just which file",
+  "author": {
+    "name": "frontops-dev",
+    "url": "https://github.com/frontops-dev"
+  },
+  "homepage": "https://github.com/frontops-dev/domino"
+}
