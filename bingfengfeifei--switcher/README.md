@@ -7,11 +7,11 @@ Key management tool for the Linux/MacOS/Windows environment to handle third-part
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bingfengfeifei/switcher](https://github.com/bingfengfeifei/switcher).
+Original source: `CLAUDE.md` in [bingfengfeifei/switcher](https://github.com/bingfengfeifei/switcher).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
