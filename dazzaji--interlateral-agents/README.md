@@ -7,11 +7,11 @@ Dazza's agent comms, collaboration, and other design patterns
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [dazzaji/interlateral_agents](https://github.com/dazzaji/interlateral_agents).
+Original source: `CLAUDE.md` in [dazzaji/interlateral_agents](https://github.com/dazzaji/interlateral_agents).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
