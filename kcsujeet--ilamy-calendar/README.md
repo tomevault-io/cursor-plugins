@@ -7,12 +7,12 @@ A modern, open-source Full Calendar alternative for React. Month, week, day, and
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [kcsujeet/ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar).
+Original source: `AGENTS.md` in [kcsujeet/ilamy-calendar](https://github.com/kcsujeet/ilamy-calendar).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
