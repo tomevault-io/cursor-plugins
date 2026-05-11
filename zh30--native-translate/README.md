@@ -1,0 +1,30 @@
+# native-translate
+
+> Source: [zh30/native-translate](https://github.com/zh30/native-translate) — distributed by [TomeVault](https://tomevault.io)
+
+Private, local‑first translation using Chrome's built‑in AI Translator & Language Detector. No cloud calls, no telemetry — your content never leaves the browser.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [zh30/native-translate](https://github.com/zh30/native-translate).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/zh30/native-translate](https://github.com/zh30/native-translate)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install zh30/native-translate
+```
+Source: [github.com/zh30/native-translate](https://github.com/zh30/native-translate).
+
+<!-- genome:d-i-q -->
