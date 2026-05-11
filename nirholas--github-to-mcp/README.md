@@ -7,11 +7,11 @@ Convert GitHub repositories to MCP servers automatically. Extract tools from Ope
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [nirholas/github-to-mcp](https://github.com/nirholas/github-to-mcp).
+Original source: `CLAUDE.md` in [nirholas/github-to-mcp](https://github.com/nirholas/github-to-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
