@@ -7,14 +7,14 @@ rustfs cross-platform launcher
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [rustfs/launcher](https://github.com/rustfs/launcher).
+Original source: `AGENTS.md` in [rustfs/launcher](https://github.com/rustfs/launcher).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/rustfs/launcher](https://github.com/rustfs/launcher)
