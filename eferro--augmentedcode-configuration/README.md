@@ -2,19 +2,17 @@
 
 > Sourced from [eferro/augmentedcode-configuration](https://github.com/eferro/augmentedcode-configuration) and converted for every major platform by [TomeVault](https://tomevault.io)
 
-AI instruction skills by eferro
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [eferro/augmentedcode-configuration](https://github.com/eferro/augmentedcode-configuration).
+Original source: `GEMINI.md` in [eferro/augmentedcode-configuration](https://github.com/eferro/augmentedcode-configuration).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/eferro/augmentedcode-configuration](https://github.com/eferro/augmentedcode-configuration)
