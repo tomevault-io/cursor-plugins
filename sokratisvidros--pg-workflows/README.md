@@ -7,11 +7,11 @@ Postgres workflows. Durable execution built on pg-boss. Like Temporal, Inngest, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [SokratisVidros/pg-workflows](https://github.com/SokratisVidros/pg-workflows).
+Original source: `CLAUDE.md` in [SokratisVidros/pg-workflows](https://github.com/SokratisVidros/pg-workflows).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
