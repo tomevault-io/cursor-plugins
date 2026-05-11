@@ -1,0 +1,30 @@
+# afk
+
+> Source: [m0nkmaster/afk](https://github.com/m0nkmaster/afk) — distributed by [TomeVault](https://tomevault.io)
+
+Away From Keyboard - A tool agnostic library for using the Ralph approach for software development with AI command line apps.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [m0nkmaster/afk](https://github.com/m0nkmaster/afk).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [m0nkmaster/afk](https://github.com/m0nkmaster/afk) — a repo with 26+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install m0nkmaster/afk
+```
+Source: [github.com/m0nkmaster/afk](https://github.com/m0nkmaster/afk).
+
+<!-- genome:d-i-s -->
