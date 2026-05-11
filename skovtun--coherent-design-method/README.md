@@ -7,11 +7,11 @@ AI-powered design system generator — once designed, consistent UI everywhere.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [skovtun/coherent-design-method](https://github.com/skovtun/coherent-design-method).
+Original source: `CLAUDE.md` in [skovtun/coherent-design-method](https://github.com/skovtun/coherent-design-method).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
