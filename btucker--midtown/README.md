@@ -7,11 +7,11 @@ A human-scale interface for multi-agent development
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [btucker/midtown](https://github.com/btucker/midtown).
+Original source: `CLAUDE.md` in [btucker/midtown](https://github.com/btucker/midtown).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
