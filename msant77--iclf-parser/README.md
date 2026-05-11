@@ -7,11 +7,11 @@ Dart/Flutter Parser for Inline Chorded Lyrics Format Files
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [msant77/iclf-parser](https://github.com/msant77/iclf-parser).
+Original source: `CLAUDE.md` in [msant77/iclf-parser](https://github.com/msant77/iclf-parser).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
