@@ -7,11 +7,11 @@ CLI app to clean up your device for any trash data
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Sstark97/dev_sweep](https://github.com/Sstark97/dev_sweep).
+Original source: `CLAUDE.md` in [Sstark97/dev_sweep](https://github.com/Sstark97/dev_sweep).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
