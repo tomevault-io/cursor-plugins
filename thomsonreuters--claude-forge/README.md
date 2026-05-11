@@ -7,11 +7,11 @@ Developer toolkit for Claude Code: multi-model proxy routing, session management
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [thomsonreuters/claude-forge](https://github.com/thomsonreuters/claude-forge).
+Original source: `CLAUDE.md` in [thomsonreuters/claude-forge](https://github.com/thomsonreuters/claude-forge).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
