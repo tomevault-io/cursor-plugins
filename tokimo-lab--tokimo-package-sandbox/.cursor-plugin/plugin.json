@@ -1,0 +1,11 @@
+{
+  "name": "tokimo-lab--tokimo-package-sandbox",
+  "displayName": "tokimo-package-sandbox",
+  "version": "1.0.0",
+  "description": "Cross-platform Rust sandbox for running arbitrary commands safely. Linux (bwrap + seccomp), macOS (Seatbelt), Windows (WSL2).",
+  "author": {
+    "name": "tokimo-lab",
+    "url": "https://github.com/tokimo-lab"
+  },
+  "homepage": "https://github.com/tokimo-lab/tokimo-package-sandbox"
+}
