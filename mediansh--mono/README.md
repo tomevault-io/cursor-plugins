@@ -7,11 +7,11 @@ The feedback engine for modern teams.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mediansh/mono](https://github.com/mediansh/mono).
+Original source: `CLAUDE.md` in [mediansh/mono](https://github.com/mediansh/mono).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
