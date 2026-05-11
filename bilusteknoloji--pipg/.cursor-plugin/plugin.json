@@ -1,0 +1,11 @@
+{
+  "name": "bilusteknoloji--pipg",
+  "displayName": "pipg",
+  "version": "1.0.0",
+  "description": "A fast Python package installer written in Go. Drop-in replacement for `pip install` - downloads packages concurrently using goroutines.",
+  "author": {
+    "name": "bilusteknoloji",
+    "url": "https://github.com/bilusteknoloji"
+  },
+  "homepage": "https://github.com/bilusteknoloji/pipg"
+}
