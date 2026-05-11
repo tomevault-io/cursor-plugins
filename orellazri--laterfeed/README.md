@@ -7,11 +7,11 @@ Self-hosted read-it-later service that serves your saved links as an Atom feed
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [orellazri/laterfeed](https://github.com/orellazri/laterfeed).
+Original source: `CLAUDE.md` in [orellazri/laterfeed](https://github.com/orellazri/laterfeed).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
