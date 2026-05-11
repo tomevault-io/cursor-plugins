@@ -7,14 +7,14 @@ Refines Ruby Simplecov test coverage data as CLI, MCP server, and library
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [keithrbennett/cov-loupe](https://github.com/keithrbennett/cov-loupe).
+Original source: `AGENTS.md` in [keithrbennett/cov-loupe](https://github.com/keithrbennett/cov-loupe).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [keithrbennett/cov-loupe](https://github.com/keithrbennett/cov-loupe) — a repo with 44+ stars on GitHub.
