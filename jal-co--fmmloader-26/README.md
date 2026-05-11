@@ -7,11 +7,11 @@ A FM26 Mod Loader.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jal-co/FMMLoader-26](https://github.com/jal-co/FMMLoader-26).
+Original source: `CLAUDE.md` in [jal-co/FMMLoader-26](https://github.com/jal-co/FMMLoader-26).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
