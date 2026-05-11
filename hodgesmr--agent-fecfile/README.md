@@ -7,11 +7,11 @@ A Claude Code plugin + Agent Skill + MCP Server for analyzing Federal Election C
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hodgesmr/agent-fecfile](https://github.com/hodgesmr/agent-fecfile).
+Original source: `CLAUDE.md` in [hodgesmr/agent-fecfile](https://github.com/hodgesmr/agent-fecfile).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
