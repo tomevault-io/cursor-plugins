@@ -7,11 +7,11 @@ A ClaudeCode skill example with OpenCode
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [songjiayang/photo-studio-skill](https://github.com/songjiayang/photo-studio-skill).
+Original source: `CLAUDE.md` in [songjiayang/photo-studio-skill](https://github.com/songjiayang/photo-studio-skill).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
