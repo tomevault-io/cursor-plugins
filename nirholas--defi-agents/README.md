@@ -7,11 +7,11 @@ DeFi agent definitions JSON API + MCP - Production-ready agents for Web3, crypto
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [nirholas/defi-agents](https://github.com/nirholas/defi-agents).
+Original source: `CLAUDE.md` in [nirholas/defi-agents](https://github.com/nirholas/defi-agents).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
