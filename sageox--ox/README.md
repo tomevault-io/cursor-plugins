@@ -7,11 +7,11 @@ SageOx is the hivemind for agentic engineering
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [sageox/ox](https://github.com/sageox/ox).
+Original source: `CLAUDE.md` in [sageox/ox](https://github.com/sageox/ox).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
