@@ -7,11 +7,11 @@ Rapidly build a multi-Agent management dashboard based on Claude Code, integrati
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Jxin-Cai/velpos](https://github.com/Jxin-Cai/velpos).
+Original source: `CLAUDE.md` in [Jxin-Cai/velpos](https://github.com/Jxin-Cai/velpos).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
