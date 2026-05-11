@@ -7,11 +7,11 @@ Security-first AI agent orchestration system. Built-in agents with predefined ca
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Threat-Vector-Security/guardian-agent](https://github.com/Threat-Vector-Security/guardian-agent).
+Original source: `CLAUDE.md` in [Threat-Vector-Security/guardian-agent](https://github.com/Threat-Vector-Security/guardian-agent).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
