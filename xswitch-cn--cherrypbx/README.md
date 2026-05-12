@@ -7,11 +7,11 @@ Lightweight Web UI for IP-PBX systems with XSwitch as the backend.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [xswitch-cn/CherryPBX](https://github.com/xswitch-cn/CherryPBX).
+Original source: `CLAUDE.md` in [xswitch-cn/CherryPBX](https://github.com/xswitch-cn/CherryPBX).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
