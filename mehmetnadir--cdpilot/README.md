@@ -7,11 +7,11 @@ Zero-dependency browser automation CLI. 70+ commands, 10 test assertions, smart 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mehmetnadir/cdpilot](https://github.com/mehmetnadir/cdpilot).
+Original source: `CLAUDE.md` in [mehmetnadir/cdpilot](https://github.com/mehmetnadir/cdpilot).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
