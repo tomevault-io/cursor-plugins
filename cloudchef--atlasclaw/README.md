@@ -7,11 +7,11 @@ AtlasClaw is an enterprise agent framework supporting mutliple users and multi s
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [CloudChef/atlasclaw](https://github.com/CloudChef/atlasclaw).
+Original source: `CLAUDE.md` in [CloudChef/atlasclaw](https://github.com/CloudChef/atlasclaw).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
