@@ -1,0 +1,30 @@
+# AI instruction files for Code-Index-MCP
+
+> Sourced from [ViperJuice/Code-Index-MCP](https://github.com/ViperJuice/Code-Index-MCP) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+Code indexing MCP server to provide context to coding agents. 
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [ViperJuice/Code-Index-MCP](https://github.com/ViperJuice/Code-Index-MCP).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/ViperJuice/Code-Index-MCP](https://github.com/ViperJuice/Code-Index-MCP)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install ViperJuice/Code-Index-MCP
+```
+Source: [github.com/ViperJuice/Code-Index-MCP](https://github.com/ViperJuice/Code-Index-MCP).
+
+<!-- genome:a-i-p -->
