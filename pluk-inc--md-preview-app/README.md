@@ -7,11 +7,11 @@ A simple Markdown viewer for reading .md files
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [pluk-inc/md-preview.app](https://github.com/pluk-inc/md-preview.app).
+Original source: `CLAUDE.md` in [pluk-inc/md-preview.app](https://github.com/pluk-inc/md-preview.app).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
