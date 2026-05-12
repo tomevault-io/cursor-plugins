@@ -7,11 +7,11 @@ Open source platform for AI-native products. Pre-built AI agents with real tools
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ja-818/houston](https://github.com/ja-818/houston).
+Original source: `CLAUDE.md` in [ja-818/houston](https://github.com/ja-818/houston).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
