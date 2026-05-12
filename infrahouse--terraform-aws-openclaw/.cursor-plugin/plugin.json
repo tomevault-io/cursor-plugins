@@ -1,0 +1,11 @@
+{
+  "name": "infrahouse--terraform-aws-openclaw",
+  "displayName": "terraform-aws-openclaw",
+  "version": "1.0.0",
+  "description": "Terraform module for OpenClaw AI agent gateway on AWS with ALB, Cognito authentication, EFS persistence, and multi-provider LLM support (Bedrock, Anthropic, OpenAI, Ollama). ",
+  "author": {
+    "name": "infrahouse",
+    "url": "https://github.com/infrahouse"
+  },
+  "homepage": "https://github.com/infrahouse/terraform-aws-openclaw"
+}
