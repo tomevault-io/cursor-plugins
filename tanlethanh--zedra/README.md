@@ -7,11 +7,11 @@ Mobile code editor. Runs on your desktop. Built on Rust, powered by Zed's GPUI, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tanlethanh/zedra](https://github.com/tanlethanh/zedra).
+Original source: `CLAUDE.md` in [tanlethanh/zedra](https://github.com/tanlethanh/zedra).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
