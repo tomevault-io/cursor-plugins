@@ -7,11 +7,11 @@ Persistent memory extension for pi with daily logs, scratchpad, and optional qmd
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jayzeng/pi-memory](https://github.com/jayzeng/pi-memory).
+Original source: `CLAUDE.md` in [jayzeng/pi-memory](https://github.com/jayzeng/pi-memory).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
