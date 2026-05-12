@@ -7,11 +7,11 @@ Multi-terminal Claude Code status HUD for macOS
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [MJYKIM99/ClaudeGlance](https://github.com/MJYKIM99/ClaudeGlance).
+Original source: `CLAUDE.md` in [MJYKIM99/ClaudeGlance](https://github.com/MJYKIM99/ClaudeGlance).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
