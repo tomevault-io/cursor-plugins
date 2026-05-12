@@ -7,12 +7,12 @@ A structured workflow system for AI coding agents - harness engineering, executi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [blundergoat/goat-flow](https://github.com/blundergoat/goat-flow).
+Original source: `AGENTS.md` in [blundergoat/goat-flow](https://github.com/blundergoat/goat-flow).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
