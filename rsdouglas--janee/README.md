@@ -7,11 +7,11 @@ Secrets management for AI agents via MCP • @janeesecure
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [rsdouglas/janee](https://github.com/rsdouglas/janee).
+Original source: `CLAUDE.md` in [rsdouglas/janee](https://github.com/rsdouglas/janee).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
