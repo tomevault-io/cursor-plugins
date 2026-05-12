@@ -7,11 +7,11 @@ A project housing various Swift .Net bindings and samples of popular 3rd party l
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [justinwojo/swift-dotnet-packages](https://github.com/justinwojo/swift-dotnet-packages).
+Original source: `CLAUDE.md` in [justinwojo/swift-dotnet-packages](https://github.com/justinwojo/swift-dotnet-packages).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
