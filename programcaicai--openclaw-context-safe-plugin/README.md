@@ -7,11 +7,11 @@ Standalone OpenClaw context-safe plugin for tool-result trimming and context-eng
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ProgramCaiCai/openclaw-context-safe-plugin](https://github.com/ProgramCaiCai/openclaw-context-safe-plugin).
+Original source: `CLAUDE.md` in [ProgramCaiCai/openclaw-context-safe-plugin](https://github.com/ProgramCaiCai/openclaw-context-safe-plugin).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
