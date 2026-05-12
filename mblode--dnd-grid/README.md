@@ -7,11 +7,11 @@ A draggable and resizable grid layout for React.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mblode/dnd-grid](https://github.com/mblode/dnd-grid).
+Original source: `CLAUDE.md` in [mblode/dnd-grid](https://github.com/mblode/dnd-grid).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
