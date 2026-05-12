@@ -7,11 +7,11 @@ Pharos Watch stablecoin dashboard repository
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [TokenBrice/pharos-watch](https://github.com/TokenBrice/pharos-watch).
+Original source: `CLAUDE.md` in [TokenBrice/pharos-watch](https://github.com/TokenBrice/pharos-watch).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
