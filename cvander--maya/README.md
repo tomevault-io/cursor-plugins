@@ -7,11 +7,11 @@ Collection of skills and agent tools to run a bar in San Francisco
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cvander/Maya](https://github.com/cvander/Maya).
+Original source: `CLAUDE.md` in [cvander/Maya](https://github.com/cvander/Maya).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
