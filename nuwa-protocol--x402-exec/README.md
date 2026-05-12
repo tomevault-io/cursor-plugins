@@ -2,14 +2,16 @@
 
 > Source: [nuwa-protocol/x402-exec](https://github.com/nuwa-protocol/x402-exec) — distributed by [TomeVault](https://tomevault.io)
 
+x402-exec is a programmable settlement framework for x402 protocol, combining payment verification, Hook-based business logic, and facilitator incentives in atomic transactions.
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [nuwa-protocol/x402-exec](https://github.com/nuwa-protocol/x402-exec).
+Original source: `AGENTS.md` in [nuwa-protocol/x402-exec](https://github.com/nuwa-protocol/x402-exec).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
