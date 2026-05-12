@@ -7,11 +7,11 @@ AI-powered whitebox penetration testing plugin for Claude Code. 9 languages, 22 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [allsmog/vuln-scout](https://github.com/allsmog/vuln-scout).
+Original source: `CLAUDE.md` in [allsmog/vuln-scout](https://github.com/allsmog/vuln-scout).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
