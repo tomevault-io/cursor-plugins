@@ -7,12 +7,12 @@ Official .NET client for ClickHouse DB
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [ClickHouse/clickhouse-cs](https://github.com/ClickHouse/clickhouse-cs).
+Original source: `AGENTS.md` in [ClickHouse/clickhouse-cs](https://github.com/ClickHouse/clickhouse-cs).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
