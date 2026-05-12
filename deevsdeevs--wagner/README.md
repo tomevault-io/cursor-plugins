@@ -7,11 +7,11 @@ Multi-repo task manager for agents sessions. Orchestrates multiple Agent instanc
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [DeevsDeevs/wagner](https://github.com/DeevsDeevs/wagner).
+Original source: `CLAUDE.md` in [DeevsDeevs/wagner](https://github.com/DeevsDeevs/wagner).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
