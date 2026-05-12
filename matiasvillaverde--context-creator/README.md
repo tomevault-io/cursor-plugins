@@ -2,14 +2,16 @@
 
 > Sourced from [matiasvillaverde/context-creator](https://github.com/matiasvillaverde/context-creator) and converted for every major platform by [TomeVault](https://tomevault.io)
 
+A high-performance Rust CLI for optimizing context engineering in agentic programming.
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [matiasvillaverde/context-creator](https://github.com/matiasvillaverde/context-creator).
+Original source: `AGENTS.md` in [matiasvillaverde/context-creator](https://github.com/matiasvillaverde/context-creator).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
