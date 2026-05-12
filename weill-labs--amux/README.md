@@ -7,11 +7,11 @@ Terminal multiplexer with a first-class agent API for shared human+agent workflo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [weill-labs/amux](https://github.com/weill-labs/amux).
+Original source: `CLAUDE.md` in [weill-labs/amux](https://github.com/weill-labs/amux).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
