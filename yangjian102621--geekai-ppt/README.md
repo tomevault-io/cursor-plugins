@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [yangjian102621/geekai-ppt](https://github.com/yangjian102621/geekai-ppt).
+Original source: `CLAUDE.md` in [yangjian102621/geekai-ppt](https://github.com/yangjian102621/geekai-ppt).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
