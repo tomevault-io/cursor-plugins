@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [krishna-build/claude-coach-kit](https://github.com/krishna-build/claude-coach-kit).
+Original source: `CLAUDE.md` in [krishna-build/claude-coach-kit](https://github.com/krishna-build/claude-coach-kit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
