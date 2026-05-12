@@ -1,0 +1,30 @@
+# webmcp-sh
+
+> Tome by [WebMCP-org](https://github.com/WebMCP-org/webmcp-sh) — distributed by [TomeVault](https://tomevault.io)
+
+A modern web-based Model Context Protocol (MCP) playground for testing and developing MCP servers and clients
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [WebMCP-org/webmcp-sh](https://github.com/WebMCP-org/webmcp-sh).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/WebMCP-org/webmcp-sh](https://github.com/WebMCP-org/webmcp-sh)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install WebMCP-org/webmcp-sh
+```
+Source: [github.com/WebMCP-org/webmcp-sh](https://github.com/WebMCP-org/webmcp-sh).
+
+<!-- genome:t-i-p -->
