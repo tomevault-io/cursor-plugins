@@ -7,11 +7,11 @@ AI-powered competitor research engine for startup ideas.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Tendo33/IdeaGo](https://github.com/Tendo33/IdeaGo).
+Original source: `CLAUDE.md` in [Tendo33/IdeaGo](https://github.com/Tendo33/IdeaGo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
