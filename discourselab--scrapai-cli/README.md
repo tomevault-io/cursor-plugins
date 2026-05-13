@@ -7,11 +7,11 @@ AI-powered web scraping CLI. Describe what you want, get a   production-ready Sc
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [discourselab/scrapai-cli](https://github.com/discourselab/scrapai-cli).
+Original source: `CLAUDE.md` in [discourselab/scrapai-cli](https://github.com/discourselab/scrapai-cli).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
