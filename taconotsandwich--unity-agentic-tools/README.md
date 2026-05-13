@@ -7,11 +7,11 @@ A CLI for reading and editing Unity scenes, prefabs, and assets with minimal tok
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [taconotsandwich/unity-agentic-tools](https://github.com/taconotsandwich/unity-agentic-tools).
+Original source: `CLAUDE.md` in [taconotsandwich/unity-agentic-tools](https://github.com/taconotsandwich/unity-agentic-tools).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
