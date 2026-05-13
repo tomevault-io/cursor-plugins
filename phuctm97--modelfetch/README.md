@@ -1,0 +1,30 @@
+# modelfetch
+
+> Tome by [phuctm97](https://github.com/phuctm97/modelfetch) — distributed by [TomeVault](https://tomevault.io)
+
+Runtime-agnostic TypeScript/JavaScript SDK for MCP Servers
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [phuctm97/modelfetch](https://github.com/phuctm97/modelfetch).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/phuctm97/modelfetch](https://github.com/phuctm97/modelfetch)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install phuctm97/modelfetch
+```
+Source: [github.com/phuctm97/modelfetch](https://github.com/phuctm97/modelfetch).
+
+<!-- genome:t-i-q -->
