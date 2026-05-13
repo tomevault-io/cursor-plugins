@@ -7,11 +7,11 @@ Skills, sub-agents, and playbooks for Claude Code, Cursor, and any Agent Skills-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [krzysztofsurdy/code-virtuoso](https://github.com/krzysztofsurdy/code-virtuoso).
+Original source: `CLAUDE.md` in [krzysztofsurdy/code-virtuoso](https://github.com/krzysztofsurdy/code-virtuoso).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
