@@ -7,11 +7,11 @@ Agent orchestration & security template featuring MCP tool building, agent2agent
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [AndrewAltimit/template-repo](https://github.com/AndrewAltimit/template-repo).
+Original source: `CLAUDE.md` in [AndrewAltimit/template-repo](https://github.com/AndrewAltimit/template-repo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
