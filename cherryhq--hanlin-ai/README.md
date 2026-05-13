@@ -7,11 +7,11 @@ A SwiftUI-based Chat App for LLMs on iOS
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [CherryHQ/hanlin-ai](https://github.com/CherryHQ/hanlin-ai).
+Original source: `CLAUDE.md` in [CherryHQ/hanlin-ai](https://github.com/CherryHQ/hanlin-ai).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
