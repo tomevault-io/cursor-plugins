@@ -7,11 +7,11 @@ Omnara (YC S25) - Talk to Your AI Agents from Anywhere!
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [omnara-ai/omnara](https://github.com/omnara-ai/omnara).
+Original source: `CLAUDE.md` in [omnara-ai/omnara](https://github.com/omnara-ai/omnara).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
