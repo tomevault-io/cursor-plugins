@@ -7,11 +7,11 @@ AI-powered observability assistant for Grafana that helps you query data, invest
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Consensys/ask-o11y-plugin](https://github.com/Consensys/ask-o11y-plugin).
+Original source: `CLAUDE.md` in [Consensys/ask-o11y-plugin](https://github.com/Consensys/ask-o11y-plugin).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
