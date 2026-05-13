@@ -7,11 +7,11 @@ A hosted knowledge API that makes Obsidian vaults searchable and writable from a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jmilinovich/grove](https://github.com/jmilinovich/grove).
+Original source: `CLAUDE.md` in [jmilinovich/grove](https://github.com/jmilinovich/grove).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
