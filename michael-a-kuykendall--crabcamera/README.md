@@ -7,11 +7,11 @@ Professional desktop camera plugin for Tauri with WebRTC live preview, automated
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Michael-A-Kuykendall/crabcamera](https://github.com/Michael-A-Kuykendall/crabcamera).
+Original source: `CLAUDE.md` in [Michael-A-Kuykendall/crabcamera](https://github.com/Michael-A-Kuykendall/crabcamera).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
