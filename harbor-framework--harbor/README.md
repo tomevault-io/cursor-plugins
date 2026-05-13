@@ -7,11 +7,11 @@ Harbor is a framework for running agent evaluations and creating and using RL en
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [harbor-framework/harbor](https://github.com/harbor-framework/harbor).
+Original source: `CLAUDE.md` in [harbor-framework/harbor](https://github.com/harbor-framework/harbor).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
