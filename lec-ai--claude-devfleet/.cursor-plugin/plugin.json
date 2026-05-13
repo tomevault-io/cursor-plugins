@@ -1,0 +1,11 @@
+{
+  "name": "lec-ai--claude-devfleet",
+  "displayName": "claude-devfleet",
+  "version": "1.0.0",
+  "description": "Multi-agent coding platform that dispatches Claude CLI agents to work on missions (coding tasks). Each agent runs in an isolated git worktree, streams live output via SSE, and produces structured repo",
+  "author": {
+    "name": "LEC-AI",
+    "url": "https://github.com/LEC-AI"
+  },
+  "homepage": "https://github.com/LEC-AI/claude-devfleet"
+}
