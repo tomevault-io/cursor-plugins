@@ -7,11 +7,11 @@ A Git-native, AI-optimized documentation system that turns your repo into a livi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [andrefigueira/.context](https://github.com/andrefigueira/.context).
+Original source: `CLAUDE.md` in [andrefigueira/.context](https://github.com/andrefigueira/.context).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
