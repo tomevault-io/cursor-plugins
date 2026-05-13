@@ -7,11 +7,11 @@ Knocker, a knock based access control service for your homelab
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [FarisZR/knocker](https://github.com/FarisZR/knocker).
+Original source: `CLAUDE.md` in [FarisZR/knocker](https://github.com/FarisZR/knocker).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
