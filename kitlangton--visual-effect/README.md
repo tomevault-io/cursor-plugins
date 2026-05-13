@@ -7,11 +7,11 @@ Interactive Effect Visualizations
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect).
+Original source: `CLAUDE.md` in [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
