@@ -7,11 +7,11 @@ Kotlin Multiplatform library that generates JSON Schemas from your methods and c
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema).
+Original source: `CLAUDE.md` in [Kotlin/kotlinx-schema](https://github.com/Kotlin/kotlinx-schema).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
