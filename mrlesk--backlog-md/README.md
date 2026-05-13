@@ -7,11 +7,11 @@ Backlog.md - A tool for managing project collaboration between humans and AI Age
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md).
+Original source: `CLAUDE.md` in [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
