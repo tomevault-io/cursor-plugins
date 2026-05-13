@@ -7,11 +7,11 @@ PANews Agent Toolkit is PANews's official agent package for cryptocurrency and b
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [panewslab/skills](https://github.com/panewslab/skills).
+Original source: `CLAUDE.md` in [panewslab/skills](https://github.com/panewslab/skills).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
