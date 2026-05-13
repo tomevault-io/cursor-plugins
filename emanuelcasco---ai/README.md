@@ -7,14 +7,14 @@ A structured methodology for AI-assisted development using specialized personas,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [emanuelcasco/.ai](https://github.com/emanuelcasco/.ai).
+Original source: `AGENTS.md` in [emanuelcasco/.ai](https://github.com/emanuelcasco/.ai).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/emanuelcasco/.ai](https://github.com/emanuelcasco/.ai)
