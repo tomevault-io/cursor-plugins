@@ -7,12 +7,12 @@ The personal finance app for everyone (by everyone)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [we-promise/sure](https://github.com/we-promise/sure).
+Original source: `copilot-instructions.md` in [we-promise/sure](https://github.com/we-promise/sure).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
