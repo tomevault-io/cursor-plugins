@@ -7,11 +7,11 @@ Native Swift SDK for building autonomous AI agents with Apple's FoundationModels
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [SwiftedMind/SwiftAgent](https://github.com/SwiftedMind/SwiftAgent).
+Original source: `CLAUDE.md` in [SwiftedMind/SwiftAgent](https://github.com/SwiftedMind/SwiftAgent).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
