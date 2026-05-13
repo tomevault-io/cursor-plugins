@@ -7,11 +7,11 @@ Meshline
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Makio64/makio-meshline](https://github.com/Makio64/makio-meshline).
+Original source: `CLAUDE.md` in [Makio64/makio-meshline](https://github.com/Makio64/makio-meshline).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
