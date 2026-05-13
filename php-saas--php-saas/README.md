@@ -7,11 +7,11 @@ The everything-included starter kit for your next idea
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [php-saas/php-saas](https://github.com/php-saas/php-saas).
+Original source: `CLAUDE.md` in [php-saas/php-saas](https://github.com/php-saas/php-saas).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
