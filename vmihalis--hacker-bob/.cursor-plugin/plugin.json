@@ -1,0 +1,11 @@
+{
+  "name": "vmihalis--hacker-bob",
+  "displayName": "hacker-bob",
+  "version": "1.0.0",
+  "description": "Claude Code bug bounty agent. Install in current workspace: npx -y hacker-bob-cc@latest install \"$PWD\" then restart Claude and run /bob-hunt target.com",
+  "author": {
+    "name": "vmihalis",
+    "url": "https://github.com/vmihalis"
+  },
+  "homepage": "https://github.com/vmihalis/hacker-bob"
+}
