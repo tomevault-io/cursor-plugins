@@ -7,11 +7,11 @@ A TUI for working with Azure DevOps in ze terminal.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Elpulgo/azdo](https://github.com/Elpulgo/azdo).
+Original source: `CLAUDE.md` in [Elpulgo/azdo](https://github.com/Elpulgo/azdo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
