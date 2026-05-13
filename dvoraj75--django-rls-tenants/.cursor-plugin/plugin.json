@@ -1,0 +1,11 @@
+{
+  "name": "dvoraj75--django-rls-tenants",
+  "displayName": "django-rls-tenants",
+  "version": "1.0.0",
+  "description": "Database-enforced multitenancy for Django using PostgreSQL Row-Level Security. Every query - ORM, raw SQL, dbshell - is filtered by the database itself. Zero data leaks by design",
+  "author": {
+    "name": "dvoraj75",
+    "url": "https://github.com/dvoraj75"
+  },
+  "homepage": "https://github.com/dvoraj75/django-rls-tenants"
+}
