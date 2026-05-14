@@ -7,11 +7,11 @@ In-depth analysis of AI agent transcripts.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [meridianlabs-ai/inspect_scout](https://github.com/meridianlabs-ai/inspect_scout).
+Original source: `CLAUDE.md` in [meridianlabs-ai/inspect_scout](https://github.com/meridianlabs-ai/inspect_scout).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
