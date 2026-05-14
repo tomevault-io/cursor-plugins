@@ -1,0 +1,30 @@
+# AI instruction files for compose-multiplatform-boilerplate
+
+> Sourced from [composablehorizons/compose-multiplatform-boilerplate](https://github.com/composablehorizons/compose-multiplatform-boilerplate) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+Get started with Compose Unstyled and Compose Multiplatform in seconds.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [composablehorizons/compose-multiplatform-boilerplate](https://github.com/composablehorizons/compose-multiplatform-boilerplate).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [composablehorizons/compose-multiplatform-boilerplate](https://github.com/composablehorizons/compose-multiplatform-boilerplate) — a repo with 29+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install composablehorizons/compose-multiplatform-boilerplate
+```
+Source: [github.com/composablehorizons/compose-multiplatform-boilerplate](https://github.com/composablehorizons/compose-multiplatform-boilerplate).
+
+<!-- genome:a-i-s -->
