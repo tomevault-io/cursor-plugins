@@ -7,11 +7,11 @@ Image processing and computer vision library in pure C
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ad-si/FlatCV](https://github.com/ad-si/FlatCV).
+Original source: `CLAUDE.md` in [ad-si/FlatCV](https://github.com/ad-si/FlatCV).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
