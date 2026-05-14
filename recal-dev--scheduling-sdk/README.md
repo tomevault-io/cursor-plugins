@@ -1,0 +1,30 @@
+# AI instruction files for scheduling-sdk
+
+> Sourced from [recal-dev/scheduling-sdk](https://github.com/recal-dev/scheduling-sdk) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+Your go‑to SDK for flawless, reliable scheduling
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [recal-dev/scheduling-sdk](https://github.com/recal-dev/scheduling-sdk).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/recal-dev/scheduling-sdk](https://github.com/recal-dev/scheduling-sdk)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install recal-dev/scheduling-sdk
+```
+Source: [github.com/recal-dev/scheduling-sdk](https://github.com/recal-dev/scheduling-sdk).
+
+<!-- genome:a-i-q -->
