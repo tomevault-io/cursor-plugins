@@ -7,11 +7,11 @@ Run AI coding agents in isolated containers with network filtering.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bernd/vibepit](https://github.com/bernd/vibepit).
+Original source: `CLAUDE.md` in [bernd/vibepit](https://github.com/bernd/vibepit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
