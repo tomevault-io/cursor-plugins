@@ -7,11 +7,11 @@ Community maintained hardware plugin for vLLM on Intel Gaudi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [vllm-project/vllm-gaudi](https://github.com/vllm-project/vllm-gaudi).
+Original source: `CLAUDE.md` in [vllm-project/vllm-gaudi](https://github.com/vllm-project/vllm-gaudi).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
