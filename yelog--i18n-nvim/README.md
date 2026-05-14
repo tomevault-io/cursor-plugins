@@ -7,11 +7,11 @@ i18n preview and management plugin for neovim
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [yelog/i18n.nvim](https://github.com/yelog/i18n.nvim).
+Original source: `CLAUDE.md` in [yelog/i18n.nvim](https://github.com/yelog/i18n.nvim).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
