@@ -7,11 +7,11 @@ Real-time engine for building reactive web applications in pure Go.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [go-via/via](https://github.com/go-via/via).
+Original source: `CLAUDE.md` in [go-via/via](https://github.com/go-via/via).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
