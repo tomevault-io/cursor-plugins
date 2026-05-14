@@ -7,11 +7,11 @@ AI Phone Agent: A starter kit to build AI agents that answer real phone calls an
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bobbylkchao/ai-phone-agent](https://github.com/bobbylkchao/ai-phone-agent).
+Original source: `CLAUDE.md` in [bobbylkchao/ai-phone-agent](https://github.com/bobbylkchao/ai-phone-agent).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
