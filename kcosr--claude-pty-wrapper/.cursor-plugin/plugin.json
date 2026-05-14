@@ -1,0 +1,11 @@
+{
+  "name": "kcosr--claude-pty-wrapper",
+  "displayName": "claude-pty-wrapper",
+  "version": "1.0.0",
+  "description": "claude-pty-wrapper runs interactive Claude through a PTY while exposing a print-like CLI that streams assistant text from Claude\u2019s durable session JSONL.",
+  "author": {
+    "name": "kcosr",
+    "url": "https://github.com/kcosr"
+  },
+  "homepage": "https://github.com/kcosr/claude-pty-wrapper"
+}
