@@ -7,11 +7,11 @@ Ochi is a fast, cost-effective, Loki compatible database for logs.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ochi-team/ochi](https://github.com/ochi-team/ochi).
+Original source: `CLAUDE.md` in [ochi-team/ochi](https://github.com/ochi-team/ochi).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
