@@ -1,0 +1,26 @@
+# Mira
+
+> Source: [DimiMikadze/Mira](https://github.com/DimiMikadze/Mira) — distributed by [TomeVault](https://tomevault.io)
+
+Multi-Agent AI System for Company Research
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [DimiMikadze/Mira](https://github.com/DimiMikadze/Mira).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/DimiMikadze/Mira](https://github.com/DimiMikadze/Mira)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:d-e-p -->
