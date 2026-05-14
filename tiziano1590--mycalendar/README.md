@@ -1,0 +1,28 @@
+# mycalendar
+
+> Tome by [tiziano1590](https://github.com/tiziano1590/mycalendar) — distributed by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [tiziano1590/mycalendar](https://github.com/tiziano1590/mycalendar).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [tiziano1590/mycalendar](https://github.com/tiziano1590/mycalendar) — a repo with 0+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install tiziano1590/mycalendar
+```
+Source: [github.com/tiziano1590/mycalendar](https://github.com/tiziano1590/mycalendar).
+
+<!-- genome:t-i-s -->
