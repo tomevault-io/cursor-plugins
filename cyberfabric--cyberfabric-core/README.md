@@ -7,11 +7,11 @@ All-in-one open-source platform for enterprise-grade multi-tenant and multi-tier
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cyberfabric/cyberfabric-core](https://github.com/cyberfabric/cyberfabric-core).
+Original source: `CLAUDE.md` in [cyberfabric/cyberfabric-core](https://github.com/cyberfabric/cyberfabric-core).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
