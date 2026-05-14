@@ -7,11 +7,11 @@ Vibe-coded NIST compatible database in Rust
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [rjwalters/vibesql](https://github.com/rjwalters/vibesql).
+Original source: `CLAUDE.md` in [rjwalters/vibesql](https://github.com/rjwalters/vibesql).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
