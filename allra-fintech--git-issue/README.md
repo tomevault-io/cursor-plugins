@@ -7,11 +7,11 @@ A console-based issue tracker for managing issues in your git repositories
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Allra-Fintech/git-issue](https://github.com/Allra-Fintech/git-issue).
+Original source: `CLAUDE.md` in [Allra-Fintech/git-issue](https://github.com/Allra-Fintech/git-issue).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
