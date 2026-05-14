@@ -7,11 +7,11 @@ The modern database CLI that speaks your language — PostgreSQL, MySQL, SQLite 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [clement-tourriere/dbcrust](https://github.com/clement-tourriere/dbcrust).
+Original source: `CLAUDE.md` in [clement-tourriere/dbcrust](https://github.com/clement-tourriere/dbcrust).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
