@@ -1,0 +1,30 @@
+# tailscale-mcp
+
+> Source: [HexSleeves/tailscale-mcp](https://github.com/HexSleeves/tailscale-mcp) — distributed by [TomeVault](https://tomevault.io)
+
+server that provides seamless integration with Tailscale's CLI commands and REST API, enabling automated network management and monitoring through a standardized interface
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [HexSleeves/tailscale-mcp](https://github.com/HexSleeves/tailscale-mcp).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/HexSleeves/tailscale-mcp](https://github.com/HexSleeves/tailscale-mcp)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install HexSleeves/tailscale-mcp
+```
+Source: [github.com/HexSleeves/tailscale-mcp](https://github.com/HexSleeves/tailscale-mcp).
+
+<!-- genome:d-i-q -->
