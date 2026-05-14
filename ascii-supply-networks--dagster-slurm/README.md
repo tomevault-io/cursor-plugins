@@ -7,11 +7,11 @@ Dagster SLURM integration
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ascii-supply-networks/dagster-slurm](https://github.com/ascii-supply-networks/dagster-slurm).
+Original source: `CLAUDE.md` in [ascii-supply-networks/dagster-slurm](https://github.com/ascii-supply-networks/dagster-slurm).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
