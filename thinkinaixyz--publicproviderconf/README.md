@@ -7,11 +7,11 @@ Public Provider Config for DeepChat
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ThinkInAIXYZ/PublicProviderConf](https://github.com/ThinkInAIXYZ/PublicProviderConf).
+Original source: `CLAUDE.md` in [ThinkInAIXYZ/PublicProviderConf](https://github.com/ThinkInAIXYZ/PublicProviderConf).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
