@@ -7,11 +7,11 @@ Web-based interface for Claude Code CLI with multi-session support
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [vultuk/claude-code-web](https://github.com/vultuk/claude-code-web).
+Original source: `CLAUDE.md` in [vultuk/claude-code-web](https://github.com/vultuk/claude-code-web).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
