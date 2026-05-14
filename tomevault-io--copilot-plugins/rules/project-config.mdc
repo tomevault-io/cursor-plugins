@@ -1,46 +1,104 @@
 ---
-description: > - **Product, architecture, MVP scope, public API, data model, JSONL schema:** repo top-level docs (start with `README.md`)
+description: > This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 alwaysApply: true
 ---
 
-## agent-inspect
+## webawesome-laminar
 
-> - **Product, architecture, MVP scope, public API, data model, JSONL schema:** repo top-level docs (start with `README.md`)
+> This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-# agent-inspect — Cursor guardrails
+# CLAUDE.md
 
-## Source of truth
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-- **Product, architecture, MVP scope, public API, data model, JSONL schema:** repo top-level docs (start with `README.md`)
-- **Step-by-step implementation sequence:** follow the repo’s implementation guide (if present) and existing patterns in `packages/`
+## Project Overview
 
-## MVP drift (do not implement unless the PRD explicitly promotes it)
+Laminar bindings for the WebAwesome web component library. Published to Maven Central as `io.github.nguyenyou:webawesome-laminar_sjs1_3`. Scala 3 + Scala.js + Laminar.
 
-- No SQLite
-- No replay
-- No token counting
-- No cost calculation
-- No framework adapters
-- No browser dashboard
-- No OpenTelemetry
-- No plugin system
-- No general-purpose logger API
+## Build System
 
-agent-inspect must not become a logger library. The core concept is an **execution tree of steps**.
+**Mill** is the build tool. Bun is the JS package manager.
 
-## Engineering requirements
+```bash
+# Compile Scala.js (full link)
+./mill __.fullLinkJS
 
-- **TypeScript:** strict mode; match repo `tsconfig` settings.
-- **Tests:** add or update tests when implementation behavior changes.
-- **Instrumentation safety:** tracing, stepping, or observation must never throw into user code in a way that breaks the agent; failures degrade gracefully (see PRD).
+# Format code
+./mill mill.scalalib.scalafmt/
 
+# Lint/fix with Scalafix
+./mill __.fix
 
-## General guidance
-Please ask questions and get clarify if you are not clear on any decisions or implementations. 
+# Build docs site examples (links JS + bundles for docs)
+./mill __.fullLinkJS && bun docs/build.ts
+
+# Code generation from WebAwesome metadata
+npm run generate          # generate + fmt + fix
+npm run generate:force    # force regeneration
+
+# Run docs dev server (Next.js)
+npm run dev
+```
+
+## Search Exclusions
+
+Do not search in: `out/`, `.bsp/`, `.metals/`, `.idea/`
+
+## Architecture
+
+### Code Generation Pipeline
+
+Most Scala source files in `webawesome-laminar/src/` are **auto-generated** — do not edit them directly. The pipeline:
+
+1. `scripts/gen-ir.ts` — reads `@awesome.me/webawesome` custom-elements.json from node_modules, produces `scripts/webawesome-laminar-ir.json`
+2. `scripts/extract-shared-types.ts` — identifies union types shared across components, produces `scripts/shared-types-mapping.json`
+3. `scripts/generate-components.ts` — generates Scala files from IR + type mappings
+4. `scripts/generate.ts` — orchestrator that runs all steps, then formats/fixes
+
+**Manually maintained files** (not generated):
+- `WebComponent.scala` — abstract base class for all components
+- `CommonTypes.scala` — codec helpers (`UnionAsStringCodec`, `useImport`)
+- `CommonKeys.scala` — reusable attribute objects shared across components
+- `SharedTypes.scala` — generated, but the pattern is important (Scala 3 union types)
+- `CustomKeys.scala`, `ControlledInput.scala` — custom extensions
+- `custom/` and `events/` subdirectories
+
+### Component Pattern
+
+Every generated component (e.g., `WaButton`) extends `WebComponent(tagName)` and follows:
+
+```scala
+// Two-group apply: component-specific mods, then standard Laminar mods
+Button(_.variant.success, _.size.large)(cls := "my-btn", onClick --> handler)
+```
+
+- **Type-safe attributes** use Scala 3 union types: `type ComponentSize = "large" | "medium" | "small"`
+- Two ergonomic APIs: string assignment (`_.variant := "success"`) or dot notation (`_.variant.success`)
+- `CommonKeys` objects define shared attributes (size, variant, placement, etc.) mixed into components
+- `RawImport` triggers the JS side-effect import that registers the custom element
+
+### Mill Modules
+
+- `webawesome-laminar` — the published library (Scala 3.3.6 for LTS compat)
+- `doc` — documentation examples
+- `BunBuildModule` — custom Mill trait that runs `fullLinkJS` then `bun build` for bundling examples
+- Example modules extend `ExampleModule` (WebModule + BunBuildModule)
+
+### Documentation Site
+
+Next.js app in `docs/` using Fumadocs for MDX. Component docs are in `docs/content/docs/`. Interactive examples are bundled Scala.js apps served from `docs/public/examples/`.
+
+## Key Versions
+
+- Scala 3.7.2 (dev) / 3.3.6 (published library)
+- Scala.js 1.19.0
+- Laminar 17.2.1
+- WebAwesome 3.2.1
+- Mill (see `.mill-version`)
 
 ---
-> Source: [rajudandigam/agent-inspect](https://github.com/rajudandigam/agent-inspect) — distributed by [TomeVault](https://tomevault.io).
-<!-- tomevault:4.0:copilot_instructions:2026-05-14 -->
+> Source: [nguyenyou/webawesome-laminar](https://github.com/nguyenyou/webawesome-laminar) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:copilot_instructions:2026-05-06 -->
 
 ---
 > Source: [tomevault-io/copilot-plugins](https://github.com/tomevault-io/copilot-plugins) — distributed by [TomeVault](https://tomevault.io).
