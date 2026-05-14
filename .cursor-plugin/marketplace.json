@@ -28390,6 +28390,11 @@
       "description": "RustFS k8s operator "
     },
     {
+      "name": "goodfire-ai--param-decomp",
+      "source": "./goodfire-ai--param-decomp",
+      "description": "Parameter Decomposition"
+    },
+    {
       "name": "databricks--databricks-agent-skills",
       "source": "./databricks--databricks-agent-skills",
       "description": "databricks-agent-skills"
@@ -29073,6 +29078,11 @@
       "name": "mpsm--mcp-cpp",
       "source": "./mpsm--mcp-cpp",
       "description": "MCP server tailored to work with large C/C++ codebases"
+    },
+    {
+      "name": "twjackysu--twsemcpserver",
+      "source": "./twjackysu--twsemcpserver",
+      "description": "\u53f0\u7063\u8b49\u4ea4\u6240OpenAPI \u7684 MCP Server \u540c\u6642\u6574\u5408\u90e8\u5206\u5373\u6642\u5831\u50f9\u548c\u6ac3\u6aaf\u8cb7\u8ce3\u4e2d\u5fc3TPEx OpenAPI, \u81fa\u7063\u671f\u8ca8\u4ea4\u6613\u6240TAIFEX OpenAPI"
     },
     {
       "name": "keep-starknet-strange--starknet-agentic",
@@ -30190,6 +30200,11 @@
       "description": "PRB's Claude Code config"
     },
     {
+      "name": "wasabeef--emu",
+      "source": "./wasabeef--emu",
+      "description": "A TUI for managing Android emulators and iOS simulators."
+    },
+    {
       "name": "aspenkit--aspens",
       "source": "./aspenkit--aspens",
       "description": "Your CLAUDE.md stopped working at 200 lines. Generate scoped skill files from your import graph, auto-sync on every commit. Claude Code, Codex, Cursor."
@@ -31295,6 +31310,11 @@
       "description": "A Quaint Hostel Shop with Sharp Tools"
     },
     {
+      "name": "csenshi--system-craft",
+      "source": "./csenshi--system-craft",
+      "description": "Stop drawing boxes - build them. System design, fully implemented."
+    },
+    {
       "name": "microsoft--duroxide",
       "source": "./microsoft--duroxide",
       "description": "duroxide"
@@ -31483,6 +31503,16 @@
       "name": "zenbase-ai--llml",
       "source": "./zenbase-ai--llml",
       "description": "Compose data structures, serialize them to prompts."
+    },
+    {
+      "name": "aryalabshq--bunli",
+      "source": "./aryalabshq--bunli",
+      "description": "Complete CLI Development Ecosystem for Bun"
+    },
+    {
+      "name": "jakub-k-slys--substack-api",
+      "source": "./jakub-k-slys--substack-api",
+      "description": "Substack API client is a modern TypeScript library provides a clean, entity-based interface to interact with Substack publications, posts, comments, and user profiles."
     },
     {
       "name": "dceoy--speckit-agent-skills",
@@ -32460,6 +32490,16 @@
       "description": "Browse, view and share your Claude Code sessions - runs entirely in browser \u6d4f\u89c8\u548c\u67e5\u770b\u60a8\u7684 Claude Code \u4f1a\u8bdd\u5386\u53f2 - \u5b8c\u5168\u5728\u6d4f\u89c8\u5668\u4e2d\u8fd0\u884c\uff0c\u65e0\u9700\u670d\u52a1\u5668"
     },
     {
+      "name": "t09tanaka--mcp-simple-voicevox",
+      "source": "./t09tanaka--mcp-simple-voicevox",
+      "description": "mcp-simple-voicevox"
+    },
+    {
+      "name": "cyanheads--clinicaltrialsgov-mcp-server",
+      "source": "./cyanheads--clinicaltrialsgov-mcp-server",
+      "description": "MCP server for the ClinicalTrials.gov v2 API. Search trials, retrieve study details and results, and match patients to eligible trials."
+    },
+    {
       "name": "simonkurtz-msft--drawio-mcp-server",
       "source": "./simonkurtz-msft--drawio-mcp-server",
       "description": "A Model Context Protocol (MCP) server for programmatic diagram generation using Draw.io (Diagrams.net). This server generates Draw.io XML directly \u2014 no browser extension or Draw.io instance required."
@@ -33398,6 +33438,11 @@
       "name": "arashvakil--leiaguard",
       "source": "./arashvakil--leiaguard",
       "description": "A secure WireGuard VPN management system with invitation-based registration, multi-device support, QR code setup, and admin tools. Built with Next.js 15."
+    },
+    {
+      "name": "dnnyngyen--iron-manus-mcp",
+      "source": "./dnnyngyen--iron-manus-mcp",
+      "description": "Iron Manus MCP"
     },
     {
       "name": "v-iole-t--tab-harbor",
@@ -36685,6 +36730,16 @@
       "description": "\u6e90\u4ed3\u5e93\uff1ahttps://github.com/coleam00/Context-Engineering-Intro \u7684\u7ffb\u8bd1\u7248\u672c  \u4e00\u4e2a\u5168\u9762\u7684\u4e0a\u4e0b\u6587\u5de5\u7a0b\u5165\u95e8\u6a21\u677f - \u4e0a\u4e0b\u6587\u5de5\u7a0b\u662f\u4e3a AI \u7f16\u7801\u52a9\u624b\u5de5\u7a0b\u5316\u4e0a\u4e0b\u6587\u7684\u5b66\u79d1\uff0c\u4f7f\u5b83\u4eec\u62e5\u6709\u7aef\u5230\u7aef\u5b8c\u6210\u4efb\u52a1\u6240\u9700\u7684\u4fe1\u606f\u3002"
     },
     {
+      "name": "zveinn--parser",
+      "source": "./zveinn--parser",
+      "description": "Allows for SQL syntax like querying into golang []slice structures. Supports sub-slices, sup-struct and maps!"
+    },
+    {
+      "name": "work-r-labs--robots",
+      "source": "./work-r-labs--robots",
+      "description": "A open source library of Industrial Robots to use in NVIDIA Isaac Sim"
+    },
+    {
       "name": "eduardo-sl--go-agent-skills",
       "source": "./eduardo-sl--go-agent-skills",
       "description": "Curated AI agent skills for Go projects."
@@ -37103,6 +37158,11 @@
       "name": "diffplug--gitcasso",
       "source": "./diffplug--gitcasso",
       "description": "Syntax highlighting for the GitHub issue/pr editor. Also, never lose a draft comment again!"
+    },
+    {
+      "name": "phmatray--formcraft",
+      "source": "./phmatray--formcraft",
+      "description": "Build type-safe, dynamic forms in Blazor with an elegant fluent   API. FormCraft simplifies complex form creation with automatic   field rendering, validation, and dependency management. Features   in"
     },
     {
       "name": "alonw0--llm-docs-optimizer",
@@ -101788,6 +101848,11 @@
       "name": "phuetz--code-buddy",
       "source": "./phuetz--code-buddy",
       "description": "An open-source multi-provider AI coding agent that runs directly in your terminal."
+    },
+    {
+      "name": "vizzly-testing--cli",
+      "source": "./vizzly-testing--cli",
+      "description": "Visual testing CLI with local TDD workflow. Catch UI bugs before you commit."
     },
     {
       "name": "ocrbase-hq--ocrbase",
@@ -180085,6 +180150,421 @@
       "description": "codex-plugins"
     },
     {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--claude-code-plugins",
+      "source": "./tomevault-io--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--claude-code-plugins",
+      "source": "./tomevault-io--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--claude-code-plugins",
+      "source": "./tomevault-io--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--claude-code-plugins",
+      "source": "./tomevault-io--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--claude-code-plugins",
+      "source": "./tomevault-io--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--claude-code-plugins",
+      "source": "./tomevault-io--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
+      "name": "tomevault-io--claude-code-plugins",
+      "source": "./tomevault-io--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "tomevault-io--copilot-plugins",
+      "source": "./tomevault-io--copilot-plugins",
+      "description": "copilot-plugins"
+    },
+    {
+      "name": "tomevault-io--gemini-extensions",
+      "source": "./tomevault-io--gemini-extensions",
+      "description": "gemini-extensions"
+    },
+    {
+      "name": "tomevault-io--codex-plugins",
+      "source": "./tomevault-io--codex-plugins",
+      "description": "codex-plugins"
+    },
+    {
       "name": "tomevault-io--claude-code-plugins",
       "source": "./tomevault-io--claude-code-plugins",
       "description": "claude-code-plugins"
@@ -180358,86 +180838,6 @@
       "name": "tomevault-io--gemini-extensions",
       "source": "./tomevault-io--gemini-extensions",
       "description": "gemini-extensions"
-    },
-    {
-      "name": "tomevault-io--codex-plugins",
-      "source": "./tomevault-io--codex-plugins",
-      "description": "codex-plugins"
-    },
-    {
-      "name": "tomevault-io--copilot-plugins",
-      "source": "./tomevault-io--copilot-plugins",
-      "description": "copilot-plugins"
-    },
-    {
-      "name": "tomevault-io--gemini-extensions",
-      "source": "./tomevault-io--gemini-extensions",
-      "description": "gemini-extensions"
-    },
-    {
-      "name": "tomevault-io--codex-plugins",
-      "source": "./tomevault-io--codex-plugins",
-      "description": "codex-plugins"
-    },
-    {
-      "name": "tomevault-io--copilot-plugins",
-      "source": "./tomevault-io--copilot-plugins",
-      "description": "copilot-plugins"
-    },
-    {
-      "name": "tomevault-io--gemini-extensions",
-      "source": "./tomevault-io--gemini-extensions",
-      "description": "gemini-extensions"
-    },
-    {
-      "name": "tomevault-io--codex-plugins",
-      "source": "./tomevault-io--codex-plugins",
-      "description": "codex-plugins"
-    },
-    {
-      "name": "tomevault-io--copilot-plugins",
-      "source": "./tomevault-io--copilot-plugins",
-      "description": "copilot-plugins"
-    },
-    {
-      "name": "tomevault-io--gemini-extensions",
-      "source": "./tomevault-io--gemini-extensions",
-      "description": "gemini-extensions"
-    },
-    {
-      "name": "tomevault-io--codex-plugins",
-      "source": "./tomevault-io--codex-plugins",
-      "description": "codex-plugins"
-    },
-    {
-      "name": "tomevault-io--copilot-plugins",
-      "source": "./tomevault-io--copilot-plugins",
-      "description": "copilot-plugins"
-    },
-    {
-      "name": "tomevault-io--gemini-extensions",
-      "source": "./tomevault-io--gemini-extensions",
-      "description": "gemini-extensions"
-    },
-    {
-      "name": "tomevault-io--codex-plugins",
-      "source": "./tomevault-io--codex-plugins",
-      "description": "codex-plugins"
-    },
-    {
-      "name": "tomevault-io--copilot-plugins",
-      "source": "./tomevault-io--copilot-plugins",
-      "description": "copilot-plugins"
-    },
-    {
-      "name": "tomevault-io--gemini-extensions",
-      "source": "./tomevault-io--gemini-extensions",
-      "description": "gemini-extensions"
-    },
-    {
-      "name": "tomevault-io--codex-plugins",
-      "source": "./tomevault-io--codex-plugins",
-      "description": "codex-plugins"
     }
   ]
 }
