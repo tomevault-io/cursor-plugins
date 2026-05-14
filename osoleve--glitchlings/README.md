@@ -7,11 +7,11 @@ Enemies for your LLM
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [osoleve/glitchlings](https://github.com/osoleve/glitchlings).
+Original source: `CLAUDE.md` in [osoleve/glitchlings](https://github.com/osoleve/glitchlings).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
