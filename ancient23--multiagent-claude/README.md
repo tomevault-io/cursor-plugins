@@ -7,11 +7,11 @@ Setup Prompts for creating a multi agent development environment for Claude Code
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Ancient23/MultiAgent-Claude](https://github.com/Ancient23/MultiAgent-Claude).
+Original source: `CLAUDE.md` in [Ancient23/MultiAgent-Claude](https://github.com/Ancient23/MultiAgent-Claude).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
