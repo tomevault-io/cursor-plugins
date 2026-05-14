@@ -1,0 +1,26 @@
+# solana-validator-switch
+
+> Source: [huiskylabs/solana-validator-switch](https://github.com/huiskylabs/solana-validator-switch) — distributed by [TomeVault](https://tomevault.io)
+
+Solana Validator Switch (SVS) - 1-2s Hot Swap & Failover Solution
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [huiskylabs/solana-validator-switch](https://github.com/huiskylabs/solana-validator-switch).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [huiskylabs/solana-validator-switch](https://github.com/huiskylabs/solana-validator-switch) — a repo with 27+ stars on GitHub.
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:d-e-s -->
