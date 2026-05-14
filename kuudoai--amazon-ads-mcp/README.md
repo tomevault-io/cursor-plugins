@@ -7,11 +7,11 @@ Amazon Ads MCP - Model Context Protocol server for Amazon Advertising API
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [KuudoAI/amazon_ads_mcp](https://github.com/KuudoAI/amazon_ads_mcp).
+Original source: `CLAUDE.md` in [KuudoAI/amazon_ads_mcp](https://github.com/KuudoAI/amazon_ads_mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
