@@ -1,0 +1,30 @@
+# scale-agentex-python
+
+> Source: [scaleapi/scale-agentex-python](https://github.com/scaleapi/scale-agentex-python) — distributed by [TomeVault](https://tomevault.io)
+
+Official Python SDK for Agentex
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [scaleapi/scale-agentex-python](https://github.com/scaleapi/scale-agentex-python).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [scaleapi/scale-agentex-python](https://github.com/scaleapi/scale-agentex-python) — a repo with 19+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install scaleapi/scale-agentex-python
+```
+Source: [github.com/scaleapi/scale-agentex-python](https://github.com/scaleapi/scale-agentex-python).
+
+<!-- genome:d-i-s -->
