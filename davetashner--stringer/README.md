@@ -7,11 +7,11 @@ Accelerates agentic development in legacy codebases. Creates context and backlog
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [davetashner/stringer](https://github.com/davetashner/stringer).
+Original source: `CLAUDE.md` in [davetashner/stringer](https://github.com/davetashner/stringer).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
