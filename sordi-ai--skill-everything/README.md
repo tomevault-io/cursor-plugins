@@ -7,11 +7,11 @@ Git-versioned agent memory: agents that never make the same mistake twice. Anthr
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [sordi-ai/skill-everything](https://github.com/sordi-ai/skill-everything).
+Original source: `CLAUDE.md` in [sordi-ai/skill-everything](https://github.com/sordi-ai/skill-everything).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
