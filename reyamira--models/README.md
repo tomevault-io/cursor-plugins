@@ -7,11 +7,11 @@ TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [reyamira/models](https://github.com/reyamira/models).
+Original source: `CLAUDE.md` in [reyamira/models](https://github.com/reyamira/models).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
