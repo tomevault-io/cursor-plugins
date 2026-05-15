@@ -7,11 +7,11 @@ This is the official repo for the Harness MCP server
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [harness/mcp-server](https://github.com/harness/mcp-server).
+Original source: `CLAUDE.md` in [harness/mcp-server](https://github.com/harness/mcp-server).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
