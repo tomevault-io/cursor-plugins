@@ -7,11 +7,11 @@ WoW UI Simulator - Load and render WoW addons outside the game
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Osso/wow-ui-sim](https://github.com/Osso/wow-ui-sim).
+Original source: `CLAUDE.md` in [Osso/wow-ui-sim](https://github.com/Osso/wow-ui-sim).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
