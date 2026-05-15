@@ -7,11 +7,11 @@ A modern Ghost CLI tool
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [TryGhost/ghst](https://github.com/TryGhost/ghst).
+Original source: `CLAUDE.md` in [TryGhost/ghst](https://github.com/TryGhost/ghst).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
