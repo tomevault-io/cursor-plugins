@@ -7,11 +7,11 @@ Chrome extension that audits SEO health in a persistent side panel
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [nauvalazhar/silo](https://github.com/nauvalazhar/silo).
+Original source: `CLAUDE.md` in [nauvalazhar/silo](https://github.com/nauvalazhar/silo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
