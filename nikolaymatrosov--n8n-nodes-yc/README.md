@@ -1,0 +1,30 @@
+# n8n-nodes-yc
+
+> Tome by [nikolaymatrosov](https://github.com/nikolaymatrosov/n8n-nodes-yc) — distributed by [TomeVault](https://tomevault.io)
+
+n8n community nodes for Yandex Cloud services integration
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [nikolaymatrosov/n8n-nodes-yc](https://github.com/nikolaymatrosov/n8n-nodes-yc).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/nikolaymatrosov/n8n-nodes-yc](https://github.com/nikolaymatrosov/n8n-nodes-yc)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install nikolaymatrosov/n8n-nodes-yc
+```
+Source: [github.com/nikolaymatrosov/n8n-nodes-yc](https://github.com/nikolaymatrosov/n8n-nodes-yc).
+
+<!-- genome:t-i-q -->
