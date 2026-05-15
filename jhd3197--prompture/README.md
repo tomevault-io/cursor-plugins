@@ -7,11 +7,11 @@ Prompture is an API-first library for requesting structured JSON output from LLM
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jhd3197/Prompture](https://github.com/jhd3197/Prompture).
+Original source: `CLAUDE.md` in [jhd3197/Prompture](https://github.com/jhd3197/Prompture).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
