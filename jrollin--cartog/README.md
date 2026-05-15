@@ -7,11 +7,11 @@ claude code with treesitter and query capability (RLM)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jrollin/cartog](https://github.com/jrollin/cartog).
+Original source: `CLAUDE.md` in [jrollin/cartog](https://github.com/jrollin/cartog).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
