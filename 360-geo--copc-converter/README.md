@@ -7,11 +7,11 @@ A fast, memory-efficient converter that turns LAS/LAZ point cloud files into COP
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [360-geo/copc-converter](https://github.com/360-geo/copc-converter).
+Original source: `CLAUDE.md` in [360-geo/copc-converter](https://github.com/360-geo/copc-converter).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
