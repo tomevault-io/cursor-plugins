@@ -7,14 +7,14 @@ Local-first AI agent mesh in Rust. Hard budget enforcement, adaptive model routi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [arkavo-org/arkavo-edge](https://github.com/arkavo-org/arkavo-edge).
+Original source: `AGENTS.md` in [arkavo-org/arkavo-edge](https://github.com/arkavo-org/arkavo-edge).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/arkavo-org/arkavo-edge](https://github.com/arkavo-org/arkavo-edge)
