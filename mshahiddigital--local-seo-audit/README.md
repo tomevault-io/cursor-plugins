@@ -7,11 +7,11 @@ Complete 21-phase local business SEO audit plugin for Claude Code — 24 skills,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mshahiddigital/local-seo-audit](https://github.com/mshahiddigital/local-seo-audit).
+Original source: `CLAUDE.md` in [mshahiddigital/local-seo-audit](https://github.com/mshahiddigital/local-seo-audit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
