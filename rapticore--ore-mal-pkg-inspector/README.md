@@ -7,11 +7,11 @@ Multi-Ecosystem Malicious Package Detection and Supply Chain Security Scanner
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [rapticore/ore-mal-pkg-inspector](https://github.com/rapticore/ore-mal-pkg-inspector).
+Original source: `CLAUDE.md` in [rapticore/ore-mal-pkg-inspector](https://github.com/rapticore/ore-mal-pkg-inspector).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
