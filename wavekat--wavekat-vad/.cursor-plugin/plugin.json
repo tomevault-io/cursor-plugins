@@ -1,0 +1,11 @@
+{
+  "name": "wavekat--wavekat-vad",
+  "displayName": "wavekat-vad",
+  "version": "1.0.0",
+  "description": "Voice Activity Detection library for Rust with a unified trait interface over multiple backends (WebRTC VAD, Silero). Includes vad-lab, a web-based tool for live experimentation and comparison.",
+  "author": {
+    "name": "wavekat",
+    "url": "https://github.com/wavekat"
+  },
+  "homepage": "https://github.com/wavekat/wavekat-vad"
+}
