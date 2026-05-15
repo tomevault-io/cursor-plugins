@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills).
+Original source: `CLAUDE.md` in [minhnv0807/ai-business-skills](https://github.com/minhnv0807/ai-business-skills).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
