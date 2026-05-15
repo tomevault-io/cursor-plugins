@@ -7,11 +7,11 @@ transformers.js inference server
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [runpod-labs/wandler](https://github.com/runpod-labs/wandler).
+Original source: `CLAUDE.md` in [runpod-labs/wandler](https://github.com/runpod-labs/wandler).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
