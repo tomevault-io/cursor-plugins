@@ -7,11 +7,11 @@ The AI Linter
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [be-wise-be-kind/thai-lint](https://github.com/be-wise-be-kind/thai-lint).
+Original source: `CLAUDE.md` in [be-wise-be-kind/thai-lint](https://github.com/be-wise-be-kind/thai-lint).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
