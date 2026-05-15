@@ -7,11 +7,11 @@ Company Memory for AI Agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jp-carrilloe/pulseOS-lite](https://github.com/jp-carrilloe/pulseOS-lite).
+Original source: `CLAUDE.md` in [jp-carrilloe/pulseOS-lite](https://github.com/jp-carrilloe/pulseOS-lite).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
