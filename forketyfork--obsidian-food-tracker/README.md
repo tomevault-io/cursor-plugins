@@ -7,11 +7,11 @@ An Obsidian plugin to track your food intake (calories, macronutrients) and nutr
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [forketyfork/obsidian-food-tracker](https://github.com/forketyfork/obsidian-food-tracker).
+Original source: `CLAUDE.md` in [forketyfork/obsidian-food-tracker](https://github.com/forketyfork/obsidian-food-tracker).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
