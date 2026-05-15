@@ -7,11 +7,11 @@ Agent-driven inspection toolkit for Tauri desktop apps
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cesarandreslopez/tauri-agent-tools](https://github.com/cesarandreslopez/tauri-agent-tools).
+Original source: `CLAUDE.md` in [cesarandreslopez/tauri-agent-tools](https://github.com/cesarandreslopez/tauri-agent-tools).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
