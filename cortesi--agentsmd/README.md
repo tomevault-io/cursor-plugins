@@ -7,11 +7,11 @@ Render per-project AGENTS.md and CLAUDE.md files from a common source
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cortesi/agentsmd](https://github.com/cortesi/agentsmd).
+Original source: `CLAUDE.md` in [cortesi/agentsmd](https://github.com/cortesi/agentsmd).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
