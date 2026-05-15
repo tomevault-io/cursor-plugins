@@ -1,0 +1,11 @@
+{
+  "name": "perryts--redis",
+  "displayName": "redis",
+  "version": "1.0.0",
+  "description": "Pure-TypeScript Redis / Valkey wire-protocol driver. Runs unchanged on Node.js + Bun, AOT-compiles to a native binary via Perry (LLVM).",
+  "author": {
+    "name": "PerryTS",
+    "url": "https://github.com/PerryTS"
+  },
+  "homepage": "https://github.com/PerryTS/redis"
+}
