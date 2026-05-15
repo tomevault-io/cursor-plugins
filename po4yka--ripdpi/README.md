@@ -7,11 +7,11 @@ Android app for internet speed-up during active DPI with a local SOCKS5 proxy an
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [po4yka/RIPDPI](https://github.com/po4yka/RIPDPI).
+Original source: `CLAUDE.md` in [po4yka/RIPDPI](https://github.com/po4yka/RIPDPI).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
