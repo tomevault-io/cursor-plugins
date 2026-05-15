@@ -7,11 +7,11 @@ DockaShell is an MCP server that gives AI agents isolated Docker containers to w
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [anzax/dockashell](https://github.com/anzax/dockashell).
+Original source: `CLAUDE.md` in [anzax/dockashell](https://github.com/anzax/dockashell).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
