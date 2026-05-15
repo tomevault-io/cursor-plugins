@@ -7,11 +7,11 @@ Clarity is an interactive introspection and visualization tool for Elixir, Ash a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [team-alembic/clarity](https://github.com/team-alembic/clarity).
+Original source: `CLAUDE.md` in [team-alembic/clarity](https://github.com/team-alembic/clarity).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
