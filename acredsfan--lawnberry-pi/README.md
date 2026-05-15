@@ -7,12 +7,12 @@ LawnBerryPi is an autonomous lawn mower platform designed for Raspberry Pi OS Bo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [acredsfan/lawnberry_pi](https://github.com/acredsfan/lawnberry_pi).
+Original source: `AGENTS.md` in [acredsfan/lawnberry_pi](https://github.com/acredsfan/lawnberry_pi).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
