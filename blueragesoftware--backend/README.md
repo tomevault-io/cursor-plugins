@@ -7,11 +7,11 @@ Craft and run Agents right from your phone
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [blueragesoftware/backend](https://github.com/blueragesoftware/backend).
+Original source: `CLAUDE.md` in [blueragesoftware/backend](https://github.com/blueragesoftware/backend).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
