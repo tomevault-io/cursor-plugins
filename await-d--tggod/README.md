@@ -7,11 +7,11 @@ TgGod 是一个功能强大的 Telegram 群组媒体下载管理系统，通过�
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Await-d/TgGod](https://github.com/Await-d/TgGod).
+Original source: `CLAUDE.md` in [Await-d/TgGod](https://github.com/Await-d/TgGod).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
