@@ -7,11 +7,11 @@ Personal macOS meeting transcription — OpenAI / Speechmatics / on-device Whisp
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla).
+Original source: `CLAUDE.md` in [michaelwilhelmsen/humla](https://github.com/michaelwilhelmsen/humla).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
