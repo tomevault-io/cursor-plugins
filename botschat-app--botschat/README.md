@@ -1,0 +1,30 @@
+# botsChat
+
+> Tome by [botschat-app](https://github.com/botschat-app/botsChat) — distributed by [TomeVault](https://tomevault.io)
+
+Chat with your bots easily
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [botschat-app/botsChat](https://github.com/botschat-app/botsChat).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/botschat-app/botsChat](https://github.com/botschat-app/botsChat)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install botschat-app/botsChat
+```
+Source: [github.com/botschat-app/botsChat](https://github.com/botschat-app/botsChat).
+
+<!-- genome:t-i-q -->
