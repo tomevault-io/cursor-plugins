@@ -7,11 +7,11 @@ mTarsier - The Open Source MCP & Skill Manager for Claude, Cursor, VS Code & any
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mcp360/mTarsier](https://github.com/mcp360/mTarsier).
+Original source: `CLAUDE.md` in [mcp360/mTarsier](https://github.com/mcp360/mTarsier).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
