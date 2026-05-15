@@ -1,0 +1,30 @@
+# jetpack-compose-boilerplate
+
+> Source: [composablehorizons/jetpack-compose-boilerplate](https://github.com/composablehorizons/jetpack-compose-boilerplate) — distributed by [TomeVault](https://tomevault.io)
+
+A Jetpack Compose template to build apps using Compose on Android and Compose Unstyled.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [composablehorizons/jetpack-compose-boilerplate](https://github.com/composablehorizons/jetpack-compose-boilerplate).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [composablehorizons/jetpack-compose-boilerplate](https://github.com/composablehorizons/jetpack-compose-boilerplate) — a repo with 15+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install composablehorizons/jetpack-compose-boilerplate
+```
+Source: [github.com/composablehorizons/jetpack-compose-boilerplate](https://github.com/composablehorizons/jetpack-compose-boilerplate).
+
+<!-- genome:d-i-s -->
