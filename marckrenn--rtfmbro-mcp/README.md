@@ -7,12 +7,12 @@ rtfmbro provides always-up-to-date, version-specific package documentation as co
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [marckrenn/rtfmbro-mcp](https://github.com/marckrenn/rtfmbro-mcp).
+Original source: `CLAUDE.md` in [marckrenn/rtfmbro-mcp](https://github.com/marckrenn/rtfmbro-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
