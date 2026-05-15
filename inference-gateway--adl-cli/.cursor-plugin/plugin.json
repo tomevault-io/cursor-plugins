@@ -2,9 +2,10 @@
   "name": "inference-gateway--adl-cli",
   "displayName": "adl-cli",
   "version": "1.0.0",
-  "description": "adl-cli",
+  "description": "A command-line tool to scaffold and manage enterprise-ready AI Agents powered by the A2A (Agent-to-Agent) protocol",
   "author": {
-    "name": "inference-gateway"
+    "name": "inference-gateway",
+    "url": "https://github.com/inference-gateway"
   },
-  "homepage": "https://tomevault.io/claim/inference-gateway"
+  "homepage": "https://github.com/inference-gateway/adl-cli"
 }
