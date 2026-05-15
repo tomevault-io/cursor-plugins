@@ -7,11 +7,11 @@ Telegram/Discord client for Claude Code
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [guzus/tg-claude](https://github.com/guzus/tg-claude).
+Original source: `CLAUDE.md` in [guzus/tg-claude](https://github.com/guzus/tg-claude).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
