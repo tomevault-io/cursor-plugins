@@ -7,11 +7,11 @@ A Unified Virtual Filesystem For AI Agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [strukto-ai/mirage](https://github.com/strukto-ai/mirage).
+Original source: `CLAUDE.md` in [strukto-ai/mirage](https://github.com/strukto-ai/mirage).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
