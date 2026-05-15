@@ -7,11 +7,11 @@ Cyber Ware FrontX - UI development kit for modern SaaS applications
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cyberfabric/cyberware-frontx](https://github.com/cyberfabric/cyberware-frontx).
+Original source: `CLAUDE.md` in [cyberfabric/cyberware-frontx](https://github.com/cyberfabric/cyberware-frontx).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
