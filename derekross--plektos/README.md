@@ -2,20 +2,22 @@
 
 > Source: [derekross/plektos](https://github.com/derekross/plektos) — distributed by [TomeVault](https://tomevault.io)
 
+Plektos is a decentralized meetup, events, and calendar platform built on Nostr.
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [derekross/plektos](https://github.com/derekross/plektos).
+Original source: `CLAUDE.md` in [derekross/plektos](https://github.com/derekross/plektos).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. [Browse all formats](https://tomevault.io/claim/derekross)
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/derekross/plektos](https://github.com/derekross/plektos)
 
 ---
 
