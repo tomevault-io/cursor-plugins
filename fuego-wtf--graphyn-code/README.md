@@ -7,11 +7,11 @@ Your AI dev team member, one command away.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [fuego-wtf/graphyn-code](https://github.com/fuego-wtf/graphyn-code).
+Original source: `CLAUDE.md` in [fuego-wtf/graphyn-code](https://github.com/fuego-wtf/graphyn-code).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
