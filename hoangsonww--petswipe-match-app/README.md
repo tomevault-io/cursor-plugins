@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hoangsonww/PetSwipe-Match-App](https://github.com/hoangsonww/PetSwipe-Match-App).
+Original source: `CLAUDE.md` in [hoangsonww/PetSwipe-Match-App](https://github.com/hoangsonww/PetSwipe-Match-App).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
