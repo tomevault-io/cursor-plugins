@@ -7,11 +7,11 @@ A multimodal chat input component for Streamlit with file upload, voice recordin
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tsuzukia21/st-chat-input-multimodal](https://github.com/tsuzukia21/st-chat-input-multimodal).
+Original source: `CLAUDE.md` in [tsuzukia21/st-chat-input-multimodal](https://github.com/tsuzukia21/st-chat-input-multimodal).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
