@@ -7,11 +7,11 @@ Real-world browser-agent benchmark: 210 tasks across 107 websites, multi-agent/m
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lexmount/browseruse-agent-bench](https://github.com/lexmount/browseruse-agent-bench).
+Original source: `CLAUDE.md` in [lexmount/browseruse-agent-bench](https://github.com/lexmount/browseruse-agent-bench).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
