@@ -1,0 +1,11 @@
+{
+  "name": "williamcotton--webpipe-c",
+  "displayName": "webpipe-c",
+  "version": "1.0.0",
+  "description": "An experimental web server runtime that processes HTTP requests through declarative pipeline configurations. Built in C with libmicrohttpd and JSON data flow between pipeline steps.",
+  "author": {
+    "name": "williamcotton",
+    "url": "https://github.com/williamcotton"
+  },
+  "homepage": "https://github.com/williamcotton/webpipe-c"
+}
