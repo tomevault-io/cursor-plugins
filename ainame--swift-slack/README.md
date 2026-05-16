@@ -7,11 +7,11 @@ Swift library for building Slack Apps powered by swift-openapi-generator with CI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ainame/swift-slack](https://github.com/ainame/swift-slack).
+Original source: `CLAUDE.md` in [ainame/swift-slack](https://github.com/ainame/swift-slack).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
