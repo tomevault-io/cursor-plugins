@@ -7,11 +7,11 @@ A simple issue management utility aimed for agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [erankavija/just-in-time](https://github.com/erankavija/just-in-time).
+Original source: `CLAUDE.md` in [erankavija/just-in-time](https://github.com/erankavija/just-in-time).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
