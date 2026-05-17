@@ -7,11 +7,11 @@ Give AI your judgment, not just your notes. 4-command Knowledge Transformation p
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [livenode-ai/kx-pipeline](https://github.com/livenode-ai/kx-pipeline).
+Original source: `CLAUDE.md` in [livenode-ai/kx-pipeline](https://github.com/livenode-ai/kx-pipeline).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
