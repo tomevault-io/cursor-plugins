@@ -7,11 +7,11 @@ MCP servers for the UniFi suite of applications, Network, Protect, Access, and D
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp).
+Original source: `AGENTS.md` in [sirkirby/unifi-mcp](https://github.com/sirkirby/unifi-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
