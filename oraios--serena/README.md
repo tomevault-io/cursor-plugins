@@ -7,11 +7,11 @@ A powerful MCP toolkit for coding, providing semantic retrieval and editing capa
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [oraios/serena](https://github.com/oraios/serena).
+Original source: `CLAUDE.md` in [oraios/serena](https://github.com/oraios/serena).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
