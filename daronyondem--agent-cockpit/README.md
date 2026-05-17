@@ -7,11 +7,11 @@ Run AI assistants from your browser. Keep your data. Switch vendors anytime.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [daronyondem/agent-cockpit](https://github.com/daronyondem/agent-cockpit).
+Original source: `AGENTS.md` in [daronyondem/agent-cockpit](https://github.com/daronyondem/agent-cockpit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
