@@ -7,12 +7,12 @@ Universal Python SDK to run AI workloads on Kubernetes
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [kubeflow/sdk](https://github.com/kubeflow/sdk).
+Original source: `CLAUDE.md` in [kubeflow/sdk](https://github.com/kubeflow/sdk).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
