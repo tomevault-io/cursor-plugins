@@ -7,11 +7,11 @@ Terminal UI for Proxmox VE
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui).
+Original source: `AGENTS.md` in [devnullvoid/pvetui](https://github.com/devnullvoid/pvetui).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
