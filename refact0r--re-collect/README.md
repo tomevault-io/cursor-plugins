@@ -7,11 +7,11 @@ personal visual inspiration library
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [refact0r/re-collect](https://github.com/refact0r/re-collect).
+Original source: `CLAUDE.md` in [refact0r/re-collect](https://github.com/refact0r/re-collect).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
