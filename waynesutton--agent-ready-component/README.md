@@ -7,11 +7,11 @@ A Convex component that auto-generates, caches, and serves llms.txt, agents.md, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [waynesutton/agent-ready-component](https://github.com/waynesutton/agent-ready-component).
+Original source: `AGENTS.md` in [waynesutton/agent-ready-component](https://github.com/waynesutton/agent-ready-component).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
