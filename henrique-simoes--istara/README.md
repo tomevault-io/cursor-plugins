@@ -7,14 +7,14 @@ Agentic Research Orchestration for UX Research and Product Development. Vibe and
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [henrique-simoes/Istara](https://github.com/henrique-simoes/Istara).
+Original source: `AGENTS.md` in [henrique-simoes/Istara](https://github.com/henrique-simoes/Istara).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/henrique-simoes/Istara](https://github.com/henrique-simoes/Istara)
