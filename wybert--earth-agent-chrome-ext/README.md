@@ -7,14 +7,14 @@ Earth Agent is a Cursor-like AI agent for Google Earth Engine. It can be used ri
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [wybert/earth-agent-chrome-ext](https://github.com/wybert/earth-agent-chrome-ext).
+Original source: `CLAUDE.md` in [wybert/earth-agent-chrome-ext](https://github.com/wybert/earth-agent-chrome-ext).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/wybert/earth-agent-chrome-ext](https://github.com/wybert/earth-agent-chrome-ext)
