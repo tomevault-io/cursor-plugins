@@ -7,12 +7,12 @@ An interactive blog demo exploring Async React patterns with Cache Components an
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [aurorascharff/next16-async-react-blog](https://github.com/aurorascharff/next16-async-react-blog).
+Original source: `AGENTS.md` in [aurorascharff/next16-async-react-blog](https://github.com/aurorascharff/next16-async-react-blog).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
