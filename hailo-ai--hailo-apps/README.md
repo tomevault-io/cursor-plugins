@@ -1,0 +1,28 @@
+# AI instruction files for hailo-apps
+
+> Sourced from [hailo-ai/hailo-apps](https://github.com/hailo-ai/hailo-apps) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `copilot-instructions.md` in [hailo-ai/hailo-apps](https://github.com/hailo-ai/hailo-apps).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/hailo-ai/hailo-apps](https://github.com/hailo-ai/hailo-apps)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install hailo-ai/hailo-apps
+```
+Source: [github.com/hailo-ai/hailo-apps](https://github.com/hailo-ai/hailo-apps).
+
+<!-- genome:a-i-q -->
