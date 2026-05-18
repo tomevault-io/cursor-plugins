@@ -7,12 +7,12 @@ MCP server that enables AI assistants to interact with Linear project management
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [tacticlaunch/mcp-linear](https://github.com/tacticlaunch/mcp-linear).
+Original source: `AGENTS.md` in [tacticlaunch/mcp-linear](https://github.com/tacticlaunch/mcp-linear).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
