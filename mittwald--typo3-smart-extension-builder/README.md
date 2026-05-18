@@ -7,11 +7,11 @@ Build TYPO3 extensions with Agentic AI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mittwald/typo3-smart-extension-builder](https://github.com/mittwald/typo3-smart-extension-builder).
+Original source: `CLAUDE.md` in [mittwald/typo3-smart-extension-builder](https://github.com/mittwald/typo3-smart-extension-builder).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
