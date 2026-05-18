@@ -7,11 +7,11 @@ Manage your Hevy workouts, routines, folders, and exercise templates. Create and
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [chrisdoc/hevy-mcp](https://github.com/chrisdoc/hevy-mcp).
+Original source: `CLAUDE.md` in [chrisdoc/hevy-mcp](https://github.com/chrisdoc/hevy-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
