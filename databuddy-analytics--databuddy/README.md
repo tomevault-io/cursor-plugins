@@ -7,11 +7,11 @@ Databuddy is a privacy-first analytics platform with a focus on user experience,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy).
+Original source: `AGENTS.md` in [databuddy-analytics/Databuddy](https://github.com/databuddy-analytics/Databuddy).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
