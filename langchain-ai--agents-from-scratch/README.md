@@ -7,11 +7,11 @@ Build an email assistant with human-in-the-loop and memory
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch).
+Original source: `AGENTS.md` in [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
