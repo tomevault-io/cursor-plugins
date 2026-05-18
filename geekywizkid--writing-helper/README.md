@@ -1,0 +1,26 @@
+# writing-helper
+
+> Source: [GeekyWizKid/writing-helper](https://github.com/GeekyWizKid/writing-helper) — distributed by [TomeVault](https://tomevault.io)
+
+A Next.js-based AI writing assistant supporting multiple LLM APIs (OpenAI, Claude, Gemini, etc.) with rich style customization features to help content creators improve quality and efficiency.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [GeekyWizKid/writing-helper](https://github.com/GeekyWizKid/writing-helper).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/GeekyWizKid/writing-helper](https://github.com/GeekyWizKid/writing-helper)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:d-e-q -->
