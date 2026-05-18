@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [looizinho/kimi-portfolio](https://github.com/looizinho/kimi-portfolio).
+Original source: `CLAUDE.md` in [looizinho/kimi-portfolio](https://github.com/looizinho/kimi-portfolio).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
