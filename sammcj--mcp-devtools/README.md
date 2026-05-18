@@ -7,12 +7,12 @@ A modular MCP server that provides commonly used developer tools for AI coding a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [sammcj/mcp-devtools](https://github.com/sammcj/mcp-devtools).
+Original source: `CLAUDE.md` in [sammcj/mcp-devtools](https://github.com/sammcj/mcp-devtools).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
