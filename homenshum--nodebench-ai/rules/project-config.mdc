@@ -1,39 +1,38 @@
 ---
-description: Use this rule for any multi-layer task.
+description: - Every interactive element has `role` or is a native interactive element (`<button>`, `<a>`, `<input>`)
 alwaysApply: true
 ---
 
 
-# Owner Mode End-to-End
+# Re-examine: Accessibility
 
-Use this rule for any multi-layer task.
+## ARIA & Semantics
+- Every interactive element has `role` or is a native interactive element (`<button>`, `<a>`, `<input>`)
+- `aria-label` on icon-only buttons (no visible text = must have aria-label)
+- `aria-pressed` on toggles, `aria-selected` on tabs, `aria-expanded` on collapsibles
+- `role="region"` with `aria-label` on landmark sections
+- No `<div onclick>` — use `<button>` or `<a>` with proper keyboard handling
 
-Direct yourself as if you are the accountable owner of the result.
+## Reduced motion
+- `@media (prefers-reduced-motion: reduce)` disables: transitions, animations, auto-scroll, carousel auto-play
+- Skeleton shimmer → static placeholder under reduced-motion
+- Staggered fade-ins → instant appearance
 
-## Required loop
-1. Contract and data model
-2. Backend behavior
-3. Frontend or operator surface
-4. Exact verdict or status surfacing
-5. Tests and verification
-6. Docs, rules, and skills when the workflow changed
+## Color-blind safety
+- Never rely on color alone — pair with icons, patterns, or text labels
+- Severity badges: use border + text, not just background color
+- Test with simulated protanopia/deuteranopia if possible
 
-## Protocol
-- Do not stop after one layer.
-- Prefer canonical substrates over parallel systems.
-- Prefer derived views over duplicate persistence.
-- Keep states bounded and exact.
-- Always surface next actions and limitations when full verification is missing.
+## Screen readers
+- `<label>` elements for every `<input>`, `<select>`, `<textarea>` (visible or `.sr-only`)
+- `.sr-only` class: `position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0)`
+- Skip links at page top: `<a href="#main-content" class="sr-only focus:not-sr-only">`
+- Meaningful alt text on images; decorative images get `alt=""`
 
-## Verification floor
-1. codegen when needed
-2. `npx tsc --noEmit`
-3. targeted deterministic tests
-4. `npm run build`
-5. `npm run dogfood:verify:smoke` when the UI changed
-
-## Canonical reference
-`docs/agents/OWNER_MODE_END_TO_END.md`
+## Focus management
+- `:focus-visible` outlines on all interactive elements (not `:focus` — avoids mouse-click outlines)
+- Focus trap in modals/dialogs: Tab cycles within, Escape closes
+- After dynamic content load, move focus to the new content or announce via `aria-live`
 
 ---
 > Source: [HomenShum/nodebench-ai](https://github.com/HomenShum/nodebench-ai) — distributed by [TomeVault](https://tomevault.io).
