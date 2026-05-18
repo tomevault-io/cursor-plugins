@@ -7,11 +7,11 @@ QuantMind is an intelligent knowledge extraction and retrieval framework for qua
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind).
+Original source: `CLAUDE.md` in [LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
