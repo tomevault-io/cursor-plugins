@@ -7,11 +7,11 @@ A vitest extension for running evals.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [getsentry/vitest-evals](https://github.com/getsentry/vitest-evals).
+Original source: `CLAUDE.md` in [getsentry/vitest-evals](https://github.com/getsentry/vitest-evals).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
