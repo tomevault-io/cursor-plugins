@@ -7,14 +7,14 @@ Compound V — sidekick to Superpowers. Triple parallel pre-flight (code archaeo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [procoders/superpowers-v](https://github.com/procoders/superpowers-v).
+Original source: `AGENTS.md` in [procoders/superpowers-v](https://github.com/procoders/superpowers-v).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/procoders/superpowers-v](https://github.com/procoders/superpowers-v)
