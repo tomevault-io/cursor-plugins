@@ -1,0 +1,26 @@
+# AI instruction files for opensteuerauszug
+
+> Sourced from [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+Tool to generate swiss e-steuerauszug from banking exports
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `GEMINI.md` in [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:a-e-p -->
