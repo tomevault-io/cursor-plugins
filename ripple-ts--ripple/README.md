@@ -7,11 +7,11 @@ the elegant TypeScript UI framework
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple).
+Original source: `CLAUDE.md` in [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
