@@ -1,0 +1,26 @@
+# ai-rules-builder
+
+> Tome by [przeprogramowani](https://github.com/przeprogramowani/ai-rules-builder) — distributed by [TomeVault](https://tomevault.io)
+
+Generate "Rules for AI". Quickly ✨
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [przeprogramowani/ai-rules-builder](https://github.com/przeprogramowani/ai-rules-builder).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [przeprogramowani/ai-rules-builder](https://github.com/przeprogramowani/ai-rules-builder) — a repo with 257+ stars on GitHub.
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:t-c-s -->
