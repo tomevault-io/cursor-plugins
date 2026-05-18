@@ -7,14 +7,14 @@ A coding agent and general agent harness for building and orchestrating agentic 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [truffle-ai/dexto](https://github.com/truffle-ai/dexto).
+Original source: `AGENTS.md` in [truffle-ai/dexto](https://github.com/truffle-ai/dexto).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/truffle-ai/dexto](https://github.com/truffle-ai/dexto)
