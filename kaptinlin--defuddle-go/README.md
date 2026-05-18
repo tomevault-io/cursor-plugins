@@ -7,11 +7,11 @@ Go port of Defuddle for high-performance web content extraction
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kaptinlin/defuddle-go](https://github.com/kaptinlin/defuddle-go).
+Original source: `CLAUDE.md` in [kaptinlin/defuddle-go](https://github.com/kaptinlin/defuddle-go).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
