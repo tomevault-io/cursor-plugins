@@ -7,11 +7,11 @@ The lightweight, schema-first, and fully type-safe form library for React, Solid
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [open-circle/formisch](https://github.com/open-circle/formisch).
+Original source: `AGENTS.md` in [open-circle/formisch](https://github.com/open-circle/formisch).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
