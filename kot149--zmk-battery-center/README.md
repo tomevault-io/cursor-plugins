@@ -7,11 +7,11 @@ A system tray app to monitor the battery level of ZMK-based keyboards
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [kot149/zmk-battery-center](https://github.com/kot149/zmk-battery-center).
+Original source: `AGENTS.md` in [kot149/zmk-battery-center](https://github.com/kot149/zmk-battery-center).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
