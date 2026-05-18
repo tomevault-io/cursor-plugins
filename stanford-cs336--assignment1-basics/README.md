@@ -7,11 +7,11 @@ Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scra
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [stanford-cs336/assignment1-basics](https://github.com/stanford-cs336/assignment1-basics).
+Original source: `AGENTS.md` in [stanford-cs336/assignment1-basics](https://github.com/stanford-cs336/assignment1-basics).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
