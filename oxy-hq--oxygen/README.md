@@ -7,11 +7,11 @@ oxygen is the next-generation data platform for agents built with rust and duckd
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [oxy-hq/oxygen](https://github.com/oxy-hq/oxygen).
+Original source: `CLAUDE.md` in [oxy-hq/oxygen](https://github.com/oxy-hq/oxygen).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
