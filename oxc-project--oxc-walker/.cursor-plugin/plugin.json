@@ -1,0 +1,11 @@
+{
+  "name": "oxc-project--oxc-walker",
+  "displayName": "oxc-walker",
+  "version": "1.0.0",
+  "description": "A wrapper around `estree-walker` that accepts an `oxc` AST and alternatively uses `oxc-parser` to parse code.",
+  "author": {
+    "name": "oxc-project",
+    "url": "https://github.com/oxc-project"
+  },
+  "homepage": "https://github.com/oxc-project/oxc-walker"
+}
