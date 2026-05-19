@@ -7,11 +7,11 @@ CodeTracer is a user-friendly time-traveling debugger designed to support a wide
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer).
+Original source: `CLAUDE.md` in [metacraft-labs/codetracer](https://github.com/metacraft-labs/codetracer).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
