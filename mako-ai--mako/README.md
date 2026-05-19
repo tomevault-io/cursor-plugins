@@ -1,0 +1,30 @@
+# mako
+
+> Source: [mako-ai/mako](https://github.com/mako-ai/mako) — distributed by [TomeVault](https://tomevault.io)
+
+Free and open-source SQL client built for AI and the web. The new way to query your data.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [mako-ai/mako](https://github.com/mako-ai/mako).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/mako-ai/mako](https://github.com/mako-ai/mako)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install mako-ai/mako
+```
+Source: [github.com/mako-ai/mako](https://github.com/mako-ai/mako).
+
+<!-- genome:d-i-q -->
