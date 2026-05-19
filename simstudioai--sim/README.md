@@ -7,11 +7,11 @@ Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [simstudioai/sim](https://github.com/simstudioai/sim).
+Original source: `CLAUDE.md` in [simstudioai/sim](https://github.com/simstudioai/sim).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
