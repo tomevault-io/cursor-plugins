@@ -7,11 +7,11 @@ Ephemeral local dev environments for coding agents — works whether your stack 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hefgi/ecluse](https://github.com/hefgi/ecluse).
+Original source: `CLAUDE.md` in [hefgi/ecluse](https://github.com/hefgi/ecluse).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
