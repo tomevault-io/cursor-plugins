@@ -7,11 +7,11 @@ A C# library that enables automatic application updates via GitHub Releases.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [sn4k3/Updatum](https://github.com/sn4k3/Updatum).
+Original source: `CLAUDE.md` in [sn4k3/Updatum](https://github.com/sn4k3/Updatum).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
