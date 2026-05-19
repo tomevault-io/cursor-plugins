@@ -7,11 +7,11 @@ IntentKit is an open-source, self-hosted cloud agent cluster that manages a coll
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit).
+Original source: `CLAUDE.md` in [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
