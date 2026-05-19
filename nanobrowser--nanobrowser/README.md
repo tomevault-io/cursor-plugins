@@ -2,14 +2,16 @@
 
 > Sourced from [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) and converted for every major platform by [TomeVault](https://tomevault.io)
 
+Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser).
+Original source: `AGENTS.md` in [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
