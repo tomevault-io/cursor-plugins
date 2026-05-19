@@ -5,14 +5,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [denglish-w/kokoro-tts](https://github.com/denglish-w/kokoro-tts).
+Original source: `CLAUDE.md` in [denglish-w/kokoro-tts](https://github.com/denglish-w/kokoro-tts).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [denglish-w/kokoro-tts](https://github.com/denglish-w/kokoro-tts) — a repo with 0+ stars on GitHub.
