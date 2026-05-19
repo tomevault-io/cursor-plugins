@@ -7,11 +7,11 @@ A lightweight yet powerful library that provides various useful tools in React e
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [toss/react-simplikit](https://github.com/toss/react-simplikit).
+Original source: `CLAUDE.md` in [toss/react-simplikit](https://github.com/toss/react-simplikit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
