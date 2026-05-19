@@ -7,11 +7,11 @@ Open source solutions for SOC2, GDPR, and ISO27001
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [getprobo/probo](https://github.com/getprobo/probo).
+Original source: `CLAUDE.md` in [getprobo/probo](https://github.com/getprobo/probo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
