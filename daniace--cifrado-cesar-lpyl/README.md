@@ -5,14 +5,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [daniace/Cifrado-Cesar-LPYL](https://github.com/daniace/Cifrado-Cesar-LPYL).
+Original source: `copilot-instructions.md` in [daniace/Cifrado-Cesar-LPYL](https://github.com/daniace/Cifrado-Cesar-LPYL).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [daniace/Cifrado-Cesar-LPYL](https://github.com/daniace/Cifrado-Cesar-LPYL) — a repo with 0+ stars on GitHub.
