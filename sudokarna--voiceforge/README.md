@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [SudoKarNa/VoiceForge](https://github.com/SudoKarNa/VoiceForge).
+Original source: `CLAUDE.md` in [SudoKarNa/VoiceForge](https://github.com/SudoKarNa/VoiceForge).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
