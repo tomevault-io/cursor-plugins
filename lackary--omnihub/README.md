@@ -7,14 +7,14 @@ OmniHub: A cross-platform application built with Kotlin Multiplatform for aggreg
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [lackary/omnihub](https://github.com/lackary/omnihub).
+Original source: `AGENTS.md` in [lackary/omnihub](https://github.com/lackary/omnihub).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/lackary/omnihub](https://github.com/lackary/omnihub)
