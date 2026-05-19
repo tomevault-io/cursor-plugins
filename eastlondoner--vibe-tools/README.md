@@ -1,0 +1,30 @@
+# AI instruction files for vibe-tools
+
+> Sourced from [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+Give Cursor Agent an AI Team and Advanced Skills
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install eastlondoner/vibe-tools
+```
+Source: [github.com/eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools).
+
+<!-- genome:a-i-p -->
