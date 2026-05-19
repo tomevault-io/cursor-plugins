@@ -7,11 +7,11 @@ Vibe Coding!!! 🤖 AI-Powered VSCode extension for generating standardized Git/
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit).
+Original source: `CLAUDE.md` in [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
