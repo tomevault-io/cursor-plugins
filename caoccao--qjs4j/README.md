@@ -7,11 +7,11 @@ Native Java implementation of QuickJS
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [caoccao/qjs4j](https://github.com/caoccao/qjs4j).
+Original source: `CLAUDE.md` in [caoccao/qjs4j](https://github.com/caoccao/qjs4j).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
