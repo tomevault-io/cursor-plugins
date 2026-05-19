@@ -7,11 +7,11 @@ Infrastructure as TypeScript
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy).
+Original source: `CLAUDE.md` in [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
