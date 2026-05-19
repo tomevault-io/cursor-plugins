@@ -1,0 +1,26 @@
+# dingo
+
+> Source: [MigoXLab/dingo](https://github.com/MigoXLab/dingo) — distributed by [TomeVault](https://tomevault.io)
+
+Dingo: A Comprehensive AI Data, Model and Application Quality Evaluation Tool
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [MigoXLab/dingo](https://github.com/MigoXLab/dingo).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [MigoXLab/dingo](https://github.com/MigoXLab/dingo) — a repo with 700+ stars on GitHub.
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:d-e-s -->
