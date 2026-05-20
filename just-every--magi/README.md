@@ -7,11 +7,11 @@ Mostly Autonomous Generative Intelligence
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [just-every/magi](https://github.com/just-every/magi).
+Original source: `CLAUDE.md` in [just-every/magi](https://github.com/just-every/magi).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
