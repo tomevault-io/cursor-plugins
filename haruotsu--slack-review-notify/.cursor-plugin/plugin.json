@@ -1,0 +1,11 @@
+{
+  "name": "haruotsu--slack-review-notify",
+  "displayName": "slack-review-notify",
+  "version": "1.0.0",
+  "description": "A Slack bot that notifies channels on GitHub PR label events, randomly assigns reviewers, sends periodic reminders within business hours, and handles off-hours queuing. Configurable entirely via Slack",
+  "author": {
+    "name": "haruotsu",
+    "url": "https://github.com/haruotsu"
+  },
+  "homepage": "https://github.com/haruotsu/slack-review-notify"
+}
