@@ -7,11 +7,11 @@ A MCP server that is a locally running knowledge base with a hybrid vector and g
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [olafgeibig/knowledge-mcp](https://github.com/olafgeibig/knowledge-mcp).
+Original source: `CLAUDE.md` in [olafgeibig/knowledge-mcp](https://github.com/olafgeibig/knowledge-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
