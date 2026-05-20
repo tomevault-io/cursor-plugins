@@ -1,0 +1,28 @@
+# AI instruction files for luthien_control
+
+> Sourced from [LuthienResearch/luthien_control](https://github.com/LuthienResearch/luthien_control) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [LuthienResearch/luthien_control](https://github.com/LuthienResearch/luthien_control).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/LuthienResearch/luthien_control](https://github.com/LuthienResearch/luthien_control)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install LuthienResearch/luthien_control
+```
+Source: [github.com/LuthienResearch/luthien_control](https://github.com/LuthienResearch/luthien_control).
+
+<!-- genome:a-i-q -->
