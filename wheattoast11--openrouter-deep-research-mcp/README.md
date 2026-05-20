@@ -7,11 +7,11 @@ A multi-agent research MCP server + mini client adapter - orchestrates a net of 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [wheattoast11/openrouter-deep-research-mcp](https://github.com/wheattoast11/openrouter-deep-research-mcp).
+Original source: `CLAUDE.md` in [wheattoast11/openrouter-deep-research-mcp](https://github.com/wheattoast11/openrouter-deep-research-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
