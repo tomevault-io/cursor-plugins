@@ -7,11 +7,11 @@ LangBot Extension Infra including plugin runtime, SDK, sandbox and CLI tools.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [langbot-app/langbot-plugin-sdk](https://github.com/langbot-app/langbot-plugin-sdk).
+Original source: `CLAUDE.md` in [langbot-app/langbot-plugin-sdk](https://github.com/langbot-app/langbot-plugin-sdk).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
