@@ -7,11 +7,11 @@ Docker + Tart images for MAUI dev/testing
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [maui-containers/maui-containers](https://github.com/maui-containers/maui-containers).
+Original source: `CLAUDE.md` in [maui-containers/maui-containers](https://github.com/maui-containers/maui-containers).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
