@@ -1,0 +1,11 @@
+{
+  "name": "iamaleko--simplify-geojson-visvalingam",
+  "displayName": "simplify-geojson-visvalingam",
+  "version": "1.0.0",
+  "description": "Takes a GeoJSON object and returns a simplified version. Uses the Visvalingam\u2013Wyatt algorithm with additional logic for stable simplification and preservation of common boundaries.",
+  "author": {
+    "name": "iamaleko",
+    "url": "https://github.com/iamaleko"
+  },
+  "homepage": "https://github.com/iamaleko/simplify-geojson-visvalingam"
+}
