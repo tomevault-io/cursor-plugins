@@ -7,11 +7,11 @@ Interactive web-based digital logic circuit designer & simulator with AI-powered
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [KaanAydinli/LogicDrawer](https://github.com/KaanAydinli/LogicDrawer).
+Original source: `CLAUDE.md` in [KaanAydinli/LogicDrawer](https://github.com/KaanAydinli/LogicDrawer).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
