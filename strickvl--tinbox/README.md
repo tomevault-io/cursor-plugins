@@ -7,11 +7,11 @@ Translator in a box
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [strickvl/tinbox](https://github.com/strickvl/tinbox).
+Original source: `CLAUDE.md` in [strickvl/tinbox](https://github.com/strickvl/tinbox).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
