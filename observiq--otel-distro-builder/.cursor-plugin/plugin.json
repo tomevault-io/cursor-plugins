@@ -1,0 +1,11 @@
+{
+  "name": "observiq--otel-distro-builder",
+  "displayName": "otel-distro-builder",
+  "version": "1.0.0",
+  "description": "Build custom OpenTelemetry Collector Distributions from manifest files with a local build utility, Docker, Google Cloud Build, or a GitHub Action.",
+  "author": {
+    "name": "observIQ",
+    "url": "https://github.com/observIQ"
+  },
+  "homepage": "https://github.com/observIQ/otel-distro-builder"
+}
