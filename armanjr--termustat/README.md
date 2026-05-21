@@ -7,11 +7,11 @@ Termustat is the online timetabling tool for university students in Iran.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ArmanJR/termustat](https://github.com/ArmanJR/termustat).
+Original source: `CLAUDE.md` in [ArmanJR/termustat](https://github.com/ArmanJR/termustat).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
