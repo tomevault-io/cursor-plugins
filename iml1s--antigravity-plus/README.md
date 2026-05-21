@@ -7,14 +7,14 @@ The Ultimate VS Code Extension for Antigravity Power Users - Auto Accept, Quota 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [ImL1s/antigravity-plus](https://github.com/ImL1s/antigravity-plus).
+Original source: `CLAUDE.md` in [ImL1s/antigravity-plus](https://github.com/ImL1s/antigravity-plus).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [ImL1s/antigravity-plus](https://github.com/ImL1s/antigravity-plus) — a repo with 9+ stars on GitHub.
