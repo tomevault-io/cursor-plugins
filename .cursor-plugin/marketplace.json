@@ -56525,6 +56525,11 @@
       "description": "Zoneless Angular Components, that you Copy-and-Paste Integration. No Installation Required"
     },
     {
+      "name": "gelembjuk--cleverchatty",
+      "source": "./gelembjuk--cleverchatty",
+      "description": "Common AI Agent written with Go. Supports MCP, RAG, A2A, AI Memory"
+    },
+    {
       "name": "nju-link--codetracer",
       "source": "./nju-link--codetracer",
       "description": "CodeTracer"
@@ -58290,6 +58295,11 @@
       "description": "A Simple Meditation App"
     },
     {
+      "name": "cirisai--cirisagent",
+      "source": "./cirisai--cirisagent",
+      "description": "CIRISAgent"
+    },
+    {
       "name": "w3cj--ruta",
       "source": "./w3cj--ruta",
       "description": "A tiny type-safe client-side router for hono/jsx"
@@ -59028,6 +59038,11 @@
       "name": "namehash--ensnode",
       "source": "./namehash--ensnode",
       "description": "ENSNode is the full-stack ENSv2 development platform."
+    },
+    {
+      "name": "mercator-ocean--oceanbench",
+      "source": "./mercator-ocean--oceanbench",
+      "description": "Benchmark evaluating ocean forecasting systems against reference datasets and observations."
     },
     {
       "name": "bobmatnyc--claude-mpm-skills",
@@ -59778,6 +59793,11 @@
       "name": "samfold--mcp-net",
       "source": "./samfold--mcp-net",
       "description": "A fully featured C# implementation of Anthropic's Model Context Protocol (MCP)"
+    },
+    {
+      "name": "rmusser01--tldw-chatbook",
+      "source": "./rmusser01--tldw-chatbook",
+      "description": "Standalone Client for tldw_server; NotebookLM(+more) in your terminal; No tracking/Can run entirely offline"
     },
     {
       "name": "nikolasburk--livestore-tanstack-cloudflare-auth-example",
@@ -60613,6 +60633,11 @@
       "name": "tomyjan--yunzai-tomyjan-plugin",
       "source": "./tomyjan--yunzai-tomyjan-plugin",
       "description": "TomyJan \u81ea\u7528 YunzaiBot \u63d2\u4ef6"
+    },
+    {
+      "name": "ebay--evo-web",
+      "source": "./ebay--evo-web",
+      "description": "Home of our Evo branded CSS, Marko & React components"
     },
     {
       "name": "affitor--open-affiliate",
@@ -61468,6 +61493,16 @@
       "name": "bsmi021--mcp-file-context-server",
       "source": "./bsmi021--mcp-file-context-server",
       "description": "A Model Context Protocol (MCP) server that provides file system context to Large Language Models (LLMs). This server enables LLMs to read, search, and analyze code files with advanced caching and real"
+    },
+    {
+      "name": "iansinnott--vibesidian",
+      "source": "./iansinnott--vibesidian",
+      "description": "LLM agent for Obsidian with multi-turn tool-use for plugin/theme development and automation."
+    },
+    {
+      "name": "exploringml--fasthtml-cli",
+      "source": "./exploringml--fasthtml-cli",
+      "description": "Fastest way to scaffold FastHTML applications."
     },
     {
       "name": "aregowe--magento2-module-polyshell-protection",
@@ -63498,6 +63533,11 @@
       "name": "portwatcher--vue-godot",
       "source": "./portwatcher--vue-godot",
       "description": "bridging Vue.js and Godot Engine for game UI and cross platform applications"
+    },
+    {
+      "name": "paradigmxyz--centaur",
+      "source": "./paradigmxyz--centaur",
+      "description": "Multiplayer, self-hosted, secure agents."
     },
     {
       "name": "rajjjaryan--career-copilot",
@@ -67895,6 +67935,11 @@
       "description": "LLGo autogen tool for C/C++ libraries"
     },
     {
+      "name": "signagelist--signagelist",
+      "source": "./signagelist--signagelist",
+      "description": "A curated list of digital signage software."
+    },
+    {
       "name": "laskewitz--inventory-report",
       "source": "./laskewitz--inventory-report",
       "description": "Inventory API Skills"
@@ -69113,6 +69158,16 @@
       "name": "mlshukai--pamiq-core",
       "source": "./mlshukai--pamiq-core",
       "description": "Framework for building AI agents with real-time adaptive learning capabilities."
+    },
+    {
+      "name": "powdr-labs--crush",
+      "source": "./powdr-labs--crush",
+      "description": "Compiles WebAssembly into a ZK friendly IR with infinite-registers and write-once memory."
+    },
+    {
+      "name": "xudong7--tauri-rmusic",
+      "source": "./xudong7--tauri-rmusic",
+      "description": "A cross-platform desktop music player built with Tauri\u3001Rust and Vue.js."
     },
     {
       "name": "mulhamna--jira-commands",
@@ -70473,6 +70528,16 @@
       "name": "refloow--youtube-music-download",
       "source": "./refloow--youtube-music-download",
       "description": "\u2764\ufe0f Free fully open source mp3 webm youtube audio downloader as a desktop app built with node.js javascript electron ffmpeg and yt-dlp "
+    },
+    {
+      "name": "aleksejs1--obsidian-contact-sync-plugin",
+      "source": "./aleksejs1--obsidian-contact-sync-plugin",
+      "description": "Obsidian plugin for sync Google Contacts with obsidian notes"
+    },
+    {
+      "name": "useautumn--typescript",
+      "source": "./useautumn--typescript",
+      "description": "Official collection of Typescript packages for interacting with Autumn"
     },
     {
       "name": "aeroxy--ast-outline",
@@ -71918,6 +71983,31 @@
       "name": "keathmilligan--obsidian-paste-reformatter",
       "source": "./keathmilligan--obsidian-paste-reformatter",
       "description": "A plugin for Obsidian that reformats pasted HTML and plain text content, giving you precise control over how content is transformed when pasted into your notes."
+    },
+    {
+      "name": "lee-lou2--aws-ses-sender",
+      "source": "./lee-lou2--aws-ses-sender",
+      "description": "[Rust] AWS SES Email Sender"
+    },
+    {
+      "name": "layr-labs--devkit-cli",
+      "source": "./layr-labs--devkit-cli",
+      "description": "A CLI toolkit for scaffolding, developing, and testing EigenLayer Autonomous Verifiable Services (AVS)."
+    },
+    {
+      "name": "williambryk--paperclip-adapter",
+      "source": "./williambryk--paperclip-adapter",
+      "description": "A Paperclip adapter that lets you run Hermes Agent as a managed employee in a Paperclip company."
+    },
+    {
+      "name": "rollbar--rollbar-mcp-server",
+      "source": "./rollbar--rollbar-mcp-server",
+      "description": "Model Context Protocol server for Rollbar"
+    },
+    {
+      "name": "matchory--docker-swarm-deployment-action",
+      "source": "./matchory--docker-swarm-deployment-action",
+      "description": "A GitHub action to deploy a stack to a Docker Swarm Mode cluster."
     },
     {
       "name": "10xchengtu--mux0",
@@ -73563,6 +73653,31 @@
       "name": "flywhl--cyantic",
       "source": "./flywhl--cyantic",
       "description": "Build complex types from simple blueprints with Pydantic"
+    },
+    {
+      "name": "mcindi--delve",
+      "source": "./mcindi--delve",
+      "description": "A versatile and powerful data platform allowing interactive searches, dashboards, alerts, and more."
+    },
+    {
+      "name": "sunling--inspireplanet-cc",
+      "source": "./sunling--inspireplanet-cc",
+      "description": "\u5236\u4f5c\u77e5\u8bc6\u5361\u7247\uff0c\u6d4f\u89c8\u542f\u53d1\u661f\u7403\u6bcf\u5468\u4f1a\u8bae\u91d1\u53e5\u5361\u7247"
+    },
+    {
+      "name": "smartsheet-platform--smar-mcp",
+      "source": "./smartsheet-platform--smar-mcp",
+      "description": "Smartsheet MCP Server"
+    },
+    {
+      "name": "pigna90--crewai-workshops",
+      "source": "./pigna90--crewai-workshops",
+      "description": "crewai-workshops"
+    },
+    {
+      "name": "red-hat-ai-innovation-team--mini-trainer",
+      "source": "./red-hat-ai-innovation-team--mini-trainer",
+      "description": "fast trainer for educational purposes"
     },
     {
       "name": "jojobeans1981--ember-campfire-edition",
@@ -76843,6 +76958,16 @@
       "name": "jdkruzr--rectangularfile",
       "source": "./jdkruzr--rectangularfile",
       "description": "The Rectangular File"
+    },
+    {
+      "name": "leoalioth--dynamic-ocpp-evse",
+      "source": "./leoalioth--dynamic-ocpp-evse",
+      "description": "Intelligent load management for Home Assistant. Dynamically distributes available power across your managed loads \u2014 EV chargers (via OCPP), smart plugs, and more \u2014 based on solar production, battery s"
+    },
+    {
+      "name": "yapit-tts--yapit",
+      "source": "./yapit-tts--yapit",
+      "description": "Listen to anything. TTS for documents, papers, and web pages."
     },
     {
       "name": "iamtouchskyer--logex",
@@ -80138,6 +80263,26 @@
       "name": "growthbook--growthbook-mcp",
       "source": "./growthbook--growthbook-mcp",
       "description": "Official GrowthBook MCP server for creating flags, getting experiments, and more."
+    },
+    {
+      "name": "crimsab--ggdeals-steam-companion",
+      "source": "./crimsab--ggdeals-steam-companion",
+      "description": "A ggdeals companion for Steam. Check the lowest prices in seconds."
+    },
+    {
+      "name": "rameerez--telegrama",
+      "source": "./rameerez--telegrama",
+      "description": "\ud83d\udcac Send Telegram admin notifications in your Rails app"
+    },
+    {
+      "name": "sourav9063--flash-nvim-for-vscode",
+      "source": "./sourav9063--flash-nvim-for-vscode",
+      "description": "flash nvim for vscode. flash vscode."
+    },
+    {
+      "name": "robert-at-pretension-io--a2a",
+      "source": "./robert-at-pretension-io--a2a",
+      "description": "Rust A2A tools for the greater good"
     },
     {
       "name": "heyaohuo--templateflow",
@@ -83905,6 +84050,21 @@
       "description": "rotating proxy system"
     },
     {
+      "name": "lambdasection--neuraldbg",
+      "source": "./lambdasection--neuraldbg",
+      "description": "A causal inference engine for deep learning training that provides structured explanations of neural network training failures. Understand why your model failed during training through semantic analys"
+    },
+    {
+      "name": "lambdasection--neuraldbg",
+      "source": "./lambdasection--neuraldbg",
+      "description": "A causal inference engine for deep learning training that provides structured explanations of neural network training failures. Understand why your model failed during training through semantic analys"
+    },
+    {
+      "name": "imaging-formats--bffile",
+      "source": "./imaging-formats--bffile",
+      "description": "Modern Bio-Formats wrapper with clean lazy Python API"
+    },
+    {
       "name": "googlecloudplatform--cxas-scrapi",
       "source": "./googlecloudplatform--cxas-scrapi",
       "description": "cxas-scrapi"
@@ -85923,6 +86083,11 @@
       "name": "mhaowork--warranty-watcher",
       "source": "./mhaowork--warranty-watcher",
       "description": "A web portal for updating device warranty info. Designed for MSPs. RMM & PSA Integrations built-in"
+    },
+    {
+      "name": "yageey--osu-find-songs",
+      "source": "./yageey--osu-find-songs",
+      "description": "A web app that links osu! with Spotify: scan your osu! songs to get playlists, or find beatmaps from a playlist"
     },
     {
       "name": "nirholas--auto-kill-terminal",
@@ -88263,6 +88428,31 @@
       "name": "homeassistant-extras--zwave-card-set",
       "source": "./homeassistant-extras--zwave-card-set",
       "description": "Set of cards for different Zooz Z-Wave devices"
+    },
+    {
+      "name": "fwu-de--ais-chat",
+      "source": "./fwu-de--ais-chat",
+      "description": "AIS.chat \u2013 Der KI-Chatbot f\u00fcr die Schule"
+    },
+    {
+      "name": "huangsam--namigo",
+      "source": "./huangsam--namigo",
+      "description": "Your naming pal, written in Go \ud83d\udc36"
+    },
+    {
+      "name": "activeinferenceinstitute--cognitive",
+      "source": "./activeinferenceinstitute--cognitive",
+      "description": "cognitive"
+    },
+    {
+      "name": "fwu-de--ais-chat",
+      "source": "./fwu-de--ais-chat",
+      "description": "AIS.chat \u2013 Der KI-Chatbot f\u00fcr die Schule"
+    },
+    {
+      "name": "mrdav30--gridforge",
+      "source": "./mrdav30--gridforge",
+      "description": "A high-performance, deterministic voxel grid system for spatial partitioning, simulation, and game development"
     },
     {
       "name": "goldhorsedev0101--testing-ai",
@@ -91060,6 +91250,11 @@
       "description": "Command-Line Normalizer, Rewriter, and Dataizer of \ud835\udf11-Calculus Expressions"
     },
     {
+      "name": "kommodity-io--kommodity",
+      "source": "./kommodity-io--kommodity",
+      "description": "A single binary to power the sovereign backbone of your digital infrastructure."
+    },
+    {
       "name": "13point5--agent-canvas",
       "source": "./13point5--agent-canvas",
       "description": "agent-canvas"
@@ -93578,6 +93773,21 @@
       "name": "jiaqianjing--comfyui-midjourneyhub",
       "source": "./jiaqianjing--comfyui-midjourneyhub",
       "description": "ComfyUI \u4e2d\u4f7f\u7528\u5546\u4e1a\u6a21\u578b\u7ed8\u56fe\uff08GPT-Image, MJ, Recraft, Ideogram \u7b49\uff09"
+    },
+    {
+      "name": "donaldfilimon--abi",
+      "source": "./donaldfilimon--abi",
+      "description": "ABI Agent + WDBX Database: A high-speed, fully optimized AI and ML training stack developed in Zig 0.16.0-dev, offering exceptional performance and reliability."
+    },
+    {
+      "name": "donaldfilimon--abi",
+      "source": "./donaldfilimon--abi",
+      "description": "ABI Agent + WDBX Database: A high-speed, fully optimized AI and ML training stack developed in Zig 0.16.0-dev, offering exceptional performance and reliability."
+    },
+    {
+      "name": "trly--quad-ops",
+      "source": "./trly--quad-ops",
+      "description": "GitOps for Quadlet"
     },
     {
       "name": "fcoury--termwright",
@@ -96223,6 +96433,11 @@
       "name": "eldara-tech--swarmcli",
       "source": "./eldara-tech--swarmcli",
       "description": "A terminal UI for Docker Swarm that makes cluster state easier to see, understand, and reason about."
+    },
+    {
+      "name": "monksealseal--weatherflow",
+      "source": "./monksealseal--weatherflow",
+      "description": "weatherflow"
     },
     {
       "name": "hyaway--hyaway",
@@ -99113,6 +99328,31 @@
       "name": "mrgoonie--searchapi-mcp-server",
       "source": "./mrgoonie--searchapi-mcp-server",
       "description": "TypeScript Model Context Protocol (MCP) server boilerplate providing search API tools/resources. Includes CLI support and extensible structure for connecting AI systems (LLMs) to external data sources"
+    },
+    {
+      "name": "balintbrews--canvas-starter",
+      "source": "./balintbrews--canvas-starter",
+      "description": "Get the latest experimental features for Drupal Canvas Code Components with this template repository for Drupal Canvas Create."
+    },
+    {
+      "name": "oetiker--go-acme-dns-manager",
+      "source": "./oetiker--go-acme-dns-manager",
+      "description": "Automate the process of obtaining and renewing Let's Encrypt certificates using the DNS-01 challenge"
+    },
+    {
+      "name": "jeremylong--open-vulnerability-clients",
+      "source": "./jeremylong--open-vulnerability-clients",
+      "description": "Java library for working with available vulnerability data sources (GitHub Security Advisories, NVD, EPSS, CISA Known Exploited Vulnerabilities, etc.)"
+    },
+    {
+      "name": "matfroh--sax-battery-ha",
+      "source": "./matfroh--sax-battery-ha",
+      "description": "This is a home assistant custom component to manage 1 or more SAX batteries."
+    },
+    {
+      "name": "rtsoliday--elegant",
+      "source": "./rtsoliday--elegant",
+      "description": "Tool for simulating particle accelerators. Models beam dynamics, tracks particles, optimizes accelerator parameters."
     },
     {
       "name": "mohiwalla--memes",
@@ -106405,6 +106645,26 @@
       "description": "A framework to build command-line applications in Rust"
     },
     {
+      "name": "roklenarcic--mcp-server",
+      "source": "./roklenarcic--mcp-server",
+      "description": "MCP Server library"
+    },
+    {
+      "name": "galvanized-pukeko--gaunt-sloth-assistant",
+      "source": "./galvanized-pukeko--gaunt-sloth-assistant",
+      "description": "CLI AI assistant doing your code reviews"
+    },
+    {
+      "name": "kagenti--agent-examples",
+      "source": "./kagenti--agent-examples",
+      "description": "Sample Agents and Tools for Kagenti platform"
+    },
+    {
+      "name": "binary-install--binstaller",
+      "source": "./binary-install--binstaller",
+      "description": "binstaller (binst) is a config-driven secure shell-script installer generator that creates reproducible installation scripts for static binaries distributed via GitHub releases. "
+    },
+    {
       "name": "godblessamki--workout-tracker",
       "source": "./godblessamki--workout-tracker",
       "description": "IronTrack is a native iOS workout tracker built with SwiftUI and SwiftData. It allows users to create custom workout routines and exercises. During active sessions, it automatically displays the maxim"
@@ -110363,6 +110623,26 @@
       "name": "restdb--codehooks-mcp-server",
       "source": "./restdb--codehooks-mcp-server",
       "description": "MCP server for codehooks.io"
+    },
+    {
+      "name": "mh4gf--rulens",
+      "source": "./mh4gf--rulens",
+      "description": "No more maintaining coding guidelines. Your linter rules to AI instructions, instantly."
+    },
+    {
+      "name": "racedirector--iracing-data-api",
+      "source": "./racedirector--iracing-data-api",
+      "description": "Axios API implementation and cli for the `/data` API on iRacing"
+    },
+    {
+      "name": "yaosqee--xilian-agent",
+      "source": "./yaosqee--xilian-agent",
+      "description": "xilian-agent"
+    },
+    {
+      "name": "c4pt0r--pie",
+      "source": "./c4pt0r--pie",
+      "description": "Rust port of the pi agent harness \u2014 coding agent + LLM runtime stack"
     },
     {
       "name": "makenowjust--naraku",
@@ -116043,6 +116323,56 @@
       "name": "techyogi--obsidian-limitless-google-calendar",
       "source": "./techyogi--obsidian-limitless-google-calendar",
       "description": "obsidian-limitless-google-calendar"
+    },
+    {
+      "name": "lucaam--ikea-obegransad-led",
+      "source": "./lucaam--ikea-obegransad-led",
+      "description": "HACS Plugin to control IKEA OBEGR\u00c4NSAD Wall Lamp hacked with ph1p/ikea-led-obegraensad and ESP device"
+    },
+    {
+      "name": "egil--framework",
+      "source": "./egil--framework",
+      "description": "A collection of libraries!"
+    },
+    {
+      "name": "sandstorm--serious-game-legacy",
+      "source": "./sandstorm--serious-game-legacy",
+      "description": "Serious Game \"Legacy\" // Uni Konstanz (digitale Umsetzung des Spiels \"Moonshot\")"
+    },
+    {
+      "name": "j03-dev--oxapy",
+      "source": "./j03-dev--oxapy",
+      "description": "OxAPY is python HTTP server library build in Rust"
+    },
+    {
+      "name": "okay-bet--plugin-polymarket",
+      "source": "./okay-bet--plugin-polymarket",
+      "description": "An ElizaOs plugin that enables Polymarket market data and trading on an agent"
+    },
+    {
+      "name": "donethatai--donethat-electron",
+      "source": "./donethatai--donethat-electron",
+      "description": "Desktop client for productivity app DoneThat. DoneThat automatically tracks all work and uses this context to boost your productivity: Automated timesheets, long-term memory for AIs, proactive coachin"
+    },
+    {
+      "name": "receptron--grapys",
+      "source": "./receptron--grapys",
+      "description": "grapys"
+    },
+    {
+      "name": "visactor--superset-visactor",
+      "source": "./visactor--superset-visactor",
+      "description": "A BI example project, based on apache/superset, replaces the charts in the superset project with VChart and VTable."
+    },
+    {
+      "name": "dojoengine--torii",
+      "source": "./dojoengine--torii",
+      "description": "Automatic indexer for Dojo."
+    },
+    {
+      "name": "vixues--leagent",
+      "source": "./vixues--leagent",
+      "description": "Local-first office Agent"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
@@ -131935,6 +132265,16 @@
       "description": "A pokedex for your all your digital resources"
     },
     {
+      "name": "zeon-studio--open-remark",
+      "source": "./zeon-studio--open-remark",
+      "description": "OpenRemark is an open-source, self-hostable comment system designed specifically for static websites ( Astro, Hugo, or Next.js). It aims to provide a fully featured commenting experience with minimal "
+    },
+    {
+      "name": "dbcls--togomcp",
+      "source": "./dbcls--togomcp",
+      "description": "MCP server for the RDF Portal (Public version)"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -139898,6 +140238,16 @@
       "name": "footprintjs--footprint",
       "source": "./footprintjs--footprint",
       "description": "The flowchart pattern for backend code \u2014 self-explainable systems that AI can reason about. Causal traces, auto-generated tool descriptions, transactional state."
+    },
+    {
+      "name": "eynzof--hermes-agent-cn-desktop",
+      "source": "./eynzof--hermes-agent-cn-desktop",
+      "description": "Hermes Agent CN desktop app built with Tauri, React, and Rust"
+    },
+    {
+      "name": "nfzerox--mavericksappcompatibilitylayer",
+      "source": "./nfzerox--mavericksappcompatibilitylayer",
+      "description": "A backport compatibility layer for old macOS. Out of the box: patches iWork from May 2016 to run on OS X 10.9 Mavericks. Under the hood: Mach-O bind weakening + stub dylib injection. Pair with Claude "
     },
     {
       "name": "nirholas--scroll-zoom-thing",
