@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Annmys/goclaw](https://github.com/Annmys/goclaw).
+Original source: `CLAUDE.md` in [Annmys/goclaw](https://github.com/Annmys/goclaw).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
