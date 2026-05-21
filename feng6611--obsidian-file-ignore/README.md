@@ -1,0 +1,30 @@
+# Obsidian-File-Ignore
+
+> Source: [Feng6611/Obsidian-File-Ignore](https://github.com/Feng6611/Obsidian-File-Ignore) — distributed by [TomeVault](https://tomevault.io)
+
+An Obsidian plugin that controls file indexing by managing dot prefixes on files/folders to truly hide/exclude them, providing a .gitignore-like experience.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [Feng6611/Obsidian-File-Ignore](https://github.com/Feng6611/Obsidian-File-Ignore).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/Feng6611/Obsidian-File-Ignore](https://github.com/Feng6611/Obsidian-File-Ignore)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install Feng6611/Obsidian-File-Ignore
+```
+Source: [github.com/Feng6611/Obsidian-File-Ignore](https://github.com/Feng6611/Obsidian-File-Ignore).
+
+<!-- genome:d-i-q -->
