@@ -7,11 +7,11 @@ Another app that helps users build and book itineraries for trips.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [marcossevilla/compass_app](https://github.com/marcossevilla/compass_app).
+Original source: `CLAUDE.md` in [marcossevilla/compass_app](https://github.com/marcossevilla/compass_app).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
