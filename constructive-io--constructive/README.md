@@ -7,11 +7,11 @@ Secure, Modular Postgres for Teams
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [constructive-io/constructive](https://github.com/constructive-io/constructive).
+Original source: `CLAUDE.md` in [constructive-io/constructive](https://github.com/constructive-io/constructive).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
