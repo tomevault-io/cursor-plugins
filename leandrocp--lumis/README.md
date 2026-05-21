@@ -7,11 +7,11 @@ Syntax Highlighter powered by Tree-sitter and Neovim themes.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [leandrocp/lumis](https://github.com/leandrocp/lumis).
+Original source: `CLAUDE.md` in [leandrocp/lumis](https://github.com/leandrocp/lumis).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
