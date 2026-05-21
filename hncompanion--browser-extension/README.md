@@ -7,11 +7,11 @@ Hacker News Companion browser extension
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hncompanion/browser-extension](https://github.com/hncompanion/browser-extension).
+Original source: `CLAUDE.md` in [hncompanion/browser-extension](https://github.com/hncompanion/browser-extension).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
