@@ -5,14 +5,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [PHMbench/PHM-Vibench](https://github.com/PHMbench/PHM-Vibench).
+Original source: `AGENTS.md` in [PHMbench/PHM-Vibench](https://github.com/PHMbench/PHM-Vibench).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [PHMbench/PHM-Vibench](https://github.com/PHMbench/PHM-Vibench) — a repo with 15+ stars on GitHub.
