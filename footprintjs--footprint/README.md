@@ -7,11 +7,11 @@ The flowchart pattern for backend code — self-explainable systems that AI can 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [footprintjs/footPrint](https://github.com/footprintjs/footPrint).
+Original source: `CLAUDE.md` in [footprintjs/footPrint](https://github.com/footprintjs/footPrint).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
