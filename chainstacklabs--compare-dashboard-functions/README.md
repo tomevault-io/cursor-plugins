@@ -7,11 +7,11 @@ Serverless solution for monitoring RPC nodes response time across different bloc
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [chainstacklabs/compare-dashboard-functions](https://github.com/chainstacklabs/compare-dashboard-functions).
+Original source: `CLAUDE.md` in [chainstacklabs/compare-dashboard-functions](https://github.com/chainstacklabs/compare-dashboard-functions).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
