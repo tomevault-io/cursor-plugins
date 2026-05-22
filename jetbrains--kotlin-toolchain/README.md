@@ -7,11 +7,11 @@ A set of tools for the Kotlin language, with a focus on user experience and tool
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [JetBrains/kotlin-toolchain](https://github.com/JetBrains/kotlin-toolchain).
+Original source: `CLAUDE.md` in [JetBrains/kotlin-toolchain](https://github.com/JetBrains/kotlin-toolchain).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
