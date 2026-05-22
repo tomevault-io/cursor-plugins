@@ -1,0 +1,11 @@
+{
+  "name": "microsoft--ai4s-jobq",
+  "displayName": "ai4s-jobq",
+  "version": "1.0.0",
+  "description": "Enables multiple users to push work items to an Azure Queue, while one or more workers pull and process tasks asynchronously.",
+  "author": {
+    "name": "microsoft",
+    "url": "https://github.com/microsoft"
+  },
+  "homepage": "https://github.com/microsoft/ai4s-jobq"
+}
