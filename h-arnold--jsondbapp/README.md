@@ -7,12 +7,12 @@ A document database implemented in Google App Script using the Google Drive API.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [h-arnold/JsonDbApp](https://github.com/h-arnold/JsonDbApp).
+Original source: `AGENTS.md` in [h-arnold/JsonDbApp](https://github.com/h-arnold/JsonDbApp).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
