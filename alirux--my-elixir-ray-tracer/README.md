@@ -7,11 +7,11 @@ A ray tracer implementation written in Elixir
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [alirux/my-elixir-ray-tracer](https://github.com/alirux/my-elixir-ray-tracer).
+Original source: `CLAUDE.md` in [alirux/my-elixir-ray-tracer](https://github.com/alirux/my-elixir-ray-tracer).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
