@@ -7,11 +7,11 @@ Native macOS menu-bar stats, terminal, Notch Island, and network debugging for A
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [1pitaph/claude-stats](https://github.com/1pitaph/claude-stats).
+Original source: `AGENTS.md` in [1pitaph/claude-stats](https://github.com/1pitaph/claude-stats).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
