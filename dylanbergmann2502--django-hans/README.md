@@ -7,11 +7,11 @@ Django Boilerplate for REST API/SPA with Vue.js built on top of Django Cookie Cu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [DylanBergmann2502/django-hans](https://github.com/DylanBergmann2502/django-hans).
+Original source: `CLAUDE.md` in [DylanBergmann2502/django-hans](https://github.com/DylanBergmann2502/django-hans).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
