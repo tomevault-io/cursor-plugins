@@ -1,0 +1,11 @@
+{
+  "name": "elijas--token-throttle",
+  "displayName": "token-throttle",
+  "version": "1.0.0",
+  "description": "Multi-resource rate limiting for LLM APIs. Reserve tokens before you call, refund what you don't use, stay under the limit across workers.",
+  "author": {
+    "name": "Elijas",
+    "url": "https://github.com/Elijas"
+  },
+  "homepage": "https://github.com/Elijas/token-throttle"
+}
