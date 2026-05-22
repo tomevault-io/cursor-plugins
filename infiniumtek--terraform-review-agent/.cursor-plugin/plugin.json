@@ -1,0 +1,11 @@
+{
+  "name": "infiniumtek--terraform-review-agent",
+  "displayName": "terraform-review-agent",
+  "version": "1.0.0",
+  "description": "Reusable GitHub Action that reviews Terraform PRs for security, cost, and style using a LangGraph multi-agent system, posting a single severity-ranked comment.",
+  "author": {
+    "name": "infiniumtek",
+    "url": "https://github.com/infiniumtek"
+  },
+  "homepage": "https://github.com/infiniumtek/terraform-review-agent"
+}
