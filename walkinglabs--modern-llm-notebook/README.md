@@ -7,11 +7,11 @@ A hands-on guide with 23 Jupyter Notebooks to master modern Large Language Model
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [walkinglabs/modern-llm-notebook](https://github.com/walkinglabs/modern-llm-notebook).
+Original source: `CLAUDE.md` in [walkinglabs/modern-llm-notebook](https://github.com/walkinglabs/modern-llm-notebook).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
