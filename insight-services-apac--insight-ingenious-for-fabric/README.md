@@ -7,11 +7,11 @@ Framework for Accelerated Microsoft Fabric Development, Testing and Deployment
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Insight-Services-APAC/Insight_Ingenious_For_Fabric](https://github.com/Insight-Services-APAC/Insight_Ingenious_For_Fabric).
+Original source: `CLAUDE.md` in [Insight-Services-APAC/Insight_Ingenious_For_Fabric](https://github.com/Insight-Services-APAC/Insight_Ingenious_For_Fabric).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
