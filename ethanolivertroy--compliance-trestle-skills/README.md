@@ -5,7 +5,7 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [ethanolivertroy/compliance-trestle-skills](https://github.com/ethanolivertroy/compliance-trestle-skills).
+Original source: `GEMINI.md` in [ethanolivertroy/compliance-trestle-skills](https://github.com/ethanolivertroy/compliance-trestle-skills).
 
 ## Also available for
 
@@ -13,7 +13,7 @@ Original source: `.windsurf/rules/*.md` in [ethanolivertroy/compliance-trestle-s
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/ethanolivertroy/compliance-trestle-skills](https://github.com/ethanolivertroy/compliance-trestle-skills)
 
