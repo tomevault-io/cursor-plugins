@@ -7,11 +7,11 @@ Self-hosted media streaming server with a Go backend, React web UI, Docker deplo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Silo-Server/silo-server](https://github.com/Silo-Server/silo-server).
+Original source: `CLAUDE.md` in [Silo-Server/silo-server](https://github.com/Silo-Server/silo-server).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
