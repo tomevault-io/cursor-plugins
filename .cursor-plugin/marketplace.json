@@ -3705,6 +3705,16 @@
       "description": "Seamless integration between Claude Code AI assistant and Neovim"
     },
     {
+      "name": "bethington--ghidra-mcp",
+      "source": "./bethington--ghidra-mcp",
+      "description": "Ghidra MCP Server \u2014 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker "
+    },
+    {
+      "name": "bethington--ghidra-mcp",
+      "source": "./bethington--ghidra-mcp",
+      "description": "Ghidra MCP Server \u2014 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker "
+    },
+    {
       "name": "always-further--nono",
       "source": "./always-further--nono",
       "description": "nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. "
@@ -113470,6 +113480,11 @@
       "description": "ToolHive Cloud UI surfaces MCP servers running in your infrastructure, highlighting metadata, tool capabilities, and copy-ready endpoints for fast AI agent integrations."
     },
     {
+      "name": "modulabs-personalab--psyctl",
+      "source": "./modulabs-personalab--psyctl",
+      "description": "psyctl"
+    },
+    {
       "name": "makenowjust--naraku",
       "source": "./makenowjust--naraku",
       "description": "next Ruby Regexp engine"
@@ -119643,6 +119658,16 @@
       "name": "microsoft--agentic-agile-template",
       "source": "./microsoft--agentic-agile-template",
       "description": "Agentic-Agile Development bridges Agile process values with the capabilities of AI coding agents. It is a methodology for building software through human-agent partnerships."
+    },
+    {
+      "name": "geoffdavis--omnifocus-claude-extension",
+      "source": "./geoffdavis--omnifocus-claude-extension",
+      "description": "Omnifocus integration in Desktop Extension Format suitable for Claude Desktop on Mac"
+    },
+    {
+      "name": "mirage20--ccstatus-go",
+      "source": "./mirage20--ccstatus-go",
+      "description": "\ud83c\udfad Over-engineered statusline for Claude Code with provider-component architecture, TTL-based caching, parallel goroutines, and YAML configs. Because printf is for quitters."
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
