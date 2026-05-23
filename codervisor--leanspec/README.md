@@ -7,11 +7,11 @@ Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered develo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [codervisor/leanspec](https://github.com/codervisor/leanspec).
+Original source: `AGENTS.md` in [codervisor/leanspec](https://github.com/codervisor/leanspec).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
