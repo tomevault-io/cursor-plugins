@@ -21865,6 +21865,11 @@
       "description": "A Slack bot and MCP client acts as a bridge between Slack and Model Context Protocol (MCP) servers. Using Slack as the interface, it enables large language models (LLMs) to connect and interact with v"
     },
     {
+      "name": "nvidia--infra-controller",
+      "source": "./nvidia--infra-controller",
+      "description": "NVIDIA Infra Controller - Hardware Lifecycle Management and multitenant networking"
+    },
+    {
       "name": "azure-samples--python-mcp-demos",
       "source": "./azure-samples--python-mcp-demos",
       "description": "python-mcp-demos"
@@ -81200,6 +81205,11 @@
       "description": "Open-source async report generation service in Go \u2014 define templates (Pongo2/Django-like), connect PostgreSQL & MongoDB datasources, and generate reports in PDF, HTML, CSV, XML, and TXT. Features Rabb"
     },
     {
+      "name": "halfrgrd--flyline",
+      "source": "./halfrgrd--flyline",
+      "description": "Flyline: a Bash plugin to replace readline for a modern line editing experience: syntax highlighting, agent integration, rich prompts, tooltips, fuzzy history search, and more!"
+    },
+    {
       "name": "heyaohuo--templateflow",
       "source": "./heyaohuo--templateflow",
       "description": "Build AI workflows visually using reusable templates. Open-source & creator-friendly."
@@ -87208,6 +87218,11 @@
       "name": "kurogoma4d--file-search-mcp",
       "source": "./kurogoma4d--file-search-mcp",
       "description": "A specialized Model Context Protocol (MCP) server for full-text search within a filesystem."
+    },
+    {
+      "name": "handewo--rustion",
+      "source": "./handewo--rustion",
+      "description": "Rustion is a lightweight, high-performance SSH bastion/jump host server with a TUI management interface, written in Rust"
     },
     {
       "name": "nirholas--auto-kill-terminal",
@@ -95193,6 +95208,11 @@
       "name": "strickvl--hinbox",
       "source": "./strickvl--hinbox",
       "description": "Hinbox is a flexible, domain-configurable entity extraction system designed for historians and researchers."
+    },
+    {
+      "name": "tuist--schlussel",
+      "source": "./tuist--schlussel",
+      "description": "Cross-platform OAuth 2.0 runtime and library for command-line applications and agent workflows."
     },
     {
       "name": "fcoury--termwright",
@@ -104793,6 +104813,11 @@
       "name": "sap--terraform-provider-scc",
       "source": "./sap--terraform-provider-scc",
       "description": "Terraform provider for SAP Cloud Connector"
+    },
+    {
+      "name": "weather-mcp--weather-mcp",
+      "source": "./weather-mcp--weather-mcp",
+      "description": "MCP server providing 12 weather tools to AI assistants. Features: forecasts, current conditions, historical data (1940-present), weather alerts, air quality, marine conditions, lightning detection, we"
     },
     {
       "name": "scardoso-lu--google-antigravity-settings",
@@ -119223,6 +119248,16 @@
       "name": "kinothe-kafkaesque--ssh-mcp-server",
       "source": "./kinothe-kafkaesque--ssh-mcp-server",
       "description": "this is a collection of tools that allows your agent to execute commands on your remote servers"
+    },
+    {
+      "name": "luizomf--sannux",
+      "source": "./luizomf--sannux",
+      "description": "sannux"
+    },
+    {
+      "name": "luizomf--sannux",
+      "source": "./luizomf--sannux",
+      "description": "sannux"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
@@ -135970,6 +136005,31 @@
       "description": "IFC-Alignment-Geometry-Implementation-Guide"
     },
     {
+      "name": "nabilaziz99--fennec",
+      "source": "./nabilaziz99--fennec",
+      "description": "Open-source, AI-driven penetration testing framework. Multi-agent loop (recon \u2192 analyst \u2192 pentester \u2192 coder) on LangGraph, with tool execution in an isolated Kali container. Hosted version at fennecla"
+    },
+    {
+      "name": "quirrel-zh--fh6-virtual-tcu",
+      "source": "./quirrel-zh--fh6-virtual-tcu",
+      "description": "An external adaptive transmission controller that reads FH6 telemetry and automatically shifts gears based on driving style, throttle input, RPM, speed and brake pressure."
+    },
+    {
+      "name": "ohdsi--ariadne",
+      "source": "./ohdsi--ariadne",
+      "description": "A Python toolkit for mapping source terminologies to standard concepts in the OHDSI Vocabulary."
+    },
+    {
+      "name": "wordpress--php-mcp-schema",
+      "source": "./wordpress--php-mcp-schema",
+      "description": "php-mcp-schema"
+    },
+    {
+      "name": "marcindudekdev--nginx-optimizer",
+      "source": "./marcindudekdev--nginx-optimizer",
+      "description": "nginx-optimizer"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -144330,6 +144390,31 @@
       "description": "Encrypted Terminal Screen Sharing"
     },
     {
+      "name": "sgasser--claude-skill-podcast",
+      "source": "./sgasser--claude-skill-podcast",
+      "description": "Generate audio podcasts from text using Claude and browser TTS - Zero cost, no API keys"
+    },
+    {
+      "name": "wesleysimplicio--hermes-turbo-agent",
+      "source": "./wesleysimplicio--hermes-turbo-agent",
+      "description": "Hermes Agent 100x Fast performance branch: runtime benchmarks, visual comparisons, and safe hot-path optimizations"
+    },
+    {
+      "name": "zeke--agents-md",
+      "source": "./zeke--agents-md",
+      "description": "My global instructions for AI agents like OpenCode"
+    },
+    {
+      "name": "wesleysimplicio--hermes-turbo-agent",
+      "source": "./wesleysimplicio--hermes-turbo-agent",
+      "description": "Hermes Agent 100x Fast performance branch: runtime benchmarks, visual comparisons, and safe hot-path optimizations"
+    },
+    {
+      "name": "wesleysimplicio--hermes-turbo-agent",
+      "source": "./wesleysimplicio--hermes-turbo-agent",
+      "description": "Hermes Agent 100x Fast performance branch: runtime benchmarks, visual comparisons, and safe hot-path optimizations"
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
@@ -146548,6 +146633,16 @@
       "name": "cajal-technologies--talos",
       "source": "./cajal-technologies--talos",
       "description": "Wasm interpreter in lean, designed for reasoning"
+    },
+    {
+      "name": "lakr233--sshkit",
+      "source": "./lakr233--sshkit",
+      "description": "SSHKit"
+    },
+    {
+      "name": "lakr233--sshkit",
+      "source": "./lakr233--sshkit",
+      "description": "SSHKit"
     },
     {
       "name": "dil8654--claude-code-springboot-template",
@@ -224628,6 +224723,131 @@
       "name": "snowden-fu--mengmeng-pangpang",
       "source": "./snowden-fu--mengmeng-pangpang",
       "description": "mengmeng&pangpang"
+    },
+    {
+      "name": "oyakhilo7--spark--010",
+      "source": "./oyakhilo7--spark--010",
+      "description": "spark--010"
+    },
+    {
+      "name": "ciward--sub2api-tokenlab-task7-mn2-axwai",
+      "source": "./ciward--sub2api-tokenlab-task7-mn2-axwai",
+      "description": "Runnable TokenLab evaluation snapshot for candidate mn2 (AXWAI) with minimal secret sanitization"
+    },
+    {
+      "name": "jjangbbang--jjang-stock-db",
+      "source": "./jjangbbang--jjang-stock-db",
+      "description": "jjang-stock-db"
+    },
+    {
+      "name": "gkm563--upmap",
+      "source": "./gkm563--upmap",
+      "description": "UPMap"
+    },
+    {
+      "name": "erhwenkuo--skil-creator",
+      "source": "./erhwenkuo--skil-creator",
+      "description": "A skill for creating new skills and iteratively improving them \u2014 compatible with both **Claude Code** and **LangChain deepagent-cli**."
+    },
+    {
+      "name": "shubhampatel3503-lang--shubh-school-erp",
+      "source": "./shubhampatel3503-lang--shubh-school-erp",
+      "description": "Exported from Caffeine project: Shubh School ERP"
+    },
+    {
+      "name": "sandrei--facebook-leads-asterisk",
+      "source": "./sandrei--facebook-leads-asterisk",
+      "description": "facebook-leads-asterisk"
+    },
+    {
+      "name": "planew94--scheduly",
+      "source": "./planew94--scheduly",
+      "description": "Scheduly"
+    },
+    {
+      "name": "azizajamjoom--ai-dev-workshop",
+      "source": "./azizajamjoom--ai-dev-workshop",
+      "description": "ai-dev-workshop"
+    },
+    {
+      "name": "katchenin-13--ifir-tech",
+      "source": "./katchenin-13--ifir-tech",
+      "description": "ifir-tech"
+    },
+    {
+      "name": "tjdals--my-profile-site",
+      "source": "./tjdals--my-profile-site",
+      "description": "\ub098\ub9cc\uc758 \ud504\ub85c\ud544 \uc6f9\uc0ac\uc774\ud2b8"
+    },
+    {
+      "name": "marce1in--manga-dataset-parser",
+      "source": "./marce1in--manga-dataset-parser",
+      "description": "manga-dataset-parser"
+    },
+    {
+      "name": "dhanashree23112003--spendly",
+      "source": "./dhanashree23112003--spendly",
+      "description": "spendly"
+    },
+    {
+      "name": "tjr1974--llm-wiki-base-model",
+      "source": "./tjr1974--llm-wiki-base-model",
+      "description": "Machine-first LLM wiki toolchain and corpus scaffold."
+    },
+    {
+      "name": "oyakhilo7--spark--010",
+      "source": "./oyakhilo7--spark--010",
+      "description": "spark--010"
+    },
+    {
+      "name": "janhavi1405--nlpay-expense-tracker",
+      "source": "./janhavi1405--nlpay-expense-tracker",
+      "description": "NLPAY_Expense-Tracker"
+    },
+    {
+      "name": "miyatake51--oz-calculator",
+      "source": "./miyatake51--oz-calculator",
+      "description": "oz\u304b\u3089\u30b0\u30e9\u30e0\u306b\u5909\u63db\u3059\u308b\u8a08\u7b97\u30a2\u30d7\u30ea"
+    },
+    {
+      "name": "oyakhilo7--spark--010",
+      "source": "./oyakhilo7--spark--010",
+      "description": "spark--010"
+    },
+    {
+      "name": "skalyandev--devops-ai-playbook",
+      "source": "./skalyandev--devops-ai-playbook",
+      "description": "devops-ai-playbook"
+    },
+    {
+      "name": "mudassir7323--ride-flow",
+      "source": "./mudassir7323--ride-flow",
+      "description": "This Project demostrates The Concepts of DataBase(SQL), by implementing them into a fully functional Web Application"
+    },
+    {
+      "name": "abdullahzeb11--bayt-al-mandi",
+      "source": "./abdullahzeb11--bayt-al-mandi",
+      "description": "bayt-al-mandi"
+    },
+    {
+      "name": "io-oi-ai--mintlify-docs",
+      "source": "./io-oi-ai--mintlify-docs",
+      "description": "mintlify-docs"
+    },
+    {
+      "name": "xasanof17--quickmanage",
+      "source": "./xasanof17--quickmanage",
+      "description": "quickmanage"
+    },
+    {
+      "name": "overrkill--habitool",
+      "source": "./overrkill--habitool",
+      "description": "a habit tracker "
+    },
+    {
+      "name": "gwara106--atomic",
+      "source": "./gwara106--atomic",
+      "description": "Created with Builder.io"
     }
   ]
 }
