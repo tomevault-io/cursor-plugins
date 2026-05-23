@@ -7,11 +7,11 @@ A powerful GUI app for running AI coding agents in parallel - built with Electro
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [RubinCarter/ropcode](https://github.com/RubinCarter/ropcode).
+Original source: `AGENTS.md` in [RubinCarter/ropcode](https://github.com/RubinCarter/ropcode).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
