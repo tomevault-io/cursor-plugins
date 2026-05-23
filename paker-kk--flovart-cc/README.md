@@ -7,11 +7,11 @@ Fuck-lovart-cc is dedicated to bridging the gap in canvas automation. It empower
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Paker-kk/Flovart-cc](https://github.com/Paker-kk/Flovart-cc).
+Original source: `CLAUDE.md` in [Paker-kk/Flovart-cc](https://github.com/Paker-kk/Flovart-cc).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
