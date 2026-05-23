@@ -7,11 +7,11 @@ A Typescript SDK for the AdCP protocol (client and server)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [adcontextprotocol/adcp-client](https://github.com/adcontextprotocol/adcp-client).
+Original source: `AGENTS.md` in [adcontextprotocol/adcp-client](https://github.com/adcontextprotocol/adcp-client).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
