@@ -7,11 +7,11 @@ Live Unusual Whales options scanner
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [moremeds/unusual-whales](https://github.com/moremeds/unusual-whales).
+Original source: `CLAUDE.md` in [moremeds/unusual-whales](https://github.com/moremeds/unusual-whales).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
