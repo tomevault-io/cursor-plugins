@@ -7,11 +7,11 @@ AgenticVBench: Can AI Agents Complete Real-World Post-Production Tasks?
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [PhiloLabs/agentic-vbench](https://github.com/PhiloLabs/agentic-vbench).
+Original source: `CLAUDE.md` in [PhiloLabs/agentic-vbench](https://github.com/PhiloLabs/agentic-vbench).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
