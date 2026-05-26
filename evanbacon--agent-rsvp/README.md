@@ -7,11 +7,11 @@ Speed-reading skill for agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [EvanBacon/agent-rsvp](https://github.com/EvanBacon/agent-rsvp).
+Original source: `AGENTS.md` in [EvanBacon/agent-rsvp](https://github.com/EvanBacon/agent-rsvp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
