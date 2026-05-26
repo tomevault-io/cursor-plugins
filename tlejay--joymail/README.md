@@ -7,11 +7,11 @@ Concept demo: control a Gmail-style inbox with a PS5 DualSense controller, as a 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tlejay/JoyMail](https://github.com/tlejay/JoyMail).
+Original source: `CLAUDE.md` in [tlejay/JoyMail](https://github.com/tlejay/JoyMail).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
