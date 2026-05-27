@@ -7,11 +7,11 @@ An LLM-powered chatbot for fediverse. A tech demo for BotKit.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [fedify-dev/fedichatbot](https://github.com/fedify-dev/fedichatbot).
+Original source: `CLAUDE.md` in [fedify-dev/fedichatbot](https://github.com/fedify-dev/fedichatbot).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
