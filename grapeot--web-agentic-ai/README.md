@@ -1,0 +1,28 @@
+# AI instruction files for web_agentic_ai
+
+> Sourced from [grapeot/web_agentic_ai](https://github.com/grapeot/web_agentic_ai) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [grapeot/web_agentic_ai](https://github.com/grapeot/web_agentic_ai).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/grapeot/web_agentic_ai](https://github.com/grapeot/web_agentic_ai)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install grapeot/web_agentic_ai
+```
+Source: [github.com/grapeot/web_agentic_ai](https://github.com/grapeot/web_agentic_ai).
+
+<!-- genome:a-i-q -->
