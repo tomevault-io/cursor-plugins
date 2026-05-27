@@ -7,11 +7,11 @@ An MCP Server for querying InfluxDB
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server).
+Original source: `CLAUDE.md` in [idoru/influxdb-mcp-server](https://github.com/idoru/influxdb-mcp-server).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
