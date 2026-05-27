@@ -1,0 +1,30 @@
+# vechain-kit
+
+> Tome by [vechain](https://github.com/vechain/vechain-kit) — distributed by [TomeVault](https://tomevault.io)
+
+An all-in-one library for building VeChain applications.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [vechain/vechain-kit](https://github.com/vechain/vechain-kit).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [vechain/vechain-kit](https://github.com/vechain/vechain-kit) — a repo with 13+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install vechain/vechain-kit
+```
+Source: [github.com/vechain/vechain-kit](https://github.com/vechain/vechain-kit).
+
+<!-- genome:t-i-s -->
