@@ -7,12 +7,12 @@ Your tasks with 99% accuracy using any LLM (Claude, DeepSeek, Codex, Gemini, Her
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [wesleysimplicio/simplicio-cli](https://github.com/wesleysimplicio/simplicio-cli).
+Original source: `AGENTS.md` in [wesleysimplicio/simplicio-cli](https://github.com/wesleysimplicio/simplicio-cli).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
