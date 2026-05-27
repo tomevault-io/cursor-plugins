@@ -7,11 +7,11 @@ Provides uplight and downlight control for LIFX Ceiling in Home Assistant
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Djelibeybi/hass-lifx-ceiling](https://github.com/Djelibeybi/hass-lifx-ceiling).
+Original source: `CLAUDE.md` in [Djelibeybi/hass-lifx-ceiling](https://github.com/Djelibeybi/hass-lifx-ceiling).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
