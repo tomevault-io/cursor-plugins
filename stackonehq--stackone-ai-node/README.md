@@ -2,14 +2,16 @@
 
 > Source: [StackOneHQ/stackone-ai-node](https://github.com/StackOneHQ/stackone-ai-node) — distributed by [TomeVault](https://tomevault.io)
 
+integrations for ai agents
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [StackOneHQ/stackone-ai-node](https://github.com/StackOneHQ/stackone-ai-node).
+Original source: `AGENTS.md` in [StackOneHQ/stackone-ai-node](https://github.com/StackOneHQ/stackone-ai-node).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
