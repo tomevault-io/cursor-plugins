@@ -76805,6 +76805,11 @@
       "description": "MCP server providing tools to create Ms Office documents like presentations, emails, spreadsheets and word docs (pptx, docx, eml, xlsx)"
     },
     {
+      "name": "moonbitlang--llvm-mbt",
+      "source": "./moonbitlang--llvm-mbt",
+      "description": "Write llvm in moonbit!"
+    },
+    {
       "name": "ruiromano--powerbi-agentic-mcp-cloud-agent",
       "source": "./ruiromano--powerbi-agentic-mcp-cloud-agent",
       "description": "powerbi-agentic-mcp-cloud-agent"
@@ -78673,6 +78678,11 @@
       "name": "meza--stonecraft",
       "source": "./meza--stonecraft",
       "description": "A minecraft multi-version, multi-loader mod development gradle plugin to help wire up Stonecutter and Architectury"
+    },
+    {
+      "name": "datarobot-community--talk-to-my-data-agent",
+      "source": "./datarobot-community--talk-to-my-data-agent",
+      "description": "talk-to-my-data-agent"
     },
     {
       "name": "iamtouchskyer--logex",
@@ -82195,6 +82205,11 @@
       "description": "\u26a1A modern, accessible React UI component library built with Panda CSS and Radix UI."
     },
     {
+      "name": "kevinma2010--smart-tab-switcher",
+      "source": "./kevinma2010--smart-tab-switcher",
+      "description": "Fast tab switching and management for modern browsers (Chrome, Firefox, and Chromium-based browsers"
+    },
+    {
       "name": "heyaohuo--templateflow",
       "source": "./heyaohuo--templateflow",
       "description": "Build AI workflows visually using reusable templates. Open-source & creator-friendly."
@@ -84093,6 +84108,11 @@
       "name": "openops-cloud--docs",
       "source": "./openops-cloud--docs",
       "description": "Documentation for OpenOps - the truly open FinOps automation platform."
+    },
+    {
+      "name": "tomabai--llm-sec",
+      "source": "./tomabai--llm-sec",
+      "description": "A hands-on learning platform for understanding and testing LLM security vulnerabilities"
     },
     {
       "name": "develite98--angular-best-practices",
@@ -86243,6 +86263,11 @@
       "name": "mannlabs--proteomics-lab-agent",
       "source": "./mannlabs--proteomics-lab-agent",
       "description": "A multimodal, agentic AI framework that captures and shares practical expertise by linking written instructions to real-world laboratory work.\u00a0It uses video analysis to automate documentation and prov"
+    },
+    {
+      "name": "nikolasmarkou--dl-techniques",
+      "source": "./nikolasmarkou--dl-techniques",
+      "description": "Advanced deep learning learning techniques, layers, activations loss functions, all in keras / tensorflow"
     },
     {
       "name": "googlecloudplatform--cxas-scrapi",
@@ -88403,6 +88428,16 @@
       "name": "enkrateialucca--oreilly-gpt-assistants",
       "source": "./enkrateialucca--oreilly-gpt-assistants",
       "description": "Repo for the oreilly course about building agents with gpt assistants api"
+    },
+    {
+      "name": "jkorf--hyperliquid-net",
+      "source": "./jkorf--hyperliquid-net",
+      "description": "A C# .netstandard client library for the HyperLiquid DEX REST and Websocket Spot and Futures API focusing on clear usage and models"
+    },
+    {
+      "name": "jkorf--hyperliquid-net",
+      "source": "./jkorf--hyperliquid-net",
+      "description": "A C# .netstandard client library for the HyperLiquid DEX REST and Websocket Spot and Futures API focusing on clear usage and models"
     },
     {
       "name": "nirholas--auto-kill-terminal",
@@ -90988,6 +91023,11 @@
       "name": "foyer-rs--mixtrics",
       "source": "./foyer-rs--mixtrics",
       "description": "A lightweight unified metrics library in Rust for various metrics system."
+    },
+    {
+      "name": "srizan10--hctv",
+      "source": "./srizan10--hctv",
+      "description": "The Hack Club streaming service."
     },
     {
       "name": "goldhorsedev0101--testing-ai",
@@ -94015,6 +94055,26 @@
       "description": "formal-specification-ide"
     },
     {
+      "name": "katsuhirohonda--anthropic-sdk-rs",
+      "source": "./katsuhirohonda--anthropic-sdk-rs",
+      "description": "An unofficial Rust SDK for the Anthropic API."
+    },
+    {
+      "name": "katsuhirohonda--anthropic-sdk-rs",
+      "source": "./katsuhirohonda--anthropic-sdk-rs",
+      "description": "An unofficial Rust SDK for the Anthropic API."
+    },
+    {
+      "name": "d2rs-2026spring--data-driven-reproducible-study",
+      "source": "./d2rs-2026spring--data-driven-reproducible-study",
+      "description": "\u300a\u6570\u636e\u9a71\u52a8\u7684\u53ef\u91cd\u590d\u6027\u7814\u7a76\u300b\u8bfe\u7a0b\u8bb2\u4e49"
+    },
+    {
+      "name": "mv-consulting--cdk-vscode-server",
+      "source": "./mv-consulting--cdk-vscode-server",
+      "description": "Set up your own VSCode Server on AWS in under 10 minutes \u231b\ufe0f"
+    },
+    {
       "name": "13point5--agent-canvas",
       "source": "./13point5--agent-canvas",
       "description": "agent-canvas"
@@ -96698,6 +96758,16 @@
       "name": "adamwulf--mcp-template",
       "source": "./adamwulf--mcp-template",
       "description": "A barebones MCP server implementation in Swift using loopwork-ai's mcp-swift-sdk."
+    },
+    {
+      "name": "chuwuyo--chuwubookmarks",
+      "source": "./chuwuyo--chuwubookmarks",
+      "description": "ChuwuBookmarks - A Bookmarks List Template Website - \u521d\u4e94\u7684\u4e66\u7b7e - \u8fd9\u662f\u4e00\u4e2a\u4e66\u7b7e\u5bfc\u822a\u9759\u6001\u7f51\u9875\u6a21\u677f"
+    },
+    {
+      "name": "nibzard--ai-sandbox-benchmark",
+      "source": "./nibzard--ai-sandbox-benchmark",
+      "description": "ai-sandbox-benchmark"
     },
     {
       "name": "fcoury--termwright",
@@ -99603,6 +99673,16 @@
       "name": "adrianulima--my-racing-planner",
       "source": "./adrianulima--my-racing-planner",
       "description": "This tool helps iRacing users efficiently navigate series, cars, and tracks, allowing them to make informed decisions about the best content to purchase based on usage in the current season."
+    },
+    {
+      "name": "justcodeit7--langgraph-101",
+      "source": "./justcodeit7--langgraph-101",
+      "description": "LangGraph coding examples"
+    },
+    {
+      "name": "justcodeit7--langgraph-101",
+      "source": "./justcodeit7--langgraph-101",
+      "description": "LangGraph coding examples"
     },
     {
       "name": "hyaway--hyaway",
@@ -102768,6 +102848,26 @@
       "name": "ryoppippi--chatgpt-heatmap",
       "source": "./ryoppippi--chatgpt-heatmap",
       "description": "Upload ChatGPT's exported data and get insights on your usage patterns."
+    },
+    {
+      "name": "fedify-dev--fedichatbot",
+      "source": "./fedify-dev--fedichatbot",
+      "description": "An LLM-powered chatbot for fediverse. A tech demo for BotKit."
+    },
+    {
+      "name": "fedify-dev--fedichatbot",
+      "source": "./fedify-dev--fedichatbot",
+      "description": "An LLM-powered chatbot for fediverse. A tech demo for BotKit."
+    },
+    {
+      "name": "fedify-dev--fedichatbot",
+      "source": "./fedify-dev--fedichatbot",
+      "description": "An LLM-powered chatbot for fediverse. A tech demo for BotKit."
+    },
+    {
+      "name": "fedify-dev--fedichatbot",
+      "source": "./fedify-dev--fedichatbot",
+      "description": "An LLM-powered chatbot for fediverse. A tech demo for BotKit."
     },
     {
       "name": "mohiwalla--memes",
@@ -106583,6 +106683,11 @@
       "name": "carlkcarlk--busy-beaver-blaze",
       "source": "./carlkcarlk--busy-beaver-blaze",
       "description": "busy_beaver_blaze"
+    },
+    {
+      "name": "algesten--dimpl",
+      "source": "./algesten--dimpl",
+      "description": "DTLS 1.2/1.3 implementation (Sans\u2011IO, Sync)"
     },
     {
       "name": "scardoso-lu--google-antigravity-settings",
