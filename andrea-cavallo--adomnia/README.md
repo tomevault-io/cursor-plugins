@@ -7,11 +7,11 @@ A local-first desktop toolbox for API testing, protocol debugging, mocking, and 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Andrea-Cavallo/adOmnia](https://github.com/Andrea-Cavallo/adOmnia).
+Original source: `CLAUDE.md` in [Andrea-Cavallo/adOmnia](https://github.com/Andrea-Cavallo/adOmnia).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
