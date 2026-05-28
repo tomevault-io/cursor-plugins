@@ -7,11 +7,11 @@ Starter kit for full-stack webapps, SaaS and websites with React and NestJS
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [lonestone/lonestone-boilerplate](https://github.com/lonestone/lonestone-boilerplate).
+Original source: `AGENTS.md` in [lonestone/lonestone-boilerplate](https://github.com/lonestone/lonestone-boilerplate).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
