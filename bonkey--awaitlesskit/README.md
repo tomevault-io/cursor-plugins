@@ -7,12 +7,12 @@ Simplifies the migration to async/await. It likely performs better than your ad 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [bonkey/AwaitlessKit](https://github.com/bonkey/AwaitlessKit).
+Original source: `AGENTS.md` in [bonkey/AwaitlessKit](https://github.com/bonkey/AwaitlessKit).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
