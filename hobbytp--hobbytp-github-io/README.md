@@ -1,0 +1,26 @@
+# AI instruction files for hobbytp.github.io
+
+> Sourced from [hobbytp/hobbytp.github.io](https://github.com/hobbytp/hobbytp.github.io) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+Peng Tan's AI Blog
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [hobbytp/hobbytp.github.io](https://github.com/hobbytp/hobbytp.github.io).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/hobbytp/hobbytp.github.io](https://github.com/hobbytp/hobbytp.github.io)
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:a-c-q -->
