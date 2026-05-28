@@ -1,0 +1,26 @@
+# gravity
+
+> Tome by [bcjordan](https://github.com/bcjordan/gravity) — distributed by [TomeVault](https://tomevault.io)
+
+Gravitational lensing and prism simulation using Three.js
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [bcjordan/gravity](https://github.com/bcjordan/gravity).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/bcjordan/gravity](https://github.com/bcjordan/gravity)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:t-e-q -->
