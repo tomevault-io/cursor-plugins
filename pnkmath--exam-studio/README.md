@@ -7,11 +7,11 @@ Exam Studio — HWPX 수학 기출 시험지 제작 스튜디오 (Next.js + Pyth
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [PNKmath/exam-studio](https://github.com/PNKmath/exam-studio).
+Original source: `CLAUDE.md` in [PNKmath/exam-studio](https://github.com/PNKmath/exam-studio).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
