@@ -35315,6 +35315,11 @@
       "description": "\ud83c\udfae\ud83c\udfed AI plays the game Factorio with CV & LLM combined. Powered by YOLO / LLM."
     },
     {
+      "name": "arpitnath--claude-capsule-kit",
+      "source": "./arpitnath--claude-capsule-kit",
+      "description": "A toolkit that makes Claude Code better at engineering \u2014 session memory, dependency analysis, large file navigation, 18 specialist agents, and crew teams for parallel multi-branch work."
+    },
+    {
       "name": "mag123c--toktrack",
       "source": "./mag123c--toktrack",
       "description": "Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code)"
@@ -37993,11 +37998,6 @@
       "name": "hydroqc--hydroqc-ha",
       "source": "./hydroqc--hydroqc-ha",
       "description": "Int\u00e9gration Home Assistant pour Hydro-Qu\u00e9bec. Surveillez votre consommation \u00e9lectrique, p\u00e9riodes de pointe, pannes et facturation."
-    },
-    {
-      "name": "arpitnath--claude-capsule-kit",
-      "source": "./arpitnath--claude-capsule-kit",
-      "description": "A toolkit that makes Claude Code better at engineering \u2014 session memory, dependency analysis, large file navigation, 18 specialist agents, and crew teams for parallel multi-branch work."
     },
     {
       "name": "k8s-lynq--lynq",
@@ -57025,6 +57025,11 @@
       "description": "JavaScript-optional public web frontend for Bluesky."
     },
     {
+      "name": "nico2sh--kimun",
+      "source": "./nico2sh--kimun",
+      "description": "Simple note taking, powerful search, AI ready"
+    },
+    {
       "name": "nju-link--codetracer",
       "source": "./nju-link--codetracer",
       "description": "CodeTracer"
@@ -57963,6 +57968,16 @@
       "name": "laurentvv--crawl4ai-mcp",
       "source": "./laurentvv--crawl4ai-mcp",
       "description": "Web crawling tool that integrates with AI assistants via the MCP"
+    },
+    {
+      "name": "rabbitmq--rabbitmq-amqp-python-client",
+      "source": "./rabbitmq--rabbitmq-amqp-python-client",
+      "description": "Python RabbitMQ client for AMQP 1.0"
+    },
+    {
+      "name": "synthyra--fastplms",
+      "source": "./synthyra--fastplms",
+      "description": "FastPLMs"
     },
     {
       "name": "yoloshii--mcp-code-execution-enhanced",
@@ -60450,6 +60465,26 @@
       "description": "DarwinPrivateFrameworks"
     },
     {
+      "name": "oqtopus-team--qdash",
+      "source": "./oqtopus-team--qdash",
+      "description": "QDash: Large-scale QPU Calibration Platform"
+    },
+    {
+      "name": "battermanz--flaresync",
+      "source": "./battermanz--flaresync",
+      "description": "A simple Rust app to update automatically your DNS records on Cloudflare"
+    },
+    {
+      "name": "oqtopus-team--qdash",
+      "source": "./oqtopus-team--qdash",
+      "description": "QDash: Large-scale QPU Calibration Platform"
+    },
+    {
+      "name": "chambaz--solanaui",
+      "source": "./chambaz--solanaui",
+      "description": "Beautifully designed UI components and AI Agent tooling for Solana builders"
+    },
+    {
       "name": "nikolasburk--livestore-tanstack-cloudflare-auth-example",
       "source": "./nikolasburk--livestore-tanstack-cloudflare-auth-example",
       "description": "Demo app showing how to implement authentication with BetterAuth in a TanStack Start app with LiveStore."
@@ -61373,6 +61408,11 @@
       "name": "francescoborzi--ngx-page-object-model",
       "source": "./francescoborzi--ngx-page-object-model",
       "description": "Angular Component Tests made easy"
+    },
+    {
+      "name": "smef--vasta",
+      "source": "./smef--vasta",
+      "description": "vasta"
     },
     {
       "name": "affitor--open-affiliate",
@@ -63330,6 +63370,11 @@
       "description": "Automatically update your TrueNAS apps on a schedule."
     },
     {
+      "name": "stoffel-labs--stoffelvm",
+      "source": "./stoffel-labs--stoffelvm",
+      "description": "StoffelVM"
+    },
+    {
       "name": "r44vc0rp--itui",
       "source": "./r44vc0rp--itui",
       "description": "itui"
@@ -64473,6 +64518,16 @@
       "name": "eonseed--perspt",
       "source": "./eonseed--perspt",
       "description": "Perspt: **Per**sonal **S**pectrum **P**ertaining **T**houghts \u2013 the human lens through which we explore the enigma of AI and its implications for humanity."
+    },
+    {
+      "name": "uncazzy--todoist-dashboard",
+      "source": "./uncazzy--todoist-dashboard",
+      "description": "A powerful dashboard for Todoist users, offering deep task analytics, productivity insights, and trend tracking. Built with Next.js, React, TypeScript, and Tailwind CSS. \ud83c\udf1f"
+    },
+    {
+      "name": "uncazzy--todoist-dashboard",
+      "source": "./uncazzy--todoist-dashboard",
+      "description": "A powerful dashboard for Todoist users, offering deep task analytics, productivity insights, and trend tracking. Built with Next.js, React, TypeScript, and Tailwind CSS. \ud83c\udf1f"
     },
     {
       "name": "rajjjaryan--career-copilot",
@@ -66670,6 +66725,16 @@
       "description": "Home automation bridge for Geberit AquaClean toilets: BLE connectivity (direct or ESPHome proxy), MQTT, REST API, web UI, and native Home Assistant integration via HACS"
     },
     {
+      "name": "nounder--effect-start",
+      "source": "./nounder--effect-start",
+      "description": "Declarative full-stack Effect apps"
+    },
+    {
+      "name": "stacksjs--vite-plugin-local",
+      "source": "./stacksjs--vite-plugin-local",
+      "description": "\ud83c\udfa8 Pretty development URLs, and HTTPS. Zero config, zero setup."
+    },
+    {
       "name": "inureyes--gyeol",
       "source": "./inureyes--gyeol",
       "description": "gyeol"
@@ -67893,6 +67958,11 @@
       "name": "grapeot--web-agentic-ai",
       "source": "./grapeot--web-agentic-ai",
       "description": "web_agentic_ai"
+    },
+    {
+      "name": "laulauland--bluesky-context-server",
+      "source": "./laulauland--bluesky-context-server",
+      "description": "Bluesky MCP server"
     },
     {
       "name": "sharf-shawon--awesome-bangladeshi-foss",
@@ -70375,6 +70445,36 @@
       "description": "ImaGUIck is a free and open-source software, using ImageMagick\u00ae, used for editing and manipulating digital images. It can be used to edit or convert images, and supports a wide range of file formats, "
     },
     {
+      "name": "mmailaender--convex-better-auth-ui",
+      "source": "./mmailaender--convex-better-auth-ui",
+      "description": "Convex-Better-Auth-UI"
+    },
+    {
+      "name": "mmailaender--convex-better-auth-ui",
+      "source": "./mmailaender--convex-better-auth-ui",
+      "description": "Convex-Better-Auth-UI"
+    },
+    {
+      "name": "mmailaender--convex-better-auth-ui",
+      "source": "./mmailaender--convex-better-auth-ui",
+      "description": "Convex-Better-Auth-UI"
+    },
+    {
+      "name": "mmailaender--convex-better-auth-ui",
+      "source": "./mmailaender--convex-better-auth-ui",
+      "description": "Convex-Better-Auth-UI"
+    },
+    {
+      "name": "mmailaender--convex-better-auth-ui",
+      "source": "./mmailaender--convex-better-auth-ui",
+      "description": "Convex-Better-Auth-UI"
+    },
+    {
+      "name": "mmailaender--convex-better-auth-ui",
+      "source": "./mmailaender--convex-better-auth-ui",
+      "description": "Convex-Better-Auth-UI"
+    },
+    {
       "name": "mulhamna--jira-commands",
       "source": "./mulhamna--jira-commands",
       "description": "Jira toolkit for terminals, coding assistants, and bots."
@@ -71883,6 +71983,11 @@
       "name": "marmot-protocol--keycast",
       "source": "./marmot-protocol--keycast",
       "description": "keycast"
+    },
+    {
+      "name": "dash-chat--dash-chat",
+      "source": "./dash-chat--dash-chat",
+      "description": "Stay connected."
     },
     {
       "name": "aeroxy--ast-outline",
@@ -73468,6 +73573,11 @@
       "name": "spiceai--cookbook",
       "source": "./spiceai--cookbook",
       "description": "Cookbook recipes to get up and running with Spice.ai quickly \ud83d\ude80"
+    },
+    {
+      "name": "markuskiller--vba-edit",
+      "source": "./markuskiller--vba-edit",
+      "description": "Enable seamless vba editing in preferred editor or IDE (facilitating the use of coding assistants and version control workflows)"
     },
     {
       "name": "10xchengtu--mux0",
@@ -78830,6 +78940,36 @@
       "description": "Flight simulator for radio-controlled planes"
     },
     {
+      "name": "azure-samples--eshoplite-semanticsearch-azureaisearch",
+      "source": "./azure-samples--eshoplite-semanticsearch-azureaisearch",
+      "description": "eShopLite - Semantic Search is a reference .NET application implementing an eCommerce site with Search features using Keyword Search and Semantic Search with Azure AI Search"
+    },
+    {
+      "name": "zkp2p--zkp2p-contracts",
+      "source": "./zkp2p--zkp2p-contracts",
+      "description": "ZKP2P V2 escrow protocol contracts"
+    },
+    {
+      "name": "renlabs-dev--torus-substrate",
+      "source": "./renlabs-dev--torus-substrate",
+      "description": "The Torus Blockchain implementation."
+    },
+    {
+      "name": "zkp2p--zkp2p-contracts",
+      "source": "./zkp2p--zkp2p-contracts",
+      "description": "ZKP2P V2 escrow protocol contracts"
+    },
+    {
+      "name": "dmccreary--intelligent-textbooks",
+      "source": "./dmccreary--intelligent-textbooks",
+      "description": "How to use AU and mkdocs material with education theory to create intelligent textbooks"
+    },
+    {
+      "name": "renlabs-dev--torus-substrate",
+      "source": "./renlabs-dev--torus-substrate",
+      "description": "The Torus Blockchain implementation."
+    },
+    {
       "name": "iamtouchskyer--logex",
       "source": "./iamtouchskyer--logex",
       "description": "Turn Claude Code session transcripts into blog-style articles \u2014 narrative, not logs"
@@ -80710,6 +80850,21 @@
       "description": "NixOS Configuration"
     },
     {
+      "name": "emlopezr--trackwatch",
+      "source": "./emlopezr--trackwatch",
+      "description": "Open Source & Self-hosted Spotify release tracker. Auto-syncs new releases to playlists and includes power-user utilities like a discography generator and ghost track cleaner."
+    },
+    {
+      "name": "devclef--shoebox",
+      "source": "./devclef--shoebox",
+      "description": "shoebox"
+    },
+    {
+      "name": "oxc-project--oxc-sourcemap",
+      "source": "./oxc-project--oxc-sourcemap",
+      "description": "Forked version of rust-sourcemap"
+    },
+    {
       "name": "lucianaib0318--geomind",
       "source": "./lucianaib0318--geomind",
       "description": "\ud83c\udf0d GeoMind\uff1a\u57fa\u4e8e\u98de\u4e66 CLI + \u817e\u8baf\u4f4d\u7f6e\u7684\u79d1\u7814\u4e0e\u4ea7\u4e1a\u5730\u7406\u60c5\u62a5\u53ef\u89c6\u5316 Skill"
@@ -82398,6 +82553,16 @@
       "name": "aisystant--docs",
       "source": "./aisystant--docs",
       "description": "docs"
+    },
+    {
+      "name": "percona--percona-clustersync-mongodb",
+      "source": "./percona--percona-clustersync-mongodb",
+      "description": "Cluster-to-Cluster MongoDB replication"
+    },
+    {
+      "name": "jacquesgariepy--out-of-code-insights",
+      "source": "./jacquesgariepy--out-of-code-insights",
+      "description": "out-of-code-insights"
     },
     {
       "name": "heyaohuo--templateflow",
@@ -84338,6 +84503,11 @@
       "name": "rkpontes--flutter-official-architecture",
       "source": "./rkpontes--flutter-official-architecture",
       "description": "flutter_official_architecture"
+    },
+    {
+      "name": "antriel--haxe-deps-viewer",
+      "source": "./antriel--haxe-deps-viewer",
+      "description": "Haxe dependencies viewer."
     },
     {
       "name": "develite98--angular-best-practices",
@@ -86518,6 +86688,16 @@
       "name": "ethereumidentitykit--docs",
       "source": "./ethereumidentitykit--docs",
       "description": "Site for Ethereum Identity Kit"
+    },
+    {
+      "name": "novonordisk-opensource--connector",
+      "source": "./novonordisk-opensource--connector",
+      "description": "connector: A package for interacting with clinical data sets in the simple way"
+    },
+    {
+      "name": "lalinsky--msgpack-zig",
+      "source": "./lalinsky--msgpack-zig",
+      "description": "Msgpack serialization for Zig / msgpack.org[Zig]"
     },
     {
       "name": "googlecloudplatform--cxas-scrapi",
@@ -88738,6 +88918,11 @@
       "name": "ideaconnect--symfony-nats-messenger",
       "source": "./ideaconnect--symfony-nats-messenger",
       "description": "Symfony NATS Messenger Bridge (with JetStream persistence support)."
+    },
+    {
+      "name": "jocmp--mercury-parser",
+      "source": "./jocmp--mercury-parser",
+      "description": "Extract meaningful content from the chaos of a web page"
     },
     {
       "name": "nirholas--auto-kill-terminal",
@@ -94418,6 +94603,11 @@
       "name": "tscircuit--cli",
       "source": "./tscircuit--cli",
       "description": "Create electronics with React with a local development server"
+    },
+    {
+      "name": "waku-py--waku",
+      "source": "./waku-py--waku",
+      "description": "A Python framework for building modular and loosely coupled applications"
     },
     {
       "name": "13point5--agent-canvas",
@@ -100160,6 +100350,46 @@
       "description": "Benchmarking Hamming Distance implementations in Rust"
     },
     {
+      "name": "jstepux--cardshark",
+      "source": "./jstepux--cardshark",
+      "description": "CardShark"
+    },
+    {
+      "name": "yapp-github--orbit-android",
+      "source": "./yapp-github--orbit-android",
+      "description": "\ud83d\udcab\ud558\ub8e8 \uc6b4\uc138 \uc54c\ub78c \uc11c\ube44\uc2a4 \uc624\ub974\ube44 \uc548\ub4dc\ub85c\uc774\ub4dc \ud83d\udcab"
+    },
+    {
+      "name": "bittnerpierre--ai-agent-casebook",
+      "source": "./bittnerpierre--ai-agent-casebook",
+      "description": "Project to showcase agentic framework on a Customer Onboarding Assistant"
+    },
+    {
+      "name": "jstepux--cardshark",
+      "source": "./jstepux--cardshark",
+      "description": "CardShark"
+    },
+    {
+      "name": "modelorona--taplock",
+      "source": "./modelorona--taplock",
+      "description": "A minimalist Android widget that lets you lock your screen with a double tap. Perfect for one-handed use and quick screen locking."
+    },
+    {
+      "name": "bittnerpierre--ai-agent-casebook",
+      "source": "./bittnerpierre--ai-agent-casebook",
+      "description": "Project to showcase agentic framework on a Customer Onboarding Assistant"
+    },
+    {
+      "name": "jstepux--cardshark",
+      "source": "./jstepux--cardshark",
+      "description": "CardShark"
+    },
+    {
+      "name": "modelorona--taplock",
+      "source": "./modelorona--taplock",
+      "description": "A minimalist Android widget that lets you lock your screen with a double tap. Perfect for one-handed use and quick screen locking."
+    },
+    {
       "name": "hyaway--hyaway",
       "source": "./hyaway--hyaway",
       "description": "hyAway.com site"
@@ -103428,6 +103658,36 @@
       "name": "zachlagden--spotify-listening-insights",
       "source": "./zachlagden--spotify-listening-insights",
       "description": "Analyze your Spotify listening history with rich terminal output. Processes privacy data exports into detailed stats, artist breakdowns, temporal patterns, and more."
+    },
+    {
+      "name": "ivoryos-ai--ivoryos",
+      "source": "./ivoryos-ai--ivoryos",
+      "description": "IvoryOS \u2013 Auto-abstraction & runtime for self-driving labs. Turns Python scripts into a visual workflow builder, execution engine, and optimization platform. Designed for scientists and developers."
+    },
+    {
+      "name": "shardeum--shardeum-validator",
+      "source": "./shardeum--shardeum-validator",
+      "description": "The validator which allows you to participate in the Shardeum network and earn SHM"
+    },
+    {
+      "name": "hirotasoshu--ha-findn-led-ble",
+      "source": "./hirotasoshu--ha-findn-led-ble",
+      "description": "Home assistant integration for Findn LED BLE strips"
+    },
+    {
+      "name": "marc-shade--ai-persona-lab",
+      "source": "./marc-shade--ai-persona-lab",
+      "description": "A powerful AI-driven application for creating and managing dynamic personas, enabling interactive group chats with AI personalities powered by Ollama."
+    },
+    {
+      "name": "milesight-iot--beaver-iot-web",
+      "source": "./milesight-iot--beaver-iot-web",
+      "description": "An open-source platform designed for rapid and intuitive IoT application development."
+    },
+    {
+      "name": "bifrost-io--developers",
+      "source": "./bifrost-io--developers",
+      "description": "Bifrost Developer Docs"
     },
     {
       "name": "mohiwalla--memes",
@@ -107343,6 +107603,26 @@
       "name": "mixedbread-ai--mixedbread-ts",
       "source": "./mixedbread-ai--mixedbread-ts",
       "description": "mixedbread-ts"
+    },
+    {
+      "name": "ahyatt--emacs-bluesky",
+      "source": "./ahyatt--emacs-bluesky",
+      "description": "An emacs client for Bluesky"
+    },
+    {
+      "name": "sebane1--aquestreborn",
+      "source": "./sebane1--aquestreborn",
+      "description": "Play custom quests made by the community, or make your own!"
+    },
+    {
+      "name": "glassontin--kde-appimage-helper",
+      "source": "./glassontin--kde-appimage-helper",
+      "description": "Tool for integrating AppImages with KDE Plasma desktop"
+    },
+    {
+      "name": "linux-fly--sub-customizer",
+      "source": "./linux-fly--sub-customizer",
+      "description": "Clash subcription customizer | Clash\u8ba2\u9605\u81ea\u5b9a\u4e49"
     },
     {
       "name": "scardoso-lu--google-antigravity-settings",
@@ -111663,6 +111943,31 @@
       "name": "comfy-deploy--app",
       "source": "./comfy-deploy--app",
       "description": "app"
+    },
+    {
+      "name": "igorwarzocha--howaboua-pi-stuff",
+      "source": "./igorwarzocha--howaboua-pi-stuff",
+      "description": "A monorepo of extensions and skills by yours truly."
+    },
+    {
+      "name": "dystcz--dystore",
+      "source": "./dystcz--dystore",
+      "description": "Collection of ecommerce packages built on top of Lunar and Laravel JSON:API."
+    },
+    {
+      "name": "yuqie6--qqmusicdownloader",
+      "source": "./yuqie6--qqmusicdownloader",
+      "description": "qqmusicdownloader"
+    },
+    {
+      "name": "kmarchais--mmgpy",
+      "source": "./kmarchais--mmgpy",
+      "description": "Pythonic remeshing library based on the MMG software."
+    },
+    {
+      "name": "yuqie6--qqmusicdownloader",
+      "source": "./yuqie6--qqmusicdownloader",
+      "description": "qqmusicdownloader"
     },
     {
       "name": "godblessamki--workout-tracker",
@@ -116203,6 +116508,16 @@
       "name": "imio--helm-odoo",
       "source": "./imio--helm-odoo",
       "description": "Helm Chart for Odoo"
+    },
+    {
+      "name": "green-software-foundation--sci-ai",
+      "source": "./green-software-foundation--sci-ai",
+      "description": "SCI for AI - Addressing the challenges of measuring Artificial intelligence carbon emissions"
+    },
+    {
+      "name": "mvslovers--mvsmf",
+      "source": "./mvslovers--mvsmf",
+      "description": "mvsmf"
     },
     {
       "name": "makenowjust--naraku",
@@ -122883,6 +123198,31 @@
       "name": "ccev--diadem",
       "source": "./ccev--diadem",
       "description": "\ud83c\udf20 Next-gen map frontend for Pok\u00e9mon GO"
+    },
+    {
+      "name": "shyftlabs--continuum",
+      "source": "./shyftlabs--continuum",
+      "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship."
+    },
+    {
+      "name": "shyftlabs--continuum",
+      "source": "./shyftlabs--continuum",
+      "description": "Continuum \u2014 the agent runtime by ShyftLabs. Build, orchestrate, ship."
+    },
+    {
+      "name": "speedata--einvoice",
+      "source": "./speedata--einvoice",
+      "description": "Go library to read, write and verify electronic invoices"
+    },
+    {
+      "name": "cipherslab--saaspilot",
+      "source": "./cipherslab--saaspilot",
+      "description": "\ud83d\ude80 SaaSPilot - The most AI-coding-agent-friendly SaaS boilerplate for Next.js. Build faster with 120KB of AI-optimized docs, credit-based billing, and production-ready patterns. Perfect for AI SaaS app"
+    },
+    {
+      "name": "hkustgz-mics-lyu--mico-python",
+      "source": "./hkustgz-mics-lyu--mico-python",
+      "description": "End-to-End Mixed Precision Neural Network Co-Exploration Framework for Edge AI"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
