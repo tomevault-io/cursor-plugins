@@ -7,11 +7,11 @@ Composable computational-science methodology skills for AI research agents — p
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [K-Dense-AI/science-superpowers](https://github.com/K-Dense-AI/science-superpowers).
+Original source: `CLAUDE.md` in [K-Dense-AI/science-superpowers](https://github.com/K-Dense-AI/science-superpowers).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
