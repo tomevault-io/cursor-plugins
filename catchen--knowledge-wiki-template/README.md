@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [CatChen/knowledge-wiki-template](https://github.com/CatChen/knowledge-wiki-template).
+Original source: `CLAUDE.md` in [CatChen/knowledge-wiki-template](https://github.com/CatChen/knowledge-wiki-template).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
