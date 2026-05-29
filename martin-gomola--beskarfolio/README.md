@@ -1,0 +1,26 @@
+# beskarfolio
+
+> Source: [martin-gomola/beskarfolio](https://github.com/martin-gomola/beskarfolio) — distributed by [TomeVault](https://tomevault.io)
+
+Privacy-first stock portfolio tracker. Transactions in localStorage, prices from 4 providers with fallback. No database, no accounts. FastAPI + React + Docker.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [martin-gomola/beskarfolio](https://github.com/martin-gomola/beskarfolio).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/martin-gomola/beskarfolio](https://github.com/martin-gomola/beskarfolio)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:d-e-q -->
