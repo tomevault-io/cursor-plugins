@@ -7,11 +7,11 @@ Generating commit messages using Generative AI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [utsmannn/commitah](https://github.com/utsmannn/commitah).
+Original source: `CLAUDE.md` in [utsmannn/commitah](https://github.com/utsmannn/commitah).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
