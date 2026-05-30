@@ -7,11 +7,11 @@ System Agentic Engineering on Cloudflare Workers and Durable Objects
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [lumenize/lumenize](https://github.com/lumenize/lumenize).
+Original source: `AGENTS.md` in [lumenize/lumenize](https://github.com/lumenize/lumenize).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
