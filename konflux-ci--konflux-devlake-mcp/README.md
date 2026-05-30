@@ -2,14 +2,16 @@
 
 > Sourced from [konflux-ci/konflux-devlake-mcp](https://github.com/konflux-ci/konflux-devlake-mcp) and converted for every major platform by [TomeVault](https://tomevault.io)
 
+MCP server that bridges AI assistants with DevLake databases for natural language data querying and analysis.
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [konflux-ci/konflux-devlake-mcp](https://github.com/konflux-ci/konflux-devlake-mcp).
+Original source: `AGENTS.md` in [konflux-ci/konflux-devlake-mcp](https://github.com/konflux-ci/konflux-devlake-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
