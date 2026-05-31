@@ -142670,6 +142670,11 @@
       "description": "A Claude Code + Codex skill that turns a local project into a macOS Dock-launchable app \u2014 native window, its own icon, no Electron. [The Windows version is in BETA]"
     },
     {
+      "name": "webprofusion--autotablature",
+      "source": "./webprofusion--autotablature",
+      "description": "Automatic AI MP3 to Guitar Pro tablature. Possibly."
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -153008,6 +153013,16 @@
       "name": "prinova--pi-evo-research",
       "source": "./prinova--pi-evo-research",
       "description": "Population-guided evolutionary research for pi \u2014 evolve hypotheses, run measured experiments, keep what works."
+    },
+    {
+      "name": "artwork278--artwork-cqrs",
+      "source": "./artwork278--artwork-cqrs",
+      "description": "Standalone CQRS primitives for TypeScript applications."
+    },
+    {
+      "name": "bitslix--blxcode",
+      "source": "./bitslix--blxcode",
+      "description": "BLXCode is an open-source desktop workbench for running AI coding agents beside real terminals, project memory, tasks, and an embedded browser. It is built with Tauri 2, Rust, Leptos, and Trunk."
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -236103,6 +236118,31 @@
       "name": "xvc-com--cron",
       "source": "./xvc-com--cron",
       "description": "cron"
+    },
+    {
+      "name": "forreal360--specialonerexvilledash",
+      "source": "./forreal360--specialonerexvilledash",
+      "description": "SpecialOneRexvilleDash"
+    },
+    {
+      "name": "abnerborgonha--cappto-api",
+      "source": "./abnerborgonha--cappto-api",
+      "description": "cappto-api"
+    },
+    {
+      "name": "extrainjulian--assistant-api-test",
+      "source": "./extrainjulian--assistant-api-test",
+      "description": "assistant-api-test"
+    },
+    {
+      "name": "braeddy--aura-tracker",
+      "source": "./braeddy--aura-tracker",
+      "description": "\ud83c\udfae AuraTracker - Full-stack webapp for tracking player aura points with real-time updates"
+    },
+    {
+      "name": "sheacoding--python-learning-assistant-cli",
+      "source": "./sheacoding--python-learning-assistant-cli",
+      "description": "python_learning_assistant_cli"
     }
   ]
 }
