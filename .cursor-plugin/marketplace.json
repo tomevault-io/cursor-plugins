@@ -151985,6 +151985,16 @@
       "description": "Grok Build Visual Studio Code extension. A full embedded chat UI \u2014 not a terminal launcher."
     },
     {
+      "name": "am-will--lynk",
+      "source": "./am-will--lynk",
+      "description": "lynk"
+    },
+    {
+      "name": "psylsph--givenergy-local",
+      "source": "./psylsph--givenergy-local",
+      "description": "Desktop app for monitoring and controlling GivEnergy solar inverters over your local network \u2014 no cloud account needed"
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
@@ -234738,6 +234748,11 @@
       "name": "ddarmon--regressr",
       "source": "./ddarmon--regressr",
       "description": "An R package for regression testing"
+    },
+    {
+      "name": "matthewabbott--traderbot",
+      "source": "./matthewabbott--traderbot",
+      "description": "Petty HFT intra-hour mean reversion tactic"
     }
   ]
 }
