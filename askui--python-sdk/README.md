@@ -1,0 +1,26 @@
+# python-sdk
+
+> Tome by [askui](https://github.com/askui/python-sdk) — distributed by [TomeVault](https://tomevault.io)
+
+Enable AI to control your desktop, mobile and HMI devices
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [askui/python-sdk](https://github.com/askui/python-sdk).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/askui/python-sdk](https://github.com/askui/python-sdk)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:t-e-q -->
