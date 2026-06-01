@@ -7,11 +7,11 @@ NekroAgent 是一个面向多人互动场景的跨平台 Agent 框架，集 Clau
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent).
+Original source: `AGENTS.md` in [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
