@@ -7,14 +7,14 @@ A portable AI-agent skill that turns rough ideas into project specs, delivery sc
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [Geo-ff/make-it-real](https://github.com/Geo-ff/make-it-real).
+Original source: `CLAUDE.md` in [Geo-ff/make-it-real](https://github.com/Geo-ff/make-it-real).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/Geo-ff/make-it-real](https://github.com/Geo-ff/make-it-real)
