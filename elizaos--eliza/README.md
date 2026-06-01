@@ -7,11 +7,11 @@ Open source agentic operating system
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [elizaOS/eliza](https://github.com/elizaOS/eliza).
+Original source: `AGENTS.md` in [elizaOS/eliza](https://github.com/elizaOS/eliza).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
