@@ -7,14 +7,14 @@ Experience timeless melodies with a music player that blends classic design with
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [Losses/rune](https://github.com/Losses/rune).
+Original source: `CLAUDE.md` in [Losses/rune](https://github.com/Losses/rune).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/Losses/rune](https://github.com/Losses/rune)
