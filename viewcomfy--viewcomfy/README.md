@@ -1,0 +1,26 @@
+# ViewComfy
+
+> Tome by [ViewComfy](https://github.com/ViewComfy/ViewComfy) — distributed by [TomeVault](https://tomevault.io)
+
+ViewComfy is a open source tool to help you create beautiful web apps from ComfyUI
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [ViewComfy/ViewComfy](https://github.com/ViewComfy/ViewComfy).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/ViewComfy/ViewComfy](https://github.com/ViewComfy/ViewComfy)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:t-e-q -->
