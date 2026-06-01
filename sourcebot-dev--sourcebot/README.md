@@ -7,11 +7,11 @@ Sourcebot is a self-hosted tool that helps humans and agents understand your cod
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot).
+Original source: `AGENTS.md` in [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
