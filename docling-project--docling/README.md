@@ -7,11 +7,11 @@ Get your documents ready for gen AI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [docling-project/docling](https://github.com/docling-project/docling).
+Original source: `AGENTS.md` in [docling-project/docling](https://github.com/docling-project/docling).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
