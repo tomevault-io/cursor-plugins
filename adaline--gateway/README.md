@@ -7,11 +7,11 @@ The only fully local production-grade Super SDK that provides a simple, unified,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [adaline/gateway](https://github.com/adaline/gateway).
+Original source: `AGENTS.md` in [adaline/gateway](https://github.com/adaline/gateway).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
