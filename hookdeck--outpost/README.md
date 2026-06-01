@@ -7,11 +7,11 @@ Open Source Outbound Webhooks and Event Destinations Infrastructure
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [hookdeck/outpost](https://github.com/hookdeck/outpost).
+Original source: `AGENTS.md` in [hookdeck/outpost](https://github.com/hookdeck/outpost).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
