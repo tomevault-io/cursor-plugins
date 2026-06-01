@@ -7,11 +7,11 @@ Bitrix24 PHP SDK for REST API
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [bitrix24/b24phpsdk](https://github.com/bitrix24/b24phpsdk).
+Original source: `AGENTS.md` in [bitrix24/b24phpsdk](https://github.com/bitrix24/b24phpsdk).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
