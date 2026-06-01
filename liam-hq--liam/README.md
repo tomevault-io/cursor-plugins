@@ -7,11 +7,11 @@ Automatically generates beautiful and easy-to-read ER diagrams from your databas
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [liam-hq/liam](https://github.com/liam-hq/liam).
+Original source: `AGENTS.md` in [liam-hq/liam](https://github.com/liam-hq/liam).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
