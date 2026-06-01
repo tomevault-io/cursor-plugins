@@ -7,11 +7,11 @@ Useful utilities for working with Fetch
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sindresorhus/fetch-extras](https://github.com/sindresorhus/fetch-extras).
+Original source: `AGENTS.md` in [sindresorhus/fetch-extras](https://github.com/sindresorhus/fetch-extras).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
