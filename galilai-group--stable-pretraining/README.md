@@ -7,11 +7,11 @@ Reliable, minimal and scalable library for pretraining foundation and world mode
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [galilai-group/stable-pretraining](https://github.com/galilai-group/stable-pretraining).
+Original source: `AGENTS.md` in [galilai-group/stable-pretraining](https://github.com/galilai-group/stable-pretraining).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
