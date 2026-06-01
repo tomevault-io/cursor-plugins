@@ -7,11 +7,11 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows).
+Original source: `CLAUDE.md` in [0PandaDEV/awesome-windows](https://github.com/0PandaDEV/awesome-windows).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
