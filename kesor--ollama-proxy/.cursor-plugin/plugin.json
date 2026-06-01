@@ -1,0 +1,11 @@
+{
+  "name": "kesor--ollama-proxy",
+  "displayName": "ollama-proxy",
+  "version": "1.0.0",
+  "description": "Nginx proxy server in a Docker container to Authenticate & Proxy requests to Ollama from Public Internet via Cloudflare Tunnel",
+  "author": {
+    "name": "kesor",
+    "url": "https://github.com/kesor"
+  },
+  "homepage": "https://github.com/kesor/ollama-proxy"
+}
