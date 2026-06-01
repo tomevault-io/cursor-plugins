@@ -7,11 +7,11 @@ Markdown makes sites - A Static Site Generator for Blogs
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [rochacbruno/marmite](https://github.com/rochacbruno/marmite).
+Original source: `CLAUDE.md` in [rochacbruno/marmite](https://github.com/rochacbruno/marmite).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
