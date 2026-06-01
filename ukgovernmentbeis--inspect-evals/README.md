@@ -7,11 +7,11 @@ Collection of evals for Inspect AI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals).
+Original source: `AGENTS.md` in [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
