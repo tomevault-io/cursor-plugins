@@ -7,11 +7,11 @@ Auth Inbox 📬 is a self-hosted, open-source platform for receiving multiple em
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [TooonyChen/AuthInbox](https://github.com/TooonyChen/AuthInbox).
+Original source: `AGENTS.md` in [TooonyChen/AuthInbox](https://github.com/TooonyChen/AuthInbox).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
