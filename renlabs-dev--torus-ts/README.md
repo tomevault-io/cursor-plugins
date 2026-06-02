@@ -7,11 +7,11 @@ Monorepo for the Torus Network TypesSript Ecosystem. It's managed with Turborepo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [renlabs-dev/torus-ts](https://github.com/renlabs-dev/torus-ts).
+Original source: `AGENTS.md` in [renlabs-dev/torus-ts](https://github.com/renlabs-dev/torus-ts).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
