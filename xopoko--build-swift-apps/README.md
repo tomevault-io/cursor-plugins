@@ -7,11 +7,11 @@ Multi-agent skills for building, debugging, profiling, testing, and shipping Swi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Xopoko/build-swift-apps](https://github.com/Xopoko/build-swift-apps).
+Original source: `AGENTS.md` in [Xopoko/build-swift-apps](https://github.com/Xopoko/build-swift-apps).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
