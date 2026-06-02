@@ -5,14 +5,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [daisukeman32/Shanghai-swap](https://github.com/daisukeman32/Shanghai-swap).
+Original source: `CLAUDE.md` in [daisukeman32/Shanghai-swap](https://github.com/daisukeman32/Shanghai-swap).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [daisukeman32/Shanghai-swap](https://github.com/daisukeman32/Shanghai-swap) — a repo with 0+ stars on GitHub.
