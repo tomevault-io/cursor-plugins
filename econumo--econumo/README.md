@@ -7,12 +7,12 @@ Econumo - A personal and family budgeting app with multi-currency support, share
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [econumo/econumo](https://github.com/econumo/econumo).
+Original source: `copilot-instructions.md` in [econumo/econumo](https://github.com/econumo/econumo).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
