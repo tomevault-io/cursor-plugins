@@ -7,11 +7,11 @@ An iOS app to read and manage the DB Multiverse webcomic, built with a modular a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [nikolainobadi/DBMultiverse](https://github.com/nikolainobadi/DBMultiverse).
+Original source: `CLAUDE.md` in [nikolainobadi/DBMultiverse](https://github.com/nikolainobadi/DBMultiverse).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
