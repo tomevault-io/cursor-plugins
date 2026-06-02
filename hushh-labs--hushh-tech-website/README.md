@@ -7,12 +7,12 @@ Public Hushh web/app wrapper for product surfaces, API integrations, Supabase wo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hushh-labs/hushh_Tech_website](https://github.com/hushh-labs/hushh_Tech_website).
+Original source: `copilot-instructions.md` in [hushh-labs/hushh_Tech_website](https://github.com/hushh-labs/hushh_Tech_website).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
