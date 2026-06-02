@@ -7,11 +7,11 @@ A transparent floating macOS desktop AI companion — a magic sprite that peeks 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Johnixr/peeky](https://github.com/Johnixr/peeky).
+Original source: `CLAUDE.md` in [Johnixr/peeky](https://github.com/Johnixr/peeky).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
