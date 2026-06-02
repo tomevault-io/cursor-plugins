@@ -7,11 +7,11 @@ Convert a repository structure and its contents into a single text file, includi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [kirill-markin/repo-to-text](https://github.com/kirill-markin/repo-to-text).
+Original source: `AGENTS.md` in [kirill-markin/repo-to-text](https://github.com/kirill-markin/repo-to-text).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
