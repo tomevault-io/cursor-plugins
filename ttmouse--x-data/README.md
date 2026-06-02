@@ -15,7 +15,7 @@ Original source: `AGENTS.md` in [ttmouse/X-data](https://github.com/ttmouse/X-da
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [ttmouse/X-data](https://github.com/ttmouse/X-data) — a repo with 45+ stars on GitHub.
+From [ttmouse/X-data](https://github.com/ttmouse/X-data) — a repo with 46+ stars on GitHub.
 
 ---
 
