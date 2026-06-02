@@ -7,14 +7,14 @@ Local shared memory and controlled workflows for AI coding agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [00PrabalK00/Continuum](https://github.com/00PrabalK00/Continuum).
+Original source: `CLAUDE.md` in [00PrabalK00/Continuum](https://github.com/00PrabalK00/Continuum).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [00PrabalK00/Continuum](https://github.com/00PrabalK00/Continuum) — a repo with 7+ stars on GitHub.
