@@ -7,11 +7,11 @@ A tiny ESP32 device that interacts with RFID + NFC devices using the PN532 chip.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dkyazzentwatwa/cypher-pn532](https://github.com/dkyazzentwatwa/cypher-pn532).
+Original source: `AGENTS.md` in [dkyazzentwatwa/cypher-pn532](https://github.com/dkyazzentwatwa/cypher-pn532).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
