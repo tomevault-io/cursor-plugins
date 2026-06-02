@@ -7,11 +7,11 @@ An AI assistant that remembers and sets goals
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [elroy-bot/elroy](https://github.com/elroy-bot/elroy).
+Original source: `AGENTS.md` in [elroy-bot/elroy](https://github.com/elroy-bot/elroy).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
