@@ -7,11 +7,11 @@ Sample library platform with a simple, powerful interface | CLAP, VST3, AU
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [floe-audio/Floe](https://github.com/floe-audio/Floe).
+Original source: `AGENTS.md` in [floe-audio/Floe](https://github.com/floe-audio/Floe).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
