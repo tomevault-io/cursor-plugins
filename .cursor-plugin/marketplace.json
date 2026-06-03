@@ -84930,6 +84930,11 @@
       "description": "P\u00e1same el C\u00f3digo es una web open source con apuntes y ejercicios resueltos de las diferentes asignaturas que componen el Grado de Enxe\u00f1er\u00eda Inform\u00e1tica da Universidade da Coru\u00f1a."
     },
     {
+      "name": "brickfrog--ankigen",
+      "source": "./brickfrog--ankigen",
+      "description": "Gradio application using LLMs to generate csv/apkg to aid with memorizing topics in Anki"
+    },
+    {
       "name": "iamtouchskyer--logex",
       "source": "./iamtouchskyer--logex",
       "description": "Turn Claude Code session transcripts into blog-style articles \u2014 narrative, not logs"
@@ -86870,6 +86875,11 @@
       "description": "nostr-double-ratchet"
     },
     {
+      "name": "sumi-0011--thumbnail-maker",
+      "source": "./sumi-0011--thumbnail-maker",
+      "description": "Create blog thumbnails easily and quickly with Thumbnail Maker"
+    },
+    {
       "name": "lucianaib0318--geomind",
       "source": "./lucianaib0318--geomind",
       "description": "\ud83c\udf0d GeoMind\uff1a\u57fa\u4e8e\u98de\u4e66 CLI + \u817e\u8baf\u4f4d\u7f6e\u7684\u79d1\u7814\u4e0e\u4ea7\u4e1a\u5730\u7406\u60c5\u62a5\u53ef\u89c6\u5316 Skill"
@@ -88628,6 +88638,21 @@
       "name": "aaker--netsapiens-loadgenerator",
       "source": "./aaker--netsapiens-loadgenerator",
       "description": "netsapiens-loadgenerator"
+    },
+    {
+      "name": "nexoral--axiodb",
+      "source": "./nexoral--axiodb",
+      "description": "A fast, lightweight, and scalable open-source DBMS for modern apps. Supports JSON-based data storage, simple APIs, and secure data management. Ideal for projects needing efficient and flexible databas"
+    },
+    {
+      "name": "nexoral--axiodb",
+      "source": "./nexoral--axiodb",
+      "description": "A fast, lightweight, and scalable open-source DBMS for modern apps. Supports JSON-based data storage, simple APIs, and secure data management. Ideal for projects needing efficient and flexible databas"
+    },
+    {
+      "name": "nexoral--axiodb",
+      "source": "./nexoral--axiodb",
+      "description": "A fast, lightweight, and scalable open-source DBMS for modern apps. Supports JSON-based data storage, simple APIs, and secure data management. Ideal for projects needing efficient and flexible databas"
     },
     {
       "name": "heyaohuo--templateflow",
@@ -90633,6 +90658,11 @@
       "name": "floppyfk--kittyhack",
       "source": "./floppyfk--kittyhack",
       "description": "Project to revive the KittyFlap: A web GUI that allows control of the cat flap on the local network without the official KittyFlap app."
+    },
+    {
+      "name": "phongnguyend--entityframeworkcore-mysql-simplebulks",
+      "source": "./phongnguyend--entityframeworkcore-mysql-simplebulks",
+      "description": "Fast and simple bulk insert, bulk update, bulk delete, bulk merge and bulk match for MySQL."
     },
     {
       "name": "develite98--angular-best-practices",
@@ -92863,6 +92893,21 @@
       "name": "aidyou--chatspeed",
       "source": "./aidyou--chatspeed",
       "description": "An AI chat proxy with universal tool access, protocol conversion, load balancing, key isolation, prompt enhancement, centralized MCP hub, and built-in WebSearch & WebFetch \u2014 more than an AI assistant "
+    },
+    {
+      "name": "degraciamathieu--php-class-dependencies-analyzer",
+      "source": "./degraciamathieu--php-class-dependencies-analyzer",
+      "description": "This tool allows you to monitor the dependencies and instability of your classes"
+    },
+    {
+      "name": "luisfer--rosemary-js",
+      "source": "./luisfer--rosemary-js",
+      "description": "Rosemary.js: A flexible and powerful knowledge management library that serves as a canvas for organizing, connecting, and analyzing ideas and data. It provides tools for creating an organic, interconn"
+    },
+    {
+      "name": "polarity--app-spectrum-analyzer",
+      "source": "./polarity--app-spectrum-analyzer",
+      "description": "Spectrum Analyzer for the Browser"
     },
     {
       "name": "googlecloudplatform--cxas-scrapi",
@@ -95108,6 +95153,11 @@
       "name": "homebridge-plugins--homebridge-smarthq",
       "source": "./homebridge-plugins--homebridge-smarthq",
       "description": "homebridge-smarthq"
+    },
+    {
+      "name": "ypares--envil",
+      "source": "./ypares--envil",
+      "description": "envil forges Nix flakes and manages stacked environments"
     },
     {
       "name": "nirholas--auto-kill-terminal",
@@ -100973,6 +101023,11 @@
       "name": "gizmodata--ibis-gizmosql",
       "source": "./gizmodata--ibis-gizmosql",
       "description": "An Ibis back-end for the GizmoSQL Arrow Flight SQL Server (with the DuckDB engine)"
+    },
+    {
+      "name": "mr3zee--kotlin-external-fir-support",
+      "source": "./mr3zee--kotlin-external-fir-support",
+      "description": "IDE Integration for Kotlin FIR Compiler Plugins"
     },
     {
       "name": "13point5--agent-canvas",
@@ -107038,6 +107093,26 @@
       "name": "lqvp--misskey-tempura",
       "source": "./lqvp--misskey-tempura",
       "description": "A feature-rich Misskey fork focused on enhancing security, privacy, and user experience."
+    },
+    {
+      "name": "jkorf--coinbase-net",
+      "source": "./jkorf--coinbase-net",
+      "description": "A C# .netstandard client library for the Bybit REST and Websocket V5 API focusing on clear usage and models"
+    },
+    {
+      "name": "douglasmatheus--canvas-editor-pdf",
+      "source": "./douglasmatheus--canvas-editor-pdf",
+      "description": "Pdf exporter to canvas-editor."
+    },
+    {
+      "name": "douglasmatheus--canvas-editor-pdf",
+      "source": "./douglasmatheus--canvas-editor-pdf",
+      "description": "Pdf exporter to canvas-editor."
+    },
+    {
+      "name": "goerz--muxdisplay-jl",
+      "source": "./goerz--muxdisplay-jl",
+      "description": "A Julia display showing graphics in a multiplexer pane"
     },
     {
       "name": "hyaway--hyaway",
@@ -118995,6 +119070,26 @@
       "description": "Core Gyrinx application"
     },
     {
+      "name": "vo1dee--psychochauffeurbot",
+      "source": "./vo1dee--psychochauffeurbot",
+      "description": "A smart Telegram bot for video downloads, link optimization, AI responses, and useful utilities. \ud83d\ude97"
+    },
+    {
+      "name": "meaningful-data--vtlengine",
+      "source": "./meaningful-data--vtlengine",
+      "description": "A Validation and Transformation Language engine (VTL), written in Python. Compatible with the SDMX standard"
+    },
+    {
+      "name": "suprsend--cli",
+      "source": "./suprsend--cli",
+      "description": "SuprSend CLI"
+    },
+    {
+      "name": "mattbrailsford--github-discussions-blog-loader",
+      "source": "./mattbrailsford--github-discussions-blog-loader",
+      "description": "GitHub Discussions Blog Loader for Astro"
+    },
+    {
       "name": "godblessamki--workout-tracker",
       "source": "./godblessamki--workout-tracker",
       "description": "IronTrack is a native iOS workout tracker built with SwiftUI and SwiftData. It allows users to create custom workout routines and exercises. During active sessions, it automatically displays the maxim"
@@ -123753,6 +123848,21 @@
       "name": "konstructio--konstruct-ui",
       "source": "./konstructio--konstruct-ui",
       "description": "This repository contains a set of reusable and customizable React components built for Konstruct's infrastructure."
+    },
+    {
+      "name": "juliusaka--bnode-core",
+      "source": "./juliusaka--bnode-core",
+      "description": "Generate Balanced Neural ODE surrogate models"
+    },
+    {
+      "name": "stackpress--idea",
+      "source": "./stackpress--idea",
+      "description": "Meta files to express and transform ideas to reality."
+    },
+    {
+      "name": "maragudk--clir",
+      "source": "./maragudk--clir",
+      "description": "CLIR, the Command Line Interface Router."
     },
     {
       "name": "makenowjust--naraku",
@@ -130763,6 +130873,46 @@
       "name": "quochuyyy1839--crawl-market-vn",
       "source": "./quochuyyy1839--crawl-market-vn",
       "description": "Crawl Price Gold"
+    },
+    {
+      "name": "tuxtor--spring-boot-otel-poc",
+      "source": "./tuxtor--spring-boot-otel-poc",
+      "description": "Spring boot projects demonstrating OpenTelemetry instrumentation options"
+    },
+    {
+      "name": "abstractmenus--minecraft-plugin",
+      "source": "./abstractmenus--minecraft-plugin",
+      "description": "minecraft-plugin"
+    },
+    {
+      "name": "zeeraa--protogen",
+      "source": "./zeeraa--protogen",
+      "description": "Software to power protogen cosplaying equipment"
+    },
+    {
+      "name": "alastairlundy--cliinvoke",
+      "source": "./alastairlundy--cliinvoke",
+      "description": "CliInvoke is a .NET library for interacting with Command Line Interfaces and wrapping around executables."
+    },
+    {
+      "name": "thalerjonathan--rust-ddd",
+      "source": "./thalerjonathan--rust-ddd",
+      "description": "Exploring implementing DDD and Microservices with the help of LLMs in Rust "
+    },
+    {
+      "name": "catonetworks--terraform-provider-cato",
+      "source": "./catonetworks--terraform-provider-cato",
+      "description": "This package is a plugin for Terraform, and is designed to be used to auto-provision sites and configurations in the Cato Management Application (CMA) via API from the terraform cli/yaml configuration"
+    },
+    {
+      "name": "vibspatial--targeted-transcriptomics-training",
+      "source": "./vibspatial--targeted-transcriptomics-training",
+      "description": "targeted_transcriptomics_training"
+    },
+    {
+      "name": "babylonlabs-io--babylon-staking-indexer",
+      "source": "./babylonlabs-io--babylon-staking-indexer",
+      "description": "babylon-staking-indexer"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
