@@ -37090,6 +37090,11 @@
       "description": "sensemaking-tools"
     },
     {
+      "name": "uilibs--uiprotect",
+      "source": "./uilibs--uiprotect",
+      "description": "Python API for UniFi Protect (Unofficial)"
+    },
+    {
       "name": "espennilsen--pi",
       "source": "./espennilsen--pi",
       "description": "pi"
@@ -39605,6 +39610,11 @@
       "description": "react native starter kit with: nativewind, supabase auth, expo router, and react native reuseables"
     },
     {
+      "name": "kapetan-io--querator",
+      "source": "./kapetan-io--querator",
+      "description": "An Almost Exactly Once Delivery (AEOD) queue"
+    },
+    {
       "name": "cohen-liel--hivemind",
       "source": "./cohen-liel--hivemind",
       "description": "One prompt. A full AI engineering team. Go lie on the couch. \ud83e\udde0"
@@ -40198,6 +40208,11 @@
       "name": "vincentkoc--airgapped-offfline-rag",
       "source": "./vincentkoc--airgapped-offfline-rag",
       "description": "Secure, locally-run Retrieval-Augmented Generation system for document-based question-answering, utilizing Llama 3, Mistral, and Gemini models with a user-friendly Streamlit interface."
+    },
+    {
+      "name": "quarkusio--quarkus-workshop-langchain4j",
+      "source": "./quarkusio--quarkus-workshop-langchain4j",
+      "description": "Quarkus LangChain4J Workshop that demonstrates both single AI service capabilities and Agentic AI orchestration"
     },
     {
       "name": "sandermuller--laravel-fluent-validation",
@@ -42815,6 +42830,11 @@
       "description": "A Lazy Clause Generation Constraint Programming solver written in Rust."
     },
     {
+      "name": "canonical--ubuntu-server-documentation",
+      "source": "./canonical--ubuntu-server-documentation",
+      "description": "Documentation for Ubuntu Server: https://documentation.ubuntu.com/server/"
+    },
+    {
       "name": "edisonwong520--wanny",
       "source": "./edisonwong520--wanny",
       "description": "A real Jarvis, connecting your appliances, AI controls everything in realworld. Wanny = nanny in Wechat"
@@ -43200,6 +43220,21 @@
       "description": "A category theory and functional programing library for Zig language"
     },
     {
+      "name": "leoswing--comparequeries-datasource-rc",
+      "source": "./leoswing--comparequeries-datasource-rc",
+      "description": "Grafana plugin for time-shifted query comparison across datasources"
+    },
+    {
+      "name": "leoswing--comparequeries-datasource-rc",
+      "source": "./leoswing--comparequeries-datasource-rc",
+      "description": "Grafana plugin for time-shifted query comparison across datasources"
+    },
+    {
+      "name": "leoswing--comparequeries-datasource-rc",
+      "source": "./leoswing--comparequeries-datasource-rc",
+      "description": "Grafana plugin for time-shifted query comparison across datasources"
+    },
+    {
       "name": "aspenkit--aspens",
       "source": "./aspenkit--aspens",
       "description": "Your CLAUDE.md stopped working at 200 lines. Generate scoped skill files from your import graph, auto-sync on every commit. Claude Code, Codex, Cursor."
@@ -43573,6 +43608,11 @@
       "name": "mitchross--talos-argocd-proxmox",
       "source": "./mitchross--talos-argocd-proxmox",
       "description": "Talos ArgoCD Homelab. My personal production Cluster. "
+    },
+    {
+      "name": "turingq--deepquantum",
+      "source": "./turingq--deepquantum",
+      "description": "DeepQuantum for quantum computing"
     },
     {
       "name": "jayparikh--agentviz",
@@ -43983,6 +44023,21 @@
       "name": "arizona-framework--arizona",
       "source": "./arizona-framework--arizona",
       "description": "A web framework for Erlang/OTP"
+    },
+    {
+      "name": "cbomkit--sonar-cryptography",
+      "source": "./cbomkit--sonar-cryptography",
+      "description": "This repository contains a SonarQube Plugin that detects cryptographic assets in source code and generates CBOM."
+    },
+    {
+      "name": "castacks--airstack",
+      "source": "./castacks--airstack",
+      "description": "Boilerplate for robot autonomy. Designed for multi-robot, real world deployment with TAK."
+    },
+    {
+      "name": "castacks--airstack",
+      "source": "./castacks--airstack",
+      "description": "Boilerplate for robot autonomy. Designed for multi-robot, real world deployment with TAK."
     },
     {
       "name": "moneat-io--moneat",
@@ -44408,6 +44463,11 @@
       "name": "bigdevsoon--100-days-of-code",
       "source": "./bigdevsoon--100-days-of-code",
       "description": "100 Days of Code | Daily Challenges | Beautifully Crafted Designs | Created for Full-stack/Frontend/Web Developers - Vibe Code with AI."
+    },
+    {
+      "name": "jamesives--hlds-docker",
+      "source": "./jamesives--hlds-docker",
+      "description": "\ud83d\udc0b \ud83d\udce6 Half-Life Dedicated Server powered by Docker, supporting all the classic GoldSrc Half-Life games and mods-including Counter-Strike 1.6, Team Fortress Classic, Day of Defeat and more. Easily extend"
     },
     {
       "name": "tmdgusya--engineering-discipline",
@@ -45000,6 +45060,16 @@
       "description": "Bootstrap your microservices in a second!"
     },
     {
+      "name": "nvidia-omniverse--usd-exchange",
+      "source": "./nvidia-omniverse--usd-exchange",
+      "description": "OpenUSD Exchange SDK"
+    },
+    {
+      "name": "nvidia-omniverse--usd-exchange",
+      "source": "./nvidia-omniverse--usd-exchange",
+      "description": "OpenUSD Exchange SDK"
+    },
+    {
       "name": "dceoy--speckit-agent-skills",
       "source": "./dceoy--speckit-agent-skills",
       "description": "Agent skills for Spec Kit"
@@ -45328,6 +45398,16 @@
       "name": "cmbagents--cmbagent",
       "source": "./cmbagents--cmbagent",
       "description": "Multi-agent system for research, powered by ag2"
+    },
+    {
+      "name": "floe-audio--floe",
+      "source": "./floe-audio--floe",
+      "description": "Sample library platform with a simple, powerful interface | CLAP, VST3, AU"
+    },
+    {
+      "name": "floe-audio--floe",
+      "source": "./floe-audio--floe",
+      "description": "Sample library platform with a simple, powerful interface | CLAP, VST3, AU"
     },
     {
       "name": "aelf-hzz780--ai-bounty-skill",
@@ -45785,6 +45865,11 @@
       "description": "Complete source code of the official Windscribe iOS application."
     },
     {
+      "name": "ktiseos-nyx--dataset-tools",
+      "source": "./ktiseos-nyx--dataset-tools",
+      "description": "An Extensive AI & Camera Metadata Viewer"
+    },
+    {
       "name": "0xranx--agentbrief",
       "source": "./0xranx--agentbrief",
       "description": "Pluggable role definitions for AI coding agents \u2014 one command turns Claude Code / Cursor / OpenCode / Codex into a specialized professional"
@@ -46238,6 +46323,31 @@
       "name": "flaringapp--composecollapsingtopbar",
       "source": "./flaringapp--composecollapsingtopbar",
       "description": "The ultimate Compose Multiplatform collapsing toolbar library with dynamic sizing, different scroll modes, and extensive customization options"
+    },
+    {
+      "name": "flatroy--stupid-inventory-laravel",
+      "source": "./flatroy--stupid-inventory-laravel",
+      "description": "WIP: Simple stupid inventory and organization system built for the Home User. Inspired by Homebox. Build on top of FilamentPHP. Would be self-hosted and as SaaS. Demo:"
+    },
+    {
+      "name": "flatroy--stupid-inventory-laravel",
+      "source": "./flatroy--stupid-inventory-laravel",
+      "description": "WIP: Simple stupid inventory and organization system built for the Home User. Inspired by Homebox. Build on top of FilamentPHP. Would be self-hosted and as SaaS. Demo:"
+    },
+    {
+      "name": "sheinsight--react-use",
+      "source": "./sheinsight--react-use",
+      "description": "\u269b\ufe0f React Use: A new programming paradigm to reshape React development."
+    },
+    {
+      "name": "flatroy--stupid-inventory-laravel",
+      "source": "./flatroy--stupid-inventory-laravel",
+      "description": "WIP: Simple stupid inventory and organization system built for the Home User. Inspired by Homebox. Build on top of FilamentPHP. Would be self-hosted and as SaaS. Demo:"
+    },
+    {
+      "name": "drewzemke--tongo",
+      "source": "./drewzemke--tongo",
+      "description": "A TUI for MongoDB."
     },
     {
       "name": "simonkurtz-msft--drawio-mcp-server",
@@ -48545,6 +48655,21 @@
       "description": "langchain-redis"
     },
     {
+      "name": "freifahren--freifahren",
+      "source": "./freifahren--freifahren",
+      "description": "A web and mobile app to show and report ticket inspectors in Berlin"
+    },
+    {
+      "name": "fountain-ink--app",
+      "source": "./fountain-ink--app",
+      "description": "decentralized blogging platform"
+    },
+    {
+      "name": "neonwatty--bleep-that-shit",
+      "source": "./neonwatty--bleep-that-shit",
+      "description": "Free in-browser audio & video censorship tool. AI-powered transcription with Whisper, 100% private client-side processing. Bleep profanity, custom words, or any phrase."
+    },
+    {
       "name": "attilaszasz--sdd-pilot",
       "source": "./attilaszasz--sdd-pilot",
       "description": "Replace chaotic AI code generation with a disciplined, spec-driven workflow. SDD Pilot enforces structured development phases and quality gates, leveraging AI agents to conduct online research for bes"
@@ -50525,6 +50650,11 @@
       "description": "AWS Certified AI Practitioner (AIF-C01) exam preparation"
     },
     {
+      "name": "typst-jp--docs",
+      "source": "./typst-jp--docs",
+      "description": "Typst Documentation \u65e5\u672c\u8a9e\u7248"
+    },
+    {
       "name": "asakin--llm-context-base",
       "source": "./asakin--llm-context-base",
       "description": "A git template for building your own LLM-powered personal wiki. Training period, metadata standard, lint system included. Clone and go."
@@ -51043,6 +51173,16 @@
       "name": "ekristen--distillery",
       "source": "./ekristen--distillery",
       "description": "like homebrew but with less fizz. install binaries as fast and as easy as possible. no package manager, no recipes or metadata to update, just install and go"
+    },
+    {
+      "name": "ngx-vest-forms--ngx-vest-forms",
+      "source": "./ngx-vest-forms--ngx-vest-forms",
+      "description": "Simple form development for complex and scalable solutions"
+    },
+    {
+      "name": "lantean-code--qbtmud",
+      "source": "./lantean-code--qbtmud",
+      "description": "qbtmud is a drop-in replacement for qBittorrent's default WebUI. It keeps qBittorrent's Web API semantics and core workflows, while adding a more polished application experience around setup, customiz"
     },
     {
       "name": "copilot-community-sdk--copilot-sdk-java",
@@ -51753,6 +51893,11 @@
       "name": "nvidiagameworks--toolkit-remix",
       "source": "./nvidiagameworks--toolkit-remix",
       "description": "RTX Remix Toolkit"
+    },
+    {
+      "name": "lmnr-ai--lmnr-python",
+      "source": "./lmnr-ai--lmnr-python",
+      "description": "lmnr-python"
     },
     {
       "name": "eduardo-sl--go-agent-skills",
@@ -52968,6 +53113,11 @@
       "name": "ostwind23--maa-for-millennium-tour",
       "source": "./ostwind23--maa-for-millennium-tour",
       "description": "\u3010\u5343\u5e74\u4e4b\u65c5MAA\u81ea\u52a8\u5316\u3011MAA for Millennium Tour"
+    },
+    {
+      "name": "wombatwisdom--wombat",
+      "source": "./wombatwisdom--wombat",
+      "description": "Wombat"
     },
     {
       "name": "cxlinux-ai--cx-core",
@@ -54333,6 +54483,11 @@
       "name": "seed-hypermedia--seed",
       "source": "./seed-hypermedia--seed",
       "description": "Desktop+Web app for self-publishing, powered by the open Hypermedia protocol"
+    },
+    {
+      "name": "xuyecan--alfred-chathub",
+      "source": "./xuyecan--alfred-chathub",
+      "description": "A chat alfred-workflow that integrates multiple popular large language model (LLM) services, including OpenAI, Anthropic, Gemini, etc"
     },
     {
       "name": "isaaccorley--geospatial-skills",
@@ -55818,6 +55973,11 @@
       "name": "terraconstructs--base",
       "source": "./terraconstructs--base",
       "description": "TerraConstructs"
+    },
+    {
+      "name": "tenstorrent--ttnn-visualizer",
+      "source": "./tenstorrent--ttnn-visualizer",
+      "description": "A comprehensive tool for visualizing and analyzing model execution, offering interactive graphs, memory plots, tensor details, buffer overviews, operation flow graphs, and multi-instance support with "
     },
     {
       "name": "shashankswe2020-ux--whoop-mcp",
@@ -58443,6 +58603,16 @@
       "name": "onozaty--prisma-db-comments-generator",
       "source": "./onozaty--prisma-db-comments-generator",
       "description": "Generate database comments from Prisma schema."
+    },
+    {
+      "name": "blankeos--solid-launch",
+      "source": "./blankeos--solid-launch",
+      "description": "\ud83e\uddca My opinionated SolidJS+Vike+Hono starter w/ batteries-included."
+    },
+    {
+      "name": "marc-shade--ollama-workbench",
+      "source": "./marc-shade--ollama-workbench",
+      "description": "A comprehensive platform for managing, testing, and leveraging Ollama AI models with advanced features for customization, workflow automation, and collaborative development."
     },
     {
       "name": "rudrankriyam--foundation-models-framework-cli",
@@ -105920,6 +106090,16 @@
       "description": "Desktop tool to quickly explore and analyze Swift code"
     },
     {
+      "name": "robzilla1738--skillz-macos",
+      "source": "./robzilla1738--skillz-macos",
+      "description": "macOS app for browsing and editing skills, MCP configs, and plugins across local AI tools"
+    },
+    {
+      "name": "robzilla1738--skillz-macos",
+      "source": "./robzilla1738--skillz-macos",
+      "description": "macOS app for browsing and editing skills, MCP configs, and plugins across local AI tools"
+    },
+    {
       "name": "fcoury--termwright",
       "source": "./fcoury--termwright",
       "description": "Playwright-like automation framework for terminal TUI applications"
@@ -112568,6 +112748,11 @@
       "name": "jaewone--icon-bullet-helper",
       "source": "./jaewone--icon-bullet-helper",
       "description": "Helps you styling checkboxes in preview mode."
+    },
+    {
+      "name": "proof--proof-vc-web",
+      "source": "./proof--proof-vc-web",
+      "description": "Web Components for Proof Digital Credentials."
     },
     {
       "name": "mohiwalla--memes",
@@ -125950,6 +126135,16 @@
       "description": "Caduceus \u2014 Hermes-native UltraCode dynamic-workflow mode (Dynamic Workflows)"
     },
     {
+      "name": "aftertonesignal--brume",
+      "source": "./aftertonesignal--brume",
+      "description": "A 24-voice, multi-part synthesizer for the Raspberry Pi CM5. Touchscreen UI, audio and MIDI over USB, four sound engines, no samples."
+    },
+    {
+      "name": "aftertonesignal--brume",
+      "source": "./aftertonesignal--brume",
+      "description": "A 24-voice, multi-part synthesizer for the Raspberry Pi CM5. Touchscreen UI, audio and MIDI over USB, four sound engines, no samples."
+    },
+    {
       "name": "makenowjust--naraku",
       "source": "./makenowjust--naraku",
       "description": "next Ruby Regexp engine"
@@ -133043,6 +133238,16 @@
       "name": "dgdev25--ruvos",
       "source": "./dgdev25--ruvos",
       "description": "rUvOS \u2014 the agentic operating system. A single static Rust binary that runs as an MCP server, giving Claude Code persistent memory, resumable signed sessions, multi-agent orchestration, a knowledge gr"
+    },
+    {
+      "name": "darkly-art--darkly",
+      "source": "./darkly-art--darkly",
+      "description": "Entropic Editor for Artists \ud83d\ude08"
+    },
+    {
+      "name": "darkly-art--darkly",
+      "source": "./darkly-art--darkly",
+      "description": "Entropic Editor for Artists \ud83d\ude08"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
