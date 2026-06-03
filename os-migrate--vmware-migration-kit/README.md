@@ -7,11 +7,11 @@ VMWare to OpenStack Migration Toolkit
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [os-migrate/vmware-migration-kit](https://github.com/os-migrate/vmware-migration-kit).
+Original source: `CLAUDE.md` in [os-migrate/vmware-migration-kit](https://github.com/os-migrate/vmware-migration-kit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
