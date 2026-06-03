@@ -7,12 +7,12 @@ A Swift Package of SwiftUI components library for Orange developers with Orange 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [Orange-OpenSource/ouds-ios](https://github.com/Orange-OpenSource/ouds-ios).
+Original source: `AGENTS.md` in [Orange-OpenSource/ouds-ios](https://github.com/Orange-OpenSource/ouds-ios).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
