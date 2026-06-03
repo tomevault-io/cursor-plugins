@@ -7,11 +7,11 @@ AWS Certified AI Practitioner (AIF-C01) exam preparation
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [jwalsh/aif-c01](https://github.com/jwalsh/aif-c01).
+Original source: `AGENTS.md` in [jwalsh/aif-c01](https://github.com/jwalsh/aif-c01).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
