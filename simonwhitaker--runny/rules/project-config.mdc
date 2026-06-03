@@ -1,0 +1,14 @@
+---
+description: Always run tests (`go test ./...`) before committing.
+alwaysApply: true
+---
+
+# Agents
+
+## Testing
+
+Always run tests (`go test ./...`) before committing.
+
+---
+> Source: [simonwhitaker/runny](https://github.com/simonwhitaker/runny) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:cursor_mdc:2026-06-03 -->
