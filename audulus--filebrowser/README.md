@@ -7,11 +7,11 @@ Alternate document browser for document apps
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [audulus/FileBrowser](https://github.com/audulus/FileBrowser).
+Original source: `CLAUDE.md` in [audulus/FileBrowser](https://github.com/audulus/FileBrowser).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
