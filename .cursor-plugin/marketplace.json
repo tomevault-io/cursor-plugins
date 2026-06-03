@@ -36850,6 +36850,11 @@
       "description": "\ud83d\udcb8 Calculate the MRR, ARR, TTM, churn, LTV, ARPU, total revenue & valuation of your pay-powered Rails SaaS app. MRR dashboard for your Rails app."
     },
     {
+      "name": "nichsedge--idx-bei",
+      "source": "./nichsedge--idx-bei",
+      "description": "Indonesia Stock Exchange (Bursa Efek Indonesia) Scraper"
+    },
+    {
       "name": "livekit--livekit-wakeword",
       "source": "./livekit--livekit-wakeword",
       "description": "An open-source wake word library for creating voice-enabled applications."
@@ -37033,6 +37038,16 @@
       "name": "whetstoneresearch--doppler",
       "source": "./whetstoneresearch--doppler",
       "description": "Core contracts for the Doppler Protocol"
+    },
+    {
+      "name": "anyproto--anytype-api",
+      "source": "./anyproto--anytype-api",
+      "description": "Start building with Anytype's API. The developer portal for extending Anytype through powerful integrations."
+    },
+    {
+      "name": "jigsaw-code--sensemaking-tools",
+      "source": "./jigsaw-code--sensemaking-tools",
+      "description": "sensemaking-tools"
     },
     {
       "name": "espennilsen--pi",
@@ -37243,6 +37258,11 @@
       "name": "bonzo81--netbox-librenms-plugin",
       "source": "./bonzo81--netbox-librenms-plugin",
       "description": "Netbox plugin to sync data between LibreNMS and Netbox"
+    },
+    {
+      "name": "alyf-de--eu-einvoice",
+      "source": "./alyf-de--eu-einvoice",
+      "description": "Create and import e-invoices with ERPNext."
     },
     {
       "name": "warpdotdev--oz-skills",
@@ -38595,6 +38615,11 @@
       "description": "\u25b6\ud83d\udcda Playbooks is a semantic programming system for AI agents"
     },
     {
+      "name": "scipy--scipy-stubs",
+      "source": "./scipy--scipy-stubs",
+      "description": "Official type stubs for SciPy"
+    },
+    {
       "name": "jjongguet--oh-my-product",
       "source": "./jjongguet--oh-my-product",
       "description": "oh-my-product"
@@ -39455,6 +39480,11 @@
       "description": "Ask questions about your Obsidian notes using local AI. Privacy-first RAG with Ollama, LM Studio, or any OpenAI-compatible server. Obsidian plugin + Docker + PyPI."
     },
     {
+      "name": "bitdriftlabs--pulse",
+      "source": "./bitdriftlabs--pulse",
+      "description": "bitdrift observability proxy"
+    },
+    {
       "name": "cohen-liel--hivemind",
       "source": "./cohen-liel--hivemind",
       "description": "One prompt. A full AI engineering team. Go lie on the couch. \ud83e\udde0"
@@ -39755,6 +39785,11 @@
       "description": "A convenient React hook that utilizes input[switch] introduced in Safari 18.0 to trigger haptic feedback anytime, anywhere in your application."
     },
     {
+      "name": "nginx--documentation",
+      "source": "./nginx--documentation",
+      "description": "Public source for docs.nginx.com"
+    },
+    {
       "name": "mag123c--toktrack",
       "source": "./mag123c--toktrack",
       "description": "Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code)"
@@ -40023,6 +40058,16 @@
       "name": "netboxlabs--orb-agent",
       "source": "./netboxlabs--orb-agent",
       "description": "Orb network observability agent, part of the NetBox ecosystem and developed by NetBox Labs"
+    },
+    {
+      "name": "kristofferr--iptvchecker-python",
+      "source": "./kristofferr--iptvchecker-python",
+      "description": "Script that goes through a playlist to check IPTV channels"
+    },
+    {
+      "name": "automattic--remote-data-blocks",
+      "source": "./automattic--remote-data-blocks",
+      "description": "Remote Data Blocks: a WordPress plugin for creating flexible, data-enriched content with remote data integration"
     },
     {
       "name": "sandermuller--laravel-fluent-validation",
@@ -43735,6 +43780,11 @@
       "description": "Convex component for durably executing workflows."
     },
     {
+      "name": "ircam-partiels--partiels",
+      "source": "./ircam-partiels--partiels",
+      "description": "Partiels is an audio analysis application that allows you to explore the content and characteristics of sounds"
+    },
+    {
       "name": "moneat-io--moneat",
       "source": "./moneat-io--moneat",
       "description": "moneat"
@@ -44148,6 +44198,11 @@
       "name": "georgelyon--swiftclaude",
       "source": "./georgelyon--swiftclaude",
       "description": "A Swift SDK for Anthropic's Claude API"
+    },
+    {
+      "name": "s-stolz--algotrader",
+      "source": "./s-stolz--algotrader",
+      "description": "Custom Trading App for Algorithmic Trading"
     },
     {
       "name": "tmdgusya--engineering-discipline",
@@ -45925,6 +45980,11 @@
       "description": "A magical CSS engine for all environments"
     },
     {
+      "name": "daniel-lobo--winehooks",
+      "source": "./daniel-lobo--winehooks",
+      "description": "WineHooks"
+    },
+    {
       "name": "simonkurtz-msft--drawio-mcp-server",
       "source": "./simonkurtz-msft--drawio-mcp-server",
       "description": "A Model Context Protocol (MCP) server for programmatic diagram generation using Draw.io (Diagrams.net). This server generates Draw.io XML directly \u2014 no browser extension or Draw.io instance required."
@@ -46403,6 +46463,11 @@
       "name": "aikrice--homebrew-badgetizr",
       "source": "./aikrice--homebrew-badgetizr",
       "description": "Badgetizr is a tool to allow custom badges automatically added and updated according the content of your pull request."
+    },
+    {
+      "name": "fluid-design-io--vision-ui",
+      "source": "./fluid-design-io--vision-ui",
+      "description": "VisionOS UI built with React \u269b\ufe0f"
     },
     {
       "name": "olorehq--olore",
@@ -47165,6 +47230,11 @@
       "description": "Cache Library for Go"
     },
     {
+      "name": "kakasoo--deepstricttypes",
+      "source": "./kakasoo--deepstricttypes",
+      "description": "Utility Types to quickly query and Omit, Pick keys inside nested arrays and objects"
+    },
+    {
       "name": "v-iole-t--tab-harbor",
       "source": "./v-iole-t--tab-harbor",
       "description": "\u4e00\u4e2a\u66f4\u5b89\u9759\u7684\u65b0\u6807\u7b7e\u9875\u5de5\u4f5c\u53f0\uff0c\u628a\u6253\u5f00\u4e2d\u7684\u6807\u7b7e\u3001\u5feb\u6377\u94fe\u63a5\u3001\u5f85\u8bfb\u548c\u8f7b\u91cf\u5f85\u529e\u6536\u8fdb\u540c\u4e00\u4e2a\u987a\u624b\u7684\u7a7a\u95f4\u91cc\u3002"
@@ -47653,6 +47723,11 @@
       "name": "gpt-cmdr--ras-commander",
       "source": "./gpt-cmdr--ras-commander",
       "description": "The RAS-Commander library provides a python API for automating HEC-RAS 6.x and accessing HDF data using Python, built with and driven by large language models."
+    },
+    {
+      "name": "googleworkspace--drive-picker-element",
+      "source": "./googleworkspace--drive-picker-element",
+      "description": "A web component for Google Drive Picker"
     },
     {
       "name": "claude-world--claude-skill-antivirus",
@@ -48148,6 +48223,11 @@
       "name": "soteria-tools--soteria",
       "source": "./soteria-tools--soteria",
       "description": "Sound static analysis for the masses."
+    },
+    {
+      "name": "mikker--sprinkles",
+      "source": "./mikker--sprinkles",
+      "description": "Customize any website with your own JS and CSS"
     },
     {
       "name": "attilaszasz--sdd-pilot",
@@ -49608,6 +49688,11 @@
       "name": "rabbitmq--rabbitmq-amqp-go-client",
       "source": "./rabbitmq--rabbitmq-amqp-go-client",
       "description": "Golang RabbitMQ client for AMQP 1.0"
+    },
+    {
+      "name": "honghaoz--choutiui",
+      "source": "./honghaoz--choutiui",
+      "description": "ChouTiUI is a Swift framework for building delightful user interfaces on macOS and iOS."
     },
     {
       "name": "bioliminal--bioliminal-mobile-application",
@@ -51800,6 +51885,31 @@
       "description": "A simple app to keep alive specific apps by attempting* to start them periodically."
     },
     {
+      "name": "pathoplexus--pathoplexus",
+      "source": "./pathoplexus--pathoplexus",
+      "description": "An open-source pathogen sequence database dedicated to equitable sharing, transparent governance, & empowering global public health."
+    },
+    {
+      "name": "genlayerlabs--genlayer-js",
+      "source": "./genlayerlabs--genlayer-js",
+      "description": "genlayer-js"
+    },
+    {
+      "name": "codescan-ai--codescan",
+      "source": "./codescan-ai--codescan",
+      "description": "CodeScanAI is an open source tool that utilizes powerful AI models (OpenAI, Gemini, and even self-hosted servers) to scan your codebase for possible security vulnerabilities."
+    },
+    {
+      "name": "pathoplexus--pathoplexus",
+      "source": "./pathoplexus--pathoplexus",
+      "description": "An open-source pathogen sequence database dedicated to equitable sharing, transparent governance, & empowering global public health."
+    },
+    {
+      "name": "pathoplexus--pathoplexus",
+      "source": "./pathoplexus--pathoplexus",
+      "description": "An open-source pathogen sequence database dedicated to equitable sharing, transparent governance, & empowering global public health."
+    },
+    {
       "name": "alonw0--llm-docs-optimizer",
       "source": "./alonw0--llm-docs-optimizer",
       "description": "A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through c7score optimization, llms.txt generation"
@@ -52403,6 +52513,11 @@
       "name": "goberomsu--metadata-auto-classifier",
       "source": "./goberomsu--metadata-auto-classifier",
       "description": "AI-powered Obsidian plugin that automatically classifies and generates metadata (tags, frontmatter) for your notes."
+    },
+    {
+      "name": "pnsk-lab--hikkaku",
+      "source": "./pnsk-lab--hikkaku",
+      "description": "Let AI create Scratch projects, via TypeScript"
     },
     {
       "name": "cxlinux-ai--cx-core",
