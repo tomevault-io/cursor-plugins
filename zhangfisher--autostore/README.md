@@ -7,11 +7,11 @@ Very easy and elegant state management library. It is based on proxy and provide
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zhangfisher/autostore](https://github.com/zhangfisher/autostore).
+Original source: `AGENTS.md` in [zhangfisher/autostore](https://github.com/zhangfisher/autostore).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
