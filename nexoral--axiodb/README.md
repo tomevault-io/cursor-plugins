@@ -7,14 +7,14 @@ A fast, lightweight, and scalable open-source DBMS for modern apps. Supports JSO
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [nexoral/AxioDB](https://github.com/nexoral/AxioDB).
+Original source: `AGENTS.md` in [nexoral/AxioDB](https://github.com/nexoral/AxioDB).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/nexoral/AxioDB](https://github.com/nexoral/AxioDB)
