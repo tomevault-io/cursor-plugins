@@ -7,11 +7,11 @@ This is a open source sidenote app,with concise and fast.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mlhiter/open-sidenotes](https://github.com/mlhiter/open-sidenotes).
+Original source: `CLAUDE.md` in [mlhiter/open-sidenotes](https://github.com/mlhiter/open-sidenotes).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
