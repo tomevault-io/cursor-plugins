@@ -7,11 +7,11 @@ The Req-Shield is a lib that regulates the cache-based requests an application r
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [line/req-shield](https://github.com/line/req-shield).
+Original source: `CLAUDE.md` in [line/req-shield](https://github.com/line/req-shield).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
