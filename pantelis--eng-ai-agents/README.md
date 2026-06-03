@@ -7,11 +7,11 @@ Docker Dev Environments for AI, CV and Robotics Courses at NJIT and NYU
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [pantelis/eng-ai-agents](https://github.com/pantelis/eng-ai-agents).
+Original source: `CLAUDE.md` in [pantelis/eng-ai-agents](https://github.com/pantelis/eng-ai-agents).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
