@@ -7,11 +7,11 @@ Zero-alloc structured logging for .NET - fast formatters, rich terminal visuals,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [XenoAtom/XenoAtom.Logging](https://github.com/XenoAtom/XenoAtom.Logging).
+Original source: `CLAUDE.md` in [XenoAtom/XenoAtom.Logging](https://github.com/XenoAtom/XenoAtom.Logging).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
