@@ -7,11 +7,11 @@ Toolkits to build onchain UX in .NET and Unity
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [reown-com/reown-dotnet](https://github.com/reown-com/reown-dotnet).
+Original source: `CLAUDE.md` in [reown-com/reown-dotnet](https://github.com/reown-com/reown-dotnet).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
