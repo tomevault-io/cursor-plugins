@@ -1,0 +1,11 @@
+{
+  "name": "jaredwray--mockhttp",
+  "displayName": "mockhttp",
+  "version": "1.0.0",
+  "description": "A simple HTTP server that can be used to mock HTTP responses for testing purposes. Inspired by httpbin and built using nodejs and fastify with the idea of running it via https://mockhttp.org, via dock",
+  "author": {
+    "name": "jaredwray",
+    "url": "https://github.com/jaredwray"
+  },
+  "homepage": "https://github.com/jaredwray/mockhttp"
+}
