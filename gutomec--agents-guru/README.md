@@ -7,11 +7,11 @@ Sistema de engenharia agentico, portavel e agnostico de framework, para qualquer
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [gutomec/agents-guru](https://github.com/gutomec/agents-guru).
+Original source: `AGENTS.md` in [gutomec/agents-guru](https://github.com/gutomec/agents-guru).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
