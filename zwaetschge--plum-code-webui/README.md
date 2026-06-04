@@ -7,11 +7,11 @@ Self-hosted web interface for the Claude Code, Codex, and OpenCode CLIs. Real-ti
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [zwaetschge/plum-code-webui](https://github.com/zwaetschge/plum-code-webui).
+Original source: `CLAUDE.md` in [zwaetschge/plum-code-webui](https://github.com/zwaetschge/plum-code-webui).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
