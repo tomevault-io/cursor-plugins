@@ -7,11 +7,11 @@ Turn raw footage into brand-ready, platform-optimized video with one command. Lo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [shinegrousewinch/echocut-256](https://github.com/shinegrousewinch/echocut-256).
+Original source: `AGENTS.md` in [shinegrousewinch/echocut-256](https://github.com/shinegrousewinch/echocut-256).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
