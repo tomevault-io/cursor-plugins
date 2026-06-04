@@ -53870,6 +53870,11 @@
       "description": "Claude Code statusline with rate limit display"
     },
     {
+      "name": "lifuyue--issue-finder",
+      "source": "./lifuyue--issue-finder",
+      "description": "Local-first handoff prep for developers using coding agents."
+    },
+    {
       "name": "anhtester--antigravity-testing-kit",
       "source": "./anhtester--antigravity-testing-kit",
       "description": "\u0110\u00e2y l\u00e0 b\u1ed9 SKILL, WORKFLOW, RULE do Anh Tester x\u00e2y d\u1ef1ng d\u00e0nh ri\u00eang cho c\u1ed9ng \u0111\u1ed3ng Tester \u0111\u1ec3 thi\u1ebft l\u1eadp AI Agent tr\u00ean Antigravity h\u1ed7 tr\u1ee3 ki\u1ec3m th\u1eed ph\u1ea7n m\u1ec1m."
@@ -64890,6 +64895,11 @@
       "description": "A 3rd-Party Golang Client Library for Zhipu AI Platform"
     },
     {
+      "name": "jmanhype--metahuman-streams",
+      "source": "./jmanhype--metahuman-streams",
+      "description": "metahuman-streams"
+    },
+    {
       "name": "yoloshii--mcp-code-execution-enhanced",
       "source": "./yoloshii--mcp-code-execution-enhanced",
       "description": "Enhanced MCP code execution. Agent framework-agnostic (optimized for Claude Code). Skills framework (99.6% token reduction), multi-transport, sandboxing"
@@ -65855,6 +65865,11 @@
       "description": "STT component for Home Assistant using Apple's on-device STT models and Wyoming protocol. Great performance, full privacy, always available"
     },
     {
+      "name": "irys-xyz--irys",
+      "source": "./irys-xyz--irys",
+      "description": "Irys - A multi-ledger storage blockchain"
+    },
+    {
       "name": "w3cj--ruta",
       "source": "./w3cj--ruta",
       "description": "A tiny type-safe client-side router for hono/jsx"
@@ -66668,6 +66683,11 @@
       "name": "accretional--collector",
       "source": "./accretional--collector",
       "description": "Collector is an ORM, CRUD server, and distributed programming project using protobufs, grpc, sqlite, and extensive use of reflection!"
+    },
+    {
+      "name": "zt8989--siyuan-drawio-plugin",
+      "source": "./zt8989--siyuan-drawio-plugin",
+      "description": "siyuan-drawio-plugin"
     },
     {
       "name": "bobmatnyc--claude-mpm-skills",
@@ -67553,6 +67573,11 @@
       "name": "kousen--aijavalabs",
       "source": "./kousen--aijavalabs",
       "description": "Exercises for a course on integrating AI services with Java."
+    },
+    {
+      "name": "avaprotocol--ava-sdk-js",
+      "source": "./avaprotocol--ava-sdk-js",
+      "description": "A JavaScript/TypeScript SDK designed to simplify integration with Ava Protocol\u2019s AVS"
     },
     {
       "name": "nikolasburk--livestore-tanstack-cloudflare-auth-example",
@@ -68548,6 +68573,11 @@
       "name": "robostack--ros-jazzy",
       "source": "./robostack--ros-jazzy",
       "description": "Recipes and patches for ros-jazzy conda packages"
+    },
+    {
+      "name": "aaronwn--ai-xiaohs",
+      "source": "./aaronwn--ai-xiaohs",
+      "description": "\u5c0f\u7ea2\u4e66\u56fe\u6587\u5361\u7247\u7b14\u8bb0\u751f\u6210\u5668"
     },
     {
       "name": "affitor--open-affiliate",
@@ -69548,6 +69578,11 @@
       "name": "arthurdanjou--artsite",
       "source": "./arthurdanjou--artsite",
       "description": "\ud83c\udf0d My personal website, my portfolio, and my blog. \ud83d\ude80 Built and powered by Nuxt Stack (Content, Hub, Studio, UI) & Nitro"
+    },
+    {
+      "name": "qc-labs--orange-lab",
+      "source": "./qc-labs--orange-lab",
+      "description": "Private infrastructure on consumer hardware based on K3s, Tailscale, Pulumi and Longhorn"
     },
     {
       "name": "aregowe--magento2-module-polyshell-protection",
@@ -70638,6 +70673,16 @@
       "name": "thedrunkpenguin--crosspoint-reader-ble",
       "source": "./thedrunkpenguin--crosspoint-reader-ble",
       "description": "crosspoint-reader-ble"
+    },
+    {
+      "name": "dvcol--neo-svelte",
+      "source": "./dvcol--neo-svelte",
+      "description": "Neomorphic ui library for svelte 5"
+    },
+    {
+      "name": "sojohnnysaid--vim-restman",
+      "source": "./sojohnnysaid--vim-restman",
+      "description": "make an api call to get your token, have it saved, make other requests, all in a file using vim"
     },
     {
       "name": "dvcol--neo-svelte",
@@ -71843,6 +71888,16 @@
       "name": "hoopoes--faststart",
       "source": "./hoopoes--faststart",
       "description": "A modular and flexible starter kit for FastAPI projects, featuring branches with various extensions."
+    },
+    {
+      "name": "rotorflight--rotorflight-lua-ethos-suite",
+      "source": "./rotorflight--rotorflight-lua-ethos-suite",
+      "description": "Rotorflight Lua suite for FrSky Ethos"
+    },
+    {
+      "name": "congzhangzh--webview-python",
+      "source": "./congzhangzh--webview-python",
+      "description": "Modern webview inspired by webview_deno"
     },
     {
       "name": "rajjjaryan--career-copilot",
@@ -73053,6 +73108,11 @@
       "name": "ivanjosipovic--svcsystems-ui-terminal",
       "source": "./ivanjosipovic--svcsystems-ui-terminal",
       "description": "Terminal Control for Avalonia"
+    },
+    {
+      "name": "azure--terraform-azurerm-avm-res-containerservice-managedcluster",
+      "source": "./azure--terraform-azurerm-avm-res-containerservice-managedcluster",
+      "description": "Terraform Azure Verified Resource Module for AKS managed clusters"
     },
     {
       "name": "skywind3000--gamesample",
@@ -75520,6 +75580,16 @@
       "description": "Guest programs and prover SDK for Scroll's zero-knowledge rollup proof generation architecture"
     },
     {
+      "name": "frostr-org--igloo-desktop",
+      "source": "./frostr-org--igloo-desktop",
+      "description": "Frostr desktop signer and key management app."
+    },
+    {
+      "name": "frostr-org--igloo-desktop",
+      "source": "./frostr-org--igloo-desktop",
+      "description": "Frostr desktop signer and key management app."
+    },
+    {
       "name": "sharf-shawon--awesome-bangladeshi-foss",
       "source": "./sharf-shawon--awesome-bangladeshi-foss",
       "description": "Curated list of awesome Bangladeshi FOSS \u2014 open source apps, libraries, tools, and platforms built by developers from Bangladesh"
@@ -76773,6 +76843,11 @@
       "name": "ainoya--cloudflare-dom-distiller",
       "source": "./ainoya--cloudflare-dom-distiller",
       "description": "A Cloudflare Workers-based API for extracting and converting web page content to Markdown using DOM-Distiller and Turndown."
+    },
+    {
+      "name": "datasqrl--flink-sql-runner",
+      "source": "./datasqrl--flink-sql-runner",
+      "description": "Dockerized runner, utilities, and functions for FlinkSQL applications"
     },
     {
       "name": "laskewitz--inventory-report",
@@ -79805,6 +79880,11 @@
       "description": "semoss-ui"
     },
     {
+      "name": "xqyww123--isa-mini",
+      "source": "./xqyww123--isa-mini",
+      "description": "A minimal language for Isabelle/HOL, designed for easing machine learning."
+    },
+    {
       "name": "aeroxy--ast-outline",
       "source": "./aeroxy--ast-outline",
       "description": "Fast, AST-based structural outline for source files. Built for LLM coding agents and humans."
@@ -81483,6 +81563,16 @@
       "name": "upstash--workflow-py",
       "source": "./upstash--workflow-py",
       "description": "Durable, Reliable and Performant Serverless Functions"
+    },
+    {
+      "name": "shar-mayank--convert2pdf",
+      "source": "./shar-mayank--convert2pdf",
+      "description": "Command-line tool for converting between Office formats (DOCX, PPTX, XLSX, TXT, RTF, CSV) and PDF on macOS"
+    },
+    {
+      "name": "corrin--akahu-to-budget",
+      "source": "./corrin--akahu-to-budget",
+      "description": "One-way sync of transactions from Akahu to either YNAB or Actual Budget."
     },
     {
       "name": "10xchengtu--mux0",
@@ -83388,6 +83478,11 @@
       "name": "luisignaciocc--ytmusic-scrobbler-web",
       "source": "./luisignaciocc--ytmusic-scrobbler-web",
       "description": "a Last.fm scrobbler from your YouTube Music history. a monorepo with a web app and background workers"
+    },
+    {
+      "name": "pablogguz--ineatlas",
+      "source": "./pablogguz--ineatlas",
+      "description": "Access to Spanish Statistical Office's Household Income Distribution Atlas data at municipality, district and census tract levels"
     },
     {
       "name": "jojobeans1981--ember-campfire-edition",
@@ -89130,6 +89225,11 @@
       "description": "Good Python STOMP client & FastStream broker"
     },
     {
+      "name": "gogf--gf-site",
+      "source": "./gogf--gf-site",
+      "description": "GoFrame official docs."
+    },
+    {
       "name": "lucianaib0318--geomind",
       "source": "./lucianaib0318--geomind",
       "description": "\ud83c\udf0d GeoMind\uff1a\u57fa\u4e8e\u98de\u4e66 CLI + \u817e\u8baf\u4f4d\u7f6e\u7684\u79d1\u7814\u4e0e\u4ea7\u4e1a\u5730\u7406\u60c5\u62a5\u53ef\u89c6\u5316 Skill"
@@ -90948,6 +91048,11 @@
       "name": "limbicnation--comfyuidepthestimation",
       "source": "./limbicnation--comfyuidepthestimation",
       "description": "A custom depth estimation node for ComfyUI using transformer models."
+    },
+    {
+      "name": "illustar0--zzu-py",
+      "source": "./illustar0--zzu-py",
+      "description": "\u8c6b\u89c1\u90d1\u5927\u7684 Python API \u5c01\u88c5 / An API wrapper for Zhengzhou University Mobile Campus written in Python"
     },
     {
       "name": "heyaohuo--templateflow",
@@ -93043,6 +93148,16 @@
       "name": "azixxxxx--glance",
       "source": "./azixxxxx--glance",
       "description": "Modern macOS status bar replacement with liquid glass UI, 16 widgets, contextual profiles, and preset sharing. Native SwiftUI, no Electron."
+    },
+    {
+      "name": "elastic--docs-builder",
+      "source": "./elastic--docs-builder",
+      "description": "docs-builder"
+    },
+    {
+      "name": "cruglobal--terraform-provider-semaphoreui",
+      "source": "./cruglobal--terraform-provider-semaphoreui",
+      "description": "Terraform SemaphoreUI Provider"
     },
     {
       "name": "elastic--docs-builder",
@@ -95350,6 +95465,36 @@
       "description": "MQT Debugger - A semi-automated tool for debugging quantum programs"
     },
     {
+      "name": "gzctf--challenge-base",
+      "source": "./gzctf--challenge-base",
+      "description": "The base images for challenges."
+    },
+    {
+      "name": "weixi779--wicompress",
+      "source": "./weixi779--wicompress",
+      "description": "A lightweight iOS image compression library that supports JPEG, PNG, HEIC formats and uses the Luban algorithm for compression."
+    },
+    {
+      "name": "ultra-supara--disarmbot",
+      "source": "./ultra-supara--disarmbot",
+      "description": "disarmBot is a bot that uses the AG2 framework to automatically create multiple LLM Agents, discuss about disinformation, and respond to users."
+    },
+    {
+      "name": "dtedesco1--dtedes-co",
+      "source": "./dtedesco1--dtedes-co",
+      "description": "Personal Site"
+    },
+    {
+      "name": "weixi779--wicompress",
+      "source": "./weixi779--wicompress",
+      "description": "A lightweight iOS image compression library that supports JPEG, PNG, HEIC formats and uses the Luban algorithm for compression."
+    },
+    {
+      "name": "mcintyre94--jupalyse",
+      "source": "./mcintyre94--jupalyse",
+      "description": "A tool to view and download Jupiter DCA data"
+    },
+    {
       "name": "googlecloudplatform--cxas-scrapi",
       "source": "./googlecloudplatform--cxas-scrapi",
       "description": "cxas-scrapi"
@@ -97628,6 +97773,26 @@
       "name": "jaredwray--mockhttp",
       "source": "./jaredwray--mockhttp",
       "description": "A simple HTTP server that can be used to mock HTTP responses for testing purposes. Inspired by httpbin and built using nodejs and fastify with the idea of running it via https://mockhttp.org, via dock"
+    },
+    {
+      "name": "andrey-moura--lavi",
+      "source": "./andrey-moura--lavi",
+      "description": "The Lavi is an interpreted object-oriented multi-purpose programming language"
+    },
+    {
+      "name": "defineeditor--vde-dataset-viewer",
+      "source": "./defineeditor--vde-dataset-viewer",
+      "description": "Dataset-JSON Viewer"
+    },
+    {
+      "name": "ghostlexly--ultimate-typescript-starter-kit",
+      "source": "./ghostlexly--ultimate-typescript-starter-kit",
+      "description": "\ud83c\udf1f Battle ready ultimate nestjs & nextjs typescript starter kit (REST API) \ud83c\udf1f"
+    },
+    {
+      "name": "cardano-hydrozoa--hydrozoa",
+      "source": "./cardano-hydrozoa--hydrozoa",
+      "description": "Hydrozoa: Lightweight multi-party state channels for Cardano"
     },
     {
       "name": "nirholas--auto-kill-terminal",
@@ -100378,6 +100543,16 @@
       "name": "robfromboulder--viewzoo",
       "source": "./robfromboulder--viewzoo",
       "description": "Lightweight storage for Trino views"
+    },
+    {
+      "name": "laborima--ocearo-ui",
+      "source": "./laborima--ocearo-ui",
+      "description": "Ocean Robot UI"
+    },
+    {
+      "name": "schigh--svctmpl",
+      "source": "./schigh--svctmpl",
+      "description": "An opinionated Go microservice template"
     },
     {
       "name": "goldhorsedev0101--testing-ai",
@@ -103630,6 +103805,11 @@
       "description": "Minecraft 1.20.1 Fabric Mod - IC2 EXP remake using Kotlin"
     },
     {
+      "name": "lakekeeper--console",
+      "source": "./lakekeeper--console",
+      "description": "A leightweight UI for Lakekeeper"
+    },
+    {
       "name": "13point5--agent-canvas",
       "source": "./13point5--agent-canvas",
       "description": "agent-canvas"
@@ -106553,6 +106733,16 @@
       "name": "danja--semem",
       "source": "./danja--semem",
       "description": "Semantic Web Memory for Intelligent Agents"
+    },
+    {
+      "name": "stacksjs--bunfig",
+      "source": "./stacksjs--bunfig",
+      "description": "\u2699\ufe0f Lightweight & smart Bun & Browser configuration loader."
+    },
+    {
+      "name": "foxzool--jigsaw-puzzle",
+      "source": "./foxzool--jigsaw-puzzle",
+      "description": "jigsaw puzzle game made by bevy "
     },
     {
       "name": "fcoury--termwright",
@@ -113325,6 +113515,21 @@
       "description": "\u25b6\ufe0e Modern monorepo template for shipping TypeScript apps everywhere."
     },
     {
+      "name": "guojikun--quicklook",
+      "source": "./guojikun--quicklook",
+      "description": "quicklook \u662f\u4f7f\u7528 Tauri v2 \u5f00\u53d1\u7684 Windows \u5e73\u53f0\u7684\u6587\u4ef6\u9884\u89c8\u5de5\u5177"
+    },
+    {
+      "name": "suzuki3jp--playlistwizard",
+      "source": "./suzuki3jp--playlistwizard",
+      "description": "\ud83d\udcdd Easily manage and organize your playlists on the web! - Playlist Manager"
+    },
+    {
+      "name": "brainylearn--brainy-app",
+      "source": "./brainylearn--brainy-app",
+      "description": "Brainy is a learning app with focus on active repetitions, and spaced learning."
+    },
+    {
       "name": "mohiwalla--memes",
       "source": "./mohiwalla--memes",
       "description": "Selected good meme GIFs by community"
@@ -117453,6 +117658,31 @@
       "name": "dmelo--claude-code-stats",
       "source": "./dmelo--claude-code-stats",
       "description": "claude-code-stats"
+    },
+    {
+      "name": "kennedym-ds--copilot-orchestrator",
+      "source": "./kennedym-ds--copilot-orchestrator",
+      "description": "Multi-agent orchestration system for GitHub Copilot with specialized agents, reusable    skills/prompts, and validation tooling."
+    },
+    {
+      "name": "prisma-idb--idb-client-generator",
+      "source": "./prisma-idb--idb-client-generator",
+      "description": "The simplicity and features of the Prisma ORM, emulated in IndexedDB. Perfect for web apps needing structured local storage!"
+    },
+    {
+      "name": "apstndb--spanner-mycli",
+      "source": "./apstndb--spanner-mycli",
+      "description": "My personal fork of spanner-cli"
+    },
+    {
+      "name": "johnnyreilly--azdo-npm-auth",
+      "source": "./johnnyreilly--azdo-npm-auth",
+      "description": "Set up local authentication to Azure DevOps npm feeds, optionally using the Azure CLI for PAT acquisition"
+    },
+    {
+      "name": "program247365--hackertuah",
+      "source": "./program247365--hackertuah",
+      "description": "A CLI for Hacker News"
     },
     {
       "name": "scardoso-lu--google-antigravity-settings",
@@ -122013,6 +122243,26 @@
       "name": "activeinferenceinstitute--symposium",
       "source": "./activeinferenceinstitute--symposium",
       "description": "Symposium"
+    },
+    {
+      "name": "josephschmitt--dotfiles",
+      "source": "./josephschmitt--dotfiles",
+      "description": "dotfiles"
+    },
+    {
+      "name": "mattketmo--radar",
+      "source": "./mattketmo--radar",
+      "description": "Alert dashboard for Prometheus Alertmanager"
+    },
+    {
+      "name": "tontinton--miso",
+      "source": "./tontinton--miso",
+      "description": "A query engine over semi-structured logs"
+    },
+    {
+      "name": "mdjastrzebski--test-renderer",
+      "source": "./mdjastrzebski--test-renderer",
+      "description": "A lightweight test renderer for React and a modern replacement for the deprecated React Test Renderer."
     },
     {
       "name": "josephschmitt--dotfiles",
@@ -126848,6 +127098,21 @@
       "name": "jnpiyush--agentx",
       "source": "./jnpiyush--agentx",
       "description": "AgentX - Digital Force for Software Delivery"
+    },
+    {
+      "name": "lucashenriquediniz--weebprofile",
+      "source": "./lucashenriquediniz--weebprofile",
+      "description": "A simple and customizable way to display code, anime, and music stats on your GitHub profile README."
+    },
+    {
+      "name": "open-source-uc--v2-ramos",
+      "source": "./open-source-uc--v2-ramos",
+      "description": "Este es el repositorio oficial de BuscaRamos desarrollado por OpenSource eUC."
+    },
+    {
+      "name": "vdupain--terraform-proxmox-talos-k8s-cluster",
+      "source": "./vdupain--terraform-proxmox-talos-k8s-cluster",
+      "description": "terraform-proxmox-talos-k8s-cluster"
     },
     {
       "name": "makenowjust--naraku",
@@ -134023,6 +134288,26 @@
       "name": "metaplex-foundation--cli",
       "source": "./metaplex-foundation--cli",
       "description": "cli"
+    },
+    {
+      "name": "jxoesneon--ipfs",
+      "source": "./jxoesneon--ipfs",
+      "description": "Production-ready IPFS implementation in Dart with full protocol support, P2P networking, Gateway mode, and offline capabilities. Supports mobile (Flutter) and web platforms."
+    },
+    {
+      "name": "rameerez--moderate",
+      "source": "./rameerez--moderate",
+      "description": "\ud83d\udee1\ufe0f Let your Rails users report and block each other (Trust & Safety)"
+    },
+    {
+      "name": "cgrindel--swift-gazelle-plugin",
+      "source": "./cgrindel--swift-gazelle-plugin",
+      "description": "Gazelle plugin for Swift files."
+    },
+    {
+      "name": "pflareproject--pflare",
+      "source": "./pflareproject--pflare",
+      "description": "Parallel iterative methods for asymmetric linear systems "
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
