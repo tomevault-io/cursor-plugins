@@ -7,11 +7,11 @@ Template for library projects
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ascorbic/library-template](https://github.com/ascorbic/library-template).
+Original source: `AGENTS.md` in [ascorbic/library-template](https://github.com/ascorbic/library-template).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
