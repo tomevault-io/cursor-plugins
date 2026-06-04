@@ -1,0 +1,11 @@
+{
+  "name": "denisgorbachev--url-macro",
+  "displayName": "url-macro",
+  "version": "1.0.0",
+  "description": "A compile-time URL validation macro. Parses and checks URLs at compile-time, converting valid URLs into `url::Url` objects. Provides early error detection for malformed URLs.",
+  "author": {
+    "name": "DenisGorbachev",
+    "url": "https://github.com/DenisGorbachev"
+  },
+  "homepage": "https://github.com/DenisGorbachev/url-macro"
+}
