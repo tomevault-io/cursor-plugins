@@ -7,11 +7,11 @@ AI-ready Solidity style guide for Solidity 0.8.30 — naming, layout, NatSpec, c
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Aboudjem/solidity-style-guide](https://github.com/Aboudjem/solidity-style-guide).
+Original source: `AGENTS.md` in [Aboudjem/solidity-style-guide](https://github.com/Aboudjem/solidity-style-guide).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
