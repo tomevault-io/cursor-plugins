@@ -7,11 +7,11 @@ The DAO governance security platform that provides data-driven analysis to help 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [blockful/anticapture](https://github.com/blockful/anticapture).
+Original source: `CLAUDE.md` in [blockful/anticapture](https://github.com/blockful/anticapture).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
