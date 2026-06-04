@@ -7,11 +7,11 @@ Claude Code Boost - Hook utilities for Claude Code with intelligent auto-approva
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [yifanzz/claude-code-boost](https://github.com/yifanzz/claude-code-boost).
+Original source: `CLAUDE.md` in [yifanzz/claude-code-boost](https://github.com/yifanzz/claude-code-boost).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
