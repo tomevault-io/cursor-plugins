@@ -7,12 +7,12 @@ Neomorphic ui library for svelte 5
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [dvcol/neo-svelte](https://github.com/dvcol/neo-svelte).
+Original source: `AGENTS.md` in [dvcol/neo-svelte](https://github.com/dvcol/neo-svelte).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
