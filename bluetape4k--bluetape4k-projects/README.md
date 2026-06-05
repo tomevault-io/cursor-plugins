@@ -7,11 +7,11 @@ Bluetape for Backend development with Kotlin
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bluetape4k/bluetape4k-projects](https://github.com/bluetape4k/bluetape4k-projects).
+Original source: `CLAUDE.md` in [bluetape4k/bluetape4k-projects](https://github.com/bluetape4k/bluetape4k-projects).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
