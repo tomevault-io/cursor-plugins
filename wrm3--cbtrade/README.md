@@ -2,20 +2,22 @@
 
 > Sourced from [wrm3/CBTrade](https://github.com/wrm3/CBTrade) and converted for every major platform by [TomeVault](https://tomevault.io)
 
+This project is a CoinBase python algorithmic trading bot using the new Advanced Trader API.  This project is here more for me to practice git & github.  Use it at your own risk.  See License.
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [wrm3/CBTrade](https://github.com/wrm3/CBTrade).
+Original source: `CLAUDE.md` in [wrm3/CBTrade](https://github.com/wrm3/CBTrade).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
-Quality verified by TomeVault's automated analysis pipeline. [View quality report](https://tomevault.io/claim/wrm3#quality)
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/wrm3/CBTrade](https://github.com/wrm3/CBTrade)
 
 ---
 
