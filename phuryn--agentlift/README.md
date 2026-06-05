@@ -7,11 +7,11 @@ Deploy agents you already run locally to Anthropic, Google, and OpenAI. One fold
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [phuryn/agentlift](https://github.com/phuryn/agentlift).
+Original source: `AGENTS.md` in [phuryn/agentlift](https://github.com/phuryn/agentlift).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
