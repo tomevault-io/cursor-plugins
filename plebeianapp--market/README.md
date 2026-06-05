@@ -7,11 +7,11 @@ The circular economic community builder
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [PlebeianApp/market](https://github.com/PlebeianApp/market).
+Original source: `CLAUDE.md` in [PlebeianApp/market](https://github.com/PlebeianApp/market).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
