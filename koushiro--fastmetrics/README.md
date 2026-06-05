@@ -7,11 +7,11 @@ Fast and structured OpenMetrics / Prometheus client library for Rust
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [koushiro/fastmetrics](https://github.com/koushiro/fastmetrics).
+Original source: `CLAUDE.md` in [koushiro/fastmetrics](https://github.com/koushiro/fastmetrics).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
