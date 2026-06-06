@@ -83950,6 +83950,11 @@
       "description": "Index and search encrypted data in PostgreSQL with SQL"
     },
     {
+      "name": "adrielvelazquez--nixos-config",
+      "source": "./adrielvelazquez--nixos-config",
+      "description": "Personal Configuration for NixOS"
+    },
+    {
       "name": "jojobeans1981--ember-campfire-edition",
       "source": "./jojobeans1981--ember-campfire-edition",
       "description": "The introductory app for what will be  the next generation of dyslexia intervention using AI."
@@ -85743,6 +85748,11 @@
       "name": "ruvnet--agentic-robotics",
       "source": "./ruvnet--agentic-robotics",
       "description": "The goal of this project is to create a modular Agentic Python framework for robotics that can be used to develop specific robotic applications for various types of robots, IoT, and physical devices. "
+    },
+    {
+      "name": "f18m--ha-addon-dnsmasq-dhcp",
+      "source": "./f18m--ha-addon-dnsmasq-dhcp",
+      "description": "An Home Assistant app that runs dnsmasq both as DHCP server and DNS server"
     },
     {
       "name": "ruiromano--powerbi-agentic-mcp-cloud-agent",
@@ -87825,6 +87835,11 @@
       "description": "A generic OpenID Connect (OIDC) Provider for Laravel Socialite"
     },
     {
+      "name": "gvwilson--sudonomicon",
+      "source": "./gvwilson--sudonomicon",
+      "description": "An Introduction to Unix Systems for the Cautious and Weary"
+    },
+    {
       "name": "iamtouchskyer--logex",
       "source": "./iamtouchskyer--logex",
       "description": "Turn Claude Code session transcripts into blog-style articles \u2014 narrative, not logs"
@@ -89825,6 +89840,11 @@
       "description": "Cross-platform multi-layer keyboard layout tailored for programmers"
     },
     {
+      "name": "qiskit--qiskit-code-assistant-jupyterlab",
+      "source": "./qiskit--qiskit-code-assistant-jupyterlab",
+      "description": "A Jupyterlab extension to use the Qiskit Code Assistant"
+    },
+    {
       "name": "lucianaib0318--geomind",
       "source": "./lucianaib0318--geomind",
       "description": "\ud83c\udf0d GeoMind\uff1a\u57fa\u4e8e\u98de\u4e66 CLI + \u817e\u8baf\u4f4d\u7f6e\u7684\u79d1\u7814\u4e0e\u4ea7\u4e1a\u5730\u7406\u60c5\u62a5\u53ef\u89c6\u5316 Skill"
@@ -91713,6 +91733,11 @@
       "name": "codandotv--popcorn-guineapig",
       "source": "./codandotv--popcorn-guineapig",
       "description": "A lightweight plugin designed to enforce architectural rules in your multi-module project effortlessly."
+    },
+    {
+      "name": "cofin--oracledb-vertexai-demo",
+      "source": "./cofin--oracledb-vertexai-demo",
+      "description": "Reference application using Google ADK and Oracle"
     },
     {
       "name": "heyaohuo--templateflow",
@@ -93873,6 +93898,16 @@
       "name": "metaist--ds",
       "source": "./metaist--ds",
       "description": "polyglot task runner"
+    },
+    {
+      "name": "eriksen-lab--opentrustregion",
+      "source": "./eriksen-lab--opentrustregion",
+      "description": "A Reusable Library for Second-Order Trust Region Orbital Optimization"
+    },
+    {
+      "name": "dsecuredcom--dynamic-file-searcher",
+      "source": "./dsecuredcom--dynamic-file-searcher",
+      "description": "Tool to scan servers and hosts using dynamic paths."
     },
     {
       "name": "develite98--angular-best-practices",
@@ -98600,6 +98635,11 @@
       "description": "expo-push-notifications"
     },
     {
+      "name": "hanyk--bayesed3",
+      "source": "./hanyk--bayesed3",
+      "description": "A Bayesian SED synthesis and analysis tool for galaxies and AGNs, featuring an interface optimized for both humans and AI agents."
+    },
+    {
       "name": "nirholas--auto-kill-terminal",
       "source": "./nirholas--auto-kill-terminal",
       "description": "\ud83e\udd2f  Stop AI agents from leaving zombie terminals in GitHub Codespaces & VS Code. Copy-paste terminal management rules for Copilot, Claude, Gemini, Cursor, Windsurf, Cline, Aider. Fix \"terminal unrespon"
@@ -101443,6 +101483,16 @@
       "name": "wflixu--monet",
       "source": "./wflixu--monet",
       "description": " Mouse-first macOS image viewer. Zoom follows your cursor \u2014 no more zooming off-target."
+    },
+    {
+      "name": "opsmill--infrahub-sdk-python",
+      "source": "./opsmill--infrahub-sdk-python",
+      "description": "Python SDK to interact with Infrahub"
+    },
+    {
+      "name": "opsmill--infrahub-sdk-python",
+      "source": "./opsmill--infrahub-sdk-python",
+      "description": "Python SDK to interact with Infrahub"
     },
     {
       "name": "goldhorsedev0101--testing-ai",
@@ -104798,6 +104848,16 @@
       "name": "jpablo--graph-explorer",
       "source": "./jpablo--graph-explorer",
       "description": "Explore graphs in a visual way"
+    },
+    {
+      "name": "githedgehog--dataplane",
+      "source": "./githedgehog--dataplane",
+      "description": "The hedgehog dataplane"
+    },
+    {
+      "name": "githedgehog--dataplane",
+      "source": "./githedgehog--dataplane",
+      "description": "The hedgehog dataplane"
     },
     {
       "name": "13point5--agent-canvas",
@@ -111165,6 +111225,26 @@
       "description": "CLI tool that uploads NOSTR kind 34128 website content events which point to content on blossom."
     },
     {
+      "name": "imperialcollegelondon--rcds-parallel-programming-in-python",
+      "source": "./imperialcollegelondon--rcds-parallel-programming-in-python",
+      "description": "RCDS-parallel-programming-in-python"
+    },
+    {
+      "name": "neongamerbot-qk--slack-zeon",
+      "source": "./neongamerbot-qk--slack-zeon",
+      "description": "Zeon but on da hackclub slack"
+    },
+    {
+      "name": "joshlacal--petrel",
+      "source": "./joshlacal--petrel",
+      "description": "Swift library for the ATProtocol and Bluesky, generated from Lexicons"
+    },
+    {
+      "name": "joshlacal--petrel",
+      "source": "./joshlacal--petrel",
+      "description": "Swift library for the ATProtocol and Bluesky, generated from Lexicons"
+    },
+    {
       "name": "hyaway--hyaway",
       "source": "./hyaway--hyaway",
       "description": "hyAway.com site"
@@ -114728,6 +114808,21 @@
       "name": "seismicsystems--seismic-solidity",
       "source": "./seismicsystems--seismic-solidity",
       "description": "Seismic Solidity allows you to encrypt data in your smart contracts"
+    },
+    {
+      "name": "newfold-labs--wp-module-solutions",
+      "source": "./newfold-labs--wp-module-solutions",
+      "description": "A Newfold module that handles integration of WordPress Solutions Addon packages (content creator/ service / ecommerce) for BlueHost & HostGator customers."
+    },
+    {
+      "name": "newfold-labs--wp-module-solutions",
+      "source": "./newfold-labs--wp-module-solutions",
+      "description": "A Newfold module that handles integration of WordPress Solutions Addon packages (content creator/ service / ecommerce) for BlueHost & HostGator customers."
+    },
+    {
+      "name": "helloscoopa--run-cache",
+      "source": "./helloscoopa--run-cache",
+      "description": "RunCache is a dependency-free, lightweight runtime caching library for JavaScript and TypeScript."
     },
     {
       "name": "mohiwalla--memes",
@@ -119013,6 +119108,11 @@
       "name": "jaredwray--qified",
       "source": "./jaredwray--qified",
       "description": "Cloud Queues with Task and Messages and Multiple Providers"
+    },
+    {
+      "name": "uw-cryo--coincident",
+      "source": "./uw-cryo--coincident",
+      "description": "3D satellite and airborne data archive search and analysis tools for NASA Surface Topography & Vegetation (STV) Precursor Coincident Datasets"
     },
     {
       "name": "scardoso-lu--google-antigravity-settings",
@@ -123788,6 +123888,26 @@
       "name": "davanstrien--uv-scripts-for-ai",
       "source": "./davanstrien--uv-scripts-for-ai",
       "description": "Self-contained UV scripts for data & ML tasks \u2014 OCR, vision, audio & more \u2014 run one in a command, locally or on Hugging Face Jobs. Built for humans and agents."
+    },
+    {
+      "name": "zanwaar--ringkasan-skd-cpns",
+      "source": "./zanwaar--ringkasan-skd-cpns",
+      "description": "Saas AI Generator Soal  Seleksi Kompetensi Dasar (SKD) dan Ringkasan Materi"
+    },
+    {
+      "name": "coji--video-ad-network",
+      "source": "./coji--video-ad-network",
+      "description": "video-ad-network"
+    },
+    {
+      "name": "darmado--attack-macos",
+      "source": "./darmado--attack-macos",
+      "description": "A library of post-exploitation MacOS scripts based on threat emulation, LOObins, CTI, and MITRE ATT&CK."
+    },
+    {
+      "name": "nomercy-entertainment--nomercy-video-player",
+      "source": "./nomercy-entertainment--nomercy-video-player",
+      "description": "Headless, event-driven HTML5 video player with HLS streaming, ASS/SSA + VTT subtitles, PiP, and a plugin system. No UI included. TypeScript-first."
     },
     {
       "name": "godblessamki--workout-tracker",
@@ -128813,6 +128933,16 @@
       "name": "microsoft--devfactory",
       "source": "./microsoft--devfactory",
       "description": "Accelerate the deployment of your Development Factory."
+    },
+    {
+      "name": "candirugame--candiru",
+      "source": "./candirugame--candiru",
+      "description": "possum game"
+    },
+    {
+      "name": "barryoo--tabcleaner",
+      "source": "./barryoo--tabcleaner",
+      "description": "auto discards idle tabs for browser "
     },
     {
       "name": "makenowjust--naraku",
@@ -136328,6 +136458,21 @@
       "name": "wrm3--cbtrade",
       "source": "./wrm3--cbtrade",
       "description": "This project is a CoinBase python algorithmic trading bot using the new Advanced Trader API.  This project is here more for me to practice git & github.  Use it at your own risk.  See License."
+    },
+    {
+      "name": "extension-js--extension-js-org",
+      "source": "./extension-js--extension-js-org",
+      "description": "Documentation, guides, and API reference for Extension.js."
+    },
+    {
+      "name": "narixhine--leximory",
+      "source": "./narixhine--leximory",
+      "description": "\u8bed\u8a00\u5b66\u5730\u5b66\u8bed\u8a00"
+    },
+    {
+      "name": "omi-patel--retroui-component",
+      "source": "./omi-patel--retroui-component",
+      "description": "retroUI_Component"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
