@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ErgeAIA/ErgeMD](https://github.com/ErgeAIA/ErgeMD).
+Original source: `CLAUDE.md` in [ErgeAIA/ErgeMD](https://github.com/ErgeAIA/ErgeMD).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
