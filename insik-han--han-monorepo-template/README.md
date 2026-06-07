@@ -5,14 +5,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [Insik-Han/han-monorepo-template](https://github.com/Insik-Han/han-monorepo-template).
+Original source: `CLAUDE.md` in [Insik-Han/han-monorepo-template](https://github.com/Insik-Han/han-monorepo-template).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [Insik-Han/han-monorepo-template](https://github.com/Insik-Han/han-monorepo-template) — a repo with 7+ stars on GitHub.
