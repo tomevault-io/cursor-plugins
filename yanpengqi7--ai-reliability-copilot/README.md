@@ -7,11 +7,11 @@ Turn a production incident into a structured 9-section LLM response (severity, r
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [YanpengQi7/ai-reliability-copilot](https://github.com/YanpengQi7/ai-reliability-copilot).
+Original source: `CLAUDE.md` in [YanpengQi7/ai-reliability-copilot](https://github.com/YanpengQi7/ai-reliability-copilot).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
