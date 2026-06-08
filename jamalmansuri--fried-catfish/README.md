@@ -7,11 +7,11 @@ AI Framework with multi-agent tournament, deterministic Bradley-Terry scorer, hu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [JamalMansuri/fried-catfish](https://github.com/JamalMansuri/fried-catfish).
+Original source: `AGENTS.md` in [JamalMansuri/fried-catfish](https://github.com/JamalMansuri/fried-catfish).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
