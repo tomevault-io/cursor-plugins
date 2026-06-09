@@ -7,11 +7,11 @@ AI Subtitle Translator for SRT, ASS, and VTT files and audio transcription with 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hasferrr/mitsuko-client](https://github.com/hasferrr/mitsuko-client).
+Original source: `CLAUDE.md` in [hasferrr/mitsuko-client](https://github.com/hasferrr/mitsuko-client).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
