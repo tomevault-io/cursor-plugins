@@ -7,11 +7,11 @@ Convert Zod schemas to Protocol Buffers definitions.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [brandhaug/zod-to-protobuf](https://github.com/brandhaug/zod-to-protobuf).
+Original source: `AGENTS.md` in [brandhaug/zod-to-protobuf](https://github.com/brandhaug/zod-to-protobuf).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
