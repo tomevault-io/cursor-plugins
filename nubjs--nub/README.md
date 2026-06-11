@@ -7,11 +7,11 @@ The unified JavaScript toolkit that augments Node.js instead of trying to replac
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [nubjs/nub](https://github.com/nubjs/nub).
+Original source: `CLAUDE.md` in [nubjs/nub](https://github.com/nubjs/nub).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
