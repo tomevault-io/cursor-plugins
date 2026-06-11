@@ -7,11 +7,11 @@ A platform for rapid, scalable app creation using reusable components and automa
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [infinite-loop-factory/app-factory](https://github.com/infinite-loop-factory/app-factory).
+Original source: `CLAUDE.md` in [infinite-loop-factory/app-factory](https://github.com/infinite-loop-factory/app-factory).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
