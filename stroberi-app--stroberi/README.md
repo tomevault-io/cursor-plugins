@@ -1,0 +1,26 @@
+# stroberi
+
+> Tome by [stroberi-app](https://github.com/stroberi-app/stroberi) — distributed by [TomeVault](https://tomevault.io)
+
+Personal expense tracking app
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [stroberi-app/stroberi](https://github.com/stroberi-app/stroberi).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [stroberi-app/stroberi](https://github.com/stroberi-app/stroberi) — a repo with 8+ stars on GitHub.
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:t-c-s -->
