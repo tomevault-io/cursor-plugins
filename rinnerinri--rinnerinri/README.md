@@ -5,12 +5,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [Rinnerinri/Rinnerinri](https://github.com/Rinnerinri/Rinnerinri).
+Original source: `AGENTS.md` in [Rinnerinri/Rinnerinri](https://github.com/Rinnerinri/Rinnerinri).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
