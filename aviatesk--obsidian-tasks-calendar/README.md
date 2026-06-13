@@ -7,11 +7,11 @@ An Obsidian.md plugin to visualizes tasks on an interactive calendar powered by 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [aviatesk/obsidian-tasks-calendar](https://github.com/aviatesk/obsidian-tasks-calendar).
+Original source: `CLAUDE.md` in [aviatesk/obsidian-tasks-calendar](https://github.com/aviatesk/obsidian-tasks-calendar).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
