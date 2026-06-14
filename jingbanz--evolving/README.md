@@ -7,11 +7,11 @@ An autonomous CLI that iterates on a codebase toward a user-defined goal — one
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [JINGBANZ/evolving](https://github.com/JINGBANZ/evolving).
+Original source: `AGENTS.md` in [JINGBANZ/evolving](https://github.com/JINGBANZ/evolving).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
