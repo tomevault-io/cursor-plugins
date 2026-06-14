@@ -1,0 +1,11 @@
+{
+  "name": "failproofai--failproofai",
+  "displayName": "failproofai",
+  "version": "1.0.0",
+  "description": "Runtime failure resolution for coding agents. Hooks into Claude Code and Codex. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
+  "author": {
+    "name": "FailproofAI",
+    "url": "https://github.com/FailproofAI"
+  },
+  "homepage": "https://github.com/FailproofAI/failproofai"
+}
