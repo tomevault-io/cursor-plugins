@@ -7,12 +7,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator).
+Original source: `copilot-instructions.md` in [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
