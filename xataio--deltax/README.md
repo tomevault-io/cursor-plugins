@@ -7,11 +7,11 @@ Fast time-series extension for PostgreSQL
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [xataio/deltax](https://github.com/xataio/deltax).
+Original source: `AGENTS.md` in [xataio/deltax](https://github.com/xataio/deltax).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
