@@ -7,11 +7,11 @@ Self-custodial Bitcoin and Lightning Wallet
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [synonymdev/bitkit-android](https://github.com/synonymdev/bitkit-android).
+Original source: `AGENTS.md` in [synonymdev/bitkit-android](https://github.com/synonymdev/bitkit-android).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
