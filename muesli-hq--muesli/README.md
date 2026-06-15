@@ -7,11 +7,11 @@ Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli).
+Original source: `AGENTS.md` in [Muesli-HQ/muesli](https://github.com/Muesli-HQ/muesli).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
