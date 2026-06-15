@@ -3685,6 +3685,11 @@
       "description": "GoClaw - GoClaw is OpenClaw rebuilt in Go \u2014 with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety."
     },
     {
+      "name": "himself65--finance-skills",
+      "source": "./himself65--finance-skills",
+      "description": "A collection of skills for AI financial analysis and trading."
+    },
+    {
       "name": "mikeyobrien--ralph-orchestrator",
       "source": "./mikeyobrien--ralph-orchestrator",
       "description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration"
@@ -6775,11 +6780,6 @@
       "description": "Re-imagining code collaboration for humans and agents"
     },
     {
-      "name": "himself65--finance-skills",
-      "source": "./himself65--finance-skills",
-      "description": "A collection of skills for AI financial analysis and trading."
-    },
-    {
       "name": "lynpoint--cyberverse",
       "source": "./lynpoint--cyberverse",
       "description": "Self hosted, real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video."
@@ -7935,6 +7935,11 @@
       "description": "tsumiki"
     },
     {
+      "name": "tukuaiai--tradecat",
+      "source": "./tukuaiai--tradecat",
+      "description": "\u4ea4\u6613\u732b\u6570\u636e\u7cfb\u7edf"
+    },
+    {
       "name": "dao-ailab--quack",
       "source": "./dao-ailab--quack",
       "description": "A Quirky Assortment of CuTe Kernels"
@@ -8248,11 +8253,6 @@
       "name": "jonwiggins--optio",
       "source": "./jonwiggins--optio",
       "description": "Workflow orchestration for AI coding agents, from task to merged PR."
-    },
-    {
-      "name": "tukuaiai--tradecat",
-      "source": "./tukuaiai--tradecat",
-      "description": "\u4ea4\u6613\u732b\u6570\u636e\u7cfb\u7edf"
     },
     {
       "name": "fynnfluegge--agtx",
@@ -11365,6 +11365,11 @@
       "description": "An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide, it executes. Automate repetitive web tasks, extract data from any website, and transform it into w"
     },
     {
+      "name": "therealseandonahoe--agents-md",
+      "source": "./therealseandonahoe--agents-md",
+      "description": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's "
+    },
+    {
       "name": "docker--model-runner",
       "source": "./docker--model-runner",
       "description": "Docker Model Runner"
@@ -14240,6 +14245,11 @@
       "description": "Pushdown cache for DataFusion"
     },
     {
+      "name": "xiaguan--pegainfer",
+      "source": "./xiaguan--pegainfer",
+      "description": "Pure Rust + CUDA LLM inference engine"
+    },
+    {
       "name": "tamboui--tamboui",
       "source": "./tamboui--tamboui",
       "description": "A Java library for building modern terminal user interfaces."
@@ -14253,6 +14263,11 @@
       "name": "cooperjiang--coding-tool",
       "source": "./cooperjiang--coding-tool",
       "description": "claudecode|codex|gemini  cli\u589e\u5f3a\u5de5\u5177\u3002"
+    },
+    {
+      "name": "xiaguan--pegainfer",
+      "source": "./xiaguan--pegainfer",
+      "description": "Pure Rust + CUDA LLM inference engine"
     },
     {
       "name": "mapleshaw--auto-claude-writing-agent-pub",
@@ -17775,16 +17790,6 @@
       "description": "An online Minecraft source code viewer"
     },
     {
-      "name": "xiaguan--pegainfer",
-      "source": "./xiaguan--pegainfer",
-      "description": "Pure Rust + CUDA LLM inference engine"
-    },
-    {
-      "name": "xiaguan--pegainfer",
-      "source": "./xiaguan--pegainfer",
-      "description": "Pure Rust + CUDA LLM inference engine"
-    },
-    {
       "name": "oisee--vibing-steampunk",
       "source": "./oisee--vibing-steampunk",
       "description": "vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP"
@@ -18353,6 +18358,11 @@
       "name": "microsoft--fabric-cicd",
       "source": "./microsoft--fabric-cicd",
       "description": "Jumpstart CICD deployments in Microsoft Fabric"
+    },
+    {
+      "name": "aerovato--container",
+      "source": "./aerovato--container",
+      "description": "Safely run OpenCode, Codex, Claude Code with full permissions."
     },
     {
       "name": "lsm1103--cc",
@@ -28115,11 +28125,6 @@
       "description": "This is an OBS Studio plugin that allows to transmit video and audio with RTMP / SRT etc. for each source individually."
     },
     {
-      "name": "therealseandonahoe--agents-md",
-      "source": "./therealseandonahoe--agents-md",
-      "description": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's "
-    },
-    {
       "name": "ahaodev--shadmin",
       "source": "./ahaodev--shadmin",
       "description": "An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React"
@@ -32845,6 +32850,11 @@
       "description": "A collection of awesome things regarding Nutrient ecosystem"
     },
     {
+      "name": "reddimus--kalshi-cpp",
+      "source": "./reddimus--kalshi-cpp",
+      "description": "Modern C++23 SDK for the Kalshi prediction-market API \u2014 full typed REST coverage + real-time WebSocket streaming, RSA-PSS auth, and an exception-free std::expected API. CMake / FetchContent-ready."
+    },
+    {
       "name": "akeit0--okojo",
       "source": "./akeit0--okojo",
       "description": "Okojo is an experimental low allocation managed JavaScript engine for .NET"
@@ -34365,6 +34375,11 @@
       "description": "A JAX backend for Apple Metal Performance Shaders (MPS), enabling GPU-accelerated JAX computations on Apple Silicon."
     },
     {
+      "name": "marciogranzotto--clawd-tank",
+      "source": "./marciogranzotto--clawd-tank",
+      "description": "clawd-tank"
+    },
+    {
       "name": "signet-ai--signetai",
       "source": "./signet-ai--signetai",
       "description": "Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses."
@@ -34468,6 +34483,11 @@
       "name": "ambient-code--platform",
       "source": "./ambient-code--platform",
       "description": "Vision/Mission https://ambient-code.ai : Virtual team management and collaboration platform. User guides: https://ambient-code.github.io/platform/"
+    },
+    {
+      "name": "marciogranzotto--clawd-tank",
+      "source": "./marciogranzotto--clawd-tank",
+      "description": "clawd-tank"
     },
     {
       "name": "pcl-community--pcl-mac",
@@ -45205,6 +45225,11 @@
       "description": "convex-better-auth-svelte"
     },
     {
+      "name": "iridite--slidev-templates",
+      "source": "./iridite--slidev-templates",
+      "description": "\u4e00\u4e2a\u6536\u5f55\u9ad8\u8d28\u91cf Slidev \u6f14\u793a\u6a21\u677f\u7684\u4ed3\u5e93\u3002"
+    },
+    {
       "name": "microsoft--chartifact",
       "source": "./microsoft--chartifact",
       "description": "Declarative, interactive data documents"
@@ -45513,6 +45538,11 @@
       "name": "polypulse-analytics--hyperliquid-trading-bot",
       "source": "./polypulse-analytics--hyperliquid-trading-bot",
       "description": "hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, hyperliquid trading bot, "
+    },
+    {
+      "name": "jordansrowles--leanlucene",
+      "source": "./jordansrowles--leanlucene",
+      "description": "A .NET-native full-text search engine. Segment-centric indexing, memory-mapped reads, and atomic commit semantics. Targets .NET 10+. Inspired by Apache Lucene."
     },
     {
       "name": "hyperb1iss--opaline",
@@ -49075,11 +49105,6 @@
       "description": "\u4e00\u4e2a\u66f4\u5b89\u9759\u7684\u65b0\u6807\u7b7e\u9875\u5de5\u4f5c\u53f0\uff0c\u628a\u6253\u5f00\u4e2d\u7684\u6807\u7b7e\u3001\u5feb\u6377\u94fe\u63a5\u3001\u5f85\u8bfb\u548c\u8f7b\u91cf\u5f85\u529e\u6536\u8fdb\u540c\u4e00\u4e2a\u987a\u624b\u7684\u7a7a\u95f4\u91cc\u3002"
     },
     {
-      "name": "marciogranzotto--clawd-tank",
-      "source": "./marciogranzotto--clawd-tank",
-      "description": "clawd-tank"
-    },
-    {
       "name": "tealios--errata",
       "source": "./tealios--errata",
       "description": "A modern writing app"
@@ -49248,11 +49273,6 @@
       "name": "pivoshenko--kasetto",
       "source": "./pivoshenko--kasetto",
       "description": "\ud83d\udcfc A declarative AI agent environment manager, written in Rust"
-    },
-    {
-      "name": "marciogranzotto--clawd-tank",
-      "source": "./marciogranzotto--clawd-tank",
-      "description": "clawd-tank"
     },
     {
       "name": "arsenyinfo--nitpicker",
@@ -51838,11 +51858,6 @@
       "name": "saucebase-dev--saucebase",
       "source": "./saucebase-dev--saucebase",
       "description": "Modern Laravel SaaS starter kit with Vue 3, TypeScript, Inertia.js, and shadcn/ui - built for rapid SaaS    development"
-    },
-    {
-      "name": "iridite--slidev-templates",
-      "source": "./iridite--slidev-templates",
-      "description": "\u4e00\u4e2a\u6536\u5f55\u9ad8\u8d28\u91cf Slidev \u6f14\u793a\u6a21\u677f\u7684\u4ed3\u5e93\u3002"
     },
     {
       "name": "sdblepas--cineplete",
@@ -57763,11 +57778,6 @@
       "name": "losses--flame-ocean-website",
       "source": "./losses--flame-ocean-website",
       "description": "flame-ocean-website"
-    },
-    {
-      "name": "jordansrowles--leanlucene",
-      "source": "./jordansrowles--leanlucene",
-      "description": "A .NET-native full-text search engine. Segment-centric indexing, memory-mapped reads, and atomic commit semantics. Targets .NET 10+. Inspired by Apache Lucene."
     },
     {
       "name": "jovidecroock--pracht",
