@@ -7,11 +7,11 @@ SearchAgent-Zero: A Scalable Multi-Turn Search Agent RL Framework
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [NLPJCL/SearchAgent-Zero](https://github.com/NLPJCL/SearchAgent-Zero).
+Original source: `AGENTS.md` in [NLPJCL/SearchAgent-Zero](https://github.com/NLPJCL/SearchAgent-Zero).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
