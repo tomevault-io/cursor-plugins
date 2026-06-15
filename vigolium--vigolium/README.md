@@ -7,11 +7,11 @@ Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native spe
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [vigolium/vigolium](https://github.com/vigolium/vigolium).
+Original source: `AGENTS.md` in [vigolium/vigolium](https://github.com/vigolium/vigolium).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
