@@ -7,11 +7,11 @@ Agentic AI-guided evaluation system for comparing LLMs with multi-judge jury sco
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [awslabs/llm-evaluation-system](https://github.com/awslabs/llm-evaluation-system).
+Original source: `CLAUDE.md` in [awslabs/llm-evaluation-system](https://github.com/awslabs/llm-evaluation-system).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
