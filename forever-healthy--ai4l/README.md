@@ -7,11 +7,11 @@ AI for Practical Longevity (AI4L) - Enabling anyone to use AI to generate high-q
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [forever-healthy/AI4L](https://github.com/forever-healthy/AI4L).
+Original source: `CLAUDE.md` in [forever-healthy/AI4L](https://github.com/forever-healthy/AI4L).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
