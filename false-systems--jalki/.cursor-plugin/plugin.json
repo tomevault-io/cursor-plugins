@@ -1,0 +1,11 @@
+{
+  "name": "false-systems--jalki",
+  "displayName": "jalki",
+  "version": "1.0.0",
+  "description": "Programmable eBPF fentry/fexit tracing framework for Linux. Hook any kernel function with one Rust trait \u2014 structured JSON events out. TCP connects, retransmits, closes, and any   function you define.",
+  "author": {
+    "name": "false-systems",
+    "url": "https://github.com/false-systems"
+  },
+  "homepage": "https://github.com/false-systems/jalki"
+}
