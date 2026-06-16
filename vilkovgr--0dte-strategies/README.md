@@ -7,11 +7,11 @@ AI-Augmented Replication Package: 0DTE Trading Rules — Tail Risk, Implementati
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [vilkovgr/0dte-strategies](https://github.com/vilkovgr/0dte-strategies).
+Original source: `CLAUDE.md` in [vilkovgr/0dte-strategies](https://github.com/vilkovgr/0dte-strategies).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
