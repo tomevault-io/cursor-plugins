@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lukelei2025/mojocarrot-on-desk](https://github.com/lukelei2025/mojocarrot-on-desk).
+Original source: `CLAUDE.md` in [lukelei2025/mojocarrot-on-desk](https://github.com/lukelei2025/mojocarrot-on-desk).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
