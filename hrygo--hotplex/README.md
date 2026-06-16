@@ -7,11 +7,11 @@ HotPlex — Unified access layer for AI Coding Agent.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [hrygo/hotplex](https://github.com/hrygo/hotplex).
+Original source: `AGENTS.md` in [hrygo/hotplex](https://github.com/hrygo/hotplex).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
