@@ -7,11 +7,11 @@ Geometric agent memory for Grok Build: 8-tool lean contract, harness injection a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [staticroostermedia-arch/engram](https://github.com/staticroostermedia-arch/engram).
+Original source: `CLAUDE.md` in [staticroostermedia-arch/engram](https://github.com/staticroostermedia-arch/engram).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
