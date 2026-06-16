@@ -12710,6 +12710,11 @@
       "description": "A VSCode extension that lets you find and install Agent Skills and MCP Apps to use with GitHub Copilot, Claude Code, and Codex CLI."
     },
     {
+      "name": "meodai--skill-color-expert",
+      "source": "./meodai--skill-color-expert",
+      "description": "Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, C"
+    },
+    {
       "name": "meleantonio--chernycode",
       "source": "./meleantonio--chernycode",
       "description": "ChernyCode"
@@ -14063,11 +14068,6 @@
       "name": "a2aproject--a2a-java",
       "source": "./a2aproject--a2a-java",
       "description": "Official Java SDK for the Agent2Agent (A2A) Protocol"
-    },
-    {
-      "name": "meodai--skill-color-expert",
-      "source": "./meodai--skill-color-expert",
-      "description": "Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, C"
     },
     {
       "name": "samrolken--nokode",
@@ -176500,6 +176500,16 @@
       "description": "Cut Claude Code dynamic-workflow costs: pin the right model + effort on every subagent stage, estimate spend before launch, and block scripts that would silently run every stage on Opus."
     },
     {
+      "name": "ankitclassicvision--aac-factory",
+      "source": "./ankitclassicvision--aac-factory",
+      "description": "Turn a one-sentence idea into a certified AI Agent Workflow blueprint: interview \u2192 ATLAS \u2192 concept map \u2192 AAC cards \u2192 blind QA \u2192 self-healing \u2192 model improvement loops. Human over the loop. Your workfl"
+    },
+    {
+      "name": "ankitclassicvision--aac-factory",
+      "source": "./ankitclassicvision--aac-factory",
+      "description": "Turn a one-sentence idea into a certified AI Agent Workflow blueprint: interview \u2192 ATLAS \u2192 concept map \u2192 AAC cards \u2192 blind QA \u2192 self-healing \u2192 model improvement loops. Human over the loop. Your workfl"
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
@@ -261803,6 +261813,11 @@
       "name": "dane-22--kaandingay",
       "source": "./dane-22--kaandingay",
       "description": "kaandingay"
+    },
+    {
+      "name": "codingbutterbot--vs-code-automation",
+      "source": "./codingbutterbot--vs-code-automation",
+      "description": "VS Code extension for automating editor actions via WebSocket (MCP)"
     }
   ]
 }
