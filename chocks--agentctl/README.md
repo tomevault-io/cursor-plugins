@@ -7,11 +7,11 @@ agentctl is a focused v1 control layer for coding agents. It gates a small set o
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [chocks/agentctl](https://github.com/chocks/agentctl).
+Original source: `CLAUDE.md` in [chocks/agentctl](https://github.com/chocks/agentctl).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
