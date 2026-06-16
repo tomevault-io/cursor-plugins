@@ -1,0 +1,26 @@
+# AI instruction files for workbench
+
+> Sourced from [grebmann1/workbench](https://github.com/grebmann1/workbench) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+New Workbench replacing our old solutions like Workbench, Benchpress
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [grebmann1/workbench](https://github.com/grebmann1/workbench).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/grebmann1/workbench](https://github.com/grebmann1/workbench)
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:a-c-q -->
