@@ -1,0 +1,11 @@
+{
+  "name": "storybloq--lenses",
+  "displayName": "lenses",
+  "version": "1.0.0",
+  "description": "Multi-lens code review MCP server for Claude Code. 8 specialized reviewers run in parallel and return structured verdicts (security, performance, test quality, clean code, and more).",
+  "author": {
+    "name": "Storybloq",
+    "url": "https://github.com/Storybloq"
+  },
+  "homepage": "https://github.com/Storybloq/lenses"
+}
