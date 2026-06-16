@@ -1,0 +1,30 @@
+# gograph
+
+> Source: [compozy/gograph](https://github.com/compozy/gograph) — distributed by [TomeVault](https://tomevault.io)
+
+Go Codebase Graph Analyzer
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `GEMINI.md` in [compozy/gograph](https://github.com/compozy/gograph).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Windsurf** — `project-config.md`
+
+From [compozy/gograph](https://github.com/compozy/gograph) — a repo with 9+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install compozy/gograph
+```
+Source: [github.com/compozy/gograph](https://github.com/compozy/gograph).
+
+<!-- genome:d-i-s -->
