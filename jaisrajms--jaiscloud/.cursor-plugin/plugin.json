@@ -1,0 +1,11 @@
+{
+  "name": "jaisrajms--jaiscloud",
+  "displayName": "jaiscloud",
+  "version": "1.0.0",
+  "description": "JaisCloud is a local multi-cloud emulator written in Go. It speaks native AWS wire protocols (Query/XML and JSON/Target) so any AWS SDK can point at it without modification.",
+  "author": {
+    "name": "jaisrajms",
+    "url": "https://github.com/jaisrajms"
+  },
+  "homepage": "https://github.com/jaisrajms/jaiscloud"
+}
