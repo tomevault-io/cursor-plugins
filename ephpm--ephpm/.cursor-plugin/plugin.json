@@ -1,0 +1,11 @@
+{
+  "name": "ephpm--ephpm",
+  "displayName": "ephpm",
+  "version": "1.0.0",
+  "description": "[WIP] Rust alternative to nginx + PHP-FPM, FrankenPHP, RoadRunner etc. Embeds Zend PHP directly via FFI in a single static binary. 100% PHP compatibility and drop-in replacement for any PHP project wi",
+  "author": {
+    "name": "ephpm",
+    "url": "https://github.com/ephpm"
+  },
+  "homepage": "https://github.com/ephpm/ephpm"
+}
