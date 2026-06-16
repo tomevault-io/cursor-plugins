@@ -7,11 +7,11 @@ OSS Projects are cool, vulnerabilities and threats arent. AI scan environment fo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [iammrduncan/thresher](https://github.com/iammrduncan/thresher).
+Original source: `CLAUDE.md` in [iammrduncan/thresher](https://github.com/iammrduncan/thresher).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
