@@ -1,0 +1,26 @@
+# foundry-skills
+
+> Tome by [CrowdStrike](https://github.com/CrowdStrike/foundry-skills) — distributed by [TomeVault](https://tomevault.io)
+
+AI coding assistant skills for building CrowdStrike Falcon Foundry apps: scaffolding, deployment, and best practices for API integrations, collections, functions, UI extensions, UI pages, and workflows.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `GEMINI.md` in [CrowdStrike/foundry-skills](https://github.com/CrowdStrike/foundry-skills).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Windsurf** — `project-config.md`
+
+From [CrowdStrike/foundry-skills](https://github.com/CrowdStrike/foundry-skills) — a repo with 16+ stars on GitHub.
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:t-e-s -->
