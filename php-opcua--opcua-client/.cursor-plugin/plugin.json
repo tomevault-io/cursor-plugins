@@ -1,0 +1,11 @@
+{
+  "name": "php-opcua--opcua-client",
+  "displayName": "opcua-client",
+  "version": "1.0.0",
+  "description": "A PHP library that talks OPC UA binary protocol over TCP. It handles the full stack \u2014 transport, encoding, secure channels, sessions, crypto \u2014 so you can connect to any OPC UA server straight from PHP",
+  "author": {
+    "name": "php-opcua",
+    "url": "https://github.com/php-opcua"
+  },
+  "homepage": "https://github.com/php-opcua/opcua-client"
+}
