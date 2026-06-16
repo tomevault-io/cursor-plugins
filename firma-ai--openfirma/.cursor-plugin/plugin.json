@@ -1,0 +1,11 @@
+{
+  "name": "firma-ai--openfirma",
+  "displayName": "openfirma",
+  "version": "1.0.0",
+  "description": "Runtime enforcement boundary for AI agents: a local sidecar that gates every outbound call against Cedar policies you own. Deterministic, call-level, no model on the hot path",
+  "author": {
+    "name": "Firma-AI",
+    "url": "https://github.com/Firma-AI"
+  },
+  "homepage": "https://github.com/Firma-AI/openfirma"
+}
