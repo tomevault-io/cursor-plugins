@@ -1,0 +1,11 @@
+{
+  "name": "denyherianto--gitlab-ai-code-review",
+  "displayName": "gitlab-ai-code-review",
+  "version": "1.0.0",
+  "description": "Analyzes code changes via the Gemini API with a structured review prompt, then posts severity-classified findings as GitLab MR notes.",
+  "author": {
+    "name": "denyherianto",
+    "url": "https://github.com/denyherianto"
+  },
+  "homepage": "https://github.com/denyherianto/gitlab-ai-code-review"
+}
