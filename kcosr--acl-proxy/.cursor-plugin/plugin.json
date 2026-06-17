@@ -1,0 +1,11 @@
+{
+  "name": "kcosr--acl-proxy",
+  "displayName": "acl-proxy",
+  "version": "1.0.0",
+  "description": "Rust-based ACL-aware HTTP/HTTPS proxy with a flexible URL policy engine. Supports CONNECT and transparent modes.",
+  "author": {
+    "name": "kcosr",
+    "url": "https://github.com/kcosr"
+  },
+  "homepage": "https://github.com/kcosr/acl-proxy"
+}
