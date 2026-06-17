@@ -7,7 +7,7 @@ Governance substrate for your AI coding agents — adversarial review, drift-det
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [nexus-substrate/nexus-agents](https://github.com/nexus-substrate/nexus-agents).
+Original source: `GEMINI.md` in [nexus-substrate/nexus-agents](https://github.com/nexus-substrate/nexus-agents).
 
 ## Also available for
 
@@ -15,7 +15,7 @@ Original source: `.windsurf/rules/*.md` in [nexus-substrate/nexus-agents](https:
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/nexus-substrate/nexus-agents](https://github.com/nexus-substrate/nexus-agents)
 
