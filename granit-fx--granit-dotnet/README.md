@@ -7,11 +7,11 @@ A modular .NET 10 framework — orchestrate auth, persistence, CQRS, messaging, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [granit-fx/granit-dotnet](https://github.com/granit-fx/granit-dotnet).
+Original source: `CLAUDE.md` in [granit-fx/granit-dotnet](https://github.com/granit-fx/granit-dotnet).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
