@@ -7,11 +7,11 @@ A browser extension that enhances Modrinth on the website and beyond
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [creeperkatze/modrinth-extras](https://github.com/creeperkatze/modrinth-extras).
+Original source: `CLAUDE.md` in [creeperkatze/modrinth-extras](https://github.com/creeperkatze/modrinth-extras).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
