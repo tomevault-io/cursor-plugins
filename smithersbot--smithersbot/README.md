@@ -7,11 +7,11 @@ Leave agents running without giving up control.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [smithersbot/smithersbot](https://github.com/smithersbot/smithersbot).
+Original source: `CLAUDE.md` in [smithersbot/smithersbot](https://github.com/smithersbot/smithersbot).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
