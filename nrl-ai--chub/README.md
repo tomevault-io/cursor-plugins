@@ -1,0 +1,30 @@
+# chub
+
+> Tome by [nrl-ai](https://github.com/nrl-ai/chub) — distributed by [TomeVault](https://tomevault.io)
+
+Agent-agnostic context, tracking, and cost analytics for AI-assisted development. Curated docs · Session tracking · Cost analytics · Team knowledge — all git-native
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [nrl-ai/chub](https://github.com/nrl-ai/chub).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [nrl-ai/chub](https://github.com/nrl-ai/chub) — a repo with 11+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install nrl-ai/chub
+```
+Source: [github.com/nrl-ai/chub](https://github.com/nrl-ai/chub).
+
+<!-- genome:t-i-s -->
