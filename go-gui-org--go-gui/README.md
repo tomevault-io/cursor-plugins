@@ -1,0 +1,26 @@
+# go-gui
+
+> Source: [go-gui-org/go-gui](https://github.com/go-gui-org/go-gui) — distributed by [TomeVault](https://tomevault.io)
+
+Cross-platform GUI framework for Go — no virtual DOM, no diffing, just fast, composable UI.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [go-gui-org/go-gui](https://github.com/go-gui-org/go-gui).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [go-gui-org/go-gui](https://github.com/go-gui-org/go-gui) — a repo with 33+ stars on GitHub.
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:d-e-s -->
