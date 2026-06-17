@@ -7,14 +7,14 @@ Reference implementation for a Chrome Enterprise Premium MCP server
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [google/chrome-enterprise-premium-mcp](https://github.com/google/chrome-enterprise-premium-mcp).
+Original source: `AGENTS.md` in [google/chrome-enterprise-premium-mcp](https://github.com/google/chrome-enterprise-premium-mcp).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [google/chrome-enterprise-premium-mcp](https://github.com/google/chrome-enterprise-premium-mcp) — a repo with 9+ stars on GitHub.
