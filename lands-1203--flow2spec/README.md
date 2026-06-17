@@ -1,0 +1,24 @@
+# AI instruction files for Flow2Spec
+
+> Sourced from [Lands-1203/Flow2Spec](https://github.com/Lands-1203/Flow2Spec) and converted for every major platform by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [Lands-1203/Flow2Spec](https://github.com/Lands-1203/Flow2Spec).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/Lands-1203/Flow2Spec](https://github.com/Lands-1203/Flow2Spec)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+
+<!-- genome:a-e-p -->
