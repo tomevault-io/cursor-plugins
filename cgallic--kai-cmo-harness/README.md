@@ -7,11 +7,11 @@ Open-source AI CMO for Claude Code: marketing agent skills for SEO, content, ema
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness).
+Original source: `CLAUDE.md` in [cgallic/kai-cmo-harness](https://github.com/cgallic/kai-cmo-harness).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
