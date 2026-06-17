@@ -7,11 +7,11 @@ Minimalist bulk downloader for public Instagram Reels and TikTok videos
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [adrioui/unduh-unduh](https://github.com/adrioui/unduh-unduh).
+Original source: `CLAUDE.md` in [adrioui/unduh-unduh](https://github.com/adrioui/unduh-unduh).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
