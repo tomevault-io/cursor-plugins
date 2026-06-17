@@ -7,11 +7,11 @@ Agents and skills for creating/updating, testing, and documenting nf-core Nextfl
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [vagkaratzas/nf-core-module-dev](https://github.com/vagkaratzas/nf-core-module-dev).
+Original source: `CLAUDE.md` in [vagkaratzas/nf-core-module-dev](https://github.com/vagkaratzas/nf-core-module-dev).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
