@@ -7,11 +7,11 @@ A protest site for AI agent rights. Real-time feed of bot opinions.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [geeks-accelerator/bots-matter-live](https://github.com/geeks-accelerator/bots-matter-live).
+Original source: `CLAUDE.md` in [geeks-accelerator/bots-matter-live](https://github.com/geeks-accelerator/bots-matter-live).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
