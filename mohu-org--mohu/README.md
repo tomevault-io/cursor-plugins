@@ -7,11 +7,11 @@ NumPy reimagined in Rust. Parallel by default, Arrow-native, zero-copy Python bi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mohu-org/mohu](https://github.com/mohu-org/mohu).
+Original source: `CLAUDE.md` in [mohu-org/mohu](https://github.com/mohu-org/mohu).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
