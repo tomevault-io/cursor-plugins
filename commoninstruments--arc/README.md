@@ -7,11 +7,11 @@ Agent workflow plugin for Claude Code and Codex that takes projects from idea to
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [commoninstruments/arc](https://github.com/commoninstruments/arc).
+Original source: `CLAUDE.md` in [commoninstruments/arc](https://github.com/commoninstruments/arc).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
