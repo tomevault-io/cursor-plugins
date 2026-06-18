@@ -7,7 +7,7 @@ The 'git init' for AI context. Bootstrap your project's AI memory and rules in s
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [kadiresen/context-bank](https://github.com/kadiresen/context-bank).
+Original source: `GEMINI.md` in [kadiresen/context-bank](https://github.com/kadiresen/context-bank).
 
 ## Also available for
 
@@ -15,7 +15,7 @@ Original source: `.windsurf/rules/*.md` in [kadiresen/context-bank](https://gith
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/kadiresen/context-bank](https://github.com/kadiresen/context-bank)
 
