@@ -1,0 +1,11 @@
+{
+  "name": "shudza--claude-vm",
+  "displayName": "claude-vm",
+  "version": "1.0.0",
+  "description": "QEMU sandbox for Claude Code. Run Claude Code with full permissions in an isolated VM, with near-native filesystem performance via virtiofs.",
+  "author": {
+    "name": "shudza",
+    "url": "https://github.com/shudza"
+  },
+  "homepage": "https://github.com/shudza/claude-vm"
+}
