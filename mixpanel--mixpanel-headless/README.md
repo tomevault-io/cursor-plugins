@@ -7,12 +7,12 @@ Complete programmable interface to Mixpanel analytics. Python library and CLI fo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [mixpanel/mixpanel-headless](https://github.com/mixpanel/mixpanel-headless).
+Original source: `CLAUDE.md` in [mixpanel/mixpanel-headless](https://github.com/mixpanel/mixpanel-headless).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
