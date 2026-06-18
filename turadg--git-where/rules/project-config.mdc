@@ -1,0 +1,12 @@
+---
+description: - **All side-effects require user opt-in.** Read-only operations (looking up a path, listing repos) run unconditionally. Operations that modify the filesystem or git state (creating worktrees, fetching branches) require an explicit flag (e.g. `--create`). Never surprise the user with mutations.
+alwaysApply: true
+---
+
+# Design Principles
+
+- **All side-effects require user opt-in.** Read-only operations (looking up a path, listing repos) run unconditionally. Operations that modify the filesystem or git state (creating worktrees, fetching branches) require an explicit flag (e.g. `--create`). Never surprise the user with mutations.
+
+---
+> Source: [turadg/git-where](https://github.com/turadg/git-where) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:cursor_mdc:2026-06-18 -->
