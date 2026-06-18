@@ -7,11 +7,11 @@ Genshin Impact Tools: Artifact Management, Damage Optimizer, and more!
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Anyrainel/GenshinTools](https://github.com/Anyrainel/GenshinTools).
+Original source: `CLAUDE.md` in [Anyrainel/GenshinTools](https://github.com/Anyrainel/GenshinTools).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
