@@ -1,0 +1,11 @@
+{
+  "name": "scottrobertson--castkeeper",
+  "displayName": "castkeeper",
+  "version": "1.0.0",
+  "description": "A Cloudflare Worker that backs up your Pocket Casts data to a D1 database. Runs on an hourly cron with a web UI to browse everything.",
+  "author": {
+    "name": "scottrobertson",
+    "url": "https://github.com/scottrobertson"
+  },
+  "homepage": "https://github.com/scottrobertson/castkeeper"
+}
