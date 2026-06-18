@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [roi007leaf/pf2e-leveler](https://github.com/roi007leaf/pf2e-leveler).
+Original source: `CLAUDE.md` in [roi007leaf/pf2e-leveler](https://github.com/roi007leaf/pf2e-leveler).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
