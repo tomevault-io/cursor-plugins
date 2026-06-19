@@ -7,11 +7,11 @@ A full virtual office of role-defined AI agents with a coordination framework, o
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dkyazzentwatwa/agent-office](https://github.com/dkyazzentwatwa/agent-office).
+Original source: `AGENTS.md` in [dkyazzentwatwa/agent-office](https://github.com/dkyazzentwatwa/agent-office).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
