@@ -7,11 +7,11 @@ Build agent-powered apps without reinventing the shell.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hachej/boring-ui](https://github.com/hachej/boring-ui).
+Original source: `CLAUDE.md` in [hachej/boring-ui](https://github.com/hachej/boring-ui).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
