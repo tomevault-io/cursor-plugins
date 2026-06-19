@@ -7,11 +7,11 @@ Agentic-friendly CLI generator for APIs: turn Swagger, OpenAPI, and google.api.h
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lathe-cli/lathe](https://github.com/lathe-cli/lathe).
+Original source: `CLAUDE.md` in [lathe-cli/lathe](https://github.com/lathe-cli/lathe).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
