@@ -7,11 +7,11 @@ Local-first memory kernel for coding agents: MCP-native, temporal, auditable, so
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [dongtang3/mnemic](https://github.com/dongtang3/mnemic).
+Original source: `CLAUDE.md` in [dongtang3/mnemic](https://github.com/dongtang3/mnemic).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
