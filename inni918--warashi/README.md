@@ -7,12 +7,12 @@ Warashi — a free, open-source desktop AI companion with a Live2D avatar, voice
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [inni918/warashi](https://github.com/inni918/warashi).
+Original source: `CLAUDE.md` in [inni918/warashi](https://github.com/inni918/warashi).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
