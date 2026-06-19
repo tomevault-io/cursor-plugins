@@ -7,11 +7,11 @@ Reflect on your AI work procedures , bottlenecks and cost
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [o11y-dev/reflect](https://github.com/o11y-dev/reflect).
+Original source: `CLAUDE.md` in [o11y-dev/reflect](https://github.com/o11y-dev/reflect).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
