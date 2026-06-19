@@ -7,11 +7,11 @@ A production-grade methodology repository for building AI-native applications us
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [PolymathWizard/BHIL-AI-First-Development-Toolkit](https://github.com/PolymathWizard/BHIL-AI-First-Development-Toolkit).
+Original source: `CLAUDE.md` in [PolymathWizard/BHIL-AI-First-Development-Toolkit](https://github.com/PolymathWizard/BHIL-AI-First-Development-Toolkit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
