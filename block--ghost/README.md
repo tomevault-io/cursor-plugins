@@ -7,11 +7,11 @@ A design language perception and infrastructure
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [block/ghost](https://github.com/block/ghost).
+Original source: `CLAUDE.md` in [block/ghost](https://github.com/block/ghost).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
