@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [TeaCup4021/ThinkingCoding](https://github.com/TeaCup4021/ThinkingCoding).
+Original source: `CLAUDE.md` in [TeaCup4021/ThinkingCoding](https://github.com/TeaCup4021/ThinkingCoding).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
