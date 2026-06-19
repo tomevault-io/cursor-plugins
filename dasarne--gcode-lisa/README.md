@@ -7,12 +7,12 @@ GRBL G-Code Visualizer & Analyzer for CNC and 3D Printers
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [dasarne/gcode-lisa](https://github.com/dasarne/gcode-lisa).
+Original source: `AGENTS.md` in [dasarne/gcode-lisa](https://github.com/dasarne/gcode-lisa).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
