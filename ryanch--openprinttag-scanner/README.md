@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ryanch/openprinttag_scanner](https://github.com/ryanch/openprinttag_scanner).
+Original source: `CLAUDE.md` in [ryanch/openprinttag_scanner](https://github.com/ryanch/openprinttag_scanner).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
