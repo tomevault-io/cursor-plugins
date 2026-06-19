@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ZingerLittleBee/AnyDoor](https://github.com/ZingerLittleBee/AnyDoor).
+Original source: `CLAUDE.md` in [ZingerLittleBee/AnyDoor](https://github.com/ZingerLittleBee/AnyDoor).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
