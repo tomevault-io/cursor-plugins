@@ -7,11 +7,11 @@ Claude skills that deliver a daily finance status dashboard to your telegram.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ya5huk/findash](https://github.com/ya5huk/findash).
+Original source: `CLAUDE.md` in [ya5huk/findash](https://github.com/ya5huk/findash).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
