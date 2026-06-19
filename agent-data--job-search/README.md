@@ -7,11 +7,11 @@ Turn Claude Code into your job search assistant.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [agent-data/job-search](https://github.com/agent-data/job-search).
+Original source: `AGENTS.md` in [agent-data/job-search](https://github.com/agent-data/job-search).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
