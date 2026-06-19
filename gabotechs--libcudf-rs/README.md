@@ -7,11 +7,11 @@ Rust bindings for libcudf
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [gabotechs/libcudf-rs](https://github.com/gabotechs/libcudf-rs).
+Original source: `CLAUDE.md` in [gabotechs/libcudf-rs](https://github.com/gabotechs/libcudf-rs).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
