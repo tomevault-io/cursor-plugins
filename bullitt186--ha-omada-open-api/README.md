@@ -7,12 +7,12 @@ TP-Link Omada SDN integration for Home Assistant — monitor APs, switches, gate
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [bullitt186/ha-omada-open-api](https://github.com/bullitt186/ha-omada-open-api).
+Original source: `CLAUDE.md` in [bullitt186/ha-omada-open-api](https://github.com/bullitt186/ha-omada-open-api).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
