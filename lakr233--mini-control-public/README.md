@@ -7,11 +7,11 @@ Mac mini cluster management system for browser-controlled macOS VMs
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Lakr233/mini-control-public](https://github.com/Lakr233/mini-control-public).
+Original source: `CLAUDE.md` in [Lakr233/mini-control-public](https://github.com/Lakr233/mini-control-public).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
