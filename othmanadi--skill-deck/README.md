@@ -7,14 +7,14 @@ Universal coding agent skill browser — desktop overlay for Claude Code, Cursor
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [OthmanAdi/skill-deck](https://github.com/OthmanAdi/skill-deck).
+Original source: `CLAUDE.md` in [OthmanAdi/skill-deck](https://github.com/OthmanAdi/skill-deck).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [OthmanAdi/skill-deck](https://github.com/OthmanAdi/skill-deck) — a repo with 9+ stars on GitHub.
