@@ -1,0 +1,26 @@
+# gitops
+
+> Source: [VapiAI/gitops](https://github.com/VapiAI/gitops) — distributed by [TomeVault](https://tomevault.io)
+
+Vapi's best practices guide on how to support git tracking for teams owning and updating resources on their Vapi Org
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [VapiAI/gitops](https://github.com/VapiAI/gitops).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [VapiAI/gitops](https://github.com/VapiAI/gitops) — a repo with 9+ stars on GitHub.
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:d-c-s -->
