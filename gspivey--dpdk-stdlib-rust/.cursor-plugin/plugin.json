@@ -1,0 +1,11 @@
+{
+  "name": "gspivey--dpdk-stdlib-rust",
+  "displayName": "dpdk-stdlib-rust",
+  "version": "1.0.0",
+  "description": "High-performance userspace UDP/TCP networking library for Rust using DPDK. Drop-in replacement for std::net with zero-copy packet processing, and multi-queue scaling. Includes echo server and syntheti",
+  "author": {
+    "name": "gspivey",
+    "url": "https://github.com/gspivey"
+  },
+  "homepage": "https://github.com/gspivey/dpdk-stdlib-rust"
+}
