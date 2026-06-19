@@ -7,11 +7,11 @@ A browser-based color science instrument for exploring RGB gamuts as interactive
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [saabi/colorlab](https://github.com/saabi/colorlab).
+Original source: `CLAUDE.md` in [saabi/colorlab](https://github.com/saabi/colorlab).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
