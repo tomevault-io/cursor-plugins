@@ -7,11 +7,11 @@ Single-binary AI gateway and reverse proxy. 200+ LLM providers, one config.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy).
+Original source: `CLAUDE.md` in [soapbucket/sbproxy](https://github.com/soapbucket/sbproxy).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
