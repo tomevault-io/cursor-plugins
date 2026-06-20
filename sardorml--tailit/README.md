@@ -7,11 +7,11 @@ resume tailor
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [sardorml/tailit](https://github.com/sardorml/tailit).
+Original source: `CLAUDE.md` in [sardorml/tailit](https://github.com/sardorml/tailit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
