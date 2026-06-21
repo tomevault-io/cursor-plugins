@@ -7,11 +7,11 @@ Collective intelligence runtime for AI agents. Knowledge graph + persistent memo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [hyperb1iss/sibyl](https://github.com/hyperb1iss/sibyl).
+Original source: `AGENTS.md` in [hyperb1iss/sibyl](https://github.com/hyperb1iss/sibyl).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
