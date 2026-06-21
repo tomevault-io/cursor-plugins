@@ -13360,6 +13360,11 @@
       "description": "Coinbase Design System"
     },
     {
+      "name": "gpower2--gmkvextractgui",
+      "source": "./gpower2--gmkvextractgui",
+      "description": "A GUI in C# for mkvextract (MKVToolNix)"
+    },
+    {
       "name": "cyanheads--atlas-mcp-server",
       "source": "./cyanheads--atlas-mcp-server",
       "description": "A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing a three-tier architecture (Projects, Tasks, Knowledge) to manage complex workflows"
@@ -14498,11 +14503,6 @@
       "name": "piebald-ai--claude-code-lsps",
       "source": "./piebald-ai--claude-code-lsps",
       "description": "Claude Code Plugin Marketplace with LSP servers"
-    },
-    {
-      "name": "gpower2--gmkvextractgui",
-      "source": "./gpower2--gmkvextractgui",
-      "description": "A GUI in C# for mkvextract (MKVToolNix)"
     },
     {
       "name": "a2aproject--a2a-java",
@@ -191700,6 +191700,21 @@
       "description": "Open-source alternative to the Italian legal platform Lexroom"
     },
     {
+      "name": "hoaxnerd--burnless",
+      "source": "./hoaxnerd--burnless",
+      "description": "The always-on financial companion for founders"
+    },
+    {
+      "name": "hoaxnerd--burnless",
+      "source": "./hoaxnerd--burnless",
+      "description": "The always-on financial companion for founders"
+    },
+    {
+      "name": "wubing2023--reprorun",
+      "source": "./wubing2023--reprorun",
+      "description": "\ud83d\udd2c A  skill that automatically reproduces the numerical claims of academic papers \u2014 read paper \u2192 find code \u2192 build env \u2192 run \u2192 compare against the paper. 1 orchestrator + 6 specialized agents."
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
@@ -287048,6 +287063,11 @@
       "name": "relyky--asvt-n8blazorapp-tpl",
       "source": "./relyky--asvt-n8blazorapp-tpl",
       "description": "Asvt_N8BlazorApp_TPL"
+    },
+    {
+      "name": "merttbodur--anti-overengineering",
+      "source": "./merttbodur--anti-overengineering",
+      "description": "anti-overengineering"
     }
   ]
 }
