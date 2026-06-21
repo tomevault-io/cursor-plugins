@@ -7,11 +7,11 @@ The always-on financial companion for founders
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hoaxnerd/burnless](https://github.com/hoaxnerd/burnless).
+Original source: `CLAUDE.md` in [hoaxnerd/burnless](https://github.com/hoaxnerd/burnless).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
