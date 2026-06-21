@@ -7,11 +7,11 @@ Composable React hooks for production-grade wagmi transaction, chain, event, and
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ukorvl/swag-mi](https://github.com/ukorvl/swag-mi).
+Original source: `CLAUDE.md` in [ukorvl/swag-mi](https://github.com/ukorvl/swag-mi).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
