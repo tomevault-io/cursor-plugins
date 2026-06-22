@@ -192110,6 +192110,26 @@
       "description": "a local-first secret leak prevention layer for AI coding agents"
     },
     {
+      "name": "navikt--mlx-workspace",
+      "source": "./navikt--mlx-workspace",
+      "description": "Run LLMs locally on Apple Silicon with MLX and wire up AI coding tools to your local server \u2014 no cloud calls."
+    },
+    {
+      "name": "a1batr055--drivesoid",
+      "source": "./a1batr055--drivesoid",
+      "description": "Emotional drive system for AI personas \u2014 15-dimension sidecar that evolves in real time based on conversations and sleep cycles"
+    },
+    {
+      "name": "boshen--rust-performance-improvement-plan",
+      "source": "./boshen--rust-performance-improvement-plan",
+      "description": "rust-performance-improvement-plan"
+    },
+    {
+      "name": "masasuzu--clrnd",
+      "source": "./masasuzu--clrnd",
+      "description": "a command-line tool for deploying services to Google Cloud Run"
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
