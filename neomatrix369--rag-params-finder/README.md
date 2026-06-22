@@ -7,11 +7,11 @@ RAG parameter sweep experimentation tool — systematically evaluate embedding m
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [neomatrix369/rag-params-finder](https://github.com/neomatrix369/rag-params-finder).
+Original source: `CLAUDE.md` in [neomatrix369/rag-params-finder](https://github.com/neomatrix369/rag-params-finder).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
