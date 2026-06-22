@@ -7,11 +7,11 @@ A modular alternative to Clawdbot / OpenClaw that runs in containers for securit
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [crypdick/pynchy](https://github.com/crypdick/pynchy).
+Original source: `AGENTS.md` in [crypdick/pynchy](https://github.com/crypdick/pynchy).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
