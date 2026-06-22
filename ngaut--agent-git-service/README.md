@@ -7,11 +7,11 @@ Reimplement GitHub for Agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ngaut/agent-git-service](https://github.com/ngaut/agent-git-service).
+Original source: `CLAUDE.md` in [ngaut/agent-git-service](https://github.com/ngaut/agent-git-service).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
