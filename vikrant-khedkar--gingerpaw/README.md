@@ -7,11 +7,11 @@ Local macOS multi-agent coding workspace — run Claude Code, Codex, Gemini & Cu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Vikrant-Khedkar/gingerpaw](https://github.com/Vikrant-Khedkar/gingerpaw).
+Original source: `CLAUDE.md` in [Vikrant-Khedkar/gingerpaw](https://github.com/Vikrant-Khedkar/gingerpaw).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
