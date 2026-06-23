@@ -192265,6 +192265,11 @@
       "description": "Snapshots data parsed from https://mfm.warhammer-community.com/"
     },
     {
+      "name": "freebsd-ask--gitbook-pdf-export",
+      "source": "./freebsd-ask--gitbook-pdf-export",
+      "description": "Export gitbook to PDF"
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
