@@ -7,11 +7,11 @@ Half game, half experiment. World built out of GitHub issues — describe an ide
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [MishaMgla/opencraft1](https://github.com/MishaMgla/opencraft1).
+Original source: `CLAUDE.md` in [MishaMgla/opencraft1](https://github.com/MishaMgla/opencraft1).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
