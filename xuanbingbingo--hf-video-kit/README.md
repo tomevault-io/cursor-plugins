@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [xuanbingbingo/hf-video-kit](https://github.com/xuanbingbingo/hf-video-kit).
+Original source: `AGENTS.md` in [xuanbingbingo/hf-video-kit](https://github.com/xuanbingbingo/hf-video-kit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
