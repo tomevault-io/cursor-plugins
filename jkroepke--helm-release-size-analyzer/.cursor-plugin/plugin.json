@@ -1,0 +1,11 @@
+{
+  "name": "jkroepke--helm-release-size-analyzer",
+  "displayName": "helm-release-size-analyzer",
+  "version": "1.0.0",
+  "description": "A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property.",
+  "author": {
+    "name": "jkroepke",
+    "url": "https://github.com/jkroepke"
+  },
+  "homepage": "https://github.com/jkroepke/helm-release-size-analyzer"
+}
