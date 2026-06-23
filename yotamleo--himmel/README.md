@@ -7,11 +7,11 @@ A managed, orchestrated harness for running Claude Code as a safe, repeatable ag
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [yotamleo/Himmel](https://github.com/yotamleo/Himmel).
+Original source: `AGENTS.md` in [yotamleo/Himmel](https://github.com/yotamleo/Himmel).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
