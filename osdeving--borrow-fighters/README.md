@@ -7,11 +7,11 @@ Docs-first 2D fighting game prototype with programming humor
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [osdeving/borrow-fighters](https://github.com/osdeving/borrow-fighters).
+Original source: `CLAUDE.md` in [osdeving/borrow-fighters](https://github.com/osdeving/borrow-fighters).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
