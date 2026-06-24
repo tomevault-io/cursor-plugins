@@ -7,11 +7,11 @@ Crabot - 你的硅基朋友
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [smilefufu/crabot](https://github.com/smilefufu/crabot).
+Original source: `CLAUDE.md` in [smilefufu/crabot](https://github.com/smilefufu/crabot).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
