@@ -7,11 +7,11 @@ the governed runtime for agent skill workflows, off the leash but on the record
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [runxhq/runx](https://github.com/runxhq/runx).
+Original source: `AGENTS.md` in [runxhq/runx](https://github.com/runxhq/runx).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
