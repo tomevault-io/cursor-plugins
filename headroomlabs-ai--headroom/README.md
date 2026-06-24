@@ -7,12 +7,12 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom).
+Original source: `copilot-instructions.md` in [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
