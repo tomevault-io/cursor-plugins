@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [johnjiamzhong-project/RambosPlayer](https://github.com/johnjiamzhong-project/RambosPlayer).
+Original source: `AGENTS.md` in [johnjiamzhong-project/RambosPlayer](https://github.com/johnjiamzhong-project/RambosPlayer).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
