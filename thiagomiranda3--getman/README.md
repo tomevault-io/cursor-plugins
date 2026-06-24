@@ -7,14 +7,14 @@ My own HTTP Client app
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [thiagomiranda3/Getman](https://github.com/thiagomiranda3/Getman).
+Original source: `CLAUDE.md` in [thiagomiranda3/Getman](https://github.com/thiagomiranda3/Getman).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [thiagomiranda3/Getman](https://github.com/thiagomiranda3/Getman) — a repo with 29+ stars on GitHub.
