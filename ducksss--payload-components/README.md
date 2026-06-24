@@ -7,11 +7,11 @@ Payload Components: registry-backed Payload CMS blocks installed wired, not past
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Ducksss/payload-components](https://github.com/Ducksss/payload-components).
+Original source: `AGENTS.md` in [Ducksss/payload-components](https://github.com/Ducksss/payload-components).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
