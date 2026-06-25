@@ -7,11 +7,11 @@ Open-source multi-tenant AI agent platform. Docker isolation, multi-channel, SIW
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Eskyee/agentbot-opensource](https://github.com/Eskyee/agentbot-opensource).
+Original source: `CLAUDE.md` in [Eskyee/agentbot-opensource](https://github.com/Eskyee/agentbot-opensource).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
