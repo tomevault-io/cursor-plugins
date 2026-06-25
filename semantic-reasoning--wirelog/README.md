@@ -7,11 +7,11 @@ Embedded-to-Enterprise Datalog Engine in C11
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [semantic-reasoning/wirelog](https://github.com/semantic-reasoning/wirelog).
+Original source: `AGENTS.md` in [semantic-reasoning/wirelog](https://github.com/semantic-reasoning/wirelog).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
