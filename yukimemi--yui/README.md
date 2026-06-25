@@ -7,14 +7,14 @@ Target-as-truth dotfiles manager. Edit your live configs, source repo updates au
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [yukimemi/yui](https://github.com/yukimemi/yui).
+Original source: `CLAUDE.md` in [yukimemi/yui](https://github.com/yukimemi/yui).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [yukimemi/yui](https://github.com/yukimemi/yui) — a repo with 10+ stars on GitHub.
