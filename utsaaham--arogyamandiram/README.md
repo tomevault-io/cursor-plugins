@@ -1,0 +1,30 @@
+# arogyamandiram
+
+> Source: [utsaaham/arogyamandiram](https://github.com/utsaaham/arogyamandiram) — distributed by [TomeVault](https://tomevault.io)
+
+ఆరోగ్యమందిరం ( Arogyamandiram ) is a holistic health and fitness platform that helps users track water intake, calories, weight, and workouts in one place. It offers personalized guidance and smart insights to build disciplined habits and achieve complete physical well-being.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `copilot-instructions.md` in [utsaaham/arogyamandiram](https://github.com/utsaaham/arogyamandiram).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/utsaaham/arogyamandiram](https://github.com/utsaaham/arogyamandiram)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install utsaaham/arogyamandiram
+```
+Source: [github.com/utsaaham/arogyamandiram](https://github.com/utsaaham/arogyamandiram).
+
+<!-- genome:d-i-q -->
