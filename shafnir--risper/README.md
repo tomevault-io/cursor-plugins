@@ -7,11 +7,11 @@ Local-first Hebrew dictation for macOS — hold a key, speak Hebrew, get text in
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [shafnir/Risper](https://github.com/shafnir/Risper).
+Original source: `AGENTS.md` in [shafnir/Risper](https://github.com/shafnir/Risper).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
