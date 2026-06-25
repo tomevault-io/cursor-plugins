@@ -7,11 +7,11 @@ AI-maintained Notion wiki that pressure-tests business ideas into evidence-bound
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [schub-tech/llm-ideation-wiki](https://github.com/schub-tech/llm-ideation-wiki).
+Original source: `AGENTS.md` in [schub-tech/llm-ideation-wiki](https://github.com/schub-tech/llm-ideation-wiki).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
