@@ -7,11 +7,11 @@ Self-hosted, open-source brand case study generator
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [IngeniousArtist/casa](https://github.com/IngeniousArtist/casa).
+Original source: `AGENTS.md` in [IngeniousArtist/casa](https://github.com/IngeniousArtist/casa).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
