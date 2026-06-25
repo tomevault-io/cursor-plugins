@@ -7,11 +7,11 @@ Local-first AI bookmark manager with semantic search, cleanup review, Chrome syn
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Lling0000/SiftMarks](https://github.com/Lling0000/SiftMarks).
+Original source: `CLAUDE.md` in [Lling0000/SiftMarks](https://github.com/Lling0000/SiftMarks).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
