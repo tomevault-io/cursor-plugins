@@ -7,11 +7,11 @@ E-commerce search for catalogs that fit in RAM.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [2701/findegil](https://github.com/2701/findegil).
+Original source: `CLAUDE.md` in [2701/findegil](https://github.com/2701/findegil).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
