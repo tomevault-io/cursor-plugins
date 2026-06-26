@@ -7,12 +7,12 @@ Type-safe contracts for AMQP/RabbitMQ messaging with TypeScript
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [btravstack/amqp-contract](https://github.com/btravstack/amqp-contract).
+Original source: `copilot-instructions.md` in [btravstack/amqp-contract](https://github.com/btravstack/amqp-contract).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
