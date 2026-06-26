@@ -1,0 +1,30 @@
+# baukasten
+
+> Tome by [TypeFox](https://github.com/TypeFox/baukasten) — distributed by [TomeVault](https://tomevault.io)
+
+Baukasten UI – React components for feature-rich applications
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [TypeFox/baukasten](https://github.com/TypeFox/baukasten).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/TypeFox/baukasten](https://github.com/TypeFox/baukasten)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install TypeFox/baukasten
+```
+Source: [github.com/TypeFox/baukasten](https://github.com/TypeFox/baukasten).
+
+<!-- genome:t-i-p -->
