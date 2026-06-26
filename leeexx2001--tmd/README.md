@@ -7,11 +7,11 @@ Twitter Media Downloader 修改日志见 CHANGELOG.md
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [leeexx2001/tmd](https://github.com/leeexx2001/tmd).
+Original source: `AGENTS.md` in [leeexx2001/tmd](https://github.com/leeexx2001/tmd).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
