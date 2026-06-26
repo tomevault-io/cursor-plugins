@@ -7,12 +7,12 @@ Requirement-driven evaluation harness for AI agents and LLM applications. Genera
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [responsibleai/ASSERT](https://github.com/responsibleai/ASSERT).
+Original source: `CLAUDE.md` in [responsibleai/ASSERT](https://github.com/responsibleai/ASSERT).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
