@@ -7,11 +7,11 @@ dumps twitter likes & bookmarks
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tfriedel/tweethoarder](https://github.com/tfriedel/tweethoarder).
+Original source: `CLAUDE.md` in [tfriedel/tweethoarder](https://github.com/tfriedel/tweethoarder).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
