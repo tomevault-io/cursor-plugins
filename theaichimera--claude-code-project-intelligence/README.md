@@ -7,11 +7,11 @@ Project Intelligence for Claude Code — learns how you work across sessions. Be
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [theaichimera/claude-code-project-intelligence](https://github.com/theaichimera/claude-code-project-intelligence).
+Original source: `AGENTS.md` in [theaichimera/claude-code-project-intelligence](https://github.com/theaichimera/claude-code-project-intelligence).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
