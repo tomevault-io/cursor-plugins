@@ -7,11 +7,11 @@ Super-tool for vibe coders & system admins — terminals, SSH, SFTP, RDP/VNC, da
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ryantsai/KKTerm](https://github.com/ryantsai/KKTerm).
+Original source: `CLAUDE.md` in [ryantsai/KKTerm](https://github.com/ryantsai/KKTerm).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
