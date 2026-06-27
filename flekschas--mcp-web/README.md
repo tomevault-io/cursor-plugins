@@ -7,12 +7,12 @@ A set of libraries to enable AI apps/agents to control frontend web apps by expo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [flekschas/mcp-web](https://github.com/flekschas/mcp-web).
+Original source: `copilot-instructions.md` in [flekschas/mcp-web](https://github.com/flekschas/mcp-web).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
