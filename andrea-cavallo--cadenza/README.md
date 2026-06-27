@@ -7,11 +7,11 @@ AI-powered MIDI generator for progressive house and melodic techno. Give it a BP
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Andrea-Cavallo/cadenza](https://github.com/Andrea-Cavallo/cadenza).
+Original source: `CLAUDE.md` in [Andrea-Cavallo/cadenza](https://github.com/Andrea-Cavallo/cadenza).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
