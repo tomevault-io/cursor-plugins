@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Durgesh-kodan/Nextjs-Blog](https://github.com/Durgesh-kodan/Nextjs-Blog).
+Original source: `CLAUDE.md` in [Durgesh-kodan/Nextjs-Blog](https://github.com/Durgesh-kodan/Nextjs-Blog).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
