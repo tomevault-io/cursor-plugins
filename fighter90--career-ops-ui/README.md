@@ -7,11 +7,11 @@ Clean, docs-style web UI for the career-ops AI job-search pipeline. Search ATS a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Fighter90/career-ops-ui](https://github.com/Fighter90/career-ops-ui).
+Original source: `CLAUDE.md` in [Fighter90/career-ops-ui](https://github.com/Fighter90/career-ops-ui).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
