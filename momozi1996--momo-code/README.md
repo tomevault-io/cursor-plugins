@@ -7,11 +7,11 @@ MOMO CODE — AI coding agent that evolves with you
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [momozi1996/momo-code](https://github.com/momozi1996/momo-code).
+Original source: `AGENTS.md` in [momozi1996/momo-code](https://github.com/momozi1996/momo-code).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
