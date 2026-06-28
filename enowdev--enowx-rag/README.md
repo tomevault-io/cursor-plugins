@@ -7,11 +7,11 @@ RAG Skill and MCP for AI agents for codebase indexing and memory
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [enowdev/enowx-rag](https://github.com/enowdev/enowx-rag).
+Original source: `CLAUDE.md` in [enowdev/enowx-rag](https://github.com/enowdev/enowx-rag).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
