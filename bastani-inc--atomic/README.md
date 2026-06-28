@@ -7,11 +7,11 @@ Reliable loops for software engineering with Pi extensions, custom models, MCP, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bastani-inc/atomic](https://github.com/bastani-inc/atomic).
+Original source: `CLAUDE.md` in [bastani-inc/atomic](https://github.com/bastani-inc/atomic).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
