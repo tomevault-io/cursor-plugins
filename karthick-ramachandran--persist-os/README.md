@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Karthick-Ramachandran/persist-os](https://github.com/Karthick-Ramachandran/persist-os).
+Original source: `AGENTS.md` in [Karthick-Ramachandran/persist-os](https://github.com/Karthick-Ramachandran/persist-os).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
