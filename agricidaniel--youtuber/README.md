@@ -7,11 +7,11 @@ A source-cited YouTube brain: creator growth & strategy, the developer API, and 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [AgriciDaniel/youtuber](https://github.com/AgriciDaniel/youtuber).
+Original source: `CLAUDE.md` in [AgriciDaniel/youtuber](https://github.com/AgriciDaniel/youtuber).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
