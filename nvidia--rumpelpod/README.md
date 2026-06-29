@@ -7,11 +7,11 @@ Orchestrator for LLM coding agents in Docker and Kubernetes pods
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [NVIDIA/rumpelpod](https://github.com/NVIDIA/rumpelpod).
+Original source: `AGENTS.md` in [NVIDIA/rumpelpod](https://github.com/NVIDIA/rumpelpod).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
