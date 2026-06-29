@@ -7,11 +7,11 @@ A multi-agent Claude Code framework for running role-based agents across GTM, pr
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [firatcand/roster](https://github.com/firatcand/roster).
+Original source: `CLAUDE.md` in [firatcand/roster](https://github.com/firatcand/roster).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
