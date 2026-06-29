@@ -7,11 +7,11 @@ CSGLite is a lightweight local LLM runner for the CSGHub platform. One command d
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [OpenCSGs/csglite](https://github.com/OpenCSGs/csglite).
+Original source: `AGENTS.md` in [OpenCSGs/csglite](https://github.com/OpenCSGs/csglite).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
