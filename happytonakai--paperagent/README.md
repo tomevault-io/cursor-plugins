@@ -7,11 +7,11 @@ AI paper reading assistant
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [happyTonakai/PaperAgent](https://github.com/happyTonakai/PaperAgent).
+Original source: `CLAUDE.md` in [happyTonakai/PaperAgent](https://github.com/happyTonakai/PaperAgent).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
