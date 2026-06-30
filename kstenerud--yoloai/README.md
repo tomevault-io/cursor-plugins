@@ -2,16 +2,14 @@
 
 > Tome by [kstenerud](https://github.com/kstenerud/yoloai) — distributed by [TomeVault](https://tomevault.io)
 
-Permission fatigue is a real problem. Sandbox escape is a real problem. yoloAI solves it.
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [kstenerud/yoloai](https://github.com/kstenerud/yoloai).
+Original source: `AGENTS.md` in [kstenerud/yoloai](https://github.com/kstenerud/yoloai).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
