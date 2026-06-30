@@ -2,19 +2,17 @@
 
 > Source: [obviousworks/vibe-coding-ai-rules](https://github.com/obviousworks/vibe-coding-ai-rules) — distributed by [TomeVault](https://tomevault.io)
 
-The Ultimate Agentic Vibe Coding Guide for AI IDEs like Windsurf, Claude Code, Cursor, Codex etc. – AI-optimized rules, best practices, and configuration files for efficient and controlled AI-powered coding.
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [obviousworks/vibe-coding-ai-rules](https://github.com/obviousworks/vibe-coding-ai-rules).
+Original source: `GEMINI.md` in [obviousworks/vibe-coding-ai-rules](https://github.com/obviousworks/vibe-coding-ai-rules).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/obviousworks/vibe-coding-ai-rules](https://github.com/obviousworks/vibe-coding-ai-rules)
