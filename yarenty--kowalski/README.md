@@ -2,8 +2,6 @@
 
 > Tome by [yarenty](https://github.com/yarenty/kowalski) — distributed by [TomeVault](https://tomevault.io)
 
-High performance Rust based AI Agent.
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
@@ -17,7 +15,7 @@ Original source: `AGENTS.md` in [yarenty/kowalski](https://github.com/yarenty/ko
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [yarenty/kowalski](https://github.com/yarenty/kowalski) — a repo with 59+ stars on GitHub.
+From [yarenty/kowalski](https://github.com/yarenty/kowalski) — a repo with 62+ stars on GitHub.
 
 ---
 
