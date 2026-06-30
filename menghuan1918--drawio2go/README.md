@@ -2,8 +2,6 @@
 
 > Sourced from [Menghuan1918/drawio2go](https://github.com/Menghuan1918/drawio2go) and converted for every major platform by [TomeVault](https://tomevault.io)
 
-A modern DrawIO editor application.  AI-Powered, Human-AI Collaboration | AI 加持，人机共绘drawio
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
