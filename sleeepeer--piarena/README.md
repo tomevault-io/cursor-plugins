@@ -2,16 +2,14 @@
 
 > Tome by [sleeepeer](https://github.com/sleeepeer/PIArena) — distributed by [TomeVault](https://tomevault.io)
 
-[ACL 2026] PIArena: A Platform for Prompt Injection Evaluation
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sleeepeer/PIArena](https://github.com/sleeepeer/PIArena).
+Original source: `AGENTS.md` in [sleeepeer/PIArena](https://github.com/sleeepeer/PIArena).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
