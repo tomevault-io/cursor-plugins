@@ -2,8 +2,6 @@
 
 > Source: [thearnavrustagi/marketmenow](https://github.com/thearnavrustagi/marketmenow) — distributed by [TomeVault](https://tomevault.io)
 
-An agentic outbound marketing automation for startups (ClawCompatible)
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
