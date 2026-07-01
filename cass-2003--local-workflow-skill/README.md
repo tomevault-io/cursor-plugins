@@ -7,11 +7,11 @@ A local workflow orchestrator skill for routing project tasks, validation gates,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cass-2003/local-workflow-skill](https://github.com/cass-2003/local-workflow-skill).
+Original source: `CLAUDE.md` in [cass-2003/local-workflow-skill](https://github.com/cass-2003/local-workflow-skill).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
