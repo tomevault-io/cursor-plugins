@@ -2,8 +2,6 @@
 
 > Source: [DimiMikadze/Mira](https://github.com/DimiMikadze/Mira) — distributed by [TomeVault](https://tomevault.io)
 
-Multi-Agent AI System for Company Research
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
