@@ -2,16 +2,14 @@
 
 > Tome by [mhenrixon](https://github.com/mhenrixon/pgbus) — distributed by [TomeVault](https://tomevault.io)
 
-PostgreSQL-native job processing and event bus for Rails, built on PGMQ
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [mhenrixon/pgbus](https://github.com/mhenrixon/pgbus).
+Original source: `AGENTS.md` in [mhenrixon/pgbus](https://github.com/mhenrixon/pgbus).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
