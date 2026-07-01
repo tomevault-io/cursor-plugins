@@ -7,11 +7,11 @@ OP-XY file format reverse engineering
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kmorrill/xy-format](https://github.com/kmorrill/xy-format).
+Original source: `CLAUDE.md` in [kmorrill/xy-format](https://github.com/kmorrill/xy-format).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
