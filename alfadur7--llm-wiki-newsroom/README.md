@@ -7,11 +7,11 @@ An LLM-maintained knowledge wiki run by a multi-agent "newsroom" — local-first
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom).
+Original source: `CLAUDE.md` in [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
