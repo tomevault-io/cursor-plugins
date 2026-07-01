@@ -2,8 +2,6 @@
 
 > Tome by [tldev](https://github.com/tldev/dorso) — distributed by [TomeVault](https://tomevault.io)
 
-A macOS app that blurs your screen when you slouch.
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
