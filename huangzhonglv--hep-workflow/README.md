@@ -7,11 +7,11 @@ A skill-based agent workflow for high-energy physics phenomenology: from model p
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [huangzhonglv/hep-workflow](https://github.com/huangzhonglv/hep-workflow).
+Original source: `CLAUDE.md` in [huangzhonglv/hep-workflow](https://github.com/huangzhonglv/hep-workflow).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
