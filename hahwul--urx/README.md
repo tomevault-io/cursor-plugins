@@ -2,8 +2,6 @@
 
 > Source: [hahwul/urx](https://github.com/hahwul/urx) — distributed by [TomeVault](https://tomevault.io)
 
-Extracts URLs from OSINT Archives for Security Insights
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
