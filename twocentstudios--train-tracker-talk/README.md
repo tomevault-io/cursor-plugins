@@ -2,8 +2,6 @@
 
 > Source: [twocentstudios/train-tracker-talk](https://github.com/twocentstudios/train-tracker-talk) — distributed by [TomeVault](https://tomevault.io)
 
-Presentation Materials for iOSDC 2025
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
