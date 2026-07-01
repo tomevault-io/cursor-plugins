@@ -7,11 +7,11 @@ Obsidian plugin: configurable mind maps / leveled trees rendered live from your 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kikocastro/markdown-mindmap](https://github.com/kikocastro/markdown-mindmap).
+Original source: `CLAUDE.md` in [kikocastro/markdown-mindmap](https://github.com/kikocastro/markdown-mindmap).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
