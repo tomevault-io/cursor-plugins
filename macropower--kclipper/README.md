@@ -2,8 +2,6 @@
 
 > Sourced from [MacroPower/kclipper](https://github.com/MacroPower/kclipper) and converted for every major platform by [TomeVault](https://tomevault.io)
 
-KCL + Helm = kclipper
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
