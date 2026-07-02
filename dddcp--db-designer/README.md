@@ -7,11 +7,11 @@ AI-empowered database model design, featuring lightweight, cross-platform compat
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [dddcp/db-designer](https://github.com/dddcp/db-designer).
+Original source: `CLAUDE.md` in [dddcp/db-designer](https://github.com/dddcp/db-designer).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
