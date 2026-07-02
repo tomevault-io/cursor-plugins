@@ -7,11 +7,11 @@ An MCP server and client for LLMs to interact with Unity Projects
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [akiojin/unity-editor-mcp](https://github.com/akiojin/unity-editor-mcp).
+Original source: `CLAUDE.md` in [akiojin/unity-editor-mcp](https://github.com/akiojin/unity-editor-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
