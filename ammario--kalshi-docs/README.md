@@ -2,15 +2,16 @@
 
 > Tome by [ammario](https://github.com/ammario/kalshi-docs) — distributed by [TomeVault](https://tomevault.io)
 
+LLM-friendly, auto-updating markdown repository of the Kalshi API docs
+
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [ammario/kalshi-docs](https://github.com/ammario/kalshi-docs).
+Original source: `AGENTS.md` in [ammario/kalshi-docs](https://github.com/ammario/kalshi-docs).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
