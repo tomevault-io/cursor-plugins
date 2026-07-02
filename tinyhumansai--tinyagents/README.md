@@ -7,11 +7,11 @@ A recursive language-model (RLM) harness for Rust.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tinyhumansai/tinyagents](https://github.com/tinyhumansai/tinyagents).
+Original source: `CLAUDE.md` in [tinyhumansai/tinyagents](https://github.com/tinyhumansai/tinyagents).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
