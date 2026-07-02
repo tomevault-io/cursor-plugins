@@ -7,11 +7,11 @@ Edge Intelligence for Kubernetes  eBPF-based agent that captures kernel-level ev
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [false-systems/tapio](https://github.com/false-systems/tapio).
+Original source: `CLAUDE.md` in [false-systems/tapio](https://github.com/false-systems/tapio).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
