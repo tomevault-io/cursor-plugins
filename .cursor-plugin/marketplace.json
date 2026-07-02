@@ -219160,6 +219160,16 @@
       "description": "juoma"
     },
     {
+      "name": "waybox-ai--roadtrip-skill",
+      "source": "./waybox-ai--roadtrip-skill",
+      "description": "An AI agent skill that turns \"start + days\" into a road trip you can actually drive."
+    },
+    {
+      "name": "jiraska--open-bank-oss",
+      "source": "./jiraska--open-bank-oss",
+      "description": "Cloud-native, open-source retail banking platform reference implementation (Kotlin/Quarkus, Next.js, event-driven microservices)."
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
