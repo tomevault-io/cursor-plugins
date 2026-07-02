@@ -7,11 +7,11 @@ PowerShell module that exports Microsoft Intune device compliance to a wide CSV 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [DanStutz/IntuneComplianceReport](https://github.com/DanStutz/IntuneComplianceReport).
+Original source: `CLAUDE.md` in [DanStutz/IntuneComplianceReport](https://github.com/DanStutz/IntuneComplianceReport).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
