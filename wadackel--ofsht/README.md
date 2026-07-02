@@ -7,11 +7,11 @@ A command-line tool for managing Git worktrees with automation features.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [wadackel/ofsht](https://github.com/wadackel/ofsht).
+Original source: `CLAUDE.md` in [wadackel/ofsht](https://github.com/wadackel/ofsht).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
