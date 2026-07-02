@@ -7,11 +7,11 @@ Native iPhone app for your Hermes agent
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex).
+Original source: `CLAUDE.md` in [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
