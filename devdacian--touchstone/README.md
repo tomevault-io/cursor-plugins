@@ -7,11 +7,11 @@ A lightweight, automated multi-model process for rapid agent-skill improvement w
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [devdacian/touchstone](https://github.com/devdacian/touchstone).
+Original source: `CLAUDE.md` in [devdacian/touchstone](https://github.com/devdacian/touchstone).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
