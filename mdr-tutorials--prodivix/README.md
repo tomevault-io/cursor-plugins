@@ -7,11 +7,11 @@ A Open-source Visual Frontend Platform blending blueprints, node graphs, and cod
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Mdr-Tutorials/prodivix](https://github.com/Mdr-Tutorials/prodivix).
+Original source: `CLAUDE.md` in [Mdr-Tutorials/prodivix](https://github.com/Mdr-Tutorials/prodivix).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
