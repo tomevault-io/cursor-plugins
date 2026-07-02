@@ -7,14 +7,14 @@ ConfigStream collects, deduplicates, tests, and ranks free VPN/proxy configs fro
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [AmirrezaFarnamTaheri/ConfigStream](https://github.com/AmirrezaFarnamTaheri/ConfigStream).
+Original source: `AGENTS.md` in [AmirrezaFarnamTaheri/ConfigStream](https://github.com/AmirrezaFarnamTaheri/ConfigStream).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [AmirrezaFarnamTaheri/ConfigStream](https://github.com/AmirrezaFarnamTaheri/ConfigStream) — a repo with 8+ stars on GitHub.
