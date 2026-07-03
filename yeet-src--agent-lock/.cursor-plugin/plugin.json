@@ -1,0 +1,11 @@
+{
+  "name": "yeet-src--agent-lock",
+  "displayName": "agent-lock",
+  "version": "1.0.0",
+  "description": "Confine an AI agent (Claude Code, Codex, oh-my-pi, ...) to one directory with a BPF-LSM program, and watch it live over eBPF.",
+  "author": {
+    "name": "yeet-src",
+    "url": "https://github.com/yeet-src"
+  },
+  "homepage": "https://github.com/yeet-src/agent-lock"
+}
