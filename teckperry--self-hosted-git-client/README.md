@@ -7,11 +7,11 @@ An awesome self-hosted Git Client
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [teckperry/self-hosted-git-client](https://github.com/teckperry/self-hosted-git-client).
+Original source: `AGENTS.md` in [teckperry/self-hosted-git-client](https://github.com/teckperry/self-hosted-git-client).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
