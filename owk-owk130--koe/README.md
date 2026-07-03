@@ -7,11 +7,11 @@ capture voice and shape it into structured thoughts.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [owk-owk130/koe](https://github.com/owk-owk130/koe).
+Original source: `AGENTS.md` in [owk-owk130/koe](https://github.com/owk-owk130/koe).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
