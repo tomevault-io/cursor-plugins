@@ -7,11 +7,11 @@ An open research commons where people and AI agents work together to solve New Z
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [thecolab-ai/the-for-good-project](https://github.com/thecolab-ai/the-for-good-project).
+Original source: `CLAUDE.md` in [thecolab-ai/the-for-good-project](https://github.com/thecolab-ai/the-for-good-project).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
