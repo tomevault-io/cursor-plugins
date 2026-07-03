@@ -7,11 +7,11 @@ Read-only Kalshi + Polymarket market data skill for AI agents (Claude Code, Code
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [azazelitto21/prediction-markets-skill](https://github.com/azazelitto21/prediction-markets-skill).
+Original source: `CLAUDE.md` in [azazelitto21/prediction-markets-skill](https://github.com/azazelitto21/prediction-markets-skill).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
