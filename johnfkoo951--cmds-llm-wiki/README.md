@@ -7,11 +7,11 @@ LLM Wiki template — Karpathy 3-layer pattern + Gold In Gold Out purpose gate +
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [johnfkoo951/cmds-llm-wiki](https://github.com/johnfkoo951/cmds-llm-wiki).
+Original source: `AGENTS.md` in [johnfkoo951/cmds-llm-wiki](https://github.com/johnfkoo951/cmds-llm-wiki).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
