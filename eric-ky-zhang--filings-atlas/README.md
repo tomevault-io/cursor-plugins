@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Eric-KY-Zhang/Filings-Atlas](https://github.com/Eric-KY-Zhang/Filings-Atlas).
+Original source: `AGENTS.md` in [Eric-KY-Zhang/Filings-Atlas](https://github.com/Eric-KY-Zhang/Filings-Atlas).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
