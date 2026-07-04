@@ -7,11 +7,11 @@ Architecture Enforcement Framework for AI-Assisted Development
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [arman-jalili/guardian-framework](https://github.com/arman-jalili/guardian-framework).
+Original source: `CLAUDE.md` in [arman-jalili/guardian-framework](https://github.com/arman-jalili/guardian-framework).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
