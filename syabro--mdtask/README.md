@@ -7,11 +7,11 @@ The spec-driven development system where specs and tasks live in your repo and n
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [syabro/mdtask](https://github.com/syabro/mdtask).
+Original source: `AGENTS.md` in [syabro/mdtask](https://github.com/syabro/mdtask).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
