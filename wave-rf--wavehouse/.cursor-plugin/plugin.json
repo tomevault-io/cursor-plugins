@@ -1,0 +1,11 @@
+{
+  "name": "wave-rf--wavehouse",
+  "displayName": "WaveHouse",
+  "version": "1.0.0",
+  "description": "Schema-aware real-time API gateway for ClickHouse. Async ingestion with per-table batching, JWT/JWKS auth, Hasura-style access policies, query caching, real-time SSE streaming, optional deduplication.",
+  "author": {
+    "name": "Wave-RF",
+    "url": "https://github.com/Wave-RF"
+  },
+  "homepage": "https://github.com/Wave-RF/WaveHouse"
+}
