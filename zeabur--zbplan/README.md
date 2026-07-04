@@ -7,11 +7,11 @@ AI-powered Dockerfile generation with automatic build-and-fix iteration.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zeabur/zbplan](https://github.com/zeabur/zbplan).
+Original source: `AGENTS.md` in [zeabur/zbplan](https://github.com/zeabur/zbplan).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
