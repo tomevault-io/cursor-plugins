@@ -7,11 +7,11 @@ Your personal AI, everywhere you are.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tezra-io/fermix](https://github.com/tezra-io/fermix).
+Original source: `CLAUDE.md` in [tezra-io/fermix](https://github.com/tezra-io/fermix).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
