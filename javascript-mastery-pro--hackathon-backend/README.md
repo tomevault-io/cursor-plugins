@@ -7,11 +7,11 @@ A scalable backend API built with NestJS for managing hackathons. It seamlessly 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [JavaScript-Mastery-Pro/Hackathon-backend](https://github.com/JavaScript-Mastery-Pro/Hackathon-backend).
+Original source: `CLAUDE.md` in [JavaScript-Mastery-Pro/Hackathon-backend](https://github.com/JavaScript-Mastery-Pro/Hackathon-backend).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
