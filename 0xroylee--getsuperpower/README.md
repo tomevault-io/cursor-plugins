@@ -1,0 +1,26 @@
+# getsuperpower
+
+> Tome by [0xroylee](https://github.com/0xroylee/getsuperpower) — distributed by [TomeVault](https://tomevault.io)
+
+GetSuperpower packages a whole AI-agent workflow as one callable skill.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [0xroylee/getsuperpower](https://github.com/0xroylee/getsuperpower).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/0xroylee/getsuperpower](https://github.com/0xroylee/getsuperpower)
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:t-c-p -->
