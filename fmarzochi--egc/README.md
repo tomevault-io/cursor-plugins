@@ -7,14 +7,14 @@ Your AI agents never start from zero again. Local-first MCP runtime with persist
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC).
+Original source: `CLAUDE.md` in [Fmarzochi/EGC](https://github.com/Fmarzochi/EGC).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/Fmarzochi/EGC](https://github.com/Fmarzochi/EGC)
