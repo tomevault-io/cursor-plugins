@@ -1,0 +1,11 @@
+{
+  "name": "wyolet--relay",
+  "displayName": "relay",
+  "version": "1.0.0",
+  "description": "High-throughput, self-hostable LLM router in Go. BYO provider keys, k8s-native, key pooling + batch + usage observability.",
+  "author": {
+    "name": "wyolet",
+    "url": "https://github.com/wyolet"
+  },
+  "homepage": "https://github.com/wyolet/relay"
+}
