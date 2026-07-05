@@ -7,11 +7,11 @@ Agentfile: an open-source AI-native terminal and file workspace based on Wave Te
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Agentchengfeng/agentfile](https://github.com/Agentchengfeng/agentfile).
+Original source: `AGENTS.md` in [Agentchengfeng/agentfile](https://github.com/Agentchengfeng/agentfile).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
