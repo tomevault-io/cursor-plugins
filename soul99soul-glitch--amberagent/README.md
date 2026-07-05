@@ -7,11 +7,11 @@ Personal non-commercial Android agent runtime; a deep RikkaHub fork exploring mo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [soul99soul-glitch/AmberAgent](https://github.com/soul99soul-glitch/AmberAgent).
+Original source: `AGENTS.md` in [soul99soul-glitch/AmberAgent](https://github.com/soul99soul-glitch/AmberAgent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
