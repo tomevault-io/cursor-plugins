@@ -7,11 +7,11 @@ Bidirectional sync for Claude Code and Codex — instructions, skills, agents, M
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [slash9494/ai-config-sync-manager](https://github.com/slash9494/ai-config-sync-manager).
+Original source: `AGENTS.md` in [slash9494/ai-config-sync-manager](https://github.com/slash9494/ai-config-sync-manager).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
