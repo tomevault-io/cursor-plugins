@@ -7,11 +7,11 @@ Builds Clay tables — correctly, verifiably, the first time. Plan-gated; clonin
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [growthenginenowoslawski/autoclaybuilder](https://github.com/growthenginenowoslawski/autoclaybuilder).
+Original source: `AGENTS.md` in [growthenginenowoslawski/autoclaybuilder](https://github.com/growthenginenowoslawski/autoclaybuilder).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
