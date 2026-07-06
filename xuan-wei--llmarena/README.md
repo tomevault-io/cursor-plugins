@@ -7,11 +7,11 @@ LLM competition platform — teachers set tasks, students submit prompts + LLM c
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [xuan-wei/LLMArena](https://github.com/xuan-wei/LLMArena).
+Original source: `AGENTS.md` in [xuan-wei/LLMArena](https://github.com/xuan-wei/LLMArena).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
