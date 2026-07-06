@@ -7,14 +7,14 @@ Chrome extension that filters your Facebook newsfeed to show only posts from you
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [PercyPham/FriendFocus](https://github.com/PercyPham/FriendFocus).
+Original source: `AGENTS.md` in [PercyPham/FriendFocus](https://github.com/PercyPham/FriendFocus).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [PercyPham/FriendFocus](https://github.com/PercyPham/FriendFocus) — a repo with 8+ stars on GitHub.
