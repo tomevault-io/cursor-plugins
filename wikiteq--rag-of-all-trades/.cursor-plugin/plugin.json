@@ -1,0 +1,11 @@
+{
+  "name": "wikiteq--rag-of-all-trades",
+  "displayName": "rag-of-all-trades",
+  "version": "1.0.0",
+  "description": "A complete RAG microservice that ingests from multiple sources, stores embeddings in PGVector with hybrid search, and provides both raw chunk retrieval and LLM-powered answer generation. Built with Fa",
+  "author": {
+    "name": "WikiTeq",
+    "url": "https://github.com/WikiTeq"
+  },
+  "homepage": "https://github.com/WikiTeq/rag-of-all-trades"
+}
