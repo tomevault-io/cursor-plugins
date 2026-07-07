@@ -7,11 +7,11 @@ Agent-first CLI tools, UX patterns for LLM agents to prove mathematical results
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tobiasosborne/vibefeld](https://github.com/tobiasosborne/vibefeld).
+Original source: `CLAUDE.md` in [tobiasosborne/vibefeld](https://github.com/tobiasosborne/vibefeld).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
