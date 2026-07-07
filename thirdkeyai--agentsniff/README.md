@@ -7,11 +7,11 @@ Detect AI agents operating on your network through passive monitoring, active pr
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ThirdKeyAI/agentsniff](https://github.com/ThirdKeyAI/agentsniff).
+Original source: `AGENTS.md` in [ThirdKeyAI/agentsniff](https://github.com/ThirdKeyAI/agentsniff).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
