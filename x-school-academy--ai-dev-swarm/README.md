@@ -7,11 +7,11 @@ A swarm of AI developers building your product
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [X-School-Academy/ai-dev-swarm](https://github.com/X-School-Academy/ai-dev-swarm).
+Original source: `CLAUDE.md` in [X-School-Academy/ai-dev-swarm](https://github.com/X-School-Academy/ai-dev-swarm).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
