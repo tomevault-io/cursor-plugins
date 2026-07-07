@@ -7,11 +7,11 @@ Evaluating LLM agents' capabilities on space mission planning tasks.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Mtrya/astro-reason](https://github.com/Mtrya/astro-reason).
+Original source: `CLAUDE.md` in [Mtrya/astro-reason](https://github.com/Mtrya/astro-reason).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
