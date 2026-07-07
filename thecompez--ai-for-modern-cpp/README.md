@@ -7,11 +7,11 @@ A template repository for guiding AI coding agents to write safe, modern C++20/2
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [thecompez/ai-for-modern-cpp](https://github.com/thecompez/ai-for-modern-cpp).
+Original source: `CLAUDE.md` in [thecompez/ai-for-modern-cpp](https://github.com/thecompez/ai-for-modern-cpp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
