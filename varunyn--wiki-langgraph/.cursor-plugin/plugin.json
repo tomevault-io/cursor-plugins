@@ -1,0 +1,11 @@
+{
+  "name": "varunyn--wiki-langgraph",
+  "displayName": "wiki-langGraph",
+  "version": "1.0.0",
+  "description": "LangGraph pipeline that ingests raw markdown, compiles an Obsidian-style vault (wikilinks, backlinks, Index.md), optionally runs LLM authoring and semantic \u201cSee also\u201d links, refreshes a local QMD inde",
+  "author": {
+    "name": "varunyn",
+    "url": "https://github.com/varunyn"
+  },
+  "homepage": "https://github.com/varunyn/wiki-langGraph"
+}
