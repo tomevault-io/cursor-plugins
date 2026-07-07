@@ -7,11 +7,11 @@ An agentic skills framework for creating interactive HTML explainers for a topic
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [analyticalmonk/explain-this](https://github.com/analyticalmonk/explain-this).
+Original source: `CLAUDE.md` in [analyticalmonk/explain-this](https://github.com/analyticalmonk/explain-this).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
