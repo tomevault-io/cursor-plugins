@@ -1,0 +1,26 @@
+# PROFITDLL
+
+> Source: [marceloterra1983/PROFITDLL](https://github.com/marceloterra1983/PROFITDLL) — distributed by [TomeVault](https://tomevault.io)
+
+PROFITDLL
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `GEMINI.md` in [marceloterra1983/PROFITDLL](https://github.com/marceloterra1983/PROFITDLL).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/marceloterra1983/PROFITDLL](https://github.com/marceloterra1983/PROFITDLL)
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:d-c-p -->
