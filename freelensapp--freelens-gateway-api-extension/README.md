@@ -7,11 +7,11 @@ Freelens Gateway API Extension
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [freelensapp/freelens-gateway-api-extension](https://github.com/freelensapp/freelens-gateway-api-extension).
+Original source: `CLAUDE.md` in [freelensapp/freelens-gateway-api-extension](https://github.com/freelensapp/freelens-gateway-api-extension).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
