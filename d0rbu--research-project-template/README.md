@@ -7,11 +7,11 @@ Correctness-first Python boilerplate for research projects.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [d0rbu/research-project-template](https://github.com/d0rbu/research-project-template).
+Original source: `CLAUDE.md` in [d0rbu/research-project-template](https://github.com/d0rbu/research-project-template).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
