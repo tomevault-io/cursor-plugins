@@ -7,11 +7,11 @@ Offline-first desktop voice dictation app with local Whisper transcription, cust
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [iptoux/localvoice](https://github.com/iptoux/localvoice).
+Original source: `CLAUDE.md` in [iptoux/localvoice](https://github.com/iptoux/localvoice).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
