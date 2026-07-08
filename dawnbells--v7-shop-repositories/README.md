@@ -1,0 +1,24 @@
+# v7-shop-repositories
+
+> Source: [Dawnbells/v7-shop-repositories](https://github.com/Dawnbells/v7-shop-repositories) — distributed by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [Dawnbells/v7-shop-repositories](https://github.com/Dawnbells/v7-shop-repositories).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [Dawnbells/v7-shop-repositories](https://github.com/Dawnbells/v7-shop-repositories) — a repo with 0+ stars on GitHub.
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:d-c-s -->
