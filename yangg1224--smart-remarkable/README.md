@@ -7,11 +7,11 @@ Add 1000 IQ to your remarkable ink screen
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [yangg1224/smart_remarkable](https://github.com/yangg1224/smart_remarkable).
+Original source: `AGENTS.md` in [yangg1224/smart_remarkable](https://github.com/yangg1224/smart_remarkable).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
