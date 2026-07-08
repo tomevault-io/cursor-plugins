@@ -7,11 +7,11 @@ Simple high-level synthesis of portable Verilog directly from idiomatic imperati
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Zubax/holoso](https://github.com/Zubax/holoso).
+Original source: `AGENTS.md` in [Zubax/holoso](https://github.com/Zubax/holoso).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
