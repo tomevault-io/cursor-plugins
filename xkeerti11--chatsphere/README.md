@@ -1,0 +1,30 @@
+# chatsphere
+
+> Tome by [xkeerti11](https://github.com/xkeerti11/chatsphere) — distributed by [TomeVault](https://tomevault.io)
+
+chat  app 
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `GEMINI.md` in [xkeerti11/chatsphere](https://github.com/xkeerti11/chatsphere).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Windsurf** — `project-config.md`
+
+From [xkeerti11/chatsphere](https://github.com/xkeerti11/chatsphere) — a repo with 0+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install xkeerti11/chatsphere
+```
+Source: [github.com/xkeerti11/chatsphere](https://github.com/xkeerti11/chatsphere).
+
+<!-- genome:t-i-s -->
