@@ -1,0 +1,11 @@
+{
+  "name": "rigpalabs--fathom",
+  "displayName": "fathom",
+  "version": "1.0.0",
+  "description": "Low-latency market data infrastructure \u2014 real-time L2 order book streaming from 4 exchanges via WebSocket \u2192 NATS \u2192 Parquet. Rust, single binary.",
+  "author": {
+    "name": "RigpaLabs",
+    "url": "https://github.com/RigpaLabs"
+  },
+  "homepage": "https://github.com/RigpaLabs/fathom"
+}
