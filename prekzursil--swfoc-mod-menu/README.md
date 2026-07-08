@@ -7,11 +7,11 @@ Profile-driven SWFOC trainer/editor for base game, AOTR, and ROE with launch-con
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Prekzursil/SWFOC-Mod-Menu](https://github.com/Prekzursil/SWFOC-Mod-Menu).
+Original source: `CLAUDE.md` in [Prekzursil/SWFOC-Mod-Menu](https://github.com/Prekzursil/SWFOC-Mod-Menu).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
