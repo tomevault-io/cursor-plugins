@@ -7,11 +7,11 @@ A Claude Code Agent Skill for temporal awareness via the date command
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hodgesmr/temporal-awareness](https://github.com/hodgesmr/temporal-awareness).
+Original source: `CLAUDE.md` in [hodgesmr/temporal-awareness](https://github.com/hodgesmr/temporal-awareness).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
