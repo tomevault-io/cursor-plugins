@@ -1,0 +1,11 @@
+{
+  "name": "ghyathmoussa--rllm",
+  "displayName": "rLLM",
+  "version": "1.0.0",
+  "description": "A lightweight, single-binary LLM inference engine built in Rust. It offers low-latency token streaming, continuous batching, and memory-efficient caching via an OpenAI-compatible API",
+  "author": {
+    "name": "ghyathmoussa",
+    "url": "https://github.com/ghyathmoussa"
+  },
+  "homepage": "https://github.com/ghyathmoussa/rLLM"
+}
