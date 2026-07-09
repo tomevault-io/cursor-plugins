@@ -7,11 +7,11 @@ Allow your agents to see your LLM subscription quota windows.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kunchenguid/quota-axi](https://github.com/kunchenguid/quota-axi).
+Original source: `CLAUDE.md` in [kunchenguid/quota-axi](https://github.com/kunchenguid/quota-axi).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
