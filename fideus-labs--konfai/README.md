@@ -7,12 +7,12 @@ A simple and flexible deep learning framework based on PyTorch and YAML configur
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [fideus-labs/KonfAI](https://github.com/fideus-labs/KonfAI).
+Original source: `AGENTS.md` in [fideus-labs/KonfAI](https://github.com/fideus-labs/KonfAI).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
