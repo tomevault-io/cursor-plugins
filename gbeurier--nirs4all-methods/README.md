@@ -7,11 +7,11 @@ A portable Partial Least Squares engine in C++17 with a stable C ABI and first-c
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [GBeurier/nirs4all-methods](https://github.com/GBeurier/nirs4all-methods).
+Original source: `AGENTS.md` in [GBeurier/nirs4all-methods](https://github.com/GBeurier/nirs4all-methods).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
