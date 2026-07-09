@@ -7,11 +7,11 @@ Official extension to Drizzle for use with ParadeDB
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [paradedb/drizzle-paradedb](https://github.com/paradedb/drizzle-paradedb).
+Original source: `AGENTS.md` in [paradedb/drizzle-paradedb](https://github.com/paradedb/drizzle-paradedb).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
