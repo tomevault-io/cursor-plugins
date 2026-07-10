@@ -7,11 +7,11 @@ macOS menu-bar app that watches Jira & GitHub and shows clickable desktop notifi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [SteveZouWonder/dev-notifier](https://github.com/SteveZouWonder/dev-notifier).
+Original source: `CLAUDE.md` in [SteveZouWonder/dev-notifier](https://github.com/SteveZouWonder/dev-notifier).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
