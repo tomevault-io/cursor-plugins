@@ -22820,6 +22820,11 @@
       "description": "servercn"
     },
     {
+      "name": "lyellr88--marm-memory",
+      "source": "./lyellr88--marm-memory",
+      "description": "Self-hosted, local-first MCP memory server for AI agents. Sub-20ms recall at 10k memories, hybrid semantic + exact-syntax search (RAG), code & concept knowledge graphs (158 languages). All local in SQ"
+    },
+    {
       "name": "aspegio--nelson",
       "source": "./aspegio--nelson",
       "description": "Organisation for your agent teams inspired by time-tested Royal Navy operating procedures."
@@ -53863,6 +53868,11 @@
       "name": "akhayam99--goodboy",
       "source": "./akhayam99--goodboy",
       "description": "goodboy"
+    },
+    {
+      "name": "scitex-ai--scitex-python",
+      "source": "./scitex-ai--scitex-python",
+      "description": "Umbrella package for SciTeX \u2014 reproducible science from raw data to manuscript"
     },
     {
       "name": "sandermuller--laravel-fluent-validation",
@@ -117205,6 +117215,11 @@
       "description": "\u672c\u5730\u81ea\u6258\u7ba1\u7684 Grok Build \u2192 Claude Code / OpenAI \u517c\u5bb9\u4ee3\u7406 | Local self-hosted Grok Build compatibility proxy"
     },
     {
+      "name": "runwayml--avtensor",
+      "source": "./runwayml--avtensor",
+      "description": "High-performance media decoding straight into PyTorch tensors"
+    },
+    {
       "name": "heyaohuo--templateflow",
       "source": "./heyaohuo--templateflow",
       "description": "Build AI workflows visually using reusable templates. Open-source & creator-friendly."
@@ -179788,6 +179803,11 @@
       "name": "wikidjon--ai-openclaw-cli",
       "source": "./wikidjon--ai-openclaw-cli",
       "description": "openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp"
+    },
+    {
+      "name": "alisa0808--vox-director",
+      "source": "./alisa0808--vox-director",
+      "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill."
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
