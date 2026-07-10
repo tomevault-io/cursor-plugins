@@ -7,11 +7,11 @@ Hardened multi-arch OCI images for JVM workloads. JDK 25/26/Valhalla on Chaingua
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [artagon/artagon-containers](https://github.com/artagon/artagon-containers).
+Original source: `CLAUDE.md` in [artagon/artagon-containers](https://github.com/artagon/artagon-containers).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
