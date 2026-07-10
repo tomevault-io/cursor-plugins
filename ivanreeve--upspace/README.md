@@ -7,14 +7,14 @@ The official repository for the capstone project UpSpace: A Marketplace and Mana
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [ivanreeve/upspace](https://github.com/ivanreeve/upspace).
+Original source: `AGENTS.md` in [ivanreeve/upspace](https://github.com/ivanreeve/upspace).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/ivanreeve/upspace](https://github.com/ivanreeve/upspace)
