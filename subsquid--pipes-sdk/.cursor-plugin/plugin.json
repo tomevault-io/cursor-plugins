@@ -1,0 +1,11 @@
+{
+  "name": "subsquid--pipes-sdk",
+  "displayName": "pipes-sdk",
+  "version": "1.0.0",
+  "description": "TypeScript SDK for streaming blockchain data: tap SQD Portal sources, decode EVM/Solana/Bitcoin/Tron/Hyperliquid onchain data, handle reorgs, write to Postgres, ClickHouse, BigQuery, or Parquet.",
+  "author": {
+    "name": "subsquid",
+    "url": "https://github.com/subsquid"
+  },
+  "homepage": "https://github.com/subsquid/pipes-sdk"
+}
