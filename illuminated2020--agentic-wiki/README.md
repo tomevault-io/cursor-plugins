@@ -7,11 +7,11 @@ An LLM Wiki template for a Markdown second brain operated by AI Agents.一个用
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Illuminated2020/agentic-wiki](https://github.com/Illuminated2020/agentic-wiki).
+Original source: `AGENTS.md` in [Illuminated2020/agentic-wiki](https://github.com/Illuminated2020/agentic-wiki).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
