@@ -7,11 +7,11 @@ Sage Math MCP server for sateful sessions
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [XBP-Europe/sagemath-mcp](https://github.com/XBP-Europe/sagemath-mcp).
+Original source: `AGENTS.md` in [XBP-Europe/sagemath-mcp](https://github.com/XBP-Europe/sagemath-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
