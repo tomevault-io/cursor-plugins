@@ -7,11 +7,11 @@ Comprehensive docstring quality vetting for Python projects
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet).
+Original source: `CLAUDE.md` in [Alberto-Codes/docvet](https://github.com/Alberto-Codes/docvet).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
