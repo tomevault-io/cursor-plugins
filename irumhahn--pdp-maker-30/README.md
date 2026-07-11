@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [IrumHahn/pdp-maker-30](https://github.com/IrumHahn/pdp-maker-30).
+Original source: `CLAUDE.md` in [IrumHahn/pdp-maker-30](https://github.com/IrumHahn/pdp-maker-30).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
