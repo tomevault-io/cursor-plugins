@@ -7,11 +7,11 @@ oto library
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [pleme-io/oto](https://github.com/pleme-io/oto).
+Original source: `CLAUDE.md` in [pleme-io/oto](https://github.com/pleme-io/oto).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
