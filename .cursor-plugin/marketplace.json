@@ -7325,6 +7325,16 @@
       "description": "atomic"
     },
     {
+      "name": "firecrawl--pdf-inspector",
+      "source": "./firecrawl--pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
+    },
+    {
+      "name": "firecrawl--pdf-inspector",
+      "source": "./firecrawl--pdf-inspector",
+      "description": "pdf-inspector"
+    },
+    {
       "name": "k-dense-ai--claude-scientific-writer",
       "source": "./k-dense-ai--claude-scientific-writer",
       "description": "A general purpose scientific writer"
@@ -11193,11 +11203,6 @@
       "name": "always-further--deepfabric",
       "source": "./always-further--deepfabric",
       "description": "Generate High-Quality Synthetics, Train, Measure, and Evaluate in a Single Pipeline"
-    },
-    {
-      "name": "firecrawl--pdf-inspector",
-      "source": "./firecrawl--pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions."
     },
     {
       "name": "supabitapp--supacode",
@@ -34713,6 +34718,11 @@
       "name": "vybenetwork--x402-client",
       "source": "./vybenetwork--x402-client",
       "description": "Client SDK for the Vybe x402 API. Pay-per-call USDC over HTTP and prepaid-credit WebSocket streaming for Vybe's Solana analytics API. Built for AI agents."
+    },
+    {
+      "name": "yulong-ge--aifeedtracker",
+      "source": "./yulong-ge--aifeedtracker",
+      "description": "Real-time content creator update monitor with AI-powered video summarization and Feishu bot integration."
     },
     {
       "name": "azure-samples--python-mcp-demos",
@@ -152260,6 +152270,16 @@
       "description": "MinUI Zero is a low-power MinUI fork for the TrimUI Brick & Smart Pro"
     },
     {
+      "name": "mrbear1024--ai-content-kb",
+      "source": "./mrbear1024--ai-content-kb",
+      "description": "A review-first reference architecture for AI-assisted personal content knowledge systems"
+    },
+    {
+      "name": "mrbear1024--ai-content-kb",
+      "source": "./mrbear1024--ai-content-kb",
+      "description": "A review-first reference architecture for AI-assisted personal content knowledge systems"
+    },
+    {
       "name": "scardoso-lu--google-antigravity-settings",
       "source": "./scardoso-lu--google-antigravity-settings",
       "description": "google-antigravity-settings"
@@ -179835,6 +179855,11 @@
       "description": "The opensource server at MIE"
     },
     {
+      "name": "shaostoul--humanity",
+      "source": "./shaostoul--humanity",
+      "description": "Humanity is an open, public-domain project exploring how humans can live together with dignity, cooperation, and long-term continuity. It combines civilizational principles with rigorous system design"
+    },
+    {
       "name": "stefanmaron--businesscentral-al-runner",
       "source": "./stefanmaron--businesscentral-al-runner",
       "description": "BusinessCentral.AL.Runner"
@@ -188323,11 +188348,6 @@
       "name": "akmalayari--ocr-book",
       "source": "./akmalayari--ocr-book",
       "description": "Book OCR Pipeline \u2192 Markdown (PaddleOCR-VL-1.5 + llama-server)"
-    },
-    {
-      "name": "shaostoul--humanity",
-      "source": "./shaostoul--humanity",
-      "description": "Humanity is an open, public-domain project exploring how humans can live together with dignity, cooperation, and long-term continuity. It combines civilizational principles with rigorous system design"
     },
     {
       "name": "base--account-policies",
@@ -290303,11 +290323,6 @@
       "name": "baharsezg--ki-development",
       "source": "./baharsezg--ki-development",
       "description": "KI-development"
-    },
-    {
-      "name": "firecrawl--pdf-inspector",
-      "source": "./firecrawl--pdf-inspector",
-      "description": "pdf-inspector"
     },
     {
       "name": "andrejgribanov--ki-development",
