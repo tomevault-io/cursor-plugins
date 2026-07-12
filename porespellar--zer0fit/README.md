@@ -7,11 +7,11 @@ Zero-shot forecasting, tabular classification, and regression via MCP — expose
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [porespellar/Zer0Fit](https://github.com/porespellar/Zer0Fit).
+Original source: `CLAUDE.md` in [porespellar/Zer0Fit](https://github.com/porespellar/Zer0Fit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
