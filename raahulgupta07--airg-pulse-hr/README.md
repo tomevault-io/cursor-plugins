@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [raahulgupta07/airg-pulse-hr](https://github.com/raahulgupta07/airg-pulse-hr).
+Original source: `AGENTS.md` in [raahulgupta07/airg-pulse-hr](https://github.com/raahulgupta07/airg-pulse-hr).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
