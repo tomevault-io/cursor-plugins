@@ -7,11 +7,11 @@ The customer platform for the agentic era. MCP-first, open source, self-hostable
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [getmunin/munin](https://github.com/getmunin/munin).
+Original source: `AGENTS.md` in [getmunin/munin](https://github.com/getmunin/munin).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
