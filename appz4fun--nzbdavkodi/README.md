@@ -7,11 +7,11 @@ Kodi 21 addon — stream Usenet via NZBHydra2 + nzbdav WebDAV. TMDBHelper player
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Appz4Fun/nzbdavkodi](https://github.com/Appz4Fun/nzbdavkodi).
+Original source: `CLAUDE.md` in [Appz4Fun/nzbdavkodi](https://github.com/Appz4Fun/nzbdavkodi).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
