@@ -1,0 +1,11 @@
+{
+  "name": "kubevirt--redfish-controller",
+  "displayName": "redfish-controller",
+  "version": "1.0.0",
+  "description": "A Redfish-compatible API server for KubeVirt/OpenShift Virtualization that enables out-of-band management of virtual machines through standard Redfish protocols.",
+  "author": {
+    "name": "kubevirt",
+    "url": "https://github.com/kubevirt"
+  },
+  "homepage": "https://github.com/kubevirt/redfish-controller"
+}
