@@ -7,11 +7,11 @@ FastMCP 3.2 MCP server + webapp for FreeCAD 3d CAD and FluidX3D/Openfoam computa
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sandraschi/freecad-mcp](https://github.com/sandraschi/freecad-mcp).
+Original source: `AGENTS.md` in [sandraschi/freecad-mcp](https://github.com/sandraschi/freecad-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
