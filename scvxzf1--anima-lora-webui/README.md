@@ -7,11 +7,11 @@ Anima LoRA WebUI startup-Linux package
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [scvxzf1/anima_lora_webui](https://github.com/scvxzf1/anima_lora_webui).
+Original source: `AGENTS.md` in [scvxzf1/anima_lora_webui](https://github.com/scvxzf1/anima_lora_webui).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
