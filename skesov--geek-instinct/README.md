@@ -7,11 +7,11 @@ Custom watch face for Garmin Instinct 2 Solar (Monkey C / Connect IQ)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Skesov/geek-instinct](https://github.com/Skesov/geek-instinct).
+Original source: `AGENTS.md` in [Skesov/geek-instinct](https://github.com/Skesov/geek-instinct).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
