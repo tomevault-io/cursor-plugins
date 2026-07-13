@@ -7,14 +7,14 @@ Team-project AI harness bootstrap: shared operating model, skills and delivery g
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [jpantsjoha/ai-native-developer-experience](https://github.com/jpantsjoha/ai-native-developer-experience).
+Original source: `CLAUDE.md` in [jpantsjoha/ai-native-developer-experience](https://github.com/jpantsjoha/ai-native-developer-experience).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/jpantsjoha/ai-native-developer-experience](https://github.com/jpantsjoha/ai-native-developer-experience)
