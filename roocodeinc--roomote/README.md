@@ -7,11 +7,11 @@ Your own cloud coding agent. Everything you want from an AI engineering teammate
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [RooCodeInc/Roomote](https://github.com/RooCodeInc/Roomote).
+Original source: `CLAUDE.md` in [RooCodeInc/Roomote](https://github.com/RooCodeInc/Roomote).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
