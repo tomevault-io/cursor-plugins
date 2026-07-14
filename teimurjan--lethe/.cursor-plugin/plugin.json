@@ -1,0 +1,11 @@
+{
+  "name": "teimurjan--lethe",
+  "displayName": "lethe",
+  "version": "1.0.0",
+  "description": "A memory store for LLM agents. Hybrid BM25 + dense retrieval, cross-encoder reranking, clustered retrieval-induced forgetting (RIF), and an optional LLM enrichment layer at write time.",
+  "author": {
+    "name": "teimurjan",
+    "url": "https://github.com/teimurjan"
+  },
+  "homepage": "https://github.com/teimurjan/lethe"
+}
