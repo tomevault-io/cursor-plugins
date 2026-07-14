@@ -7,11 +7,11 @@ A modern BitTorrent client written in Rust — fast, lightweight, self-hosted
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [AusAgentSmith-org/rustTorrent](https://github.com/AusAgentSmith-org/rustTorrent).
+Original source: `AGENTS.md` in [AusAgentSmith-org/rustTorrent](https://github.com/AusAgentSmith-org/rustTorrent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
