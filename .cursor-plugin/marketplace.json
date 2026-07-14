@@ -11640,6 +11640,11 @@
       "description": "nelsonlai.dev"
     },
     {
+      "name": "subtlegradient--appify-ui",
+      "source": "./subtlegradient--appify-ui",
+      "description": "Appify-UI"
+    },
+    {
       "name": "duanyytop--agents-radar",
       "source": "./duanyytop--agents-radar",
       "description": "Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions."
@@ -214760,6 +214765,16 @@
       "description": "Find the right switch. Scrapes data-sheets and ranks FETs by power loss in a DCDC converter"
     },
     {
+      "name": "juzser--claude-status-bar-macos",
+      "source": "./juzser--claude-status-bar-macos",
+      "description": "Native macOS menu bar app showing Claude usage and Claude Code activity at a glance"
+    },
+    {
+      "name": "hellraiserrob--mod-box",
+      "source": "./hellraiserrob--mod-box",
+      "description": "A chrome extension to Modify HTTP headers, block assets or domains & redirect requests. Organise rules by folder and tab, optionally scope to domains."
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -234710,6 +234725,21 @@
       "description": "Publisher-aware full-text PDF fetcher \u2014 DOI in, PDF out via OA \u2192 publisher TDM APIs \u2192 your own institutional proxy. Download end of a paper pipeline; pair with paper-radar (discovery) and claude-paper"
     },
     {
+      "name": "misterbrookt--skill2",
+      "source": "./misterbrookt--skill2",
+      "description": "Skills for your skills: local governance for agent skill libraries."
+    },
+    {
+      "name": "arthurkatcher--grok-delegate",
+      "source": "./arthurkatcher--grok-delegate",
+      "description": "Grok Build plugin: hand work to local Claude Code or Codex as a background task"
+    },
+    {
+      "name": "pymc-labs--pymc-forecast",
+      "source": "./pymc-labs--pymc-forecast",
+      "description": "Port of numpyro_forecast"
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
@@ -239143,6 +239173,11 @@
       "name": "eouzoe--good-techstack",
       "source": "./eouzoe--good-techstack",
       "description": "Your product idea. One command. Shipped."
+    },
+    {
+      "name": "jordiboehme--crystalline",
+      "source": "./jordiboehme--crystalline",
+      "description": "Local-first memory for AI agents: teach knowledge as Markdown Domains, capture learnings as Engrams. One Rust binary with MCP server, CLI and hybrid search."
     },
     {
       "name": "microsoft--amplifier-app-openclaw",
