@@ -7,11 +7,11 @@ Reusable VOX-style sequential Kie.ai video workflow
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ston6919/vox-style-video](https://github.com/ston6919/vox-style-video).
+Original source: `CLAUDE.md` in [ston6919/vox-style-video](https://github.com/ston6919/vox-style-video).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
