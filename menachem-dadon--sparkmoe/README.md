@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [menachem-dadon/SparkMoE](https://github.com/menachem-dadon/SparkMoE).
+Original source: `CLAUDE.md` in [menachem-dadon/SparkMoE](https://github.com/menachem-dadon/SparkMoE).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
