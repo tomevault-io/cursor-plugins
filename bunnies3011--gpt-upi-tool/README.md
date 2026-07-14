@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bunnies3011/gpt-upi-tool](https://github.com/bunnies3011/gpt-upi-tool).
+Original source: `CLAUDE.md` in [bunnies3011/gpt-upi-tool](https://github.com/bunnies3011/gpt-upi-tool).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
