@@ -7,11 +7,11 @@ A zero-config, extensible ASP.NET Core admin system with RBAC, data permissions,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Tenon-Net/TenonAdmin](https://github.com/Tenon-Net/TenonAdmin).
+Original source: `CLAUDE.md` in [Tenon-Net/TenonAdmin](https://github.com/Tenon-Net/TenonAdmin).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
