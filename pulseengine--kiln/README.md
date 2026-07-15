@@ -7,11 +7,11 @@ Kiln — WebAssembly runtime for safety-critical systems. Full Component Model a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [pulseengine/kiln](https://github.com/pulseengine/kiln).
+Original source: `AGENTS.md` in [pulseengine/kiln](https://github.com/pulseengine/kiln).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
