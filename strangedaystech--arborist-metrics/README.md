@@ -7,14 +7,14 @@ Multi-language code complexity metrics (cognitive, cyclomatic, SLOC) powered by 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [StrangeDaysTech/arborist-metrics](https://github.com/StrangeDaysTech/arborist-metrics).
+Original source: `CLAUDE.md` in [StrangeDaysTech/arborist-metrics](https://github.com/StrangeDaysTech/arborist-metrics).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [StrangeDaysTech/arborist-metrics](https://github.com/StrangeDaysTech/arborist-metrics) — a repo with 9+ stars on GitHub.
