@@ -7,11 +7,11 @@ Workerd-based hypervisor with a declarative Cap'n Proto manifest. Substrate-leve
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [agentic-research/cloister](https://github.com/agentic-research/cloister).
+Original source: `AGENTS.md` in [agentic-research/cloister](https://github.com/agentic-research/cloister).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
