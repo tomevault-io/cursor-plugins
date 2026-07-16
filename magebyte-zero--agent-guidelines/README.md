@@ -7,11 +7,11 @@ Full-stack AI collaboration codex (CLAUDE.md / AGENTS.md / Cursor rules) distill
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [MageByte-Zero/agent-guidelines](https://github.com/MageByte-Zero/agent-guidelines).
+Original source: `CLAUDE.md` in [MageByte-Zero/agent-guidelines](https://github.com/MageByte-Zero/agent-guidelines).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
