@@ -7,11 +7,11 @@ Generate small, high-quality, HuggingFace-ready datasets for any domain, using a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [davidondrej/OpenDataset](https://github.com/davidondrej/OpenDataset).
+Original source: `CLAUDE.md` in [davidondrej/OpenDataset](https://github.com/davidondrej/OpenDataset).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
