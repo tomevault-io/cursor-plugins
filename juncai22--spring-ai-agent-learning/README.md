@@ -7,11 +7,11 @@ Spring AI Agent 学习
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Juncai22/spring-ai-agent-learning](https://github.com/Juncai22/spring-ai-agent-learning).
+Original source: `CLAUDE.md` in [Juncai22/spring-ai-agent-learning](https://github.com/Juncai22/spring-ai-agent-learning).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
