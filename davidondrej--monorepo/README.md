@@ -7,11 +7,11 @@ one workspace, many agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [davidondrej/monorepo](https://github.com/davidondrej/monorepo).
+Original source: `CLAUDE.md` in [davidondrej/monorepo](https://github.com/davidondrej/monorepo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
