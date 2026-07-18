@@ -7,12 +7,12 @@ AI-powered image upscaler using Real-ESRGAN with a web API and UI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [robertsLando/upscaler](https://github.com/robertsLando/upscaler).
+Original source: `CLAUDE.md` in [robertsLando/upscaler](https://github.com/robertsLando/upscaler).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
