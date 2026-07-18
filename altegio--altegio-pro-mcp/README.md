@@ -1,0 +1,28 @@
+# altegio-pro-mcp
+
+> Tome by [altegio](https://github.com/altegio/altegio-pro-mcp) — distributed by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [altegio/altegio-pro-mcp](https://github.com/altegio/altegio-pro-mcp).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [altegio/altegio-pro-mcp](https://github.com/altegio/altegio-pro-mcp) — a repo with 9+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install altegio/altegio-pro-mcp
+```
+Source: [github.com/altegio/altegio-pro-mcp](https://github.com/altegio/altegio-pro-mcp).
+
+<!-- genome:t-i-s -->
