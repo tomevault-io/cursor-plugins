@@ -7,11 +7,11 @@ Capture personal Douyin self-shares and organize them in Feishu Base.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [DannyZZ2/douyin-share](https://github.com/DannyZZ2/douyin-share).
+Original source: `AGENTS.md` in [DannyZZ2/douyin-share](https://github.com/DannyZZ2/douyin-share).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
