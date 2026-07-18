@@ -7,19 +7,15 @@ Fill standard legal agreement templates and produce signable DOCX files. 25 temp
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements).
+Original source: `AGENTS.md` in [open-agreements/open-agreements](https://github.com/open-agreements/open-agreements).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
-
-## Bundled Skills (1)
-
-- [open-agreements](https://github.com/open-agreements/open-agreements/tree/main/skills/open-agreements)
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/open-agreements/open-agreements](https://github.com/open-agreements/open-agreements)
 
