@@ -1,0 +1,11 @@
+{
+  "name": "rcha0s--skill-vet",
+  "displayName": "skill-vet",
+  "version": "1.0.0",
+  "description": "Three-verdict (APPROVE/REVIEW/REJECT) wrapper over Cisco skill-scanner, with an LLM adjudicator that demotes literal-regex false positives. Includes a 106-skill labeled eval corpus and reproducible ha",
+  "author": {
+    "name": "rcha0s",
+    "url": "https://github.com/rcha0s"
+  },
+  "homepage": "https://github.com/rcha0s/skill-vet"
+}
