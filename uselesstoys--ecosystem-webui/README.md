@@ -7,11 +7,11 @@ AI Ecosystem with Model Training, Image Generation, as well as standard auto-tag
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [UselessToys/Ecosystem_WebUI](https://github.com/UselessToys/Ecosystem_WebUI).
+Original source: `AGENTS.md` in [UselessToys/Ecosystem_WebUI](https://github.com/UselessToys/Ecosystem_WebUI).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
