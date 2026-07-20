@@ -7,11 +7,11 @@ Design-first agentic systems in Go: declare agents, tools, MCP servers, policies
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [goadesign/goa-ai](https://github.com/goadesign/goa-ai).
+Original source: `CLAUDE.md` in [goadesign/goa-ai](https://github.com/goadesign/goa-ai).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
