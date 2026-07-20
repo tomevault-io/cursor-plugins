@@ -7,11 +7,11 @@ CLI that distills the silent decisions your AI coding agents make into a reviewa
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zhu-kai/whodecided](https://github.com/zhu-kai/whodecided).
+Original source: `AGENTS.md` in [zhu-kai/whodecided](https://github.com/zhu-kai/whodecided).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
