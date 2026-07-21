@@ -1,0 +1,11 @@
+{
+  "name": "xyonium--api-key-rotator",
+  "displayName": "api-key-rotator",
+  "version": "1.0.0",
+  "description": "Reverse proxy in front of firecrawl-mcp that rotates Firecrawl API keys on 402/429/401/403, rewrites crawl next URLs, and exposes /healthz + /status. Go stdlib only, scratch image.",
+  "author": {
+    "name": "xyonium",
+    "url": "https://github.com/xyonium"
+  },
+  "homepage": "https://github.com/xyonium/api-key-rotator"
+}
