@@ -7,12 +7,12 @@ My DevOps Day DC 2025 demo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [JonZeolla/devopsdaysdc25](https://github.com/JonZeolla/devopsdaysdc25).
+Original source: `CLAUDE.md` in [JonZeolla/devopsdaysdc25](https://github.com/JonZeolla/devopsdaysdc25).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
