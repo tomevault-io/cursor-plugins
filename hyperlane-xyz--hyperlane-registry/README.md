@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hyperlane-xyz/hyperlane-registry](https://github.com/hyperlane-xyz/hyperlane-registry).
+Original source: `CLAUDE.md` in [hyperlane-xyz/hyperlane-registry](https://github.com/hyperlane-xyz/hyperlane-registry).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
