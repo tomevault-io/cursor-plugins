@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp).
+Original source: `CLAUDE.md` in [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp) — a repo with 50+ stars on GitHub.
+From [zelentsov-dev/asc-mcp](https://github.com/zelentsov-dev/asc-mcp) — a repo with 51+ stars on GitHub.
 
 ---
 
