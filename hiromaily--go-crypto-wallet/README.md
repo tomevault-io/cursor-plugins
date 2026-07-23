@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hiromaily/go-crypto-wallet](https://github.com/hiromaily/go-crypto-wallet).
+Original source: `CLAUDE.md` in [hiromaily/go-crypto-wallet](https://github.com/hiromaily/go-crypto-wallet).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
