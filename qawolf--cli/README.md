@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [qawolf/cli](https://github.com/qawolf/cli).
+Original source: `CLAUDE.md` in [qawolf/cli](https://github.com/qawolf/cli).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
@@ -19,7 +19,7 @@ Original source: `AGENTS.md` in [qawolf/cli](https://github.com/qawolf/cli).
 
 - [cli](https://github.com/qawolf/cli/tree/main/skills/qawolf-cli/SKILL.md)
 
-From [qawolf/cli](https://github.com/qawolf/cli) — a repo with 3437+ stars on GitHub.
+From [qawolf/cli](https://github.com/qawolf/cli) — a repo with 3436+ stars on GitHub.
 
 ---
 
