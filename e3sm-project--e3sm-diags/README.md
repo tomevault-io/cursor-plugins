@@ -5,12 +5,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [E3SM-Project/e3sm_diags](https://github.com/E3SM-Project/e3sm_diags).
+Original source: `copilot-instructions.md` in [E3SM-Project/e3sm_diags](https://github.com/E3SM-Project/e3sm_diags).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
