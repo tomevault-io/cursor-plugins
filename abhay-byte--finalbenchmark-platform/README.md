@@ -5,14 +5,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [abhay-byte/finalbenchmark-platform](https://github.com/abhay-byte/finalbenchmark-platform).
+Original source: `AGENTS.md` in [abhay-byte/finalbenchmark-platform](https://github.com/abhay-byte/finalbenchmark-platform).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/abhay-byte/finalbenchmark-platform](https://github.com/abhay-byte/finalbenchmark-platform)
