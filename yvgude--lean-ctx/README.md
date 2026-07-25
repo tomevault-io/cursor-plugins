@@ -1,8 +1,6 @@
 # lean-ctx
 
-> Source: [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) — distributed by [TomeVault](https://tomevault.io)
-
-Reduce AI coding costs by 99% — MCP Server + Shell Hook for Cursor, Claude Code, Copilot, Windsurf, Gemini CLI & 24 tools. Single Rust binary, zero telemetry.
+> Source: [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
@@ -17,10 +15,15 @@ Original source: `AGENTS.md` in [yvgude/lean-ctx](https://github.com/yvgude/lean
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
+## Bundled Skills (2)
+
+- [lean-ctx](https://github.com/yvgude/lean-ctx/tree/main/skills/lean-ctx/SKILL.md)
+- [lean-ctx](https://github.com/yvgude/lean-ctx/tree/main/rust/src/templates/SKILL.md)
+
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)
 
 ---
 
-Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+Explore more instruction files on [TomeVault](https://tomevault.io), the platform that grades AI instruction files and catches silent drift across every major tool.
 
 <!-- genome:d-e-p -->
