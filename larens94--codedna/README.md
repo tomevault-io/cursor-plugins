@@ -1,18 +1,16 @@
 # codedna
 
-> Tome by [Larens94](https://github.com/Larens94/codedna) — distributed by [TomeVault](https://tomevault.io)
-
-A lightweight annotation standard that helps AI agents navigate codebases faster, with fewer file reads and tool calls
+> Tome by [Larens94](https://github.com/Larens94/codedna), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Larens94/codedna](https://github.com/Larens94/codedna).
+Original source: `copilot-instructions.md` in [Larens94/codedna](https://github.com/Larens94/codedna).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
