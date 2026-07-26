@@ -1,18 +1,16 @@
 # FluidFlow
 
-> Source: [ersinkoc/FluidFlow](https://github.com/ersinkoc/FluidFlow) — distributed by [TomeVault](https://tomevault.io)
-
-Sketch to App
+> Source: [ersinkoc/FluidFlow](https://github.com/ersinkoc/FluidFlow). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ersinkoc/FluidFlow](https://github.com/ersinkoc/FluidFlow).
+Original source: `copilot-instructions.md` in [ersinkoc/FluidFlow](https://github.com/ersinkoc/FluidFlow).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
