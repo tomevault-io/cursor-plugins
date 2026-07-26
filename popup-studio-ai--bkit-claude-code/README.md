@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [popup-studio-ai/bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code).
+Original source: `AGENTS.md` in [popup-studio-ai/bkit-claude-code](https://github.com/popup-studio-ai/bkit-claude-code).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
