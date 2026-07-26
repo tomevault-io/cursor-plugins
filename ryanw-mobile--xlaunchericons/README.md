@@ -1,11 +1,11 @@
 # XLauncherIcons
 
-> Source: [ryanw-mobile/XLauncherIcons](https://github.com/ryanw-mobile/XLauncherIcons) — distributed by [TomeVault](https://tomevault.io)
+> Source: [ryanw-mobile/XLauncherIcons](https://github.com/ryanw-mobile/XLauncherIcons). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [ryanw-mobile/XLauncherIcons](https://github.com/ryanw-mobile/XLauncherIcons).
+Original source: `` in [ryanw-mobile/XLauncherIcons](https://github.com/ryanw-mobile/XLauncherIcons).
 
 ## Also available for
 
@@ -13,6 +13,7 @@ Original source: `GEMINI.md` in [ryanw-mobile/XLauncherIcons](https://github.com
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/ryanw-mobile/XLauncherIcons](https://github.com/ryanw-mobile/XLauncherIcons)
