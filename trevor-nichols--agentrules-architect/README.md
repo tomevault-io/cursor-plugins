@@ -1,8 +1,6 @@
 # agentrules-architect
 
-> Source: [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) — distributed by [TomeVault](https://tomevault.io)
-
-AGENTS.md/CLAUDE.md generator and ExecPlan harness for Codex, Claude Code, Cursor, Antigravity, OpenCode, Pi and other coding agents. Use api keys or authenticate with Codex
+> Source: [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
@@ -17,7 +15,7 @@ Original source: `AGENTS.md` in [trevor-nichols/agentrules-architect](https://gi
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) — a repo with 118+ stars on GitHub.
+From [trevor-nichols/agentrules-architect](https://github.com/trevor-nichols/agentrules-architect) — a repo with 120+ stars on GitHub.
 
 ---
 
