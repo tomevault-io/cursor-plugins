@@ -5,7 +5,7 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [tudorr89/info-firme](https://github.com/tudorr89/info-firme).
+Original source: `` in [tudorr89/info-firme](https://github.com/tudorr89/info-firme).
 
 ## Also available for
 
@@ -13,6 +13,7 @@ Original source: `GEMINI.md` in [tudorr89/info-firme](https://github.com/tudorr8
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 ## Bundled Skills (6)
