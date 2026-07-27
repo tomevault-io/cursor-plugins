@@ -5,17 +5,18 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [shawn0728/OpenSearch-VL](https://github.com/shawn0728/OpenSearch-VL).
+Original source: `` in [shawn0728/OpenSearch-VL](https://github.com/shawn0728/OpenSearch-VL).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [shawn0728/OpenSearch-VL](https://github.com/shawn0728/OpenSearch-VL) — a repo with 255+ stars on GitHub.
+From [shawn0728/OpenSearch-VL](https://github.com/shawn0728/OpenSearch-VL) — a repo with 257+ stars on GitHub.
 
 ---
 
