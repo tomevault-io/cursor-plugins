@@ -5,12 +5,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim).
+Original source: `copilot-instructions.md` in [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
