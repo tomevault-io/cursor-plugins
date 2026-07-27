@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher).
+Original source: `CLAUDE.md` in [terwer/siyuan-plugin-publisher](https://github.com/terwer/siyuan-plugin-publisher).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
