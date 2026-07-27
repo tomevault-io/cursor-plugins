@@ -5,18 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar).
+Original source: `AGENTS.md` in [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) — a repo with 4830+ stars on GitHub.
+From [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) — a repo with 4703+ stars on GitHub.
 
 ---
 
