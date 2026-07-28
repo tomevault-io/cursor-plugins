@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mantinedev/mantine](https://github.com/mantinedev/mantine).
+Original source: `CLAUDE.md` in [mantinedev/mantine](https://github.com/mantinedev/mantine).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [mantinedev/mantine](https://github.com/mantinedev/mantine) — a repo with 31464+ stars on GitHub.
+From [mantinedev/mantine](https://github.com/mantinedev/mantine) — a repo with 31468+ stars on GitHub.
 
 ---
 
