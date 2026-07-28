@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset).
+Original source: `copilot-instructions.md` in [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) — a repo with 335+ stars on GitHub.
+From [kubernetes-sigs/jobset](https://github.com/kubernetes-sigs/jobset) — a repo with 334+ stars on GitHub.
 
 ---
 
