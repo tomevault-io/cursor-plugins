@@ -5,12 +5,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact).
+Original source: `copilot-instructions.md` in [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
