@@ -5,17 +5,18 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mangiapanejohn-dev/Resonix-AG](https://github.com/mangiapanejohn-dev/Resonix-AG).
+Original source: `` in [mangiapanejohn-dev/Resonix-AG](https://github.com/mangiapanejohn-dev/Resonix-AG).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [mangiapanejohn-dev/Resonix-AG](https://github.com/mangiapanejohn-dev/Resonix-AG) — a repo with 32+ stars on GitHub.
+From [mangiapanejohn-dev/Resonix-AG](https://github.com/mangiapanejohn-dev/Resonix-AG) — a repo with 33+ stars on GitHub.
 
 ---
 
