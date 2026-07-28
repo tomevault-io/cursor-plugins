@@ -1,0 +1,28 @@
+# ardrive-web
+
+> Source: [ardriveapp/ardrive-web](https://github.com/ardriveapp/ardrive-web). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [ardriveapp/ardrive-web](https://github.com/ardriveapp/ardrive-web).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/ardriveapp/ardrive-web](https://github.com/ardriveapp/ardrive-web)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install ardriveapp/ardrive-web
+```
+Source: [github.com/ardriveapp/ardrive-web](https://github.com/ardriveapp/ardrive-web).
+
+<!-- genome:d-i-p -->
