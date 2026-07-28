@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens).
+Original source: `CLAUDE.md` in [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
