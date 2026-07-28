@@ -1,0 +1,25 @@
+# PocketManus
+
+> Tome by [Osly-AI](https://github.com/Osly-AI/PocketManus), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `` in [Osly-AI/PocketManus](https://github.com/Osly-AI/PocketManus).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [Osly-AI/PocketManus](https://github.com/Osly-AI/PocketManus) — a repo with 304+ stars on GitHub.
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io), the platform that grades AI instruction files and catches silent drift across every major tool.
+
+<!-- genome:t-e-s -->
