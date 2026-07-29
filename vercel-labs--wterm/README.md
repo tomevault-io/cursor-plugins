@@ -1,8 +1,6 @@
 # wterm
 
-> Tome by [vercel-labs](https://github.com/vercel-labs/wterm) — distributed by [TomeVault](https://tomevault.io)
-
-A terminal emulator for the web
+> Tome by [vercel-labs](https://github.com/vercel-labs/wterm), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
@@ -17,7 +15,7 @@ Original source: `AGENTS.md` in [vercel-labs/wterm](https://github.com/vercel-la
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/vercel-labs/wterm](https://github.com/vercel-labs/wterm)
+Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/vercel-labs/wterm](https://github.com/vercel-labs/wterm)
 
 ---
 
