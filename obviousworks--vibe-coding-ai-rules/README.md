@@ -5,7 +5,7 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [obviousworks/vibe-coding-ai-rules](https://github.com/obviousworks/vibe-coding-ai-rules).
+Original source: `` in [obviousworks/vibe-coding-ai-rules](https://github.com/obviousworks/vibe-coding-ai-rules).
 
 ## Also available for
 
@@ -14,6 +14,7 @@ Original source: `.windsurf/rules/*.md` in [obviousworks/vibe-coding-ai-rules](h
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/obviousworks/vibe-coding-ai-rules](https://github.com/obviousworks/vibe-coding-ai-rules)
 
