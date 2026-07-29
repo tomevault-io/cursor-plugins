@@ -5,10 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [NandaScott/Scrython](https://github.com/NandaScott/Scrython).
+Original source: `` in [NandaScott/Scrython](https://github.com/NandaScott/Scrython).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
