@@ -1,0 +1,30 @@
+# figma-edit-mcp
+
+> Tome by [neozhehan](https://github.com/neozhehan/figma-edit-mcp), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+Read, create, and modify Figma designs programmatically via MCP, empowering AI to execute Figma changes safer, cleaner, and faster.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `copilot-instructions.md` in [neozhehan/figma-edit-mcp](https://github.com/neozhehan/figma-edit-mcp).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/neozhehan/figma-edit-mcp](https://github.com/neozhehan/figma-edit-mcp)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install neozhehan/figma-edit-mcp
+```
+Source: [github.com/neozhehan/figma-edit-mcp](https://github.com/neozhehan/figma-edit-mcp).
+
+<!-- genome:t-i-p -->
