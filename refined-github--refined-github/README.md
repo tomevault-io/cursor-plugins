@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [refined-github/refined-github](https://github.com/refined-github/refined-github).
+Original source: `copilot-instructions.md` in [refined-github/refined-github](https://github.com/refined-github/refined-github).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [refined-github/refined-github](https://github.com/refined-github/refined-github) — a repo with 31764+ stars on GitHub.
+From [refined-github/refined-github](https://github.com/refined-github/refined-github) — a repo with 31798+ stars on GitHub.
 
 ---
 
