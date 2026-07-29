@@ -7,14 +7,14 @@ Turn real software repos into agent-ready engineering environments with entrypoi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [yfge/agent-harness-skills](https://github.com/yfge/agent-harness-skills).
+Original source: `GEMINI.md` in [yfge/agent-harness-skills](https://github.com/yfge/agent-harness-skills).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 ## Bundled Skills (1)
