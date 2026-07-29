@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [google/filament](https://github.com/google/filament).
+Original source: `copilot-instructions.md` in [google/filament](https://github.com/google/filament).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **GitHub Copilot** — `copilot-instructions.md`
+- **Codex** — `AGENTS.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [google/filament](https://github.com/google/filament) — a repo with 20271+ stars on GitHub.
+From [google/filament](https://github.com/google/filament) — a repo with 20294+ stars on GitHub.
 
 ---
 
