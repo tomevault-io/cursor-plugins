@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jhd3197/ServerKit](https://github.com/jhd3197/ServerKit).
+Original source: `CLAUDE.md` in [jhd3197/ServerKit](https://github.com/jhd3197/ServerKit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [jhd3197/ServerKit](https://github.com/jhd3197/ServerKit) — a repo with 650+ stars on GitHub.
+From [jhd3197/ServerKit](https://github.com/jhd3197/ServerKit) — a repo with 654+ stars on GitHub.
 
 ---
 
