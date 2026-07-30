@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [openshift/origin](https://github.com/openshift/origin).
+Original source: `AGENTS.md` in [openshift/origin](https://github.com/openshift/origin).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [openshift/origin](https://github.com/openshift/origin) — a repo with 8671+ stars on GitHub.
+From [openshift/origin](https://github.com/openshift/origin) — a repo with 8673+ stars on GitHub.
 
 ---
 
