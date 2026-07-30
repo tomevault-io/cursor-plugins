@@ -5,7 +5,7 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [oculus-samples/Unity-LocalMultiplayerMR](https://github.com/oculus-samples/Unity-LocalMultiplayerMR).
+Original source: `` in [oculus-samples/Unity-LocalMultiplayerMR](https://github.com/oculus-samples/Unity-LocalMultiplayerMR).
 
 ## Also available for
 
@@ -14,6 +14,7 @@ Original source: `.windsurf/rules/*.md` in [oculus-samples/Unity-LocalMultiplaye
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/oculus-samples/Unity-LocalMultiplayerMR](https://github.com/oculus-samples/Unity-LocalMultiplayerMR)
 
