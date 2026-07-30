@@ -7280,6 +7280,11 @@
       "description": "Google Suite CLI: Gmail, GCal, GDrive, GContacts."
     },
     {
+      "name": "open-gsd--gsd-core",
+      "source": "./open-gsd--gsd-core",
+      "description": "gsd-core"
+    },
+    {
       "name": "iofficeai--officecli",
       "source": "./iofficeai--officecli",
       "description": "OfficeCLI"
@@ -8213,6 +8218,11 @@
       "name": "containernetworking--cni",
       "source": "./containernetworking--cni",
       "description": "cni"
+    },
+    {
+      "name": "elastic--go-elasticsearch",
+      "source": "./elastic--go-elasticsearch",
+      "description": "go-elasticsearch"
     },
     {
       "name": "zplug--zplug",
@@ -10753,6 +10763,11 @@
       "name": "microsoft--pyrit",
       "source": "./microsoft--pyrit",
       "description": "PyRIT"
+    },
+    {
+      "name": "pydata--xarray",
+      "source": "./pydata--xarray",
+      "description": "xarray"
     },
     {
       "name": "zenc-lang--zenc",
@@ -15393,6 +15408,11 @@
       "name": "lcomplete--huntly",
       "source": "./lcomplete--huntly",
       "description": "huntly"
+    },
+    {
+      "name": "datopian--portaljs",
+      "source": "./datopian--portaljs",
+      "description": "portaljs"
     },
     {
       "name": "academysoftwarefoundation--openimageio",
@@ -21120,6 +21140,11 @@
       "description": "nx-console"
     },
     {
+      "name": "sandeco--reversa",
+      "source": "./sandeco--reversa",
+      "description": "reversa"
+    },
+    {
       "name": "edwardkim--rhwp",
       "source": "./edwardkim--rhwp",
       "description": "\uc544\ub798\ud55c\uae00 hwp viewer and editor by rust and wasm"
@@ -24115,6 +24140,16 @@
       "description": "mex"
     },
     {
+      "name": "thedakshjaitly--mex",
+      "source": "./thedakshjaitly--mex",
+      "description": "mex"
+    },
+    {
+      "name": "thedakshjaitly--mex",
+      "source": "./thedakshjaitly--mex",
+      "description": "mex"
+    },
+    {
       "name": "remorses--critique",
       "source": "./remorses--critique",
       "description": "TUI for reviewing git changes"
@@ -24628,6 +24663,11 @@
       "name": "microsoft--mssql-jdbc",
       "source": "./microsoft--mssql-jdbc",
       "description": "mssql-jdbc"
+    },
+    {
+      "name": "datadog--integrations-core",
+      "source": "./datadog--integrations-core",
+      "description": "integrations-core"
     },
     {
       "name": "andrew-codechimp--ha-battery-notes",
@@ -26383,6 +26423,11 @@
       "name": "railwayapp--railpack",
       "source": "./railwayapp--railpack",
       "description": "Zero-config application builder that automatically analyzes and turns your code into an image"
+    },
+    {
+      "name": "nvidia--cuopt",
+      "source": "./nvidia--cuopt",
+      "description": "cuopt"
     },
     {
       "name": "norish-recipes--norish",
@@ -36960,6 +37005,11 @@
       "description": "react-native-big-list"
     },
     {
+      "name": "miguelsolorio--vscode-symbols",
+      "source": "./miguelsolorio--vscode-symbols",
+      "description": "vscode-symbols"
+    },
+    {
       "name": "lijigang--ljg-skill-xray-paper",
       "source": "./lijigang--ljg-skill-xray-paper",
       "description": "\u8bba\u6587X\u5149\u673a \u2014 Claude Code Skill\uff0c\u89e3\u6784\u5b66\u672f\u8bba\u6587\uff0c\u63d0\u70bc\u9910\u5dfe\u7eb8\u516c\u5f0f"
@@ -42475,6 +42525,11 @@
       "description": "simonwillisonblog"
     },
     {
+      "name": "signalk--signalk-server",
+      "source": "./signalk--signalk-server",
+      "description": "signalk-server"
+    },
+    {
       "name": "wevm--incur",
       "source": "./wevm--incur",
       "description": "CLI framework for agents and humans"
@@ -45063,6 +45118,11 @@
       "name": "dingmyu--davit",
       "source": "./dingmyu--davit",
       "description": "davit"
+    },
+    {
+      "name": "bitwize-music-studio--claude-ai-music-skills",
+      "source": "./bitwize-music-studio--claude-ai-music-skills",
+      "description": "claude-ai-music-skills"
     },
     {
       "name": "sean-v-dev--hmlr-agentic-ai-memory-system",
@@ -48713,6 +48773,11 @@
       "name": "greenart7c3--amber",
       "source": "./greenart7c3--amber",
       "description": "Amber"
+    },
+    {
+      "name": "automagik-dev--genie",
+      "source": "./automagik-dev--genie",
+      "description": "genie"
     },
     {
       "name": "paniclock--paniclock",
@@ -56565,6 +56630,16 @@
       "description": "ruby-duckdb"
     },
     {
+      "name": "brightdigit--mistkit",
+      "source": "./brightdigit--mistkit",
+      "description": "MistKit"
+    },
+    {
+      "name": "brightdigit--mistkit",
+      "source": "./brightdigit--mistkit",
+      "description": "MistKit"
+    },
+    {
       "name": "zxkane--aws-skills",
       "source": "./zxkane--aws-skills",
       "description": "Claude Agent Skills for AWS"
@@ -59873,6 +59948,16 @@
       "name": "microsoft--p-808",
       "source": "./microsoft--p-808",
       "description": "P.808"
+    },
+    {
+      "name": "helm--helm-www",
+      "source": "./helm--helm-www",
+      "description": "helm-www"
+    },
+    {
+      "name": "helm--helm-www",
+      "source": "./helm--helm-www",
+      "description": "helm-www"
     },
     {
       "name": "helm--helm-www",
@@ -70065,6 +70150,11 @@
       "description": "digital-chip-design-agents"
     },
     {
+      "name": "spiffe--spike",
+      "source": "./spiffe--spike",
+      "description": "spike"
+    },
+    {
       "name": "azure-samples--python-mcp-demos",
       "source": "./azure-samples--python-mcp-demos",
       "description": "python-mcp-demos"
@@ -70968,6 +71058,11 @@
       "name": "namecheap--terraform-provider-namecheap",
       "source": "./namecheap--terraform-provider-namecheap",
       "description": "terraform-provider-namecheap"
+    },
+    {
+      "name": "lance-format--lance-graph",
+      "source": "./lance-format--lance-graph",
+      "description": "lance-graph"
     },
     {
       "name": "jduncan-rva--skill-porter",
@@ -81665,6 +81760,11 @@
       "description": "dataJAR-recipes"
     },
     {
+      "name": "coder--vscode-coder",
+      "source": "./coder--vscode-coder",
+      "description": "vscode-coder"
+    },
+    {
       "name": "alfredolopez80--multi-agent-ralph-loop",
       "source": "./alfredolopez80--multi-agent-ralph-loop",
       "description": "Autonomous orchestration framework for Claude Code with MemPalace-inspired memory (4-layer stack, 818-token wake-up), parallel-first Agent Teams (6 teammates), Aristotle First Principles methodology, "
@@ -84068,6 +84168,11 @@
       "name": "sap--terraform-provider-btp",
       "source": "./sap--terraform-provider-btp",
       "description": "terraform-provider-btp"
+    },
+    {
+      "name": "skenetechnologies--skene",
+      "source": "./skenetechnologies--skene",
+      "description": "skene"
     },
     {
       "name": "interfacex-co-jp--genshijin",
@@ -89275,6 +89380,11 @@
       "description": "DSL"
     },
     {
+      "name": "jamal-wia--paginator",
+      "source": "./jamal-wia--paginator",
+      "description": "Paginator"
+    },
+    {
       "name": "rcarmo--webterm",
       "source": "./rcarmo--webterm",
       "description": "Yet another web terminal, but with style"
@@ -90968,6 +91078,11 @@
       "name": "namtuanly--mtl-tabnet",
       "source": "./namtuanly--mtl-tabnet",
       "description": "MTL-TabNet"
+    },
+    {
+      "name": "leaningtech--browsercode",
+      "source": "./leaningtech--browsercode",
+      "description": "browsercode"
     },
     {
       "name": "cemalturkcan--opencode-anthropic-login-via-cli",
@@ -101455,6 +101570,11 @@
       "description": "gsd-plugin"
     },
     {
+      "name": "jnuyens--gsd-plugin",
+      "source": "./jnuyens--gsd-plugin",
+      "description": "gsd-plugin"
+    },
+    {
       "name": "databricks--databricks-agent-skills",
       "source": "./databricks--databricks-agent-skills",
       "description": "databricks-agent-skills"
@@ -106240,6 +106360,11 @@
       "description": "actual-auto-sync"
     },
     {
+      "name": "d7omdev--clipse-gui",
+      "source": "./d7omdev--clipse-gui",
+      "description": "clipse-gui"
+    },
+    {
       "name": "aspenkit--aspens",
       "source": "./aspenkit--aspens",
       "description": "Your CLAUDE.md stopped working at 200 lines. Generate scoped skill files from your import graph, auto-sync on every commit. Claude Code, Codex, Cursor."
@@ -108748,6 +108873,121 @@
       "name": "kylehowells--swift-justhtml",
       "source": "./kylehowells--swift-justhtml",
       "description": "swift-justhtml"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
+    },
+    {
+      "name": "bigdevsoon--100-days-of-code",
+      "source": "./bigdevsoon--100-days-of-code",
+      "description": "100-days-of-code"
     },
     {
       "name": "bigdevsoon--100-days-of-code",
@@ -121865,6 +122105,11 @@
       "description": "LOCE"
     },
     {
+      "name": "yasserstudio--gpc",
+      "source": "./yasserstudio--gpc",
+      "description": "gpc"
+    },
+    {
       "name": "copilot-community-sdk--copilot-sdk-java",
       "source": "./copilot-community-sdk--copilot-sdk-java",
       "description": "Java SDK for GitHub Copilot CLI"
@@ -126645,6 +126890,26 @@
       "description": "agentguard"
     },
     {
+      "name": "otavia-projects--otavia",
+      "source": "./otavia-projects--otavia",
+      "description": "otavia"
+    },
+    {
+      "name": "otavia-projects--otavia",
+      "source": "./otavia-projects--otavia",
+      "description": "otavia"
+    },
+    {
+      "name": "otavia-projects--otavia",
+      "source": "./otavia-projects--otavia",
+      "description": "otavia"
+    },
+    {
+      "name": "otavia-projects--otavia",
+      "source": "./otavia-projects--otavia",
+      "description": "otavia"
+    },
+    {
       "name": "anhtester--antigravity-testing-kit",
       "source": "./anhtester--antigravity-testing-kit",
       "description": "\u0110\u00e2y l\u00e0 b\u1ed9 SKILL, WORKFLOW, RULE do Anh Tester x\u00e2y d\u1ef1ng d\u00e0nh ri\u00eang cho c\u1ed9ng \u0111\u1ed3ng Tester \u0111\u1ec3 thi\u1ebft l\u1eadp AI Agent tr\u00ean Antigravity h\u1ed7 tr\u1ee3 ki\u1ec3m th\u1eed ph\u1ea7n m\u1ec1m."
@@ -130618,6 +130883,11 @@
       "name": "researchmm--wsod2",
       "source": "./researchmm--wsod2",
       "description": "WSOD2"
+    },
+    {
+      "name": "mrz1836--go-sanitize",
+      "source": "./mrz1836--go-sanitize",
+      "description": "go-sanitize"
     },
     {
       "name": "shashankswe2020-ux--whoop-mcp",
@@ -137595,6 +137865,16 @@
       "description": "ziti-doc"
     },
     {
+      "name": "openziti--ziti-doc",
+      "source": "./openziti--ziti-doc",
+      "description": "ziti-doc"
+    },
+    {
+      "name": "openziti--ziti-doc",
+      "source": "./openziti--ziti-doc",
+      "description": "ziti-doc"
+    },
+    {
       "name": "zhaono1--agent-playbook",
       "source": "./zhaono1--agent-playbook",
       "description": "agent-playbook"
@@ -140643,6 +140923,46 @@
       "name": "spiffe--helm-charts-hardened",
       "source": "./spiffe--helm-charts-hardened",
       "description": "helm-charts-hardened"
+    },
+    {
+      "name": "drmikecrowe--mbfcext",
+      "source": "./drmikecrowe--mbfcext",
+      "description": "mbfcext"
+    },
+    {
+      "name": "londonaicentre--flip",
+      "source": "./londonaicentre--flip",
+      "description": "FLIP"
+    },
+    {
+      "name": "londonaicentre--flip",
+      "source": "./londonaicentre--flip",
+      "description": "FLIP"
+    },
+    {
+      "name": "londonaicentre--flip",
+      "source": "./londonaicentre--flip",
+      "description": "FLIP"
+    },
+    {
+      "name": "londonaicentre--flip",
+      "source": "./londonaicentre--flip",
+      "description": "FLIP"
+    },
+    {
+      "name": "londonaicentre--flip",
+      "source": "./londonaicentre--flip",
+      "description": "FLIP"
+    },
+    {
+      "name": "londonaicentre--flip",
+      "source": "./londonaicentre--flip",
+      "description": "FLIP"
+    },
+    {
+      "name": "londonaicentre--flip",
+      "source": "./londonaicentre--flip",
+      "description": "FLIP"
     },
     {
       "name": "agents-squads--squads-cli",
@@ -149410,6 +149730,11 @@
       "description": "gh-mcp"
     },
     {
+      "name": "ciscodevnet--meraki-magic-mcp-community",
+      "source": "./ciscodevnet--meraki-magic-mcp-community",
+      "description": "meraki-magic-mcp-community"
+    },
+    {
       "name": "bobmatnyc--claude-mpm-skills",
       "source": "./bobmatnyc--claude-mpm-skills",
       "description": "Curated collection of Claude Code skills for intelligent project development with progressive loading and toolchain detection"
@@ -155118,6 +155443,21 @@
       "name": "book000--twitter-rss",
       "source": "./book000--twitter-rss",
       "description": "twitter-rss"
+    },
+    {
+      "name": "routup--routup",
+      "source": "./routup--routup",
+      "description": "routup"
+    },
+    {
+      "name": "go-openapi--errors",
+      "source": "./go-openapi--errors",
+      "description": "errors"
+    },
+    {
+      "name": "routup--routup",
+      "source": "./routup--routup",
+      "description": "routup"
     },
     {
       "name": "aregowe--magento2-module-polyshell-protection",
