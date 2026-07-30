@@ -1,17 +1,15 @@
 # who-to-bother-at-on-x
 
-> Tome by [kulterryan](https://github.com/kulterryan/who-to-bother-at-on-x) — distributed by [TomeVault](https://tomevault.io)
-
-Find the right people to reach out to at your favorite tech companies
+> Tome by [kulterryan](https://github.com/kulterryan/who-to-bother-at-on-x), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kulterryan/who-to-bother-at-on-x](https://github.com/kulterryan/who-to-bother-at-on-x).
+Original source: `CLAUDE.md` in [kulterryan/who-to-bother-at-on-x](https://github.com/kulterryan/who-to-bother-at-on-x).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
