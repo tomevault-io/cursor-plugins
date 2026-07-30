@@ -5,17 +5,18 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Onemind-Services-LLC/netbox-secrets](https://github.com/Onemind-Services-LLC/netbox-secrets).
+Original source: `` in [Onemind-Services-LLC/netbox-secrets](https://github.com/Onemind-Services-LLC/netbox-secrets).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [Onemind-Services-LLC/netbox-secrets](https://github.com/Onemind-Services-LLC/netbox-secrets) — a repo with 154+ stars on GitHub.
+From [Onemind-Services-LLC/netbox-secrets](https://github.com/Onemind-Services-LLC/netbox-secrets) — a repo with 157+ stars on GitHub.
 
 ---
 
