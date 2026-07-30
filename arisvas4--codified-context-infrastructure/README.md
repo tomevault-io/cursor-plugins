@@ -5,11 +5,10 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [arisvas4/codified-context-infrastructure](https://github.com/arisvas4/codified-context-infrastructure).
+Original source: `CLAUDE.md` in [arisvas4/codified-context-infrastructure](https://github.com/arisvas4/codified-context-infrastructure).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
