@@ -1,6 +1,6 @@
 # fastergh
 
-> Source: [RhysSullivan/fastergh](https://github.com/RhysSullivan/fastergh) — distributed by [TomeVault](https://tomevault.io)
+> Source: [RhysSullivan/fastergh](https://github.com/RhysSullivan/fastergh). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
