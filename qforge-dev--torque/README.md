@@ -1,8 +1,6 @@
 # AI instruction files for torque
 
-> Sourced from [qforge-dev/torque](https://github.com/qforge-dev/torque) and converted for every major platform by [TomeVault](https://tomevault.io)
-
-Torque is a Declarative, typesafe DSL for building synthetic LLM datasets — compose conversations like React components
+> Sourced from [qforge-dev/torque](https://github.com/qforge-dev/torque), graded against the public Tome Standard and kept consistent across every major platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
