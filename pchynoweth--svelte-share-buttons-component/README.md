@@ -5,12 +5,13 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [pchynoweth/svelte-share-buttons-component](https://github.com/pchynoweth/svelte-share-buttons-component).
+Original source: `` in [pchynoweth/svelte-share-buttons-component](https://github.com/pchynoweth/svelte-share-buttons-component).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
