@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [openxla/xla](https://github.com/openxla/xla).
+Original source: `AGENTS.md` in [openxla/xla](https://github.com/openxla/xla).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [openxla/xla](https://github.com/openxla/xla) — a repo with 4412+ stars on GitHub.
+From [openxla/xla](https://github.com/openxla/xla) — a repo with 4407+ stars on GitHub.
 
 ---
 
