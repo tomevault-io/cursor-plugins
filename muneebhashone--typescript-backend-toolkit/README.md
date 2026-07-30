@@ -1,17 +1,15 @@
 # typescript-backend-toolkit
 
-> Tome by [muneebhashone](https://github.com/muneebhashone/typescript-backend-toolkit) — distributed by [TomeVault](https://tomevault.io)
-
-Production-ready Express.js/TypeScript framework with auto-generated OpenAPI, Artisan-style CLI, plugin system, JWT/sessions, BullMQ, React Email, Socket.io, Django-style admin, multi-provider storage/cache/email, Zod validation
+> Tome by [muneebhashone](https://github.com/muneebhashone/typescript-backend-toolkit), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [muneebhashone/typescript-backend-toolkit](https://github.com/muneebhashone/typescript-backend-toolkit).
+Original source: `AGENTS.md` in [muneebhashone/typescript-backend-toolkit](https://github.com/muneebhashone/typescript-backend-toolkit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
