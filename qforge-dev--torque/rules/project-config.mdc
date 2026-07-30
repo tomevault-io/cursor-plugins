@@ -1,46 +1,39 @@
 ---
-description: - Keep the Torque monorepo healthy: the core DSL (`packages/torque`), evaluation helpers (`packages/torque-eval`), shared scripts, and StackBlitz templates.
+description: - Provide LLM-assisted scoring (`scoreDataset`) and pairwise comparisons (`compareDatasets`) for Torque-generated datasets.
 alwaysApply: true
 ---
 
-# Torque Repository Agent Guide
+# @qforge/torque-eval Agent Guide
 
-## Mission & Scope
-- Keep the Torque monorepo healthy: the core DSL (`packages/torque`), evaluation helpers (`packages/torque-eval`), shared scripts, and StackBlitz templates.
-- Prefer small, reviewable changes; surface architectural or product questions early.
-- Preserve type safety, deterministic generation, and reproducibility across every package.
+## Purpose
+- Provide LLM-assisted scoring (`scoreDataset`) and pairwise comparisons (`compareDatasets`) for Torque-generated datasets.
+- Support both file-based `.json/.jsonl` inputs and in-memory `IDatasetRow[]` payloads with optional deterministic sampling.
+- Output aggregated scores, rationales, and winner tallies suitable for dashboards or regression tracking.
 
-## Context Map
-- `packages/torque`: declarative DSL for assembling synthetic LLM datasets (schemas, generators, RNG helpers, CLI renderer).
-- `packages/torque-eval`: dataset scoring + pairwise comparison utilities built on top of Torque exports.
-- `scripts/generate-stackblitz-templates.ts` and `stackblitz-templates/*`: browser playgrounds that must stay in sync with published APIs.
-- Shared data lives in `data/` and examples in `examples/`; keep them lightweight and anonymized.
+## Code Map
+- `src/evaluator.ts`: public API, orchestrates loading, sampling, prompt construction, judge invocation, and aggregation.
+- `src/loaders.ts`: file + JSON parsing helpers; must remain streaming-friendly and side-effect free.
+- `src/sampling.ts`: Mulberry32 deterministic shuffle; never swap RNGs without design review.
+- `src/prompts.ts`: single vs. pairwise rubric builders; ensure instructions stay judge-model-agnostic.
+- `src/parsers.ts`: strict JSON response parsing + fallback heuristics; expand cautiously to avoid silent failures.
+- `src/types.ts`: shared option/result interfaces consumed by dependents.
 
-## Ways of Working
-1. **Clarify intent** – Restate requirements, note assumptions, and point to the relevant files or docs before modifying code.
-2. **Design in the open** – For behavioral shifts or new public APIs, outline the approach (data flow, error handling, backward compatibility) before implementing.
-3. **Bias toward composability** – Reuse existing helpers (e.g., `withSeed`, schema builders, loader utilities) instead of duplicating logic.
-4. **Document as you go** – Update README snippets, StackBlitz templates, or inline JSDoc when APIs change.
-5. **Validate determinism** – Any change touching randomness, caching, or streaming must explain how determinism and reproducibility are preserved.
+## Implementation Guardrails
+1. **Deterministic sampling** – Always pass `seed` through to `shuffleAndSample`; document behavior when fewer rows than `sampleSize` exist.
+2. **Side-effect boundaries** – Loading is the only place that touches the filesystem; everything else should operate on plain data.
+3. **Prompt clarity** – Keep rubric wording concise; note why any new criteria are added and ensure both single + pairwise modes stay aligned.
+4. **Judge abstraction** – Support both `LanguageModel` instances and `(prompt) => Promise<string>` fallbacks; never assume OpenAI-specific fields.
+5. **Robust parsing** – Treat malformed judge responses as recoverable errors with actionable messages (`parsers.ts`); emit enough context for debugging but strip secrets.
 
-## Tooling & Commands
-- Install deps with `bun install` (Node 18+). Keep `bun.lock` consistent.
-- Linting is enforced via TypeScript; run targeted builds instead of ad-hoc scripts.
-- Useful commands:
-  - `bun run --filter @qforge/torque build`
-  - `bun run --filter @qforge/torque-eval build`
-  - `bun test` (or `bun test packages/<pkg>` for targeted suites)
-  - `bun run scripts/generate-stackblitz-templates.ts`
-- Prefer Bun-native test utilities (`bun:test`). Do not introduce new test runners without discussion.
-
-## AI SDK Testing
-- Follow the AI SDK testing guide (https://ai-sdk.dev/docs/ai-sdk-core/testing) whenever a test depends on `generateText` or other `ai` helpers—keep network calls out of CI.
-- Use the mocks re-exported from `ai/test` to stand up deterministic providers; they expose call logs (`mock.doGenerateCalls`) so you can assert prompts without patching global state.
-- Example for a language-model dependency:
+## Testing & Verification
+- Run targeted tests: `bun test packages/torque-eval` (covers evaluator, sampling, parsing).
+- Type check/build: `bun run --filter @qforge/torque-eval build`.
+- When adding loaders or prompt changes, include fixtures in `tests/` or inline snapshots that assert phrasing + token counts.
+- For AI SDK-dependent flows (https://ai-sdk.dev/docs/ai-sdk-core/testing), replace real judge models with `MockLanguageModelV2` from `ai/test` so `generateText` receives deterministic responses:
 
 ```ts
 import { MockLanguageModelV2 } from "ai/test";
-import { scoreDataset } from "@qforge/torque-eval";
+import { scoreDataset } from "./evaluator";
 
 const mockJudge = new MockLanguageModelV2({
   doGenerate: async () => ({
@@ -48,10 +41,10 @@ const mockJudge = new MockLanguageModelV2({
       {
         type: "text",
         text: JSON.stringify({
-          quality: 10,
-          coherence: 9,
+          quality: 8,
+          coherence: 8,
           adherence: 9,
-          notes: "passes rubric",
+          notes: "rubric satisfied",
         }),
       },
     ],
@@ -61,33 +54,26 @@ const mockJudge = new MockLanguageModelV2({
   }),
 });
 
-await scoreDataset({
+const result = await scoreDataset({
   dataset,
   sampleSize: 1,
-  judgeModel: mockJudge, // behaves like a LanguageModel from ai-sdk
+  judgeModel: mockJudge,
 });
 ```
 
-- Prefer feeding helpers/functions (e.g., pass `async (prompt) => JSON.stringify({...})`) only for ultra-light tests; `MockLanguageModelV2` (and its streaming sibling) gives better parity with production code.
-
-## Quality Bar
-- Every change must include automated coverage or a justification for gaps.
-- Keep prompts, instructions, and fixtures free of secrets or user data.
-- Large data files (>1MB) should live in `data/` and be gitignored if generated.
-- Public APIs require changelog/README updates and migrate notes if breaking.
+- For judge integrations you cannot exercise locally, provide mock implementations in tests and document manual verification steps in PR notes.
 
 ## When to Escalate to a Human
-- You need new third-party services, paid APIs, or environment variables.
-- A change could break template backwards compatibility or published npm contracts.
-- A deterministic behavior (RNG, sampling, caching) must change.
-- Security/privacy concerns, or when unsure how to anonymize sample data.
+- Adding support for new file formats, third-party judge APIs, or long-running background jobs.
+- Changing scoring rubrics, aggregation math, or any public return shape.
+- Introducing persistence, telemetry, or secrets storage requirements.
 
-## Deliverables Checklist
-- [ ] Code + tests pass via Bun
-- [ ] Docs/templates reflect the change
-- [ ] Repro steps and verification commands included in PR/summary
-- [ ] Todo / follow-up issues opened if scope is split
+## Definition of Done
+- Deterministic sampling verified by tests (fixed seed expectations).
+- Error messages link the failing row/id whenever possible.
+- README examples reflect new behaviors or options.
+- Outputs remain serializable (JSON-safe) and backwards compatible.
 
 ---
 > Source: [qforge-dev/torque](https://github.com/qforge-dev/torque) — distributed by [TomeVault](https://tomevault.io).
-<!-- tomevault:4.0:cursor_mdc:2026-04-22 -->
+<!-- tomevault:4.0:cursor_mdc:2026-07-21 -->
