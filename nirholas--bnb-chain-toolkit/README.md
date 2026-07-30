@@ -5,14 +5,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [nirholas/bnb-chain-toolkit](https://github.com/nirholas/bnb-chain-toolkit).
+Original source: `copilot-instructions.md` in [nirholas/bnb-chain-toolkit](https://github.com/nirholas/bnb-chain-toolkit).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 ## Bundled Skills (1)
