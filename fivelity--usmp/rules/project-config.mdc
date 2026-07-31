@@ -1,21 +1,22 @@
 ---
-description: WebSocket protocol details, API interaction patterns, and data formats.
+description: Markdown usage, specific document types, and update frequency.
 alwaysApply: true
 ---
 
-# 04-data-management-communication
+# 06-documentation-standards
 
-## Data Management & Communication
+## Documentation Standards
 
 STRICT REQUIREMENT:
-- WebSocket Protocol: Backend must send real-time sensor data updates over WebSockets, and frontend must maintain connections.
-- API Interactions: Standardize endpoints for configuration retrieval and sensor discovery.
-- Data Persistence: If necessary, use Firestore (local storage). Firestore paths must follow:
-  - Public data: `/artifacts/{appId}/public/data/{collection}`
-  - Private data: `/artifacts/{appId}/users/{userId}/{collection}`
-- Firebase Authentication: Required before Firestore operations.
-- Data Formats: Use JSON for API responses and WebSocket messages.
-- API Endpoints: Use RESTful endpoints for configuration retrieval and sensor discovery.
+- Maintain documentation in `docs/` using Markdown (`.md`).
+- API Documentation: Update `docs/API_DOCUMENTATION.md` with endpoint details.
+- Developer Guide: Ensure `docs/DEVELOPER_GUIDE.md` covers setup, testing, and contributions.
+- User Guide: Keep `docs/USER_GUIDE.md` updated for platform usage.
+- Maintain specialized documentation:
+  - `docs/SVELTE_STANDARDS.md`
+  - `docs/CUSTOM_WIDGET_DEVELOPMENT.md`
+  - `docs/THEME_SYSTEM.md`
+  - `docs/TROUBLESHOOTING.md`
 
 ---
 > Source: [fivelity/usmp](https://github.com/fivelity/usmp) — distributed by [TomeVault](https://tomevault.io).
