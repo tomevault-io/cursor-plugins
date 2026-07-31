@@ -5,11 +5,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mholovetskyi/openclawenterprise](https://github.com/mholovetskyi/openclawenterprise).
+Original source: `` in [mholovetskyi/openclawenterprise](https://github.com/mholovetskyi/openclawenterprise).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
