@@ -1,150 +1,181 @@
 ---
-description: Copilot Assistant Rules
+description: Rails Background Jobs Guide (Solid Queue)
 alwaysApply: true
 ---
 
 
-# Copilot Assistant Rules
+# Rails Background Jobs Guide (Solid Queue)
 
-## Assistant Behavior
+## Core Philosophy
 
-- Be terse and direct in responses
-- Ask clarifying questions before implementing complex features
-- Anticipate needs and suggest improvements proactively
-- Focus on high-quality, production-ready code
-- Use analogies when explaining complex concepts
+- Use database-backed queuing for simplicity and reliability
+- Avoid external dependencies like Redis when possible
+- Design jobs to be idempotent and retryable
+- Keep background processing simple and focused
+- Leverage Rails' built-in Active Job framework
 
-## Code Generation Principles
+## Solid Queue Principles
 
-### Quality Standards
+- Database-backed job storage using FOR UPDATE SKIP LOCKED
+- No external dependencies required for basic operation
+- Built-in support for priorities, concurrency limits, and recurring jobs
+- Seamless integration with Active Job interface
+- Production-ready performance with PostgreSQL or MySQL
 
-- Generate code that could ship to production
-- Follow established patterns in the codebase
-- Maintain consistency with existing architecture
-- Every piece of code should be testable
-- Documentation is not optional
+## Configuration Strategy
 
-### Style Guidelines
+- Use separate database for queue in high-volume production environments
+- Configure workers based on job priorities and server resources
+- Set appropriate polling intervals for job urgency
+- Design thread counts based on database connection limits
+- Monitor queue depth and processing times
 
-- Respect .prettierrc and linting configurations
-- Prefer clarity over cleverness
-- Use descriptive names that reveal intent
-- Keep line lengths reasonable
-- Consistent indentation and formatting
+## Queue Organization
 
-### Architecture Focus
+- Design queues based on priority and processing requirements
+- Use semantic queue names that indicate purpose
+- Configure dedicated workers for high-priority queues
+- Set appropriate concurrency limits per queue type
+- Use wildcards sparingly - prefer explicit queue names
 
-- Think in systems, not just functions
-- Consider scalability implications
-- Design for maintainability
-- Separate concerns appropriately
-- Make dependencies explicit
+## Job Design Principles
 
-## Project Awareness
+- Make all jobs idempotent - safe to run multiple times
+- Keep jobs small and focused on single tasks
+- Pass simple arguments - prefer IDs over objects
+- Design for eventual consistency
+- Handle failures gracefully with proper error reporting
 
-### Context Loading
+## Error Handling Strategy
 
-Always check for `.github/PROJECT_CONTEXT.md` which contains:
+- Configure retry behavior based on job importance
+- Use exponential backoff for transient failures
+- Discard jobs that cannot succeed after retries
+- Log errors with sufficient context for debugging
+- Monitor failed job patterns for system issues
 
-- Current architectural patterns
-- Technology stack decisions
-- Team conventions and preferences
-- Recent design decisions
-- Performance considerations
-- Known technical debt
+## Concurrency Controls
 
-### File Organization
+- Use `limits_concurrency` to prevent resource exhaustion
+- Define concurrency keys based on resource constraints
+- Set appropriate duration for concurrency locks
+- Group related jobs with concurrency controls
+- Monitor for concurrency bottlenecks
 
-- Follow existing project structure
-- Keep related code together
-- Use standard naming conventions
-- Maintain clear module boundaries
+## Recurring Jobs
 
-## Code Patterns
+- Define recurring jobs in configuration, not code
+- Use cron-like syntax for scheduling
+- Keep recurring job logic simple and fast
+- Monitor recurring job execution patterns
+- Handle overlapping executions appropriately
 
-### Error Handling
+## Performance Optimization
 
-- Fail fast with clear messages
-- Use appropriate error types
-- Handle errors at the right level
-- Provide actionable error messages
-- Log errors appropriately
+- Use exact queue names for better polling performance
+- Configure batch sizes based on job characteristics
+- Set polling intervals according to latency requirements
+- Monitor database load from job queries
+- Index job tables appropriately
 
-### Testing Approach
+## Database Configuration
 
-- Write tests alongside implementation
-- Test edge cases explicitly
-- Use descriptive test names
-- Keep tests simple and focused
-- Mock external dependencies
+- Use separate database for Solid Queue in production
+- Configure appropriate connection pool sizes
+- Set transaction isolation levels correctly
+- Monitor database performance metrics
+- Plan for job table maintenance
 
-### Documentation
+## Worker Management
 
-- Document why, not what
-- Include examples for complex APIs
-- Keep docs in sync with code
-- Use consistent documentation format
-- Document assumptions and constraints
+- Use Puma plugin for integrated process management
+- Configure supervisor for automatic restarts
+- Set appropriate number of worker processes
+- Monitor worker health and performance
+- Handle graceful shutdowns properly
 
-## Language-Specific Rules
+## Job Arguments
 
-### Ruby on Rails
+- Pass primitive types and simple data structures
+- Avoid passing full ActiveRecord objects
+- Use GlobalID for model references
+- Keep argument size reasonable
+- Version job arguments for backwards compatibility
 
-Refer to `rails-instructions.md` for:
+## Testing Strategy
 
-- Rails conventions and patterns
-- ActiveRecord best practices
-- Testing with RSpec
-- API design guidelines
+- Test job logic separately from queueing
+- Use perform_now in tests for synchronous execution
+- Test retry and failure scenarios
+- Verify idempotency with multiple executions
+- Mock external dependencies appropriately
 
-## Performance & Security
+## Monitoring Best Practices
 
-### Performance
+- Track job queue depth and latency
+- Monitor job success/failure rates
+- Alert on queue backlogs
+- Track job execution times
+- Monitor worker resource usage
 
-- Consider algorithmic complexity
-- Profile before optimizing
-- Cache strategically
-- Use appropriate data structures
-- Avoid premature optimization
+## Deployment Considerations
 
-### Security
+- Use Kamal for container-based deployments
+- Configure health checks for workers
+- Implement zero-downtime deployments
+- Handle long-running jobs during deploys
+- Monitor deployment impact on queues
 
-- Sanitize all inputs
-- Use secure defaults
-- Follow OWASP guidelines
-- Never expose sensitive data
-- Keep dependencies updated
+## Migration Strategy
 
-## AI Assistant Guidelines
+- Plan migration from other queue backends carefully
+- Run both systems in parallel during transition
+- Migrate jobs gradually by type
+- Monitor for issues during migration
+- Have rollback plan ready
 
-### When Generating Code
+## Debugging Techniques
 
-1. Check `PROJECT_CONTEXT.md` first
-2. Follow existing patterns in codebase
-3. Include appropriate tests
-4. Add necessary documentation
-5. Consider edge cases
+- Use Rails console to inspect job state
+- Query job tables directly when needed
+- Add structured logging to jobs
+- Use APM tools for job performance
+- Track job execution paths
 
-### When Explaining Concepts
+## Lifecycle Hooks
 
-- Use clear analogies
-- Provide concrete examples
-- Link to authoritative sources
-- Keep explanations concise
-- Focus on practical application
+- Use Solid Queue callbacks for monitoring
+- Track job state transitions
+- Implement custom instrumentation
+- Monitor for stuck jobs
+- Alert on abnormal patterns
 
-### When Suggesting Improvements
+## Best Practices
 
-- Consider the bigger picture
-- Propose incremental changes
-- Explain trade-offs clearly
-- Respect existing constraints
-- Suggest best-in-class solutions
+- Keep jobs simple and focused
+- Design for failure and retry
+- Monitor everything important
+- Document job behavior clearly
+- Test edge cases thoroughly
 
----
+## Common Patterns
 
-_Note: Language-specific and PROJECT_CONTEXT rules override these defaults._
+- Email delivery jobs with rate limiting
+- Report generation with progress tracking
+- Data import/export with chunking
+- Webhook processing with retries
+- Scheduled maintenance tasks
+
+## Anti-Patterns to Avoid
+
+- Long-running jobs without heartbeats
+- Jobs that modify shared state unsafely
+- Recursive job spawning without limits
+- Jobs with external dependencies in transactions
+- Overly complex job orchestration
+
+Remember: Solid Queue brings reliability and simplicity to background processing. Use it to keep your application responsive while handling work asynchronously.
 
 ---
 > Source: [levifig/rails-instructions](https://github.com/levifig/rails-instructions) — distributed by [TomeVault](https://tomevault.io).
-<!-- tomevault:4.0:cursor_mdc:2026-05-06 -->
+<!-- tomevault:4.0:cursor_mdc:2026-07-27 -->
