@@ -1,17 +1,15 @@
 # enchanted-twin
 
-> Source: [EternisAI/enchanted-twin](https://github.com/EternisAI/enchanted-twin) — distributed by [TomeVault](https://tomevault.io)
-
-Digital Twin
+> Source: [EternisAI/enchanted-twin](https://github.com/EternisAI/enchanted-twin). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [EternisAI/enchanted-twin](https://github.com/EternisAI/enchanted-twin).
+Original source: `CLAUDE.md` in [EternisAI/enchanted-twin](https://github.com/EternisAI/enchanted-twin).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
