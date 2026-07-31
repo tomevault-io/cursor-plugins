@@ -7,114 +7,103 @@ alwaysApply: true
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Project Overview
-
-LetterSpace is an open source, self-hosted newsletter platform. It's a pnpm monorepo with Turbo for task orchestration.
-
 ## Commands
 
-### Development
-
 ```bash
-pnpm dev                    # Run all dev servers (Turbo)
-pnpm build                  # Build all projects
-pnpm lint                   # Lint all projects
-pnpm format                 # Format with Prettier
-```
-
-### Backend-specific
-
-```bash
-pnpm --filter backend dev           # Run backend only
-pnpm --filter backend test          # Run tests (Vitest)
-pnpm --filter backend generate      # Prisma codegen
-pnpm --filter backend migrate:dev   # Dev migrations
+pnpm dev            # Dev server with watchexec
+pnpm start          # Production server (Bun)
+pnpm build          # Compile TypeScript
+pnpm test           # Run tests (Vitest with .env.test)
+pnpm lint           # ESLint
+pnpm lint:fix       # ESLint with auto-fix
+pnpm generate       # Prisma codegen
+pnpm migrate:dev    # Create/apply dev migrations
+pnpm migrate:deploy # Apply production migrations
 ```
 
 ### Database
 
 ```bash
-pnpm --filter backend prisma db seed              # Seed database
-cd apps/backend && pnpm prisma migrate reset --force  # Reset and reseed
+pnpm prisma db seed                    # Seed database
+pnpm prisma migrate reset --force      # Reset and reseed
 ```
-
-### Release Process
-
-```bash
-./scripts/release.sh          # Bumps patch version (default)
-./scripts/release.sh minor    # Bumps minor version
-./scripts/release.sh major    # Bumps major version
-```
-
-The script bumps version in `package.json`, creates a git tag, and pushes it. GitHub Actions builds Docker images and creates a release from `RELEASE_NOTES.md`.
 
 ## Architecture
 
-### Monorepo Structure
+Express + TRPC backend with Prisma ORM. Runs on Bun (or Node.js 22+).
 
-- `apps/backend` - Express + TRPC backend (Bun/Node.js)
-- `apps/web` - Vite + React dashboard (PWA)
-- `apps/landing-page` - Next.js marketing site
-- `apps/docs` - Nextra documentation
-- `packages/ui` - Shared Shadcn UI components
-- `packages/shared` - Shared TypeScript types
-- `packages/eslint-config` - Shared ESLint config
+### Key Files
 
-### Backend Architecture
+- `src/app.ts` - Express app setup, routes, TRPC middleware
+- `src/trpc.ts` - TRPC context, auth middleware, procedure definitions
+- `src/index.ts` - Server entry point, starts cron jobs
+- `src/shared.ts` - Exports for frontend type sharing
+- `prisma/schema.prisma` - Database schema
 
-TRPC routers in `apps/backend/src/router/`:
+### TRPC Router Pattern
 
-- Each domain (user, campaign, subscriber, etc.) has its own directory
-- Pattern: `router.ts` (definition), `mutation.ts` (writes), `query.ts` (reads)
+Each domain has its own directory with consistent structure:
 
-Key entry points:
+```
+src/user/
+  router.ts    - Router definition combining queries and mutations
+  query.ts     - Read procedures (authProcedure or publicProcedure)
+  mutation.ts  - Write procedures
+```
 
-- `apps/backend/src/app.ts` - Express app setup, middleware, routes
-- `apps/backend/src/trpc.ts` - TRPC context and auth
-- `apps/backend/src/cron/` - Scheduled jobs (email sending, maintenance)
+Available routers: user, organization, list, subscriber, campaign, template, message, settings, webhook, dashboard, stats
 
-Endpoints:
+### Procedures
+
+- `publicProcedure` - No auth required
+- `authProcedure` - Requires valid JWT, provides `ctx.user`
+
+### HTTP Endpoints
 
 - `/trpc/*` - TRPC RPC endpoints
-- `/api/*` - REST API (Swagger documented)
-- `/t/:id` - Link tracking redirect
+- `/api/*` - REST API (Swagger docs at `/docs`)
+- `/t/:id` - Link tracking redirect (updates click stats)
 - `/img/:id/img.png` - Email open tracking pixel
+- `/webhook/:webhookId` - Webhook handler for external integrations
+- `/*` - Serves frontend SPA static files
 
-### Frontend Architecture
+### Cron Jobs
 
-React Router app in `apps/web/src/`:
+Defined in `src/cron/`:
 
-- `app.tsx` - Route definitions
-- `pages/` - Page components matching routes
-- TRPC client with React Query for data fetching
-- Token auth via cookies
+- `sendMessages.ts` - Process queued emails
+- `processQueuedCampaigns.ts` - Handle scheduled campaigns
+- `dailyMaintenance.ts` - Database cleanup
+- `cleanupWebhookLogs.ts` - Remove old webhook logs
 
-### Database
+Cron jobs are disabled when `NODE_ENV=development`.
 
-Prisma ORM with PostgreSQL. Schema at `apps/backend/prisma/schema.prisma`.
+### Authentication
 
-Key models: User, Organization (multi-tenancy), Subscriber, List, Campaign, Template, Webhook.
+JWT-based auth with password versioning:
 
-## Tech Stack
+- Token in `Authorization: Bearer <token>` header
+- `verifyToken()` in `src/utils/auth.ts`
+- Password version (`pwdVersion`) forces re-auth on password change
 
-- **Backend**: Express, TRPC, Prisma, PostgreSQL, Bun/Node.js 22+
-- **Frontend**: React 19, Vite, React Router, Shadcn UI, TailwindCSS
-- **Shared**: TypeScript (strict), Zod, React Hook Form
+### Webhook Transformer
 
-## Code Style
+Custom JavaScript transformers run in QuickJS sandbox (`src/webhook/transformer.ts`). Memory limits configurable via env vars.
 
-- Adhere to existing code patterns in the codebase
-- Minimal comments
-- Component files: kebab-case (e.g., `user-profile.tsx`)
-- Component exports: PascalCase (e.g., `export const UserProfile`)
-- Colocate types/data with components when only used by that component
+### Email Sending
 
-## Development Notes
+Nodemailer integration in `src/lib/Mailer.ts`. Returns mock success in development.
 
-- Email sending is disabled in development (`NODE_ENV=development`) - cron jobs skip and mailer returns mock responses
-- Backend tests use `.env.test` for configuration
-- Webhook transformers run in QuickJS sandbox with configurable memory limits
+### Testing
+
+Vitest with Supertest for API tests. Uses `.env.test` for test database.
+
+```bash
+pnpm test                    # Run all tests
+pnpm test -- --watch         # Watch mode
+pnpm test -- path/to/file    # Single file
+```
 
 ---
 > Source: [dcodesdev/LetterSpace](https://github.com/dcodesdev/LetterSpace) — distributed by [TomeVault](https://tomevault.io).
-<!-- tomevault:4.0:cursor_mdc:2026-05-19 -->
+<!-- tomevault:4.0:cursor_mdc:2026-07-23 -->
