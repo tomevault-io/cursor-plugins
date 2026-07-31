@@ -745,6 +745,11 @@
       "description": "moby"
     },
     {
+      "name": "moby--moby",
+      "source": "./moby--moby",
+      "description": "moby"
+    },
+    {
       "name": "hakimel--reveal-js",
       "source": "./hakimel--reveal-js",
       "description": "reveal.js"
@@ -3290,6 +3295,11 @@
       "description": "valkey"
     },
     {
+      "name": "elixir-lang--elixir",
+      "source": "./elixir-lang--elixir",
+      "description": "elixir"
+    },
+    {
       "name": "openai--openai-agents-python",
       "source": "./openai--openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows"
@@ -3463,6 +3473,11 @@
       "name": "go-delve--delve",
       "source": "./go-delve--delve",
       "description": "delve"
+    },
+    {
+      "name": "cilium--cilium",
+      "source": "./cilium--cilium",
+      "description": "cilium"
     },
     {
       "name": "cilium--cilium",
@@ -4013,6 +4028,11 @@
       "name": "nikivdev--flow",
       "source": "./nikivdev--flow",
       "description": "flow"
+    },
+    {
+      "name": "containerd--containerd",
+      "source": "./containerd--containerd",
+      "description": "containerd"
     },
     {
       "name": "containerd--containerd",
@@ -5030,6 +5050,11 @@
       "description": "skaffold"
     },
     {
+      "name": "googlecontainertools--skaffold",
+      "source": "./googlecontainertools--skaffold",
+      "description": "skaffold"
+    },
+    {
       "name": "rjsf-team--react-jsonschema-form",
       "source": "./rjsf-team--react-jsonschema-form",
       "description": "react-jsonschema-form"
@@ -5848,6 +5873,46 @@
       "name": "the-pocket--pocketflow-tutorial-codebase-knowledge",
       "source": "./the-pocket--pocketflow-tutorial-codebase-knowledge",
       "description": "PocketFlow-Tutorial-Codebase-Knowledge"
+    },
+    {
+      "name": "nearai--ironclaw",
+      "source": "./nearai--ironclaw",
+      "description": "ironclaw"
+    },
+    {
+      "name": "nearai--ironclaw",
+      "source": "./nearai--ironclaw",
+      "description": "ironclaw"
+    },
+    {
+      "name": "nearai--ironclaw",
+      "source": "./nearai--ironclaw",
+      "description": "ironclaw"
+    },
+    {
+      "name": "nearai--ironclaw",
+      "source": "./nearai--ironclaw",
+      "description": "ironclaw"
+    },
+    {
+      "name": "nearai--ironclaw",
+      "source": "./nearai--ironclaw",
+      "description": "ironclaw"
+    },
+    {
+      "name": "nearai--ironclaw",
+      "source": "./nearai--ironclaw",
+      "description": "ironclaw"
+    },
+    {
+      "name": "nearai--ironclaw",
+      "source": "./nearai--ironclaw",
+      "description": "ironclaw"
+    },
+    {
+      "name": "nearai--ironclaw",
+      "source": "./nearai--ironclaw",
+      "description": "ironclaw"
     },
     {
       "name": "nearai--ironclaw",
@@ -7908,6 +7973,21 @@
       "name": "mervinpraison--praisonai",
       "source": "./mervinpraison--praisonai",
       "description": "PraisonAI"
+    },
+    {
+      "name": "garmeeh--next-seo",
+      "source": "./garmeeh--next-seo",
+      "description": "next-seo"
+    },
+    {
+      "name": "garmeeh--next-seo",
+      "source": "./garmeeh--next-seo",
+      "description": "next-seo"
+    },
+    {
+      "name": "garmeeh--next-seo",
+      "source": "./garmeeh--next-seo",
+      "description": "next-seo"
     },
     {
       "name": "garmeeh--next-seo",
@@ -10308,6 +10388,21 @@
       "name": "silverbulletmd--silverbullet",
       "source": "./silverbulletmd--silverbullet",
       "description": "silverbullet"
+    },
+    {
+      "name": "dependabot--dependabot-core",
+      "source": "./dependabot--dependabot-core",
+      "description": "dependabot-core"
+    },
+    {
+      "name": "dependabot--dependabot-core",
+      "source": "./dependabot--dependabot-core",
+      "description": "dependabot-core"
+    },
+    {
+      "name": "dependabot--dependabot-core",
+      "source": "./dependabot--dependabot-core",
+      "description": "dependabot-core"
     },
     {
       "name": "dependabot--dependabot-core",
@@ -13690,6 +13785,11 @@
       "description": "TransformerLens"
     },
     {
+      "name": "transformerlensorg--transformerlens",
+      "source": "./transformerlensorg--transformerlens",
+      "description": "TransformerLens"
+    },
+    {
       "name": "coleam00--local-ai-packaged",
       "source": "./coleam00--local-ai-packaged",
       "description": "Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!"
@@ -15413,6 +15513,11 @@
       "name": "xpf0000--flyenv",
       "source": "./xpf0000--flyenv",
       "description": "FlyEnv"
+    },
+    {
+      "name": "xyproto--algernon",
+      "source": "./xyproto--algernon",
+      "description": "algernon"
     },
     {
       "name": "xnx3--translate",
@@ -18508,6 +18613,11 @@
       "name": "openlake-project--openlake",
       "source": "./openlake-project--openlake",
       "description": "openlake"
+    },
+    {
+      "name": "ghostunnel--ghostunnel",
+      "source": "./ghostunnel--ghostunnel",
+      "description": "ghostunnel"
     },
     {
       "name": "ghostunnel--ghostunnel",
@@ -26385,6 +26495,11 @@
       "description": "astronomer-cosmos"
     },
     {
+      "name": "roll20--roll20-character-sheets",
+      "source": "./roll20--roll20-character-sheets",
+      "description": "roll20-character-sheets"
+    },
+    {
       "name": "slopsmith--slopsmith",
       "source": "./slopsmith--slopsmith",
       "description": "Self-hosted Docker web app for browsing, playing & practicing interactive full-band music notation, with an extensive plugin system"
@@ -28878,6 +28993,21 @@
       "name": "microsoft--bf-tree",
       "source": "./microsoft--bf-tree",
       "description": "bf-tree"
+    },
+    {
+      "name": "nkzw-tech--fate",
+      "source": "./nkzw-tech--fate",
+      "description": "fate"
+    },
+    {
+      "name": "nkzw-tech--fate",
+      "source": "./nkzw-tech--fate",
+      "description": "fate"
+    },
+    {
+      "name": "nkzw-tech--fate",
+      "source": "./nkzw-tech--fate",
+      "description": "fate"
     },
     {
       "name": "nkzw-tech--fate",
@@ -31738,6 +31868,11 @@
       "name": "microsoft--fabric-toolbox",
       "source": "./microsoft--fabric-toolbox",
       "description": "fabric-toolbox"
+    },
+    {
+      "name": "kubernetes-sigs--security-profiles-operator",
+      "source": "./kubernetes-sigs--security-profiles-operator",
+      "description": "security-profiles-operator"
     },
     {
       "name": "kubernetes-sigs--security-profiles-operator",
@@ -38850,6 +38985,11 @@
       "description": "sigmap"
     },
     {
+      "name": "mickadesign--fluid-functionalism",
+      "source": "./mickadesign--fluid-functionalism",
+      "description": "fluid-functionalism"
+    },
+    {
       "name": "openhft--chronicle-wire",
       "source": "./openhft--chronicle-wire",
       "description": "Chronicle-Wire"
@@ -41458,6 +41598,11 @@
       "name": "alvr-org--alvr-visionos",
       "source": "./alvr-org--alvr-visionos",
       "description": "alvr-visionos"
+    },
+    {
+      "name": "cilium--hubble-ui",
+      "source": "./cilium--hubble-ui",
+      "description": "hubble-ui"
     },
     {
       "name": "gradle--android-cache-fix-gradle-plugin",
@@ -60240,6 +60385,11 @@
       "description": "optimum-neuron"
     },
     {
+      "name": "meta-quest--meta-spatial-sdk-samples",
+      "source": "./meta-quest--meta-spatial-sdk-samples",
+      "description": "Meta-Spatial-SDK-Samples"
+    },
+    {
       "name": "teng-lin--agent-fetch",
       "source": "./teng-lin--agent-fetch",
       "description": "Full-content web fetcher for AI agents \u2014 Chrome TLS fingerprinting, browser impersonation, and    multi-strategy article extraction"
@@ -66043,6 +66193,21 @@
       "name": "voidhashcom--effect-query",
       "source": "./voidhashcom--effect-query",
       "description": "effect-query"
+    },
+    {
+      "name": "aparajita--capacitor-biometric-auth",
+      "source": "./aparajita--capacitor-biometric-auth",
+      "description": "capacitor-biometric-auth"
+    },
+    {
+      "name": "aparajita--capacitor-biometric-auth",
+      "source": "./aparajita--capacitor-biometric-auth",
+      "description": "capacitor-biometric-auth"
+    },
+    {
+      "name": "aparajita--capacitor-biometric-auth",
+      "source": "./aparajita--capacitor-biometric-auth",
+      "description": "capacitor-biometric-auth"
     },
     {
       "name": "dodoraapp--dodostream",
@@ -78195,6 +78360,16 @@
       "description": "promptpex"
     },
     {
+      "name": "microsoftdocs--azure-ai-docs",
+      "source": "./microsoftdocs--azure-ai-docs",
+      "description": "azure-ai-docs"
+    },
+    {
+      "name": "microsoftdocs--azure-ai-docs",
+      "source": "./microsoftdocs--azure-ai-docs",
+      "description": "azure-ai-docs"
+    },
+    {
       "name": "xenios-jp--xenios",
       "source": "./xenios-jp--xenios",
       "description": "The iOS and MacOS port of Xenia, the Xbox 360 Emulator Research project."
@@ -80383,6 +80558,41 @@
       "name": "pulumi--pulumi-azure-native",
       "source": "./pulumi--pulumi-azure-native",
       "description": "pulumi-azure-native"
+    },
+    {
+      "name": "zeropointsix--empathize-with-others",
+      "source": "./zeropointsix--empathize-with-others",
+      "description": "empathize-with-others"
+    },
+    {
+      "name": "zeropointsix--empathize-with-others",
+      "source": "./zeropointsix--empathize-with-others",
+      "description": "empathize-with-others"
+    },
+    {
+      "name": "zeropointsix--empathize-with-others",
+      "source": "./zeropointsix--empathize-with-others",
+      "description": "empathize-with-others"
+    },
+    {
+      "name": "zeropointsix--empathize-with-others",
+      "source": "./zeropointsix--empathize-with-others",
+      "description": "empathize-with-others"
+    },
+    {
+      "name": "zeropointsix--empathize-with-others",
+      "source": "./zeropointsix--empathize-with-others",
+      "description": "empathize-with-others"
+    },
+    {
+      "name": "zeropointsix--empathize-with-others",
+      "source": "./zeropointsix--empathize-with-others",
+      "description": "empathize-with-others"
+    },
+    {
+      "name": "zeropointsix--empathize-with-others",
+      "source": "./zeropointsix--empathize-with-others",
+      "description": "empathize-with-others"
     },
     {
       "name": "akazwz--hostc",
@@ -93860,6 +94070,11 @@
       "description": "os-moda"
     },
     {
+      "name": "bolivian-peru--os-moda",
+      "source": "./bolivian-peru--os-moda",
+      "description": "os-moda"
+    },
+    {
       "name": "sk-wang--slio-git",
       "source": "./sk-wang--slio-git",
       "description": "A fast, native Git GUI inspired by Intellij Idea and Meld. Built with Rust + Iced."
@@ -95093,6 +95308,36 @@
       "name": "dundalek--stratify",
       "source": "./dundalek--stratify",
       "description": "stratify"
+    },
+    {
+      "name": "osu-nlp-group--mind2web-2",
+      "source": "./osu-nlp-group--mind2web-2",
+      "description": "Mind2Web-2"
+    },
+    {
+      "name": "osu-nlp-group--mind2web-2",
+      "source": "./osu-nlp-group--mind2web-2",
+      "description": "Mind2Web-2"
+    },
+    {
+      "name": "osu-nlp-group--mind2web-2",
+      "source": "./osu-nlp-group--mind2web-2",
+      "description": "Mind2Web-2"
+    },
+    {
+      "name": "osu-nlp-group--mind2web-2",
+      "source": "./osu-nlp-group--mind2web-2",
+      "description": "Mind2Web-2"
+    },
+    {
+      "name": "osu-nlp-group--mind2web-2",
+      "source": "./osu-nlp-group--mind2web-2",
+      "description": "Mind2Web-2"
+    },
+    {
+      "name": "osu-nlp-group--mind2web-2",
+      "source": "./osu-nlp-group--mind2web-2",
+      "description": "Mind2Web-2"
     },
     {
       "name": "pithings--voipi",
@@ -124840,6 +125085,106 @@
       "description": "Namaste-JavaScript"
     },
     {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
+      "name": "melodee-project--melodee",
+      "source": "./melodee-project--melodee",
+      "description": "melodee"
+    },
+    {
       "name": "v-iole-t--tab-harbor",
       "source": "./v-iole-t--tab-harbor",
       "description": "\u4e00\u4e2a\u66f4\u5b89\u9759\u7684\u65b0\u6807\u7b7e\u9875\u5de5\u4f5c\u53f0\uff0c\u628a\u6253\u5f00\u4e2d\u7684\u6807\u7b7e\u3001\u5feb\u6377\u94fe\u63a5\u3001\u5f85\u8bfb\u548c\u8f7b\u91cf\u5f85\u529e\u6536\u8fdb\u540c\u4e00\u4e2a\u987a\u624b\u7684\u7a7a\u95f4\u91cc\u3002"
@@ -133560,6 +133905,16 @@
       "description": "OSPO"
     },
     {
+      "name": "laguagu--claude-code-nextjs-skills",
+      "source": "./laguagu--claude-code-nextjs-skills",
+      "description": "claude-code-nextjs-skills"
+    },
+    {
+      "name": "laguagu--claude-code-nextjs-skills",
+      "source": "./laguagu--claude-code-nextjs-skills",
+      "description": "claude-code-nextjs-skills"
+    },
+    {
       "name": "eduardo-sl--go-agent-skills",
       "source": "./eduardo-sl--go-agent-skills",
       "description": "Curated AI agent skills for Go projects."
@@ -140308,6 +140663,16 @@
       "name": "clima--climatimesteppers-jl",
       "source": "./clima--climatimesteppers-jl",
       "description": "ClimaTimeSteppers.jl"
+    },
+    {
+      "name": "nanassound--conductr",
+      "source": "./nanassound--conductr",
+      "description": "conductr"
+    },
+    {
+      "name": "nanassound--conductr",
+      "source": "./nanassound--conductr",
+      "description": "conductr"
     },
     {
       "name": "oddur--gnosis",
@@ -168590,6 +168955,11 @@
       "description": "home.io"
     },
     {
+      "name": "owshq-academy--btc-zero-prd-claude-code",
+      "source": "./owshq-academy--btc-zero-prd-claude-code",
+      "description": "btc-zero-prd-claude-code"
+    },
+    {
       "name": "aregowe--magento2-module-polyshell-protection",
       "source": "./aregowe--magento2-module-polyshell-protection",
       "description": "Comprehensive defense-in-depth Magento 2 module that closes the PolyShell unrestricted file upload vulnerability (APSB25-94) \u2014 blocking polyglot webshell uploads across eight interception layers inclu"
@@ -171013,6 +171383,26 @@
       "name": "alan-turing-institute--t0-1",
       "source": "./alan-turing-institute--t0-1",
       "description": "t0-1"
+    },
+    {
+      "name": "guyernest--step-functions-agent",
+      "source": "./guyernest--step-functions-agent",
+      "description": "step-functions-agent"
+    },
+    {
+      "name": "guyernest--step-functions-agent",
+      "source": "./guyernest--step-functions-agent",
+      "description": "step-functions-agent"
+    },
+    {
+      "name": "guyernest--step-functions-agent",
+      "source": "./guyernest--step-functions-agent",
+      "description": "step-functions-agent"
+    },
+    {
+      "name": "guyernest--step-functions-agent",
+      "source": "./guyernest--step-functions-agent",
+      "description": "step-functions-agent"
     },
     {
       "name": "r44vc0rp--itui",
@@ -429263,6 +429653,26 @@
       "name": "deekshith1707--ai-meeting-notes-summarizer",
       "source": "./deekshith1707--ai-meeting-notes-summarizer",
       "description": "AI-powered meeting notes summarizer with email sharing capabilities"
+    },
+    {
+      "name": "anders-erik--maem",
+      "source": "./anders-erik--maem",
+      "description": "maem"
+    },
+    {
+      "name": "mayankkatulkar--mindcure-agent",
+      "source": "./mayankkatulkar--mindcure-agent",
+      "description": "mindcure-agent"
+    },
+    {
+      "name": "charlestietjen--aeb-monitor",
+      "source": "./charlestietjen--aeb-monitor",
+      "description": "aeb-monitor"
+    },
+    {
+      "name": "liuguy03--myapp",
+      "source": "./liuguy03--myapp",
+      "description": "myapp"
     }
   ]
 }
