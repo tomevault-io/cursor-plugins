@@ -5,11 +5,10 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [AntonyCorbett/OnlyR](https://github.com/AntonyCorbett/OnlyR).
+Original source: `CLAUDE.md` in [AntonyCorbett/OnlyR](https://github.com/AntonyCorbett/OnlyR).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
