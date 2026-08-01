@@ -1,23 +1,21 @@
 # dish-ai-commit
 
-> Source: [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit) — distributed by [TomeVault](https://tomevault.io)
-
-Vibe Coding!!! 🤖 AI-Powered VSCode extension for generating standardized Git/SVN commit messages. ✨ Supports multiple AI services: OpenAI, ChatGPT, Ollama, Zhipu, DashScope, Doubao, Gemini and VS Code built-in AI. 🌍 Multi-language support (EN/CN/JP/KR/Other). 📊 Auto-generate weekly reports.
+> Source: [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit).
+Original source: `AGENTS.md` in [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit) — a repo with 155+ stars on GitHub.
+From [littleCareless/dish-ai-commit](https://github.com/littleCareless/dish-ai-commit) — a repo with 161+ stars on GitHub.
 
 ---
 
