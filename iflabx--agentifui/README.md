@@ -1,24 +1,24 @@
-# agentifui
+# AgentifUI
 
-> Source: [iflabx/agentifui](https://github.com/iflabx/agentifui) — distributed by [TomeVault](https://tomevault.io)
+> Source: [ifLabX/AgentifUI](https://github.com/ifLabX/AgentifUI). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [iflabx/agentifui](https://github.com/iflabx/agentifui).
+Original source: `AGENTS.md` in [ifLabX/AgentifUI](https://github.com/ifLabX/AgentifUI).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/iflabx/agentifui](https://github.com/iflabx/agentifui)
+From [ifLabX/AgentifUI](https://github.com/ifLabX/AgentifUI) — a repo with 36+ stars on GitHub.
 
 ---
 
-Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
 
-<!-- genome:d-e-q -->
+<!-- genome:d-c-s -->
