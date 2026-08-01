@@ -1,16 +1,17 @@
 # laravel-package-ocean
 
-> Source: [HassanZahirnia/laravel-package-ocean](https://github.com/HassanZahirnia/laravel-package-ocean). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
+> Source: [HassanZahirnia/laravel-package-ocean](https://github.com/HassanZahirnia/laravel-package-ocean). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [HassanZahirnia/laravel-package-ocean](https://github.com/HassanZahirnia/laravel-package-ocean).
+Original source: `` in [HassanZahirnia/laravel-package-ocean](https://github.com/HassanZahirnia/laravel-package-ocean).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
