@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [contentful/ui-extensions-sdk](https://github.com/contentful/ui-extensions-sdk).
+Original source: `CLAUDE.md` in [contentful/ui-extensions-sdk](https://github.com/contentful/ui-extensions-sdk).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
