@@ -1,16 +1,15 @@
 # dotai
 
-> Tome by [andrewhopper](https://github.com/andrewhopper/dotai) — distributed by [TomeVault](https://tomevault.io)
-
-Tired of scattered Cursor files and messy AI projects? .ai gives you streamlined governance with templates for the entire development lifecycle - from customer discovery to deployment
+> Tome by [andrewhopper](https://github.com/andrewhopper/dotai), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [andrewhopper/dotai](https://github.com/andrewhopper/dotai).
+Original source: `` in [andrewhopper/dotai](https://github.com/andrewhopper/dotai).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
