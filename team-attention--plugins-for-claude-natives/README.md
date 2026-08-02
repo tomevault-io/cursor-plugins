@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [team-attention/plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives).
+Original source: `CLAUDE.md` in [team-attention/plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
