@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial).
+Original source: `CLAUDE.md` in [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
