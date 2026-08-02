@@ -1,8 +1,6 @@
 # vibe-coder-3d
 
-> Source: [jonit-dev/vibe-coder-3d](https://github.com/jonit-dev/vibe-coder-3d) — distributed by [TomeVault](https://tomevault.io)
-
-@react-three/fiber 3D game engine
+> Source: [jonit-dev/vibe-coder-3d](https://github.com/jonit-dev/vibe-coder-3d). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
@@ -17,7 +15,7 @@ Original source: `CLAUDE.md` in [jonit-dev/vibe-coder-3d](https://github.com/jon
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/jonit-dev/vibe-coder-3d](https://github.com/jonit-dev/vibe-coder-3d)
+Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/jonit-dev/vibe-coder-3d](https://github.com/jonit-dev/vibe-coder-3d)
 
 ---
 
