@@ -1,8 +1,6 @@
 # happier
 
-> Source: [happier-dev/happier](https://github.com/happier-dev/happier) — distributed by [TomeVault](https://tomevault.io)
-
-Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted
+> Source: [happier-dev/happier](https://github.com/happier-dev/happier). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
@@ -17,7 +15,7 @@ Original source: `CLAUDE.md` in [happier-dev/happier](https://github.com/happier
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-Quality verified by TomeVault's automated analysis pipeline. Source: [github.com/happier-dev/happier](https://github.com/happier-dev/happier)
+Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/happier-dev/happier](https://github.com/happier-dev/happier)
 
 ---
 
