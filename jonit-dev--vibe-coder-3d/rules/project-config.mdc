@@ -1,200 +1,402 @@
 ---
-description: - Don't trust, verify. Whenever you finish your code, add tests to prove it works or sping the `visual-debugger` agent to actually visualize the changes. If changes are only visible sequentially, feel free to take screenshots and analize differences.
+description: The Asset Library System provides a centralized, reusable asset management infrastructure for materials, prefabs, input configurations, and scripts. Assets can be defined in external files and referenced from scenes using path-based references.
 alwaysApply: true
 ---
 
-## Most Critical Rule
+# Asset Library System
 
-- Don't trust, verify. Whenever you finish your code, add tests to prove it works or sping the `visual-debugger` agent to actually visualize the changes. If changes are only visible sequentially, feel free to take screenshots and analize differences.
-- Only stop your iterations when related tests are PASSING and the visual debugger shows expected results.
+## Overview
 
-**Rules**
+The Asset Library System provides a centralized, reusable asset management infrastructure for materials, prefabs, input configurations, and scripts. Assets can be defined in external files and referenced from scenes using path-based references.
 
-- Import via TS path aliases (see tsconfig).
-- Yarn only; Tailwind for CSS.
-- Stick to SRP / DRY / KISS principles
-- Prefix interfaces with `I`.
-- Keep components small; put logic in hooks.
-- Respect naming/folder conventions; explore code when unsure.
-- use tree command to explore the codebase
-- Do not generate .backup files.
+## Architecture
 
-**Critical**
+### Core Components
 
-- ALWAYS use proper TypeScript types - no `any` types
-- React: focus on hook usage (encapsulate logic) + prevent re-rendering
-- Dont immediately jump into problems. Gather context first by reading related files until you understand the problem.
-- Always consider performance implications of your changes.
-- Don't request approval—just do it.
-- Named exports only; no barrel `index.ts`.
-- Declare components inline: `export const …`.
-- Don't run `yarn dev`; ask me to.
-- Prefix interfaces with I
-- Favor using Zod
-- Use zustand for state management
-- Unless explicitly oriented, do not keep deprecated code or write legacy versions of it. Just cleanup.
-- DO NOT add extra formatting, verbose logging, or unnecessary comments without being explicitly asked
-- Use Vite plugins (@src/plugins/) for API endpoints - NO Express server
+1. **Asset Types** (`AssetTypes.ts`)
+   - Defines all supported asset types: `material`, `prefab`, `input`, `script`
+   - Provides constants for file extensions and define function names
+   - Exports utility functions for working with asset references
 
-**Technical Debt Prevention**
+2. **Asset Reference Resolver** (`AssetReferenceResolver.ts`)
+   - Resolves asset references to actual asset data
+   - Supports two reference types:
+     - **Library references**: `@/materials/common/Default`
+     - **Scene-relative references**: `./materials/TreeGreen`
+   - Caches resolved assets for performance
+   - Automatically parses asset files using regex patterns
 
-- NO console.log/warn/error in production code - use @core/lib/logger instead
-- NO singleton pattern - use dependency injection or React context
-- Components MUST be <200 lines - split if larger
-- Error handling MUST be consistent with try-catch patterns
-- React components MUST use React.memo for expensive renders
-- useEffect dependencies MUST be minimal and specific
+3. **Asset Library Catalog** (`AssetLibraryCatalog.ts`)
+   - Scans and indexes all library assets
+   - Provides fast lookup for asset existence
+   - Used by serializer to determine library vs scene-local assets
 
-**Logging Guidelines**
+4. **Browser Asset Loader** (`BrowserAssetLoader.ts`)
+   - Client-side asset loader using Vite's `import.meta.glob`
+   - Dynamically loads assets from library directories
+   - Used by editor stores to populate asset registries
 
-- Use structured logging via @core/lib/logger: `const logger = Logger.create('ComponentName')`
-- Replace console.log with logger.debug(), console.warn with logger.warn(), console.error with logger.error()
-- Example: `logger.info('Scene loaded', { entities: entityCount, materials: materialCount })`
-- Logger automatically handles production filtering and structured output
-- Use namespaces to organize logs by module/component
+## Directory Structure
 
-**Documentation**
-
-- When discovering important patterns, architectural decisions, or learnings during development, document them in nested folder CLAUDE.md files
-- Update existing nested CLAUDE.md files when new insights are gained about that area of the codebase
-- Keep documentation focused on implementation details, gotchas, and architectural decisions specific to that folder/module
-
----
-
-## Development & Debugging Workflow
-
-### Running Scenes
-
-**TypeScript Editor (Web):**
-
-```bash
-yarn dev  # Starts at http://localhost:5173
-# Scenes auto-load from localStorage or default scene
-# Scenes located in: src/game/scenes/*.tsx
+```
+/src/game/assets/          # Asset library root
+├── materials/
+│   ├── common/
+│   │   ├── Default.material.tsx
+│   │   └── TestMaterial.material.tsx
+│   └── CrateTexture.material.tsx
+├── inputs/
+│   └── Default.input.tsx
+├── prefabs/
+│   └── (prefab files)
+└── scripts/
+    └── (script files)
 ```
 
-**Rust Engine (Native):**
+## Asset File Format
 
-```bash
-# Basic run
-yarn rust:engine --scene testphysics
+### Materials
 
-# With debug mode (colliders, FPS, grid)
-yarn rust:engine --scene testphysics --debug
+```typescript
+// src/game/assets/materials/common/Default.material.tsx
+import { defineMaterial } from '@core/lib/serialization/assets/defineMaterials';
 
-# Custom window size
-yarn rust:engine --scene testphysics --width 1920 --height 1080
-
-# Scenes located in: rust/game/scenes/tests/*.json
+export default defineMaterial({
+  id: 'default',
+  name: 'Default Material',
+  shader: 'standard',
+  materialType: 'solid',
+  color: '#cccccc',
+  // ... other properties
+});
 ```
 
-### Debugging Tools
+### Multiple Materials (Scene-Local)
 
-**TypeScript Editor:**
+```typescript
+// src/game/scenes/Forest/Forest.materials.tsx
+import { defineMaterials } from '@core/lib/serialization/assets/defineMaterials';
 
-- **Status Bar** (bottom): FPS, memory, entity count, script perf, triangle budget, LOD quality
-- **Debug Section** (inspector): Entity/component details, real-time property editing
-- **Logger**: Use `Logger.create('Name')` for structured logging (see Logging Guidelines)
-- **Browser DevTools**: Full log output in dev mode, filtered in production
-
-**Rust Engine Debug Mode:**
-
-```bash
-yarn rust:engine --scene testphysics --debug
+export default defineMaterials([
+  { id: 'TreeBark', name: 'Tree Bark', color: '#3d2817' },
+  { id: 'Grass', name: 'Grass', color: '#2d5016' },
+]);
 ```
 
-- **F1**: Toggle HUD (FPS, frame time, physics stats, GPU timings)
-- **F2**: Toggle collider gizmos (yellow outlines)
-- **F3**: Toggle debug camera (orbital controller)
-- **F4**: Toggle GPU profiler
-- Ground grid and axes visualization
-- Verbose logging: `RUST_LOG=debug yarn rust:engine --scene testphysics`
-- Stack traces: `RUST_BACKTRACE=1 yarn rust:engine --scene testphysics`
+### Input Assets
 
-**Editor Keyboard Shortcuts:**
+```typescript
+// src/game/assets/inputs/Default.input.tsx
+import { defineInputAsset } from '@core/lib/serialization/assets/defineInputAssets';
+import { ActionType, ControlType, DeviceType, CompositeType } from '@core';
 
-- **Ctrl+N**: Add Object
-- **Ctrl+S**: Save Scene (saves both .tsx and .json)
-- **Ctrl+/**: Toggle Chat
-- **Delete**: Delete Selected
-
-### Taking Screenshots
-
-```bash
-# Basic screenshot (saves to rust/engine/screenshots/<scene>.jpg)
-yarn rust:screenshot --scene testphysics
-
-# Custom path and quality
-cargo run -- --scene testphysics --screenshot \
-  --screenshot_path output/test.jpg \
-  --screenshot_quality 85 \
-  --screenshot_scale 0.8
+export default defineInputAsset({
+  name: 'Default Input',
+  controlSchemes: [...],
+  actionMaps: [...],
+});
 ```
 
-### Common Debugging Workflows
+## Asset References
 
-**Debug Physics:**
+### In Scene Files
 
-```bash
-yarn rust:engine --scene testphysics --debug
-# Press F2 for colliders, F3 for orbit cam, F1 for stats
+Entities reference materials using `materialRef`:
+
+```typescript
+// Scene file with library reference
+{
+  id: 1,
+  name: 'Cube',
+  components: {
+    MeshRenderer: {
+      meshId: 'cube',
+      materialRef: '@/materials/common/Default', // Library reference
+    },
+  },
+}
+
+// Scene file with scene-local reference
+{
+  id: 2,
+  name: 'Tree',
+  components: {
+    MeshRenderer: {
+      meshId: 'tree',
+      materialRef: './materials/TreeBark', // Scene-local reference
+    },
+  },
+}
 ```
 
-**Debug Scripts:**
+### Multi-File Scenes
 
-```bash
-RUST_LOG=debug yarn rust:engine --scene testscripting --verbose
-# Scripts: rust/game/scripts/tests/*.lua
+When using multi-file format, the serializer automatically:
+1. Checks if a material exists in the library catalog
+2. Uses `@/` reference if found in library
+3. Falls back to `./` reference for scene-local materials
+4. Extracts scene-local materials to `SceneName.materials.tsx`
+
+## Loading Flow
+
+### Editor Store Initialization
+
+1. **Materials Store** (`materialsStore.ts`):
+   ```typescript
+   const loadLibraryMaterials = async () => {
+     const loader = new BrowserAssetLoader();
+     const libraryMaterials = await loader.loadMaterials();
+
+     libraryMaterials.forEach((material) => {
+       registry.upsert(material);
+     });
+
+     get()._refreshMaterials();
+   };
+
+   loadLibraryMaterials();
+   ```
+
+2. **Input Store** (`inputStore.ts`):
+   ```typescript
+   const loadDefaultInputAssets = async () => {
+     const loader = new BrowserAssetLoader();
+     const libraryInputs = await loader.loadInputAssets();
+     return libraryInputs;
+   };
+
+   // Set initial state from loaded assets
+   loadDefaultInputAssets().then((assets) => {
+     set({ assets, currentAsset: assets[0]?.name });
+   });
+   ```
+
+### Scene Loading
+
+1. **Scene Loader** loads scene data
+2. **MultiFileSceneLoader** resolves asset references:
+   - Reads `materialRef` from entity
+   - Uses `AssetReferenceResolver` to load asset file
+   - Replaces reference with inline material data
+   - Passes to deserializer
+
+## Assets API
+
+### Endpoints
+
+#### POST `/api/assets/:type/save`
+Save an asset to the library or scene.
+
+**Request:**
+```json
+{
+  "path": "@/materials/rocks/Granite",
+  "payload": {
+    "id": "Granite",
+    "name": "Granite Material",
+    "color": "#7a7a7a",
+    "roughness": 0.85
+  }
+}
 ```
 
-**Debug Rendering:**
-
-```bash
-yarn rust:screenshot --scene testmaterials  # Capture state
-yarn rust:engine --scene testmaterials --debug  # F4 for GPU timings
+**Response:**
+```json
+{
+  "success": true,
+  "filename": "Granite.material.tsx",
+  "path": "@/materials/rocks/Granite",
+  "size": 425
+}
 ```
 
-**Performance Profiling:**
+#### GET `/api/assets/:type/load?path=...`
+Load an asset from the library.
 
-```bash
-yarn rust:engine --scene testphysics --debug
-# F1: FPS/frame time, F4: GPU breakdown
-# Monitor triangle count in TS editor status bar
+**Example:** `/api/assets/material/load?path=@/materials/common/Default`
+
+**Response:**
+```json
+{
+  "success": true,
+  "filename": "Default.material.tsx",
+  "payload": {
+    "id": "default",
+    "name": "Default Material",
+    // ... asset data
+  }
+}
 ```
 
-### Quick Development Cycle
+#### GET `/api/assets/:type/list?scope=library|scene&scene=...`
+List all assets of a type.
 
-```bash
-# 1. Start editor
-yarn dev
+**Example:** `/api/assets/material/list?scope=library`
 
-# 2. Edit scene in browser, save with Ctrl+S
-#    → Saves to src/game/scenes/<name>.tsx (compressed)
-#    → Also saves to rust/game/scenes/tests/<name>.json (full dump)
-
-# 3. Test in Rust engine
-yarn rust:engine --scene <name> --debug
-
-# 4. Iterate on Rust code
-cd rust/engine && cargo check  # Fast error check
-yarn rust:build                # Incremental build (1-5s)
-yarn rust:engine --scene <name>
-
-# 5. Code quality
-yarn lint && yarn typecheck    # TypeScript
-cd rust/engine && cargo clippy && cargo fmt  # Rust
+**Response:**
+```json
+{
+  "success": true,
+  "assets": [
+    {
+      "filename": "Default.material.tsx",
+      "path": "@/materials/common/Default",
+      "size": 456,
+      "type": "material"
+    }
+  ]
+}
 ```
 
-### Key File Locations
+#### DELETE `/api/assets/:type/delete?path=...`
+Delete an asset.
 
-- **TypeScript scenes**: `src/game/scenes/*.tsx` (compressed, for editor)
-- **Rust scenes**: `rust/game/scenes/tests/*.json` (full, for engine)
-- **Lua scripts**: `rust/game/scripts/*.lua` (production), `rust/game/scripts/tests/*.lua` (tests)
-- **Screenshots**: `rust/engine/screenshots/`
-- **Docs**: `docs/` (see `docs/0-navigation.md`)
-- **Rust README**: `rust/engine/README.md`
-- **Debug Mode PRD**: `docs/PRDs/rust/rust-debug-mode-prd.md`
+**Example:** `/api/assets/material/delete?path=@/materials/rocks/Granite`
+
+## Integration
+
+### Vite Configuration
+
+```typescript
+// vite.config.ts
+import { createAssetsApi } from './src/plugins/assets-api/createAssetsApi';
+
+export default defineConfig({
+  plugins: [
+    createAssetsApi({
+      libraryRoot: 'src/game/assets',
+      scenesRoot: 'src/game/scenes',
+    }),
+  ],
+  server: {
+    watch: {
+      ignored: [
+        '**/assets/**/*.material.tsx',
+        '**/assets/**/*.prefab.tsx',
+        '**/assets/**/*.input.tsx',
+        '**/assets/**/*.script.tsx',
+      ],
+    },
+  },
+});
+```
+
+### Multi-File Serialization
+
+```typescript
+const serializer = new MultiFileSceneSerializer();
+const sceneData = await serializer.serializeMultiFile(
+  entities,
+  metadata,
+  materials,
+  prefabs,
+  inputAssets,
+  {
+    preferLibraryRefs: true, // Prefer @/ over ./
+    libraryRoot: 'src/game/assets',
+  }
+);
+```
+
+## Define Helpers
+
+All asset types have consistent define helpers:
+
+```typescript
+// Single asset
+defineMaterial(asset)
+definePrefab(asset)
+defineInputAsset(asset)
+defineScript(asset)
+
+// Multiple assets
+defineMaterials([...])
+definePrefabs([...])
+defineInputAssets([...])
+defineScripts([...])
+```
+
+## Best Practices
+
+1. **Shared Assets → Library**
+   - Place reusable assets in `src/game/assets/`
+   - Use descriptive directory structure
+   - Reference with `@/` prefix
+
+2. **Scene-Specific Assets → Scene-Local**
+   - Place in `SceneName.materials.tsx` etc.
+   - Reference with `./` prefix
+   - Automatically extracted by multi-file serializer
+
+3. **Asset IDs**
+   - Use unique, descriptive IDs
+   - Follow naming convention: PascalCase for library, camelCase for scene-local
+   - IDs must be unique within their scope
+
+4. **File Organization**
+   - Group related assets in subdirectories
+   - Use consistent naming: `AssetName.{type}.tsx`
+   - Keep single assets in library, arrays in scene files
+
+## Migration from Hardcoded Assets
+
+### Before (Hardcoded in Store)
+```typescript
+const ensureTestMaterials = () => {
+  registry.upsert({
+    id: 'test123',
+    name: 'Test Material',
+    // ... properties
+  });
+};
+```
+
+### After (External File)
+```typescript
+// src/game/assets/materials/common/TestMaterial.material.tsx
+export default defineMaterial({
+  id: 'test123',
+  name: 'Test Material',
+  // ... properties
+});
+
+// Store loads automatically via BrowserAssetLoader
+const loadLibraryMaterials = async () => {
+  const loader = new BrowserAssetLoader();
+  const materials = await loader.loadMaterials();
+  materials.forEach(m => registry.upsert(m));
+};
+```
+
+## Troubleshooting
+
+### Asset Not Found
+- Verify file exists in correct directory
+- Check asset ID matches reference
+- Ensure define function is exported as default
+- Clear resolver cache: `resolver.clearCache()`
+
+### Reference Resolution Fails
+- Check reference format: `@/` or `./`
+- Verify asset file extension is correct
+- Check for syntax errors in asset file
+- Review regex patterns in `parseAssetFile()`
+
+### Store Not Loading Assets
+- Verify `import.meta.glob` pattern matches files
+- Check async loading completes before use
+- Ensure BrowserAssetLoader is imported correctly
+- Check browser console for errors
+
+## Related Files
+
+- `/src/core/lib/serialization/assets/` - Core asset system
+- `/src/plugins/assets-api/` - Assets API implementation
+- `/src/game/assets/` - Asset library root
+- `/src/editor/store/materialsStore.ts` - Material store integration
+- `/src/editor/store/inputStore.ts` - Input store integration
+- `/vite.config.ts` - Assets API configuration
 
 ---
 > Source: [jonit-dev/vibe-coder-3d](https://github.com/jonit-dev/vibe-coder-3d) — distributed by [TomeVault](https://tomevault.io).
-<!-- tomevault:4.0:cursor_mdc:2026-05-19 -->
+<!-- tomevault:4.0:cursor_mdc:2026-07-24 -->
