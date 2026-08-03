@@ -5,11 +5,10 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [manthanank/learn-angular](https://github.com/manthanank/learn-angular).
+Original source: `CLAUDE.md` in [manthanank/learn-angular](https://github.com/manthanank/learn-angular).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
