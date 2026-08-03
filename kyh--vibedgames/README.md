@@ -5,11 +5,10 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [kyh/vibedgames](https://github.com/kyh/vibedgames).
+Original source: `CLAUDE.md` in [kyh/vibedgames](https://github.com/kyh/vibedgames).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
