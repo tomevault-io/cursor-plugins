@@ -5,12 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [pact-foundation/pact-python](https://github.com/pact-foundation/pact-python).
+Original source: `AGENTS.md` in [pact-foundation/pact-python](https://github.com/pact-foundation/pact-python).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
