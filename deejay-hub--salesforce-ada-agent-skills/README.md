@@ -7,14 +7,14 @@ Salesforce agent skills to learn and make decisions
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [deejay-hub/salesforce-ada-agent-skills](https://github.com/deejay-hub/salesforce-ada-agent-skills).
+Original source: `CLAUDE.md` in [deejay-hub/salesforce-ada-agent-skills](https://github.com/deejay-hub/salesforce-ada-agent-skills).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [deejay-hub/salesforce-ada-agent-skills](https://github.com/deejay-hub/salesforce-ada-agent-skills) — a repo with 9+ stars on GitHub.
