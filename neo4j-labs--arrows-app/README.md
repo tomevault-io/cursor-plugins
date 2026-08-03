@@ -1,0 +1,28 @@
+# arrows.app
+
+> Source: [neo4j-labs/arrows.app](https://github.com/neo4j-labs/arrows.app). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [neo4j-labs/arrows.app](https://github.com/neo4j-labs/arrows.app).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [neo4j-labs/arrows.app](https://github.com/neo4j-labs/arrows.app) — a repo with 179+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install neo4j-labs/arrows.app
+```
+Source: [github.com/neo4j-labs/arrows.app](https://github.com/neo4j-labs/arrows.app).
+
+<!-- genome:d-i-s -->
