@@ -1,20 +1,20 @@
 # livekit-workshop
 
-> Source: [tsuresh/livekit-workshop](https://github.com/tsuresh/livekit-workshop). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
+> Source: [tsuresh/livekit-workshop](https://github.com/tsuresh/livekit-workshop). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 livekit-workshop
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [tsuresh/livekit-workshop](https://github.com/tsuresh/livekit-workshop).
+Original source: `CLAUDE.md` in [tsuresh/livekit-workshop](https://github.com/tsuresh/livekit-workshop).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [tsuresh/livekit-workshop](https://github.com/tsuresh/livekit-workshop) — a repo with 12+ stars on GitHub.
