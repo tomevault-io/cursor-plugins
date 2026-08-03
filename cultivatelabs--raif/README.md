@@ -1,17 +1,15 @@
 # AI instruction files for raif
 
-> Sourced from [CultivateLabs/raif](https://github.com/CultivateLabs/raif) and converted for every major platform by [TomeVault](https://tomevault.io)
-
-Ruby AI Framework
+> Sourced from [CultivateLabs/raif](https://github.com/CultivateLabs/raif), graded against the public Tome Standard and kept consistent across every major platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [CultivateLabs/raif](https://github.com/CultivateLabs/raif).
+Original source: `AGENTS.md` in [CultivateLabs/raif](https://github.com/CultivateLabs/raif).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
