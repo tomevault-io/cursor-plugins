@@ -1,116 +1,123 @@
 ---
-description: This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+description: ReAct-style agents that can use tools in loops
 alwaysApply: true
 ---
 
-# CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+{% include table-of-contents.md %}
 
-## Project Overview
+# Agents Overview
 
-Raif (Ruby AI Framework) is a Rails engine that provides AI-powered features for Rails applications. It supports multiple LLM providers (OpenAI, Anthropic Claude, AWS Bedrock, OpenRouter) and implements tasks, conversations, and ReAct-style agents with tool capabilities.
+Raif also provides `Raif::Agents::NativeToolCallingAgent`, which implements a ReAct-style agent loop using [tool calls](model_tools):
 
-## Development Commands
-
-### Initial Setup
-```bash
-bundle install
-yarn install
-bin/rails app:db:create
-bin/rails app:db:migrate
-```
-
-### Running Tests
-```bash
-bundle exec rspec              # Run all tests
-bundle exec guard              # Auto-reload test runner
-```
-
-### Building Assets
-```bash
-yarn build:css                 # Build CSS
-yarn watch:css                 # Watch and rebuild CSS
-```
-
-### Linting
-```bash
-bin/lint                       # Run all linters
-bin/lint -a                    # Run with auto-fix
-```
-
-### Development Server
-```bash
-bin/rails server               # Run dummy app server
-```
-
-### Documentation
-```bash
-bundle exec rake yard          # Generate YARD docs
-```
-
-## Architecture & Key Patterns
-
-### Core Domain Model
-- **Raif::Llm**: Base class for LLM providers with unified interface
-- **Raif::Conversation**: Main aggregate for chat interactions, supports polymorphic types
-- **Raif::Agent**: Autonomous agents with NativeToolCalling and ReAct implementations
-- **Raif::ModelTool**: AI-callable tools with JSON Schema validation
-
-### Registry Pattern
 ```ruby
-# Providers are registered dynamically
-Raif.register_llm(Raif::Llms::Anthropic, key: :anthropic_claude_3_5_sonnet, ...)
-Raif.llm(:anthropic_claude_3_5_sonnet)  # Returns configured instance
+# Create a new agent
+agent = Raif::Agents::NativeToolCallingAgent.new(
+  task: "Research the history of the Eiffel Tower",
+  available_model_tools: [Raif::ModelTools::WikipediaSearch, Raif::ModelTools::FetchUrl],
+  creator: current_user
+)
+
+# Run the agent and get the final answer
+final_answer = agent.run!
+
+# Or run the agent and monitor its progress
+agent.run! do |conversation_history_entry|
+  Turbo::StreamsChannel.broadcast_append_to(
+    :my_agent_channel,
+    target: "agent-progress",
+    partial: "my_partial_displaying_agent_progress",
+    locals: { agent: agent, conversation_history_entry: conversation_history_entry }
+  )
+end
 ```
 
-### Key Design Patterns
-- **Isolated namespace**: All models/controllers under `Raif::`
-- **Concern-based composition**: HasLlm, InvokesModelTools, LlmResponseParsing
-- **STI (Single Table Inheritance)**: For conversations, agents, tools
-- **Polymorphic associations**: For creator relationships
-- **Streaming by default**: Uses SSE and Turbo Streams for real-time updates
+On each step of the agent loop, an entry will be added to the `Raif::Agent#conversation_history` and, if you pass a block to the `run!` method, the block will be called with the `conversation_history_entry` as an argument. You can use this to monitor and display the agent's progress in real-time.
 
-### Testing Patterns
-- Uses RSpec with FactoryBot
-- VCR for recording LLM API interactions
-- Test helpers: `stubbed_llm`, `stub_raif_task`, `stub_raif_conversation`, `stub_raif_agent`
-- Shortcut: `FB = FactoryBot`
+The conversation_history_entry will be a hash with "role" and "content" keys:
+```ruby
+{
+  "role" => "assistant",
+  "content" => "a message here"
+}
+```
 
-## Important Development Practices
+`Raif::Agents::NativeToolCallingAgent` prefers provider-side tool enforcement when the selected model can faithfully enforce it for the current tool set. For provider/tool combinations that cannot do that, Raif falls back to runtime validation in the agent loop and logs a warning instead of changing your caller API.
 
-1. **API Keys**: Set via environment variables (OPENAI_API_KEY, ANTHROPIC_API_KEY, etc.)
-2. **Migrations**: Run `rails raif:install:migrations` to copy engine migrations
-3. **View Customization**: Use `rails g raif:views` to override engine views
-4. **Factory Access**: Host apps automatically get Raif's factories via FactoryBot
+## Requiring Tool Calls
 
-## Generators
+You can force the model to call a tool on a given iteration by overriding `tool_choice_for_iteration` and/or `required_tool_for_iteration` on your agent subclass:
 
+- Return a specific model tool class (e.g. `Raif::ModelTools::AgentFinalAnswer`) to require that exact tool.
+- Return `:required` to require that the model call *some* tool (any one of the agent's `available_model_tools`).
+- Return `nil` (the default) to leave tool use up to the model.
+
+```ruby
+class Raif::Agents::ResearchAgent < Raif::Agent
+  def tool_choice_for_iteration
+    # Force a final answer on the last iteration
+    return Raif::ModelTools::AgentFinalAnswer if iteration_count >= max_iterations - 1
+
+    # Otherwise require that the model calls some tool
+    :required
+  end
+end
+```
+
+Under the hood this maps to each provider's native "required tool" API (OpenAI `"required"`, Anthropic `{ type: "any" }`, Bedrock `{ any: {} }`, Google `{ mode: "ANY" }`, OpenRouter via OpenAI). When a specific tool is required, Raif retries on misses and fails the run if the model still does not comply on the final allowed attempt.
+
+The same `tool_choice:` kwarg is also supported directly on `Raif::Llm#chat`:
+
+```ruby
+llm.chat(
+  messages: messages,
+  available_model_tools: [Raif::ModelTools::WikipediaSearch],
+  tool_choice: :required
+)
+```
+
+# Creating Custom Agents
+
+You can create custom agents using the generator:
 ```bash
-rails g raif:install           # Create initializer
-rails g raif:agent AgentName   # Create agent class
-rails g raif:conversation ConversationTypeName  # Create conversation class
-rails g raif:task TaskName --response-format html|text|json  # Create task
-rails g raif:model_tool ToolName  # Create model tool
-rails g raif:views             # Copy views for customization
+rails generate raif:agent WikipediaResearchAgent
 ```
 
-## Common Pitfalls
+This will create a new agent in `app/models/raif/agents/wikipedia_research_agent.rb` along with a system prompt [template](../learn_more/prompt_templates) at `app/views/raif/agents/wikipedia_research_agent.system_prompt.erb`.
 
-- AWS Bedrock requires `aws-sdk-bedrockruntime` gem and AWS credentials
-- Migration checker warns in development if Raif migrations are missing
-- Provider configuration validates that default model keys match registered models
-- Test environment automatically registers test LLMs and embedding models
+You can define the system prompt either in the template or by overriding `build_system_prompt` in the class:
 
-## File Structure
+```ruby
+module Raif
+  module Agents
+    class WikipediaResearchAgent < Raif::ApplicationAgent
+      # If you want to always include a certain set of model tools with this agent type,
+      # uncomment this callback to populate the available_model_tools attribute with your desired model tools.
+      # def populate_default_model_tools
+      #   self.available_model_tools = [
+      #     Raif::ModelTools::WikipediaSearch,
+      #     Raif::ModelTools::FetchUrl
+      #   ]
+      # end
 
-- `app/` - Rails engine application code (controllers, models, views, jobs)
-- `lib/raif/` - Core framework code, registries, configuration
-- `lib/generators/` - Rails generators
-- `spec/` - RSpec tests with dummy Rails app
-- `docs/` - Jekyll documentation site
-- `vcr_cassettes/` - Recorded API interactions for tests
+      # System prompt is defined in app/views/raif/agents/wikipedia_research_agent.system_prompt.erb
+      # Alternatively, you can change your agent's superclass to an existing agent type
+      # (like Raif::Agents::NativeToolCallingAgent) to utilize an existing system prompt,
+      # or override build_system_prompt directly:
+      # def build_system_prompt
+      #   "Your system prompt here"
+      # end
+    end
+  end
+end
+
+```
+
+
+---
+
+**Read next:** [Model Tools](model_tools)
 
 ---
 > Source: [CultivateLabs/raif](https://github.com/CultivateLabs/raif) — distributed by [TomeVault](https://tomevault.io).
-<!-- tomevault:4.0:cursor_mdc:2026-05-18 -->
+<!-- tomevault:4.0:cursor_mdc:2026-07-22 -->
