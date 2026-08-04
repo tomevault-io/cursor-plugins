@@ -1,0 +1,11 @@
+{
+  "name": "caura-ai--memclaw-cross-fleet-gov",
+  "displayName": "memclaw-cross-fleet-gov",
+  "version": "1.0.0",
+  "description": "Multi-agent memory governance demo using MemClaw + OpenClaw. Three agents (Sales, Legal, Admin) share one memory backend with hard fleet boundaries enforced at the query layer. Shows scoped writes, bl",
+  "author": {
+    "name": "caura-ai",
+    "url": "https://github.com/caura-ai"
+  },
+  "homepage": "https://github.com/caura-ai/memclaw-cross-fleet-gov"
+}
