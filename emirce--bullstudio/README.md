@@ -1,17 +1,15 @@
 # bullstudio
 
-> Source: [emirce/bullstudio](https://github.com/emirce/bullstudio) — distributed by [TomeVault](https://tomevault.io)
-
-🐂 Modern dashboard for Bull and BullMQ. Built for developers.
+> Source: [emirce/bullstudio](https://github.com/emirce/bullstudio). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [emirce/bullstudio](https://github.com/emirce/bullstudio).
+Original source: `AGENTS.md` in [emirce/bullstudio](https://github.com/emirce/bullstudio).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
