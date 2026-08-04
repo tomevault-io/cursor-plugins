@@ -1,0 +1,11 @@
+{
+  "name": "rsicarelli--kmp-targets",
+  "displayName": "kmp-targets",
+  "version": "1.0.0",
+  "description": "Gradle plugin for Kotlin Multiplatform that builds only the targets you select. The ones you skip never register, so their tasks never exist.",
+  "author": {
+    "name": "rsicarelli",
+    "url": "https://github.com/rsicarelli"
+  },
+  "homepage": "https://github.com/rsicarelli/kmp-targets"
+}
