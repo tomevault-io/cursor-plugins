@@ -1,16 +1,16 @@
 # dotnet-httpie
 
-> Source: [WeihanLi/dotnet-httpie](https://github.com/WeihanLi/dotnet-httpie). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
+> Source: [WeihanLi/dotnet-httpie](https://github.com/WeihanLi/dotnet-httpie). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [WeihanLi/dotnet-httpie](https://github.com/WeihanLi/dotnet-httpie).
+Original source: `AGENTS.md` in [WeihanLi/dotnet-httpie](https://github.com/WeihanLi/dotnet-httpie).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
