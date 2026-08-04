@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [opendatahub-io/notebooks](https://github.com/opendatahub-io/notebooks).
+Original source: `AGENTS.md` in [opendatahub-io/notebooks](https://github.com/opendatahub-io/notebooks).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [opendatahub-io/notebooks](https://github.com/opendatahub-io/notebooks) — a repo with 33+ stars on GitHub.
+From [opendatahub-io/notebooks](https://github.com/opendatahub-io/notebooks) — a repo with 32+ stars on GitHub.
 
 ---
 
