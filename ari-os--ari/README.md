@@ -1,0 +1,26 @@
+# ARI
+
+> Tome by [Ari-OS](https://github.com/Ari-OS/ARI), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+ARI — Artificial Reasoning Intelligence. Personal AI operating system with 7-layer architecture, three-pillar cognition (LOGOS/ETHOS/PATHOS), constitutional governance, and tamper-evident SHA-256 audit trails. Local-first. Multi-agent. TypeScript.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [Ari-OS/ARI](https://github.com/Ari-OS/ARI).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [Ari-OS/ARI](https://github.com/Ari-OS/ARI) — a repo with 9+ stars on GitHub.
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:t-c-s -->
