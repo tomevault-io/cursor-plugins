@@ -1,0 +1,11 @@
+{
+  "name": "mitos-run--mitos",
+  "displayName": "mitos",
+  "version": "1.0.0",
+  "description": "Millisecond microVM sandbox forking for AI agents on Kubernetes. Firecracker VMs that restore from memory snapshots in milliseconds, fork a running VM into N copies, and persist durable, versioned wor",
+  "author": {
+    "name": "mitos-run",
+    "url": "https://github.com/mitos-run"
+  },
+  "homepage": "https://github.com/mitos-run/mitos"
+}
