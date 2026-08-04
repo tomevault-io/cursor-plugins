@@ -5,12 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops).
+Original source: `AGENTS.md` in [gavinmcfall/home-ops](https://github.com/gavinmcfall/home-ops).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
