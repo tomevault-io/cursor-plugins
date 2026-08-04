@@ -1,0 +1,26 @@
+# AI instruction files for svelte-diff
+
+> Sourced from [humanspeak/svelte-diff](https://github.com/humanspeak/svelte-diff), graded against the public Tome Standard and kept consistent across every major platform by [TomeVault](https://tomevault.io)
+
+📜 A powerful, customizable diff-match-patch library for Svelte with TypeScript support
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [humanspeak/svelte-diff](https://github.com/humanspeak/svelte-diff).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [humanspeak/svelte-diff](https://github.com/humanspeak/svelte-diff) — a repo with 9+ stars on GitHub.
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:a-c-s -->
