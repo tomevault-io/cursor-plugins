@@ -1,0 +1,11 @@
+{
+  "name": "sohex--musefs",
+  "displayName": "musefs",
+  "version": "1.0.0",
+  "description": "Read-only passthrough FUSE filesystem presenting a virtually reorganized, re-tagged view of a music library backed by SQLite \u2014 without copying or modifying audio bytes.",
+  "author": {
+    "name": "Sohex",
+    "url": "https://github.com/Sohex"
+  },
+  "homepage": "https://github.com/Sohex/musefs"
+}
