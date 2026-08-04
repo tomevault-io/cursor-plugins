@@ -1,0 +1,11 @@
+{
+  "name": "toloco--warp-cache",
+  "displayName": "warp_cache",
+  "version": "1.0.0",
+  "description": "Thread-safe Python caching decorator built in Rust. SIEVE eviction, GIL-conditional locking, TTL, async support, cross-process shared memory.",
+  "author": {
+    "name": "toloco",
+    "url": "https://github.com/toloco"
+  },
+  "homepage": "https://github.com/toloco/warp_cache"
+}
