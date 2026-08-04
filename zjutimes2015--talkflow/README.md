@@ -1,0 +1,30 @@
+# talkflow
+
+> Tome by [zjutimes2015](https://github.com/zjutimes2015/talkflow), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+照片转口播
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [zjutimes2015/talkflow](https://github.com/zjutimes2015/talkflow).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [zjutimes2015/talkflow](https://github.com/zjutimes2015/talkflow) — a repo with 0+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install zjutimes2015/talkflow
+```
+Source: [github.com/zjutimes2015/talkflow](https://github.com/zjutimes2015/talkflow).
+
+<!-- genome:t-i-s -->
