@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zizoabdellatife78-ai/flyrank-ml-internship](https://github.com/zizoabdellatife78-ai/flyrank-ml-internship).
+Original source: `AGENTS.md` in [zizoabdellatife78-ai/flyrank-ml-internship](https://github.com/zizoabdellatife78-ai/flyrank-ml-internship).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
