@@ -7,11 +7,11 @@ Observable agent work, from prompt to proof — a local-first desktop IDE for de
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [longyunfeigu/Charter](https://github.com/longyunfeigu/Charter).
+Original source: `AGENTS.md` in [longyunfeigu/Charter](https://github.com/longyunfeigu/Charter).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
