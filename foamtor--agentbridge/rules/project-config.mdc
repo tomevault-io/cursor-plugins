@@ -1,0 +1,23 @@
+---
+description: 与 `AGENTS.md` / `CLAUDE.md` 一致；改规则先改那两份，再同步此处。
+alwaysApply: true
+---
+
+# AgentBridge — Cursor rules
+
+## 核心规则（MUST）
+
+与 `AGENTS.md` / `CLAUDE.md` 一致；改规则先改那两份，再同步此处。
+
+1. `agentbridge_core.application` 禁止 import `adapters`
+2. `domains/` 不持有 `EventSink` 乱推（路由/生命周期组装 sink 除外）
+3. `packages/core` 源码不能写死业务插件名字
+4. 适配器「创建并接到应用」只在组装根 `apps/api/lifespan.py`（测例可注入假实现）
+5. 调用方不具备权限的工具不得进入 LLM tool list；调用时仍须再鉴权
+
+产品级约束见 `docs/00-AgentBridge完整方案.md`。  
+手册：`docs/ai-instructions/` · 人类入门：`docs/guide/`
+
+---
+> Source: [Foamtor/AgentBridge](https://github.com/Foamtor/AgentBridge) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:cursor_mdc:2026-08-03 -->
