@@ -7,11 +7,11 @@ RSC — Really Simple Conversations — is a feeds-native social timeline: peopl
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [rmdes/rsc](https://github.com/rmdes/rsc).
+Original source: `AGENTS.md` in [rmdes/rsc](https://github.com/rmdes/rsc).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
