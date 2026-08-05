@@ -7,11 +7,11 @@ SharpEmu website — landing page and PS5 game compatibility database
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site).
+Original source: `AGENTS.md` in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
