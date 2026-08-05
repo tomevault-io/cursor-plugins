@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [GameFoundry/B3DFramework](https://github.com/GameFoundry/B3DFramework).
+Original source: `AGENTS.md` in [GameFoundry/B3DFramework](https://github.com/GameFoundry/B3DFramework).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
