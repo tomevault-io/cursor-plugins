@@ -7,11 +7,11 @@ An improved multi-agent AIOps and RAG platform for OnCall troubleshooting, featu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Kkkirito-123/Mutil-Rag-Agent](https://github.com/Kkkirito-123/Mutil-Rag-Agent).
+Original source: `AGENTS.md` in [Kkkirito-123/Mutil-Rag-Agent](https://github.com/Kkkirito-123/Mutil-Rag-Agent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
