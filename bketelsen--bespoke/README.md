@@ -7,14 +7,14 @@ A personal app platform: one-off software for exactly one user — built, mainta
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [bketelsen/bespoke](https://github.com/bketelsen/bespoke).
+Original source: `CLAUDE.md` in [bketelsen/bespoke](https://github.com/bketelsen/bespoke).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/bketelsen/bespoke](https://github.com/bketelsen/bespoke)
