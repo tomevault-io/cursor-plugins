@@ -7,11 +7,11 @@ Método jurídico aberto e executável por agentes de IA: base curada de STF/STJ
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [emidio-trancoso/advocacia-aberta](https://github.com/emidio-trancoso/advocacia-aberta).
+Original source: `AGENTS.md` in [emidio-trancoso/advocacia-aberta](https://github.com/emidio-trancoso/advocacia-aberta).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
