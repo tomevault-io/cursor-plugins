@@ -7,11 +7,11 @@ XGo Language Server that runs in the browser using WebAssembly
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [goplus/xgolsw](https://github.com/goplus/xgolsw).
+Original source: `AGENTS.md` in [goplus/xgolsw](https://github.com/goplus/xgolsw).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
