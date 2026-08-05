@@ -7,11 +7,11 @@ Beginner-guided cross-project memory builder for AI assistants
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [mikeshu2001/personal-brain-builder](https://github.com/mikeshu2001/personal-brain-builder).
+Original source: `AGENTS.md` in [mikeshu2001/personal-brain-builder](https://github.com/mikeshu2001/personal-brain-builder).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
