@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock).
+Original source: `AGENTS.md` in [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
