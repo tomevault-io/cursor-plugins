@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit).
+Original source: `AGENTS.md` in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
