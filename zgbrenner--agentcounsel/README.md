@@ -7,11 +7,11 @@ Open-source, AI-agnostic skills for legal teams.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zgbrenner/agentcounsel](https://github.com/zgbrenner/agentcounsel).
+Original source: `AGENTS.md` in [zgbrenner/agentcounsel](https://github.com/zgbrenner/agentcounsel).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
