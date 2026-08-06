@@ -7,11 +7,11 @@ Drive Unreal Engine 5 Blueprint node graphs from outside the editor: read, autho
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sinkingsugar/bpkit](https://github.com/sinkingsugar/bpkit).
+Original source: `AGENTS.md` in [sinkingsugar/bpkit](https://github.com/sinkingsugar/bpkit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
