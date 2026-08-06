@@ -1,0 +1,11 @@
+{
+  "name": "northgraindata--dbt-doctor",
+  "displayName": "dbt-doctor",
+  "version": "1.0.0",
+  "description": "Static analysis and health checks for dbt projects. Find missing docs, missing tests, schema drift risks, stale models, DAG maintainability issues, and CI quality gate failures.",
+  "author": {
+    "name": "northgraindata",
+    "url": "https://github.com/northgraindata"
+  },
+  "homepage": "https://github.com/northgraindata/dbt-doctor"
+}
