@@ -7,11 +7,11 @@ A customizable IPAM / DCIM platform — one place for your IP space, your physic
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [danbyte-net/danbyte](https://github.com/danbyte-net/danbyte).
+Original source: `AGENTS.md` in [danbyte-net/danbyte](https://github.com/danbyte-net/danbyte).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
