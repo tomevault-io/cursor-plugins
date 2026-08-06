@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [juanjo810/libro_computadores_i](https://github.com/juanjo810/libro_computadores_i).
+Original source: `AGENTS.md` in [juanjo810/libro_computadores_i](https://github.com/juanjo810/libro_computadores_i).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
