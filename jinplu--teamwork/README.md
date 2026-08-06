@@ -7,11 +7,11 @@ Evidence-first skills for Codex, Cursor, and Claude Code: research, debugging, p
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [JinPLu/Teamwork](https://github.com/JinPLu/Teamwork).
+Original source: `AGENTS.md` in [JinPLu/Teamwork](https://github.com/JinPLu/Teamwork).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
