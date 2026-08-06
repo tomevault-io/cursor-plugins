@@ -7,11 +7,11 @@ Read and write Altium Designer files (SchDoc, PcbDoc, SchLib, PcbLib, IntLib) fr
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [akiselev/altium-cli](https://github.com/akiselev/altium-cli).
+Original source: `AGENTS.md` in [akiselev/altium-cli](https://github.com/akiselev/altium-cli).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
