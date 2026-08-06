@@ -7,11 +7,11 @@ Nix flake packaging Logseq nightly builds with an Electron-ready FHS wrapper
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Bad3r/nix-logseq-git-flake](https://github.com/Bad3r/nix-logseq-git-flake).
+Original source: `AGENTS.md` in [Bad3r/nix-logseq-git-flake](https://github.com/Bad3r/nix-logseq-git-flake).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
