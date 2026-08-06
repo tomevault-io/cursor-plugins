@@ -7,11 +7,11 @@ Muxy Extensions
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [muxy-app/extensions](https://github.com/muxy-app/extensions).
+Original source: `AGENTS.md` in [muxy-app/extensions](https://github.com/muxy-app/extensions).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
