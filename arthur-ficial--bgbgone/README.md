@@ -7,11 +7,11 @@ The ultimate UNIX-style background remover for macOS. AI-driven via Apple's on-d
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Arthur-Ficial/bgbgone](https://github.com/Arthur-Ficial/bgbgone).
+Original source: `AGENTS.md` in [Arthur-Ficial/bgbgone](https://github.com/Arthur-Ficial/bgbgone).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
