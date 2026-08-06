@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [AntonyKervazoCanut/gba_translator](https://github.com/AntonyKervazoCanut/gba_translator).
+Original source: `AGENTS.md` in [AntonyKervazoCanut/gba_translator](https://github.com/AntonyKervazoCanut/gba_translator).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
