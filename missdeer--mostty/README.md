@@ -7,11 +7,11 @@ Mostty: a fast, lightweight native terminal emulator with libghostty at its core
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [missdeer/mostty](https://github.com/missdeer/mostty).
+Original source: `AGENTS.md` in [missdeer/mostty](https://github.com/missdeer/mostty).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
