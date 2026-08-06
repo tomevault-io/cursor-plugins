@@ -7,11 +7,11 @@ Cinux, C/C++'s version of X64 Operating System, using modern feature in C/C++!
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Awesome-Embedded-Learning-Studio/Cinux](https://github.com/Awesome-Embedded-Learning-Studio/Cinux).
+Original source: `AGENTS.md` in [Awesome-Embedded-Learning-Studio/Cinux](https://github.com/Awesome-Embedded-Learning-Studio/Cinux).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
