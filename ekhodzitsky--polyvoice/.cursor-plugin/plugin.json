@@ -1,0 +1,11 @@
+{
+  "name": "ekhodzitsky--polyvoice",
+  "displayName": "polyvoice",
+  "version": "1.0.0",
+  "description": "Speaker diarization for Rust \u2014 who spoke when. ONNX-powered: Silero VAD, WeSpeaker embeddings, Pyannote segmentation, K-means/AHC clustering, overlap detection. Python bindings & CLI included.",
+  "author": {
+    "name": "ekhodzitsky",
+    "url": "https://github.com/ekhodzitsky"
+  },
+  "homepage": "https://github.com/ekhodzitsky/polyvoice"
+}
