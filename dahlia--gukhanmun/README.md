@@ -7,11 +7,11 @@ A Rust/JavaScript library and CLI tool that converts mixed-script Korean text in
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dahlia/gukhanmun](https://github.com/dahlia/gukhanmun).
+Original source: `AGENTS.md` in [dahlia/gukhanmun](https://github.com/dahlia/gukhanmun).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
