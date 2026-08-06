@@ -7,11 +7,11 @@ AI Agent ဝိုင်းတော်သားများ
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [saturngod/Waing](https://github.com/saturngod/Waing).
+Original source: `AGENTS.md` in [saturngod/Waing](https://github.com/saturngod/Waing).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
