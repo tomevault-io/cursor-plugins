@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [nvpro-samples/vk_gltf_renderer](https://github.com/nvpro-samples/vk_gltf_renderer).
+Original source: `AGENTS.md` in [nvpro-samples/vk_gltf_renderer](https://github.com/nvpro-samples/vk_gltf_renderer).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
