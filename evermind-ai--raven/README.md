@@ -7,11 +7,11 @@ The memory-first, self-improving agent harness built on EverOS, with MiroThinker
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven).
+Original source: `AGENTS.md` in [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
