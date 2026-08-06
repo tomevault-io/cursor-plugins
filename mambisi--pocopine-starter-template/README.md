@@ -7,11 +7,11 @@ Minimal starter template for pocopine apps (#[component] + .poco). Clone or 'Use
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [mambisi/pocopine-starter-template](https://github.com/mambisi/pocopine-starter-template).
+Original source: `AGENTS.md` in [mambisi/pocopine-starter-template](https://github.com/mambisi/pocopine-starter-template).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
