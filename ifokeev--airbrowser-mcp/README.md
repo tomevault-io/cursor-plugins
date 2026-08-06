@@ -7,11 +7,11 @@ Undetectable Chrome for AI agents, web scraping, and automation. REST API + MCP 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ifokeev/airbrowser-mcp](https://github.com/ifokeev/airbrowser-mcp).
+Original source: `AGENTS.md` in [ifokeev/airbrowser-mcp](https://github.com/ifokeev/airbrowser-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
