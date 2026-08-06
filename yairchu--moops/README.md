@@ -7,11 +7,11 @@ Easily write Marimo notebooks that work as CLI scripts with minimal boilerplate
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [yairchu/moops](https://github.com/yairchu/moops).
+Original source: `AGENTS.md` in [yairchu/moops](https://github.com/yairchu/moops).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
