@@ -7,11 +7,11 @@ An aquarium/sea animation in ASCII art for your terminal! This is a Python reimp
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python).
+Original source: `AGENTS.md` in [MKAbuMattar/asciiquarium-python](https://github.com/MKAbuMattar/asciiquarium-python).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
