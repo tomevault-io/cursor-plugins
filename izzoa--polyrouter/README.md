@@ -7,11 +7,11 @@ A self-hostable LLM router / gateway: OpenAI- and Anthropic-compatible, explicit
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [izzoa/polyrouter](https://github.com/izzoa/polyrouter).
+Original source: `AGENTS.md` in [izzoa/polyrouter](https://github.com/izzoa/polyrouter).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
