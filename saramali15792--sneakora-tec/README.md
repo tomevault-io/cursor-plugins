@@ -7,11 +7,11 @@ A modern, full-stack e-commerce web application for browsing and purchasing Skec
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [SARAMALI15792/Sneakora_tec](https://github.com/SARAMALI15792/Sneakora_tec).
+Original source: `AGENTS.md` in [SARAMALI15792/Sneakora_tec](https://github.com/SARAMALI15792/Sneakora_tec).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
