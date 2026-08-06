@@ -7,11 +7,11 @@ Turn any repo AI-first and run resumable, multi-hour Deep Work Plans. An install
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [DailybotHQ/deepworkplan-skill](https://github.com/DailybotHQ/deepworkplan-skill).
+Original source: `AGENTS.md` in [DailybotHQ/deepworkplan-skill](https://github.com/DailybotHQ/deepworkplan-skill).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
