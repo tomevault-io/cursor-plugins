@@ -7,11 +7,11 @@ Agent skill (npx skills) for evidence-based SAP API Policy alignment assessments
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [marianfoo/sap-api-policy-skill](https://github.com/marianfoo/sap-api-policy-skill).
+Original source: `AGENTS.md` in [marianfoo/sap-api-policy-skill](https://github.com/marianfoo/sap-api-policy-skill).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
