@@ -7,11 +7,11 @@ The free, open-source meeting-notes app for your Mac — offline transcription a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ariso-ai/oats](https://github.com/ariso-ai/oats).
+Original source: `AGENTS.md` in [ariso-ai/oats](https://github.com/ariso-ai/oats).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
