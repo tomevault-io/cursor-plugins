@@ -7,11 +7,11 @@ Aplikasi kasir & manajemen multi-cabang Adi Wangi Sembako (Next.js + Turso)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Binis-code/adi-wangi-sembako-v2](https://github.com/Binis-code/adi-wangi-sembako-v2).
+Original source: `AGENTS.md` in [Binis-code/adi-wangi-sembako-v2](https://github.com/Binis-code/adi-wangi-sembako-v2).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
