@@ -7,11 +7,11 @@ Open-source Android phone-use agent. Your phone, on autopilot.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [imoonkey/closepaw](https://github.com/imoonkey/closepaw).
+Original source: `AGENTS.md` in [imoonkey/closepaw](https://github.com/imoonkey/closepaw).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
