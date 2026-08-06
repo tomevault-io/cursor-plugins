@@ -7,11 +7,11 @@ A practical handbook for EPUB authoring, typography, compatibility, and reading-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [liyafly/epub-handbook](https://github.com/liyafly/epub-handbook).
+Original source: `AGENTS.md` in [liyafly/epub-handbook](https://github.com/liyafly/epub-handbook).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
