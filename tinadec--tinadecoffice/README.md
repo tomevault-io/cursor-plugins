@@ -7,11 +7,11 @@ Agent Team. 智能体团队
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Tinadec/TinadecOffice](https://github.com/Tinadec/TinadecOffice).
+Original source: `AGENTS.md` in [Tinadec/TinadecOffice](https://github.com/Tinadec/TinadecOffice).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
