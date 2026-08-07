@@ -7,11 +7,11 @@ Evidence-first reconstruction of Taiwan NHI drug reimbursement rule history
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [copper0722/nhi-rule-history](https://github.com/copper0722/nhi-rule-history).
+Original source: `AGENTS.md` in [copper0722/nhi-rule-history](https://github.com/copper0722/nhi-rule-history).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
