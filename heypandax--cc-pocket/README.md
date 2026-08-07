@@ -7,11 +7,11 @@ Drive Claude Code or OpenAI Codex from your phone — resume sessions, stream ou
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [heypandax/cc-pocket](https://github.com/heypandax/cc-pocket).
+Original source: `AGENTS.md` in [heypandax/cc-pocket](https://github.com/heypandax/cc-pocket).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
