@@ -7,11 +7,11 @@ Social media research skills for AI agents powered by ScrapeCreators
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills).
+Original source: `AGENTS.md` in [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
