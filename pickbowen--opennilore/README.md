@@ -7,11 +7,11 @@ This is a minecraft hack client.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Pickbowen/OpenNilore](https://github.com/Pickbowen/OpenNilore).
+Original source: `AGENTS.md` in [Pickbowen/OpenNilore](https://github.com/Pickbowen/OpenNilore).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
