@@ -7,11 +7,11 @@ Decompilation of snowboard kids (N64)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [cdlewis/snowboardkids-decomp](https://github.com/cdlewis/snowboardkids-decomp).
+Original source: `AGENTS.md` in [cdlewis/snowboardkids-decomp](https://github.com/cdlewis/snowboardkids-decomp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
