@@ -7,11 +7,11 @@ Lightweight Level 6 collaborative memory fabric for AI agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [RamaAditya49/titen](https://github.com/RamaAditya49/titen).
+Original source: `AGENTS.md` in [RamaAditya49/titen](https://github.com/RamaAditya49/titen).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
