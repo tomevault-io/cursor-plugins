@@ -7,11 +7,11 @@ Stack-agnostic agentic-programming workflow skills + documentation scaffold
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow).
+Original source: `AGENTS.md` in [gtrabanco/agentic-workflow](https://github.com/gtrabanco/agentic-workflow).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
