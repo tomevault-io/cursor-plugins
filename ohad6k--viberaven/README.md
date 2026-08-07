@@ -7,11 +7,11 @@ The open-source cockpit for AI coding agents. Map your repo, control what your a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ohad6k/VibeRaven](https://github.com/ohad6k/VibeRaven).
+Original source: `AGENTS.md` in [ohad6k/VibeRaven](https://github.com/ohad6k/VibeRaven).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
