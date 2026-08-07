@@ -7,12 +7,12 @@ A desktop pet that reacts to your Claude Code sessions in real-time — thinking
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [YizhengWw/HachimoDock](https://github.com/YizhengWw/HachimoDock).
+Original source: `CLAUDE.md` in [YizhengWw/HachimoDock](https://github.com/YizhengWw/HachimoDock).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
