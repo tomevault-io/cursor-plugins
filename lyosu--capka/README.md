@@ -7,11 +7,11 @@ Capka AI — An open-source, self-hosted sandbox for AI agents. A community-driv
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [LyoSU/capka](https://github.com/LyoSU/capka).
+Original source: `AGENTS.md` in [LyoSU/capka](https://github.com/LyoSU/capka).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
