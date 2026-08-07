@@ -7,11 +7,11 @@ Codex and AI skills
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ChrisTitusTech/titus-ai](https://github.com/ChrisTitusTech/titus-ai).
+Original source: `AGENTS.md` in [ChrisTitusTech/titus-ai](https://github.com/ChrisTitusTech/titus-ai).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
