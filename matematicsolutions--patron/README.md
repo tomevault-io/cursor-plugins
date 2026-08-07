@@ -7,11 +7,11 @@ Self-hosted, GDPR-safe AI agent for law firms. Zero-cloud, hash-chained audit tr
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [matematicsolutions/patron](https://github.com/matematicsolutions/patron).
+Original source: `AGENTS.md` in [matematicsolutions/patron](https://github.com/matematicsolutions/patron).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
