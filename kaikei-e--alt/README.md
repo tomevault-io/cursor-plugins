@@ -7,11 +7,11 @@ Alt is a Compose-first knowledge platform built for turning information into reu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Kaikei-e/Alt](https://github.com/Kaikei-e/Alt).
+Original source: `AGENTS.md` in [Kaikei-e/Alt](https://github.com/Kaikei-e/Alt).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
