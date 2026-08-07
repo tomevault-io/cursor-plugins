@@ -1,0 +1,11 @@
+{
+  "name": "ulmentflam--llm-mojo",
+  "displayName": "llm.mojo",
+  "version": "1.0.0",
+  "description": "GPT-2 training in pure Mojo with hand-written CUDA and Metal GPU kernels. llm.c parity in bf16 on NVIDIA, 1.72x faster than PyTorch MPS on Apple Silicon.",
+  "author": {
+    "name": "ulmentflam",
+    "url": "https://github.com/ulmentflam"
+  },
+  "homepage": "https://github.com/ulmentflam/llm.mojo"
+}
