@@ -1,0 +1,11 @@
+{
+  "name": "peopleworks--runcommandsservice",
+  "displayName": "RunCommandsService",
+  "version": "1.0.0",
+  "description": "Lightweight .NET 9 Windows service that runs commands on cron schedules - concurrency control, timeouts, alerts, and a live monitoring dashboard.",
+  "author": {
+    "name": "peopleworks",
+    "url": "https://github.com/peopleworks"
+  },
+  "homepage": "https://github.com/peopleworks/RunCommandsService"
+}
