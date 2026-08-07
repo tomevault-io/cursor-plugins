@@ -7,11 +7,11 @@ Matt Pocock 技能集的中文翻译版 — 地道中文，原汁原味的技术
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [devcxl/mattpocock-skills-zh](https://github.com/devcxl/mattpocock-skills-zh).
+Original source: `AGENTS.md` in [devcxl/mattpocock-skills-zh](https://github.com/devcxl/mattpocock-skills-zh).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
