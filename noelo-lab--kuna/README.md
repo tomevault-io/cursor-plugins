@@ -7,11 +7,11 @@ An agent-first decompiler designed to be refined by other agents. Kuna is writte
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna).
+Original source: `AGENTS.md` in [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
