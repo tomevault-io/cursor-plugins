@@ -7,11 +7,11 @@ Graph API for Rust.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [querygraph/grust](https://github.com/querygraph/grust).
+Original source: `AGENTS.md` in [querygraph/grust](https://github.com/querygraph/grust).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
