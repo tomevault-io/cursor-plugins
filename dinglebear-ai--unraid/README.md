@@ -7,11 +7,11 @@ Query, monitor, and manage Unraid servers via GraphQL API through MCP tools. Sup
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid).
+Original source: `AGENTS.md` in [dinglebear-ai/unraid](https://github.com/dinglebear-ai/unraid).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
