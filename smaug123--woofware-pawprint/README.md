@@ -7,11 +7,11 @@ An *extremely WIP* implementation of a .NET runtime.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Smaug123/WoofWare.PawPrint](https://github.com/Smaug123/WoofWare.PawPrint).
+Original source: `AGENTS.md` in [Smaug123/WoofWare.PawPrint](https://github.com/Smaug123/WoofWare.PawPrint).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
