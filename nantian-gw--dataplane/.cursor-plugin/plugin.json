@@ -1,0 +1,11 @@
+{
+  "name": "nantian-gw--dataplane",
+  "displayName": "dataplane",
+  "version": "1.0.0",
+  "description": "Rust data plane for Nantian Gateway. HTTP/gRPC proxy, stream passthrough, AI Gateway filters, and Wasm plugin runtime powered by Pingora.",
+  "author": {
+    "name": "nantian-gw",
+    "url": "https://github.com/nantian-gw"
+  },
+  "homepage": "https://github.com/nantian-gw/dataplane"
+}
