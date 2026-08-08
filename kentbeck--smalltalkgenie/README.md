@@ -7,11 +7,11 @@ An MCP server for coding in a live Pharo image
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [KentBeck/SmalltalkGenie](https://github.com/KentBeck/SmalltalkGenie).
+Original source: `AGENTS.md` in [KentBeck/SmalltalkGenie](https://github.com/KentBeck/SmalltalkGenie).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
