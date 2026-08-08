@@ -7,11 +7,11 @@ The go-to-market operating system for early-stage software products. AI marketin
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [adaptico/adaptico-os](https://github.com/adaptico/adaptico-os).
+Original source: `AGENTS.md` in [adaptico/adaptico-os](https://github.com/adaptico/adaptico-os).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
