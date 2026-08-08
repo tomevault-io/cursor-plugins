@@ -386040,6 +386040,16 @@
       "description": "Send one prompt, watch up to three AI models answer it at the same time, vote for the best one."
     },
     {
+      "name": "leoxlin--smolpowers",
+      "source": "./leoxlin--smolpowers",
+      "description": "A lightweight, configurable SDD framework based on Superpowers and designed to compose with other skills."
+    },
+    {
+      "name": "diaozxin007--reading-claude-code",
+      "source": "./diaozxin007--reading-claude-code",
+      "description": "reading-claude-code"
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
