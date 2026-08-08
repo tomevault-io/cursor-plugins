@@ -7,11 +7,11 @@ Model-checking-based testing tool for frontend state-transition
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Harineko0/modality-ts](https://github.com/Harineko0/modality-ts).
+Original source: `AGENTS.md` in [Harineko0/modality-ts](https://github.com/Harineko0/modality-ts).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
