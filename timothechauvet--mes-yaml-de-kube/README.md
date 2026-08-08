@@ -7,11 +7,11 @@ C'est pour moi mais en public
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [timothechauvet/mes-yaml-de-kube](https://github.com/timothechauvet/mes-yaml-de-kube).
+Original source: `AGENTS.md` in [timothechauvet/mes-yaml-de-kube](https://github.com/timothechauvet/mes-yaml-de-kube).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
