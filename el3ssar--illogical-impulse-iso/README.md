@@ -7,11 +7,11 @@ This is a community project building an ISO around end-4's dots-hyprland. All cr
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [El3ssar/illogical-impulse-iso](https://github.com/El3ssar/illogical-impulse-iso).
+Original source: `AGENTS.md` in [El3ssar/illogical-impulse-iso](https://github.com/El3ssar/illogical-impulse-iso).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
