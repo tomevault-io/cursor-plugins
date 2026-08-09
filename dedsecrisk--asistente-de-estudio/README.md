@@ -7,11 +7,11 @@ Asistente de estudio te permite crear examenes rápidos y guías, comparando tus
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [DedSecRisk/Asistente_de_estudio](https://github.com/DedSecRisk/Asistente_de_estudio).
+Original source: `AGENTS.md` in [DedSecRisk/Asistente_de_estudio](https://github.com/DedSecRisk/Asistente_de_estudio).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
