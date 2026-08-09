@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [likeadmin-likeshop/likeshop](https://github.com/likeadmin-likeshop/likeshop).
+Original source: `CLAUDE.md` in [likeadmin-likeshop/likeshop](https://github.com/likeadmin-likeshop/likeshop).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [likeadmin-likeshop/likeshop](https://github.com/likeadmin-likeshop/likeshop) — a repo with 1530+ stars on GitHub.
+From [likeadmin-likeshop/likeshop](https://github.com/likeadmin-likeshop/likeshop) — a repo with 1531+ stars on GitHub.
 
 ---
 
