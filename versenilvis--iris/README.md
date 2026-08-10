@@ -7,11 +7,11 @@ A shell auto-completion tool for your terminal
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [versenilvis/IRIS](https://github.com/versenilvis/IRIS).
+Original source: `AGENTS.md` in [versenilvis/IRIS](https://github.com/versenilvis/IRIS).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
