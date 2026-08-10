@@ -240640,6 +240640,16 @@
       "description": "Track your AI coding-agent token burn across Claude Code, Codex, OpenCode, Antigravity, and more."
     },
     {
+      "name": "inflightsec--keys-on-the-wire",
+      "source": "./inflightsec--keys-on-the-wire",
+      "description": "Just-in-time API keys for AI agents - and any other process you route through it: the caller only ever sees a placeholder."
+    },
+    {
+      "name": "inflightsec--keys-on-the-wire",
+      "source": "./inflightsec--keys-on-the-wire",
+      "description": "Just-in-time API keys for AI agents - and any other process you route through it: the caller only ever sees a placeholder."
+    },
+    {
       "name": "aeroxy--ast-outline",
       "source": "./aeroxy--ast-outline",
       "description": "Fast, AST-based structural outline for source files. Built for LLM coding agents and humans."
@@ -255145,6 +255155,11 @@
       "description": "GramSieve-Telegram \u8fc7\u6ee4;\u8df3\u8f6c;\u7f16\u8f91\u5386\u53f2\u67e5\u770b"
     },
     {
+      "name": "yazelix--mars",
+      "source": "./yazelix--mars",
+      "description": "Mars Terminal: a Rio-derived, Ghostty-inspired Rust terminal emulator focused on Kitty protocols, modern graphics, Nix packaging, and Yazelix integration"
+    },
+    {
       "name": "heyaohuo--templateflow",
       "source": "./heyaohuo--templateflow",
       "description": "Build AI workflows visually using reusable templates. Open-source & creator-friendly."
@@ -261193,6 +261208,11 @@
       "name": "laurentzuijdwijk--agention-marshall",
       "source": "./laurentzuijdwijk--agention-marshall",
       "description": "Coding agent"
+    },
+    {
+      "name": "iamsohungrynow--compagnon-eveil",
+      "source": "./iamsohungrynow--compagnon-eveil",
+      "description": "compagnon-eveil"
     },
     {
       "name": "googlecloudplatform--cxas-scrapi",
@@ -287468,6 +287488,11 @@
       "name": "aoci-spec--aoci-code",
       "source": "./aoci-spec--aoci-code",
       "description": "AOCI-CODE \u2014 AI Software System Cognition Infrastructure for AI Agents."
+    },
+    {
+      "name": "mihonarium--streamtospeaker",
+      "source": "./mihonarium--streamtospeaker",
+      "description": "Virtual audio output for Windows that streams your PC's sound to AirPlay, Sonos, and UPnP speakers."
     },
     {
       "name": "lucas-acc--sancho-skills",
@@ -326203,6 +326228,16 @@
       "name": "gongnyang--bookforge",
       "source": "./gongnyang--bookforge",
       "description": "\uc8fc\uc81c \ud55c \uc904 \u2192 \uc0c1\uc5c5\ub3c4\uc11c\uae09 \ud55c\uad6d\uc5b4 \uc804\uc790\ucc45 PDF. Claude Code\u00b7Codex \uacb8\uc6a9 \uc5d0\uc774\uc804\ud2b8 \uc2a4\ud0ac \u2014 6 \uc2a4\ud0c0\uc77c \ud329, \uc2e4\uce21 \uae30\ubc18 \ubc30\uce58 \uaddc\uce59\uc11c, \ubc00\ub3c4 QC \uac8c\uc774\ud2b8"
+    },
+    {
+      "name": "agentsorg--design-engineering",
+      "source": "./agentsorg--design-engineering",
+      "description": "A skill graph for design engineering: animation, transitions, taste, typography, color, components, anti-patterns."
+    },
+    {
+      "name": "rochecompaan--patchmill",
+      "source": "./rochecompaan--patchmill",
+      "description": "Patchmill is an agent-driven software factory"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
@@ -367225,6 +367260,16 @@
       "description": "C#-based OpenCV vision algorithm testing and image processing validation program"
     },
     {
+      "name": "anki630--crossmosa",
+      "source": "./anki630--crossmosa",
+      "description": "CrossMosa \u2014 \u7e41\u9ad4\u4e2d\u6587 e-reader firmware for Xteink X3, based on CrossPoint (public release candidate)"
+    },
+    {
+      "name": "dccif--keysteer",
+      "source": "./dccif--keysteer",
+      "description": "Native keyboard-driven mouse control"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -393223,6 +393268,26 @@
       "name": "catfish-1234--sessionmem",
       "source": "./catfish-1234--sessionmem",
       "description": "Local-first MCP memory layer for AI coding assistants; persistent cross-session memory, stored entirely on your machine"
+    },
+    {
+      "name": "aerolab--silicon-baires",
+      "source": "./aerolab--silicon-baires",
+      "description": "An isometric Buenos Aires in the style of the Silicon Valley title sequence"
+    },
+    {
+      "name": "yuhuajiang2002--phiagent",
+      "source": "./yuhuajiang2002--phiagent",
+      "description": "PhiAgent"
+    },
+    {
+      "name": "galiprandi--job-seeker",
+      "source": "./galiprandi--job-seeker",
+      "description": "Automate your job search with your favorite coding agent. Skills, guides, and scripts that any agent (Devin, Claude, Cursor, opencode) consumes to search, apply, and track jobs on your behalf."
+    },
+    {
+      "name": "praydog--fear2vr",
+      "source": "./praydog--fear2vr",
+      "description": "F.E.A.R. 2: Project Origin VR Mod [WIP]"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
