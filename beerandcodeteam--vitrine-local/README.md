@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [beerandcodeteam/vitrine-local](https://github.com/beerandcodeteam/vitrine-local).
+Original source: `AGENTS.md` in [beerandcodeteam/vitrine-local](https://github.com/beerandcodeteam/vitrine-local).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
