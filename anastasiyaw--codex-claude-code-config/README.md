@@ -7,11 +7,11 @@ Claude Code, Codex, and multi-agent configuration system: principles, hooks, ski
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [AnastasiyaW/codex-claude-code-config](https://github.com/AnastasiyaW/codex-claude-code-config).
+Original source: `AGENTS.md` in [AnastasiyaW/codex-claude-code-config](https://github.com/AnastasiyaW/codex-claude-code-config).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
