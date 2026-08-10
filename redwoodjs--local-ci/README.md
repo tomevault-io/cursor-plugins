@@ -7,11 +7,11 @@ Run GitHub Actions locally — pause on failure, retry in place, and keep caches
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [redwoodjs/local-ci](https://github.com/redwoodjs/local-ci).
+Original source: `AGENTS.md` in [redwoodjs/local-ci](https://github.com/redwoodjs/local-ci).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
