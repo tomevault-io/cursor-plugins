@@ -1,0 +1,11 @@
+{
+  "name": "errantpacket--oblique-relay",
+  "displayName": "Oblique-Relay",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers edge redirector for authorized red team infrastructure. Validates implant traffic against C2 profiles, proxies to backend, decoys everything else.",
+  "author": {
+    "name": "errantpacket",
+    "url": "https://github.com/errantpacket"
+  },
+  "homepage": "https://github.com/errantpacket/Oblique-Relay"
+}
