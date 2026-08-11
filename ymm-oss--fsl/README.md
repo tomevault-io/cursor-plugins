@@ -7,11 +7,11 @@ AI-Native Formal Specification Language — a bounded model checker (Lark + Z3) 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ymm-oss/fsl](https://github.com/ymm-oss/fsl).
+Original source: `AGENTS.md` in [ymm-oss/fsl](https://github.com/ymm-oss/fsl).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
