@@ -7,11 +7,11 @@ Community theme gallery for T3Code — real app previews, themes as PR-submitted
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes).
+Original source: `CLAUDE.md` in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
