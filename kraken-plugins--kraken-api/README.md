@@ -7,11 +7,11 @@ API for creating RuneLite plugins supporting client interactions!
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Kraken-Plugins/kraken-api](https://github.com/Kraken-Plugins/kraken-api).
+Original source: `AGENTS.md` in [Kraken-Plugins/kraken-api](https://github.com/Kraken-Plugins/kraken-api).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
