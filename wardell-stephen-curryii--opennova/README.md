@@ -7,11 +7,11 @@ This is an AI Agent project; it's used for learning.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Wardell-Stephen-CurryII/OpenNova](https://github.com/Wardell-Stephen-CurryII/OpenNova).
+Original source: `CLAUDE.md` in [Wardell-Stephen-CurryII/OpenNova](https://github.com/Wardell-Stephen-CurryII/OpenNova).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
