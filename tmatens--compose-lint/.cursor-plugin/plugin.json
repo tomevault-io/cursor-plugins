@@ -1,0 +1,11 @@
+{
+  "name": "tmatens--compose-lint",
+  "displayName": "compose-lint",
+  "version": "1.0.0",
+  "description": "Security-focused linter for Docker Compose files. Catches dangerous misconfigurations before they reach production. Grounded in OWASP and CIS Docker Benchmark.",
+  "author": {
+    "name": "tmatens",
+    "url": "https://github.com/tmatens"
+  },
+  "homepage": "https://github.com/tmatens/compose-lint"
+}
