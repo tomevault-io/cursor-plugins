@@ -7,11 +7,11 @@ The local-first Agentic Knowledge OS - CLI-first, self-improving, measured. Turn
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [GeekFamilyCorp/TricorderKit](https://github.com/GeekFamilyCorp/TricorderKit).
+Original source: `CLAUDE.md` in [GeekFamilyCorp/TricorderKit](https://github.com/GeekFamilyCorp/TricorderKit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
