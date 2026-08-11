@@ -7,11 +7,11 @@ rreusser.github.io
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [rreusser/rreusser.github.io](https://github.com/rreusser/rreusser.github.io).
+Original source: `AGENTS.md` in [rreusser/rreusser.github.io](https://github.com/rreusser/rreusser.github.io).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
