@@ -7,11 +7,11 @@ Bun-compatible JavaScript runtime for iOS/macOS via JavaScriptCore. Run Bun-buil
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [1amageek/swift-bun](https://github.com/1amageek/swift-bun).
+Original source: `AGENTS.md` in [1amageek/swift-bun](https://github.com/1amageek/swift-bun).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
