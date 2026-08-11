@@ -184945,6 +184945,11 @@
       "description": "fhir-server"
     },
     {
+      "name": "shadcn-ui--chatbot-template",
+      "source": "./shadcn-ui--chatbot-template",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway."
+    },
+    {
       "name": "oddur--gnosis",
       "source": "./oddur--gnosis",
       "description": "Turns pull requests into guided walkthroughs"
