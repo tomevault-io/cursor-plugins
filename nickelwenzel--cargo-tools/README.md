@@ -7,11 +7,11 @@ VSCode/OpenVSX extension for easy configuration of Rust projects
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [NickelWenzel/cargo-tools](https://github.com/NickelWenzel/cargo-tools).
+Original source: `AGENTS.md` in [NickelWenzel/cargo-tools](https://github.com/NickelWenzel/cargo-tools).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
