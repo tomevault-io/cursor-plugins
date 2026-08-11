@@ -1,0 +1,11 @@
+{
+  "name": "sksat--pico-boot",
+  "displayName": "pico-boot",
+  "version": "1.0.0",
+  "description": "WiFi/USB firmware-upload bootloader for the RP2040 (Raspberry Pi Pico / Pico W): signed uploads, A/B slots, anti-rollback, hang-detection watchdog. TDD + formal verification.",
+  "author": {
+    "name": "sksat",
+    "url": "https://github.com/sksat"
+  },
+  "homepage": "https://github.com/sksat/pico-boot"
+}
