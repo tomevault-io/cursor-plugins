@@ -7,11 +7,11 @@ Self-hostable, MIT Licensed, Enterprise AI Software Factory
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [nearform/lastlight](https://github.com/nearform/lastlight).
+Original source: `AGENTS.md` in [nearform/lastlight](https://github.com/nearform/lastlight).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
