@@ -7,11 +7,11 @@ Restore the “paste and ask” vision workflow for text-only models in OpenCode
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [devadathanmb/opencode-easy-vision](https://github.com/devadathanmb/opencode-easy-vision).
+Original source: `AGENTS.md` in [devadathanmb/opencode-easy-vision](https://github.com/devadathanmb/opencode-easy-vision).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
