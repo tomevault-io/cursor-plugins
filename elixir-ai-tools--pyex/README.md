@@ -7,11 +7,11 @@ A Python interpreter written in Elixir designed as an execution substrate for ag
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [elixir-ai-tools/pyex](https://github.com/elixir-ai-tools/pyex).
+Original source: `AGENTS.md` in [elixir-ai-tools/pyex](https://github.com/elixir-ai-tools/pyex).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
