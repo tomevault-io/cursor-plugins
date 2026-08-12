@@ -1,13 +1,13 @@
-# POM1
+# pom1
 
-> Tome by [habib256](https://github.com/habib256/POM1) — distributed by [TomeVault](https://tomevault.io)
+> Source: [habib256/pom1](https://github.com/habib256/pom1). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
-🍎 POM1 — Apple 1 Emulator
+🍎 POM1 — Apple 1 Emulator + SDK
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [habib256/POM1](https://github.com/habib256/POM1).
+Original source: `CLAUDE.md` in [habib256/pom1](https://github.com/habib256/pom1).
 
 ## Also available for
 
@@ -17,10 +17,14 @@ Original source: `CLAUDE.md` in [habib256/POM1](https://github.com/habib256/POM1
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/habib256/POM1](https://github.com/habib256/POM1)
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/habib256/pom1](https://github.com/habib256/pom1)
 
 ---
 
-Explore more instruction files on [TomeVault](https://tomevault.io) — the open index of AI config files for every platform.
+Install this config instantly:
+```
+npx tomevault install habib256/pom1
+```
+Source: [github.com/habib256/pom1](https://github.com/habib256/pom1).
 
-<!-- genome:t-e-p -->
+<!-- genome:d-i-p -->
