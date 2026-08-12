@@ -7,11 +7,11 @@ The complete trading and quantitative finance system for Claude Code — 18 agen
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [brainbytes-dev/everything-claude-trading](https://github.com/brainbytes-dev/everything-claude-trading).
+Original source: `AGENTS.md` in [brainbytes-dev/everything-claude-trading](https://github.com/brainbytes-dev/everything-claude-trading).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
