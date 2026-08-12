@@ -7,11 +7,11 @@ HTML is what markdown wishes it looked like.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [piyush0609/toss](https://github.com/piyush0609/toss).
+Original source: `AGENTS.md` in [piyush0609/toss](https://github.com/piyush0609/toss).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
