@@ -7,11 +7,11 @@ Claude Code Multiplexer - Persistent Claude Code sessions for all your projects.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [pereljon/claude-mux](https://github.com/pereljon/claude-mux).
+Original source: `AGENTS.md` in [pereljon/claude-mux](https://github.com/pereljon/claude-mux).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
