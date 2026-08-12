@@ -7,11 +7,11 @@ OBS plugin for receiving live IRL streams over SRT, RTMP, or any FFmpeg-supporte
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [irlserver/obs-irl-source](https://github.com/irlserver/obs-irl-source).
+Original source: `CLAUDE.md` in [irlserver/obs-irl-source](https://github.com/irlserver/obs-irl-source).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
