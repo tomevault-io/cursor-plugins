@@ -7,11 +7,11 @@ Creates a searchable SQLite archive of every Pi session ever
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [gordonbrander/pi-archive](https://github.com/gordonbrander/pi-archive).
+Original source: `CLAUDE.md` in [gordonbrander/pi-archive](https://github.com/gordonbrander/pi-archive).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
