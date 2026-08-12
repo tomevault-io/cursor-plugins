@@ -7,11 +7,11 @@ React-first football UI component library
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [withqwerty/campos](https://github.com/withqwerty/campos).
+Original source: `AGENTS.md` in [withqwerty/campos](https://github.com/withqwerty/campos).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
