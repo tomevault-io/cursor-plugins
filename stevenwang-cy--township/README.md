@@ -7,11 +7,11 @@ AI residents deliberate civic questions in a living pixel town — a replayable,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [StevenWang-CY/township](https://github.com/StevenWang-CY/township).
+Original source: `AGENTS.md` in [StevenWang-CY/township](https://github.com/StevenWang-CY/township).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
