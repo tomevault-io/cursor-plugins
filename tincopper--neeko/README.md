@@ -7,11 +7,11 @@ A cross-platform desktop multi-project agent manager for the AI coding era, with
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tincopper/neeko](https://github.com/tincopper/neeko).
+Original source: `CLAUDE.md` in [tincopper/neeko](https://github.com/tincopper/neeko).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
