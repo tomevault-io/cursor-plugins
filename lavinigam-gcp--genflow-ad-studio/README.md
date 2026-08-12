@@ -7,11 +7,11 @@ genflow-ad-studio
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lavinigam-gcp/genflow-ad-studio](https://github.com/lavinigam-gcp/genflow-ad-studio).
+Original source: `CLAUDE.md` in [lavinigam-gcp/genflow-ad-studio](https://github.com/lavinigam-gcp/genflow-ad-studio).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
