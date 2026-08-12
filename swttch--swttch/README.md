@@ -7,11 +7,11 @@ Claude Code GUI plugin for JetBrains IDEs. (ex - Claude Code with GUI)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Swttch/swttch](https://github.com/Swttch/swttch).
+Original source: `AGENTS.md` in [Swttch/swttch](https://github.com/Swttch/swttch).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
