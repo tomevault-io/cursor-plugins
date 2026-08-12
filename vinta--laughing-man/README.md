@@ -7,11 +7,11 @@ Turn your Markdown into a self-hosted newsletter
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [vinta/laughing-man](https://github.com/vinta/laughing-man).
+Original source: `CLAUDE.md` in [vinta/laughing-man](https://github.com/vinta/laughing-man).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
