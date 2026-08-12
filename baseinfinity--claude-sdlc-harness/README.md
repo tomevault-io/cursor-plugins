@@ -7,11 +7,11 @@ Self-evolving SDLC enforcement for AI coding agents — hooks, skills, and one-c
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [BaseInfinity/claude-sdlc-harness](https://github.com/BaseInfinity/claude-sdlc-harness).
+Original source: `AGENTS.md` in [BaseInfinity/claude-sdlc-harness](https://github.com/BaseInfinity/claude-sdlc-harness).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
