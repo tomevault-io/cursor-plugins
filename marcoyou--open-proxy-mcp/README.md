@@ -7,11 +7,11 @@ MCP server for Korean DART filings — financials, valuation, ownership, busines
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [MarcoYou/open-proxy-mcp](https://github.com/MarcoYou/open-proxy-mcp).
+Original source: `CLAUDE.md` in [MarcoYou/open-proxy-mcp](https://github.com/MarcoYou/open-proxy-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
