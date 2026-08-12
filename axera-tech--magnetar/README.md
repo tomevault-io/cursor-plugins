@@ -7,11 +7,11 @@ Pulsar2 Agent
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [AXERA-TECH/Magnetar](https://github.com/AXERA-TECH/Magnetar).
+Original source: `CLAUDE.md` in [AXERA-TECH/Magnetar](https://github.com/AXERA-TECH/Magnetar).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
