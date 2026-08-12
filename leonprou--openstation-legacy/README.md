@@ -7,11 +7,11 @@ Task management system for coding AI agents. Pure convention — markdown specs 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [leonprou/openstation-legacy](https://github.com/leonprou/openstation-legacy).
+Original source: `CLAUDE.md` in [leonprou/openstation-legacy](https://github.com/leonprou/openstation-legacy).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
