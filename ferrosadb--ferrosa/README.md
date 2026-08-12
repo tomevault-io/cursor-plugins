@@ -7,11 +7,11 @@ Cassandra-compatible distributed database in Rust with S3-backed storage. Develo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ferrosadb/ferrosa](https://github.com/ferrosadb/ferrosa).
+Original source: `AGENTS.md` in [ferrosadb/ferrosa](https://github.com/ferrosadb/ferrosa).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
