@@ -1,0 +1,11 @@
+{
+  "name": "ownkube--kubernetes-events-exporter",
+  "displayName": "kubernetes-events-exporter",
+  "version": "1.0.0",
+  "description": "Watch and export Kubernetes cluster events to 30+ sinks including Kafka, Elasticsearch, Slack, webhooks, AWS/GCP services, and   more. Actively maintained fork with bug fixes for event loss, improved ",
+  "author": {
+    "name": "ownkube",
+    "url": "https://github.com/ownkube"
+  },
+  "homepage": "https://github.com/ownkube/kubernetes-events-exporter"
+}
