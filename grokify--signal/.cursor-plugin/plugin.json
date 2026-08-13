@@ -1,0 +1,11 @@
+{
+  "name": "grokify--signal",
+  "displayName": "signal",
+  "version": "1.0.0",
+  "description": "Signal is a Go-based Planet-style blog aggregator that outputs JSON Feed 1.1 files. It's designed to be used in CI/CD pipelines (like GitHub Actions) to automatically aggregate RSS/Atom feeds and gene",
+  "author": {
+    "name": "grokify",
+    "url": "https://github.com/grokify"
+  },
+  "homepage": "https://github.com/grokify/signal"
+}
