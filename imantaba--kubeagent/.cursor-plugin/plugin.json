@@ -1,0 +1,11 @@
+{
+  "name": "imantaba--kubeagent",
+  "displayName": "kubeagent",
+  "version": "1.0.0",
+  "description": "Read-only Kubernetes troubleshooting agent in Go (client-go) \u2014 explains CrashLoopBackOff, ImagePullBackOff, OOMKilled, Pending/Unschedulable with P1-infra to P2-workload reports; guarded reversible --",
+  "author": {
+    "name": "imantaba",
+    "url": "https://github.com/imantaba"
+  },
+  "homepage": "https://github.com/imantaba/kubeagent"
+}
