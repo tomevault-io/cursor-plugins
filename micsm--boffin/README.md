@@ -7,15 +7,15 @@ Staff-engineer layer for AI coding agents: routes per-edit architectural constra
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [MicSm/boffin](https://github.com/MicSm/boffin).
+Original source: `.windsurf/rules/*.md` in [MicSm/boffin](https://github.com/MicSm/boffin).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
-- **Windsurf** — `project-config.md`
 
 From [MicSm/boffin](https://github.com/MicSm/boffin) — a repo with 38+ stars on GitHub.
 
