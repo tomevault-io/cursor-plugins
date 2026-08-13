@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hellojakesmith/GetSparkd-Eating](https://github.com/hellojakesmith/GetSparkd-Eating).
+Original source: `CLAUDE.md` in [hellojakesmith/GetSparkd-Eating](https://github.com/hellojakesmith/GetSparkd-Eating).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
