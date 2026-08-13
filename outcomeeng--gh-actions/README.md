@@ -7,11 +7,11 @@ Reusable GitHub Actions workflows for Claude Code integration
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [outcomeeng/gh-actions](https://github.com/outcomeeng/gh-actions).
+Original source: `CLAUDE.md` in [outcomeeng/gh-actions](https://github.com/outcomeeng/gh-actions).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
