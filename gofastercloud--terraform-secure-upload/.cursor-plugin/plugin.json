@@ -1,0 +1,11 @@
+{
+  "name": "gofastercloud--terraform-secure-upload",
+  "displayName": "terraform-secure-upload",
+  "version": "1.0.0",
+  "description": "Terraform module for secure file uploads with S3, SFTP, GuardDuty malware scanning, and automated clean/quarantine routing",
+  "author": {
+    "name": "gofastercloud",
+    "url": "https://github.com/gofastercloud"
+  },
+  "homepage": "https://github.com/gofastercloud/terraform-secure-upload"
+}
