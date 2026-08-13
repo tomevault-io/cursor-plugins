@@ -7,11 +7,11 @@ Desktop manager for Xbox Dev Mode homebrew — browse, install & manage emulator
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [marcelofrau/xb-homebrew-vault](https://github.com/marcelofrau/xb-homebrew-vault).
+Original source: `CLAUDE.md` in [marcelofrau/xb-homebrew-vault](https://github.com/marcelofrau/xb-homebrew-vault).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
