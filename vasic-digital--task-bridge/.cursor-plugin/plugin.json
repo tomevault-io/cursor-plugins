@@ -1,0 +1,11 @@
+{
+  "name": "vasic-digital--task-bridge",
+  "displayName": "task_bridge",
+  "version": "1.0.0",
+  "description": "Generic, decoupled bidirectional task/board sync engine (SQLite workable-items SSoT <-> tracker docs <-> ClickUp/Jira/Linear). Project-agnostic Go library; consumers inject creds/IDs/contexts at runti",
+  "author": {
+    "name": "vasic-digital",
+    "url": "https://github.com/vasic-digital"
+  },
+  "homepage": "https://github.com/vasic-digital/task_bridge"
+}
