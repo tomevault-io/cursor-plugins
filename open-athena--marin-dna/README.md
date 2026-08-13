@@ -7,11 +7,11 @@ MarinDNA
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Open-Athena/marin-dna](https://github.com/Open-Athena/marin-dna).
+Original source: `CLAUDE.md` in [Open-Athena/marin-dna](https://github.com/Open-Athena/marin-dna).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
