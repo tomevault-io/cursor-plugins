@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cmariusz/TiaImportExport.VSExt](https://github.com/cmariusz/TiaImportExport.VSExt).
+Original source: `CLAUDE.md` in [cmariusz/TiaImportExport.VSExt](https://github.com/cmariusz/TiaImportExport.VSExt).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
