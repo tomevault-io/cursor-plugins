@@ -7,11 +7,11 @@ Cross-platform CLI that records any terminal app and produces an animated GIF.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tui-cs/tuirec](https://github.com/tui-cs/tuirec).
+Original source: `CLAUDE.md` in [tui-cs/tuirec](https://github.com/tui-cs/tuirec).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
