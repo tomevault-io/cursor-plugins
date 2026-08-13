@@ -7,11 +7,11 @@ The operating system for AI engineering.  Coordinate models, agents, tools, repo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [hurttlocker/o8](https://github.com/hurttlocker/o8).
+Original source: `CLAUDE.md` in [hurttlocker/o8](https://github.com/hurttlocker/o8).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
