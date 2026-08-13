@@ -7,12 +7,12 @@ The policies and standards of Starisian Technologies and the SPARXSTAR line of p
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [Starisian-Technologies/sparxstar-code-conformance](https://github.com/Starisian-Technologies/sparxstar-code-conformance).
+Original source: `AGENTS.md` in [Starisian-Technologies/sparxstar-code-conformance](https://github.com/Starisian-Technologies/sparxstar-code-conformance).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
