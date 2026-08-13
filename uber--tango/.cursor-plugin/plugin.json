@@ -1,0 +1,11 @@
+{
+  "name": "uber--tango",
+  "displayName": "tango",
+  "version": "1.0.0",
+  "description": "Tango provides a way to compute the changed targets for a given base and head and conflict graph. Uber's SubmitQueue relies on it to get changed targets to speculate the requests.",
+  "author": {
+    "name": "uber",
+    "url": "https://github.com/uber"
+  },
+  "homepage": "https://github.com/uber/tango"
+}
