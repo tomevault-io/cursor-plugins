@@ -7,11 +7,11 @@ Terminal UI to auto organize files using a local LLM (via Ollama)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [elmisi/amenity-ai](https://github.com/elmisi/amenity-ai).
+Original source: `CLAUDE.md` in [elmisi/amenity-ai](https://github.com/elmisi/amenity-ai).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
