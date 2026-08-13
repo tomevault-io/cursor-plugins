@@ -7,11 +7,11 @@ repy is a terminal epub format ebook reader inspired by epy
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [newptcai/repy](https://github.com/newptcai/repy).
+Original source: `CLAUDE.md` in [newptcai/repy](https://github.com/newptcai/repy).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
