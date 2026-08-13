@@ -7,11 +7,11 @@ a toolkit for adding self-custodial bitcoin payments to applications and agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lightninglabs/wavelength](https://github.com/lightninglabs/wavelength).
+Original source: `CLAUDE.md` in [lightninglabs/wavelength](https://github.com/lightninglabs/wavelength).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
