@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [skylorean/obsidian-pomodoro-time-tracker](https://github.com/skylorean/obsidian-pomodoro-time-tracker).
+Original source: `CLAUDE.md` in [skylorean/obsidian-pomodoro-time-tracker](https://github.com/skylorean/obsidian-pomodoro-time-tracker).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
