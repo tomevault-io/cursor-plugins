@@ -7,11 +7,11 @@ A living monorepo of everything I write. (work in progress)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [canmi21/workspace](https://github.com/canmi21/workspace).
+Original source: `CLAUDE.md` in [canmi21/workspace](https://github.com/canmi21/workspace).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
