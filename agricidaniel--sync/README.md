@@ -7,11 +7,11 @@ Evidence-gated Claude and Codex council orchestration.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [AgriciDaniel/sync](https://github.com/AgriciDaniel/sync).
+Original source: `CLAUDE.md` in [AgriciDaniel/sync](https://github.com/AgriciDaniel/sync).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
