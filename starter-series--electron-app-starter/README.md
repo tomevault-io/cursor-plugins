@@ -7,11 +7,11 @@ Electron app starter with cross-platform CI/CD, code signing, and auto-update
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [starter-series/electron-app-starter](https://github.com/starter-series/electron-app-starter).
+Original source: `CLAUDE.md` in [starter-series/electron-app-starter](https://github.com/starter-series/electron-app-starter).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
