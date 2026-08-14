@@ -1,0 +1,11 @@
+{
+  "name": "offbandmesh--meshcore-firmware",
+  "displayName": "meshcore-firmware",
+  "version": "1.0.0",
+  "description": "A MeshCore fork for cross-role firmware enhancements and optimization. Active roles: companion/observer (WiFi+MQTT observation publishing, NimBLE, web UI) and repeater (MQTT-to-Mosquitto bridging, bur",
+  "author": {
+    "name": "OffbandMesh",
+    "url": "https://github.com/OffbandMesh"
+  },
+  "homepage": "https://github.com/OffbandMesh/meshcore-firmware"
+}
