@@ -7,11 +7,11 @@ This repo will be updated with the AI red team lab material for Adveserial villa
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [antojoseph/adv26](https://github.com/antojoseph/adv26).
+Original source: `CLAUDE.md` in [antojoseph/adv26](https://github.com/antojoseph/adv26).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
