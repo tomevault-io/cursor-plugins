@@ -7,11 +7,11 @@ Fork-and-fill 미니멀 부트스트랩 — Claude Code용 .claude/ 구성 + 강
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [LeeYudok/claude-scaffold](https://github.com/LeeYudok/claude-scaffold).
+Original source: `AGENTS.md` in [LeeYudok/claude-scaffold](https://github.com/LeeYudok/claude-scaffold).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
