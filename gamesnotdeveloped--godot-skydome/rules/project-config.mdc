@@ -1,0 +1,15 @@
+---
+description: - Controls Environment
+alwaysApply: true
+---
+
+# Skydome architecture
+
+- Controls Environment
+- Controls DirectionalLight
+- Adds/removes custom compositor effects
+- Has no dependencies on other plugins/addons/systems
+
+---
+> Source: [GamesNotDeveloped/godot-skydome](https://github.com/GamesNotDeveloped/godot-skydome) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:cursor_mdc:2026-08-13 -->
