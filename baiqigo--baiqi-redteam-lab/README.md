@@ -7,11 +7,11 @@ Baiqi-maintained OpenTgtyLab security research lab with Hunter, Kali, multi-agen
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [baiqigo/baiqi-redteam-lab](https://github.com/baiqigo/baiqi-redteam-lab).
+Original source: `AGENTS.md` in [baiqigo/baiqi-redteam-lab](https://github.com/baiqigo/baiqi-redteam-lab).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
