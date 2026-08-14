@@ -1,0 +1,69 @@
+---
+description: Thin, reusable Rails engine for personal API keys. Host apps own UI, routes, and domain APIs.
+alwaysApply: true
+---
+
+# rails_api_keys — Agent Guide
+
+Thin, reusable Rails engine for personal API keys. Host apps own UI, routes, and domain APIs.
+
+## Stack
+
+- Ruby gem / Rails engine (`isolate_namespace RailsApiKeys`)
+- Active Record model + install generator
+- Auth concern for `ActionController::API` (Bearer token)
+
+## Naming
+
+Gem, require, and repo all use **`rails_api_keys`**. Module is `RailsApiKeys`.
+
+```ruby
+gem "rails_api_keys", git: "…" # or path:
+```
+
+No custom `require:` needed.
+
+## Architecture (keep it thin)
+
+**In this gem**
+
+- `RailsApiKeys::ApiKey` — create (return raw once), SHA-256 digest, soft revoke, `read` / `read_write`
+- `RailsApiKeys::Authentication` — `authenticate_api_key!` (Bearer + method-based permission), `current_api_key` / `current_api_owner`
+- `has_api_keys` — owner opt-in macro (polymorphic `has_many` + registry + `create_api_key!`); multiple models allowed
+- `RailsApiKeys.configure` — optional overrides (`token_prefix`, `owner_active`)
+- Install generator (migration + initializer)
+
+**Not in this gem**
+
+- Key management UI, domain APIs, mailers, jobs, views, assets, session auth
+
+## Critical rules
+
+- Do **not** reintroduce unused Rails scaffolds unless a real feature needs them.
+- Do **not** put host-app business endpoints in the engine.
+- Raw token is returned only from `create_api_key!` / `generate_for!`; never store plaintext.
+- Permissions are immutable after create; revoke via soft `revoked_at`.
+- Prefer single quotes; `# frozen_string_literal: true` on Ruby files.
+- Run `bundle exec rspec` and `bundle exec rubocop` after non-trivial changes.
+
+## Commands
+
+```bash
+bundle install
+bundle exec rspec
+bin/rubocop
+```
+
+Specs live under `spec/` and boot `spec/dummy` (sqlite).
+
+## Where to look
+
+- Project state: `.cursor/rules/context.mdc`
+- Model: `app/models/rails_api_keys/api_key.rb`
+- Auth: `lib/rails_api_keys/authentication.rb`
+- Owner macro: `lib/rails_api_keys/owner.rb`
+- Config: `lib/rails_api_keys/configuration.rb`
+
+---
+> Source: [rubyroidlabs/rails_api_keys](https://github.com/rubyroidlabs/rails_api_keys) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:cursor_mdc:2026-08-13 -->
