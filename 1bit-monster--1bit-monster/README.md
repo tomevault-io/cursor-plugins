@@ -7,11 +7,11 @@ Model-agnostic NPU+GPU+CPU inference engine for AMD Strix Halo. FastFlowLM rever
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [1bit-MONSTER/1bit-MONSTER](https://github.com/1bit-MONSTER/1bit-MONSTER).
+Original source: `AGENTS.md` in [1bit-MONSTER/1bit-MONSTER](https://github.com/1bit-MONSTER/1bit-MONSTER).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
