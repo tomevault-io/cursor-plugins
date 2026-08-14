@@ -7,11 +7,11 @@ Multi-provider, multi-account AI proxy rotator with per-model routing, quota tra
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tuxevil/tuxevil-rotator](https://github.com/tuxevil/tuxevil-rotator).
+Original source: `CLAUDE.md` in [tuxevil/tuxevil-rotator](https://github.com/tuxevil/tuxevil-rotator).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
