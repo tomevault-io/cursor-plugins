@@ -7,11 +7,11 @@ Contribution hub, live work queue, leaderboard, and canonical contribution skill
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [elizaOS/slopdotcash](https://github.com/elizaOS/slopdotcash).
+Original source: `AGENTS.md` in [elizaOS/slopdotcash](https://github.com/elizaOS/slopdotcash).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
