@@ -7,12 +7,12 @@ Documentation for NASA's Horizon Design System (HDS), with a Sass/CSS theme laye
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [nasa/hds-core](https://github.com/nasa/hds-core).
+Original source: `AGENTS.md` in [nasa/hds-core](https://github.com/nasa/hds-core).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
