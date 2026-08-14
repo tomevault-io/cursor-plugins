@@ -7,11 +7,11 @@ Staff-engineer layer for AI coding agents: routes per-edit architectural constra
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [MicSm/boffin](https://github.com/MicSm/boffin).
+Original source: `CLAUDE.md` in [MicSm/boffin](https://github.com/MicSm/boffin).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
