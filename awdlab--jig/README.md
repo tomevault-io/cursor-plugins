@@ -7,11 +7,11 @@ Modern, signal-based Angular 22+ component library: 60+ themeable, accessible, t
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [awdlab/jig](https://github.com/awdlab/jig).
+Original source: `CLAUDE.md` in [awdlab/jig](https://github.com/awdlab/jig).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
