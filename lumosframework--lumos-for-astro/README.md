@@ -7,11 +7,11 @@ A component and styling framework for building Astro sites, designed around effi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [lumosframework/lumos-for-astro](https://github.com/lumosframework/lumos-for-astro).
+Original source: `AGENTS.md` in [lumosframework/lumos-for-astro](https://github.com/lumosframework/lumos-for-astro).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
