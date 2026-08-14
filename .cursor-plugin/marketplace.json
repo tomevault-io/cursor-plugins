@@ -157450,6 +157450,16 @@
       "description": "agentic dynamic workflow with organizational harness"
     },
     {
+      "name": "vitaecontext--vitaecontext",
+      "source": "./vitaecontext--vitaecontext",
+      "description": "Give your AI agents grounded, reusable career context."
+    },
+    {
+      "name": "vitaecontext--vitaecontext",
+      "source": "./vitaecontext--vitaecontext",
+      "description": "Give your AI agents grounded, reusable career context."
+    },
+    {
       "name": "microsoft--duroxide",
       "source": "./microsoft--duroxide",
       "description": "duroxide"
@@ -180568,6 +180578,11 @@
       "name": "metamusicx--zissa-wiki",
       "source": "./metamusicx--zissa-wiki",
       "description": "Zissa Wiki \u2014 an LLM-maintained research knowledge base in plain markdown, operated via Claude Code. Implements Karpathy's LLM Wiki pattern; ships a deterministic wiki-lint tool."
+    },
+    {
+      "name": "ojiudezue--productmind-skills",
+      "source": "./ojiudezue--productmind-skills",
+      "description": "Open-source Claude Code skills that blend product thinking with engineering rigor. Built for multi-skilled builders."
     },
     {
       "name": "cxlinux-ai--cx-core",
@@ -236095,6 +236110,21 @@
       "description": "20x20 Flight Controller for Betaflight with integrated break-away ELRS receiver."
     },
     {
+      "name": "aixwangtw--code-to-video-remotion",
+      "source": "./aixwangtw--code-to-video-remotion",
+      "description": "code-to-video-remotion"
+    },
+    {
+      "name": "mirbach--pretty-policy-analyzer",
+      "source": "./mirbach--pretty-policy-analyzer",
+      "description": "A desktop/web app for security engineers and Active Directory administrators to load, browse, compare, audit, and baseline-check Group Policy Object (GPO) backups \u2014 without needing a domain controller"
+    },
+    {
+      "name": "aixwangtw--code-to-video-remotion",
+      "source": "./aixwangtw--code-to-video-remotion",
+      "description": "code-to-video-remotion"
+    },
+    {
       "name": "sharf-shawon--awesome-bangladeshi-foss",
       "source": "./sharf-shawon--awesome-bangladeshi-foss",
       "description": "Curated list of awesome Bangladeshi FOSS \u2014 open source apps, libraries, tools, and platforms built by developers from Bangladesh"
@@ -260355,6 +260385,11 @@
       "description": "\ud83d\ude80 Modern JAXB plugins collection for Java XML binding - XJC plugins with JSR-310 date/time support, annotation processing, and code generation tools"
     },
     {
+      "name": "0p9b--tldr",
+      "source": "./0p9b--tldr",
+      "description": "Verdict-first output for AI coding agents. Tiny prompt + installer for Claude Code, Codex, Gemini, Cursor, opencode, and 30+ agents."
+    },
+    {
       "name": "develite98--angular-best-practices",
       "source": "./develite98--angular-best-practices",
       "description": "Performance optimization guidelines and coding standards for Angular applications, designed for AI agents and LLMs."
@@ -280210,6 +280245,16 @@
       "description": "pipecrew"
     },
     {
+      "name": "antfarm-tech--solidity-toolkit",
+      "source": "./antfarm-tech--solidity-toolkit",
+      "description": "Solidity compiler tooling and smart-contract analysis workspace for Web3 infrastructure."
+    },
+    {
+      "name": "antfarm-tech--solidity-toolkit",
+      "source": "./antfarm-tech--solidity-toolkit",
+      "description": "Solidity compiler tooling and smart-contract analysis workspace for Web3 infrastructure."
+    },
+    {
       "name": "fcoury--termwright",
       "source": "./fcoury--termwright",
       "description": "Playwright-like automation framework for terminal TUI applications"
@@ -285208,6 +285253,16 @@
       "name": "agent37-platform--starter-kit",
       "source": "./agent37-platform--starter-kit",
       "description": "Agent37 Starter Kit"
+    },
+    {
+      "name": "abidwaqar--ai-judgment-orchestration",
+      "source": "./abidwaqar--ai-judgment-orchestration",
+      "description": "Ship like a team with AI coding agents \u2014 a judgment-driven orchestration of Claude Code skills & subagents. The pattern adapts to any agent harness."
+    },
+    {
+      "name": "leaderxin--quant-desktop",
+      "source": "./leaderxin--quant-desktop",
+      "description": "\ud83d\ude80 \u514d\u8d39\u5f00\u6e90 A \u80a1\u5b9e\u65f6\u770b\u76d8\u684c\u9762\u5e94\u7528 | \u5b9e\u65f6\u884c\u60c5 \u00b7 K\u7ebf\u56fe\u8868 \u00b7 \u5206\u65f6\u56fe \u00b7 \u4e94\u6863\u76d8\u53e3 \u00b7 \u81ea\u9009\u80a1\u7ba1\u7406 | \u57fa\u4e8e Tauri 2 + Rust + Vue 3 \u6784\u5efa"
     },
     {
       "name": "hyaway--hyaway",
@@ -291213,6 +291268,21 @@
       "name": "drisplabs--browser-mcp",
       "source": "./drisplabs--browser-mcp",
       "description": "Token-efficient browser automation MCP for AI agents, with semantic page snapshots and stable element IDs."
+    },
+    {
+      "name": "pathorsai--parley",
+      "source": "./pathorsai--parley",
+      "description": "Real-time AI coaching for sales & negotiation calls \u2014 live suggestions while you talk, voice translation into the meeting, deep debrief after. Local-first macOS app, bring your own keys."
+    },
+    {
+      "name": "thirawat27--ruvyxa",
+      "source": "./thirawat27--ruvyxa",
+      "description": "Ruvyxa is a production-minded web framework built around clarity, speed, and control. It keeps routing, server logic, validation, builds, and runtime output in one predictable workflow."
+    },
+    {
+      "name": "zenojunior--cs2d",
+      "source": "./zenojunior--cs2d",
+      "description": "The fastest browser-based 2D CS2 demo viewer. Playback, heatmaps and grenade trajectories, 100% offline."
     },
     {
       "name": "lucas-acc--sancho-skills",
@@ -298408,6 +298478,16 @@
       "name": "suqi8--coui",
       "source": "./suqi8--coui",
       "description": "A UI library for Compose MultiPlatform"
+    },
+    {
+      "name": "cocodedk--loop-engineering",
+      "source": "./cocodedk--loop-engineering",
+      "description": "A fact-checked knowledge base on Boris Cherny's 'loop' methodology for running Claude Code."
+    },
+    {
+      "name": "martinholovsky--sota-skills",
+      "source": "./martinholovsky--sota-skills",
+      "description": "Engineering best practices that AI coding agents actually apply \u2014 40+ skills, from secure coding and cloud to compliance and UX writing. BUILD + AUDIT modes. Measured: best-practice coverage 59% \u2192 98%"
     },
     {
       "name": "scardoso-lu--google-antigravity-settings",
@@ -306973,6 +307053,21 @@
       "name": "crossbill-app--crossbill-web",
       "source": "./crossbill-app--crossbill-web",
       "description": "A self-hosted reading companion for highlights, flashcards and other reading tools"
+    },
+    {
+      "name": "123mikeyd--hermes-vtuber",
+      "source": "./123mikeyd--hermes-vtuber",
+      "description": "Hermes Agent integration for Open-LLM-VTuber"
+    },
+    {
+      "name": "miragon--bpmn-to-code",
+      "source": "./miragon--bpmn-to-code",
+      "description": "Gradle and Maven plugin that bridges gaps between BPMN and code - fostering the creation of clean process-automation solutions \ud83e\udeb4"
+    },
+    {
+      "name": "relflow--relflow",
+      "source": "./relflow--relflow",
+      "description": "RelFlow turns nested, ragged data into neural representations. It lets users define typed schemas: numbers, categories, sets, dates, entities, text, etc., then trains models for prediction and embeddi"
     },
     {
       "name": "godblessamki--workout-tracker",
@@ -317068,6 +317163,26 @@
       "name": "francis-xavier-code--tiktok-douyin-dl",
       "source": "./francis-xavier-code--tiktok-douyin-dl",
       "description": "\u8de8\u5e73\u53f0\u6296\u97f3 / TikTok \u65e0\u6c34\u5370\u4e0b\u8f7d\u5668\uff1aWindows GUI\u3001macOS/iOS \u539f\u751f App\u3001Android \u5ba2\u6237\u7aef\u3001Linux/macOS CLI \u4e0e WebUI\uff1b\u5185\u7f6e\u65e0\u5934\u6d4f\u89c8\u5668\u3001\u6309\u7aef\u8fc7\u6ee4\u66f4\u65b0\u65e5\u5fd7\u3001\u8fdc\u7a0b\u7b56\u7565\u63a7\u5236\u3002Cross-platform TikTok & Douyin no-watermark downloader: Windows/macOS/iOS/Android apps pl"
+    },
+    {
+      "name": "coveros--strategiesfortestingai",
+      "source": "./coveros--strategiesfortestingai",
+      "description": "Repo for Strategies for Testing AI-Based Systems Class"
+    },
+    {
+      "name": "jin-bo--guanlan",
+      "source": "./jin-bo--guanlan",
+      "description": "\u89c2\u6f9c\uff08Gu\u0101nL\u00e1n\uff09\u662f\u4e00\u4e2a\u57fa\u4e8e Karpathy LLM Wiki \u6a21\u5f0f\u7684\u672c\u5730\u77e5\u8bc6\u5e93\u9879\u76ee\uff1a\u5b83\u8ba9 LLM Agent \u628a\u539f\u59cb\u8d44\u6599\u589e\u91cf\u201c\u7f16\u8bd1\u201d\u4e3a\u7ed3\u6784\u5316\u3001\u4e92\u76f8\u94fe\u63a5\u3001\u53ef\u6301\u7eed\u7ef4\u62a4\u7684 Markdown Wiki\u3002"
+    },
+    {
+      "name": "ruvnet--ruvn",
+      "source": "./ruvnet--ruvn",
+      "description": "ruvn \u2014 AI research harness that turns a question into a graded, cited evidence dossier (gamma-entrainment / 40 Hz protocol research). 9 hosts, OpenRouter-validated."
+    },
+    {
+      "name": "azure--apiops-cli",
+      "source": "./azure--apiops-cli",
+      "description": "Command line interface for Azure API Management"
     },
     {
       "name": "makenowjust--naraku",
@@ -333433,6 +333548,41 @@
       "name": "wess--sinclair",
       "source": "./wess--sinclair",
       "description": "The terminal your agent team lives in \u2014 run coding agents in panes on a shared bus, on a fast GPU-rendered terminal for macOS and Linux."
+    },
+    {
+      "name": "dhaupin--vant",
+      "source": "./dhaupin--vant",
+      "description": "Vant: Durable AI memory + cold storage + runtime for agents, with generational evolution, stored passively via GitHub. Built for long-running autonomous sessions, using file based persistence."
+    },
+    {
+      "name": "microsoft--build26-brk240-build-context-aware-agents-from-data-to-decisions",
+      "source": "./microsoft--build26-brk240-build-context-aware-agents-from-data-to-decisions",
+      "description": "Resources for designing agents with Foundry IQ, Fabric IQ, and Work IQ \u2014 search across organizational knowledge, reason over business data, and operate within trusted boundaries. From Microsoft Build "
+    },
+    {
+      "name": "dynatrace-oss--dtmgd",
+      "source": "./dynatrace-oss--dtmgd",
+      "description": "CLI for managing Dynatrace Managed environments - built for humans and AI agents alike"
+    },
+    {
+      "name": "ya-luotao--microsandbox-rb",
+      "source": "./ya-luotao--microsandbox-rb",
+      "description": "Community-maintained Ruby bindings for microsandbox \u2014 hardware-isolated microVM sandboxes for AI agents and untrusted code."
+    },
+    {
+      "name": "dalmasonto--umbral",
+      "source": "./dalmasonto--umbral",
+      "description": "Umbral is a Rust Web-framework in which every capability is a plugin"
+    },
+    {
+      "name": "zxtshine--boos-ai",
+      "source": "./zxtshine--boos-ai",
+      "description": "boos-ai"
+    },
+    {
+      "name": "publicdomainrelay--socialweb-computer",
+      "source": "./publicdomainrelay--socialweb-computer",
+      "description": "Decentralized Cloud in the ATmosphere"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
@@ -378470,6 +378620,131 @@
       "description": "shotoku"
     },
     {
+      "name": "statecrafting--spec-spine",
+      "source": "./statecrafting--spec-spine",
+      "description": "A typed, hash-verifiable ledger of who-owns-what, sitting underneath a codebase so that many agents (or people) can work in parallel without trampling each other."
+    },
+    {
+      "name": "aboard-io--stellate",
+      "source": "./aboard-io--stellate",
+      "description": "A generative music instrument: 274 genres as points in a deterministic vector space, sampled from General MIDI with per-voice Faust effects, rendered live in the browser. Draw a path across a star map"
+    },
+    {
+      "name": "powabase-ai--agent-skills",
+      "source": "./powabase-ai--agent-skills",
+      "description": "Agent Skills that help AI coding assistants build on Powabase \u2014 the AI Backend-as-a-Service (RAG, agents, orchestration, workflows) plus a Supabase-style BaaS layer."
+    },
+    {
+      "name": "sdebruyn--fabric-dw-mcp-cli",
+      "source": "./sdebruyn--fabric-dw-mcp-cli",
+      "description": "Python CLI and MCP server for Microsoft Fabric Data Warehouses and SQL Analytics Endpoints: administer, query, optimize, and secure them from your terminal or your AI agent."
+    },
+    {
+      "name": "yudistirosaputro--palugada-cli",
+      "source": "./yudistirosaputro--palugada-cli",
+      "description": "palugada-cli"
+    },
+    {
+      "name": "iamthejus--gravity-music",
+      "source": "./iamthejus--gravity-music",
+      "description": "Gravity Music - An Android music streaming app with dynamic album-driven visuals, floating glassmorphism UI, personalized discovery, playlists, and an immersive Apple Music-inspired listening experien"
+    },
+    {
+      "name": "kittycord-production--kittycord",
+      "source": "./kittycord-production--kittycord",
+      "description": "\ud83d\udc3e The cutest Discord client mod \u2014 plugins, themes and a whole lot of pink."
+    },
+    {
+      "name": "crazy-airhead--aifei-go",
+      "source": "./crazy-airhead--aifei-go",
+      "description": "aifei-go"
+    },
+    {
+      "name": "kfox--c64cast",
+      "source": "./kfox--c64cast",
+      "description": "Turn a real Commodore 64 into a programmable display + audio device via Ultimate 64 or TeensyROM+ \u2014 video, SID-music scopes, webcam, MIDI/ASID synth, WLED, generative visuals, overlays, playlists."
+    },
+    {
+      "name": "offbandmesh--meshcore-firmware",
+      "source": "./offbandmesh--meshcore-firmware",
+      "description": "A MeshCore fork for cross-role firmware enhancements and optimization. Active roles: companion/observer (WiFi+MQTT observation publishing, NimBLE, web UI) and repeater (MQTT-to-Mosquitto bridging, bur"
+    },
+    {
+      "name": "emersonbusson--ramshared",
+      "source": "./emersonbusson--ramshared",
+      "description": "Use idle GPU VRAM as high-speed swap space on Linux/WSL2. Implements a cascading tier (zram > VRAM > NVMe) with reliability and crash-safety methods."
+    },
+    {
+      "name": "benxinadmin-php--benxin-admin-server",
+      "source": "./benxinadmin-php--benxin-admin-server",
+      "description": "ThinkPHP 8 + Vue 3 \u901a\u7528\u7ba1\u7406\u540e\u53f0\u5f00\u6e90\u5e95\u5ea7,\u542b\u53ef\u590d\u523b\u4ee3\u7801\u751f\u6210\u5668(\u62a4\u57ce\u6cb3)\u00b7 Apache-2.0"
+    },
+    {
+      "name": "zixing131--files-macos",
+      "source": "./zixing131--files-macos",
+      "description": "A modern file manager that helps users organize their files and folders."
+    },
+    {
+      "name": "jaykumar2001--librenms-dash",
+      "source": "./jaykumar2001--librenms-dash",
+      "description": "LibreNMS-Dash is a LibreNMS-backed network dashboard. It aggregates devices, sites, overlays, alerts, and graphs into a single topology view with live hover details and SVG-based layout controls."
+    },
+    {
+      "name": "kenhuangus--agent-memory-harness",
+      "source": "./kenhuangus--agent-memory-harness",
+      "description": "Persistent memory harness for long-running coding agents \u2014 project plan, architecture, benchmarks & results (GitHub Pages site)."
+    },
+    {
+      "name": "paritytech--polkadot-desktop-community",
+      "source": "./paritytech--polkadot-desktop-community",
+      "description": "Polkadot Desktop prototype"
+    },
+    {
+      "name": "aiosbrain--aios-team-brain",
+      "source": "./aiosbrain--aios-team-brain",
+      "description": "The shared Team Brain: receives tier-tagged sync from AIOS workspaces and surfaces tasks, decisions, deliverables, and a grounded natural-language query over the team's shared memory. Next.js + Postgr"
+    },
+    {
+      "name": "skyflash521--mmd-toolbox",
+      "source": "./skyflash521--mmd-toolbox",
+      "description": "mmd-toolbox"
+    },
+    {
+      "name": "strelov1--spec-driven-tdd",
+      "source": "./strelov1--spec-driven-tdd",
+      "description": "Multi-harness skill-pack fusing OpenSpec planning with Superpowers TDD/simplify/review into one delivery loop."
+    },
+    {
+      "name": "aliisazadeh--keycloak-wallet-authenticator",
+      "source": "./aliisazadeh--keycloak-wallet-authenticator",
+      "description": "Wallet login for Keycloak \u2014 Sign-In with Ethereum (SIWE) & Solana (SIWS), EOA + smart-contract wallets (EIP-1271/6492), as a native Authenticator plugin"
+    },
+    {
+      "name": "ravinperera--ai-token-efficiency-playbook",
+      "source": "./ravinperera--ai-token-efficiency-playbook",
+      "description": "Drop-in instructions, prompts, and workflows to reduce token usage across Codex, Claude Code, GitHub Copilot, Cursor, and other AI coding agents"
+    },
+    {
+      "name": "quicktop--openlivewriterevolution",
+      "source": "./quicktop--openlivewriterevolution",
+      "description": "OpenLiveWriterEvolution"
+    },
+    {
+      "name": "noah-gigler--hft-chip",
+      "source": "./noah-gigler--hft-chip",
+      "description": "A full-custom ASIC that trades: four hardware order books and three trading strategies in 130nm silicon"
+    },
+    {
+      "name": "llm011--ethan-agent",
+      "source": "./llm011--ethan-agent",
+      "description": "A lightweight, high-performance personal AI agent. Fast async core, pluggable tools, and open integration with external agent ecosystems (Claude Code, Codex, MCP). Simple to configure, easy to extend."
+    },
+    {
+      "name": "prestomation--ha-home-keeper",
+      "source": "./prestomation--ha-home-keeper",
+      "description": "Home Keeper is a Home Assistant plugin for tracking home maintenance and chores with deep HA integration "
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -405383,6 +405658,16 @@
       "name": "godsay1983--eggdone",
       "source": "./godsay1983--eggdone",
       "description": "\u8f7b\u677e\u7ba1\u7406\u6bcf\u65e5\u5f85\u529e"
+    },
+    {
+      "name": "lunadeermc--deerfoliaplus",
+      "source": "./lunadeermc--deerfoliaplus",
+      "description": "DeerFoliaPlus \u76f8\u6bd4\u4e8e DeerFolia \u5f15\u5165\u4e86\u66f4\u591a\u989d\u5916\u529f\u80fd\uff0c\u8fd9\u4e9b\u529f\u80fd\u5e76\u975e\u6027\u80fd\u4f18\u5316\u65b9\u9762\u7684\u6539\u52a8\uff0c\u800c\u662f\u589e\u5f3a\u4e86\u670d\u52a1\u5668\u7684\u529f\u80fd\u6027\u3002"
+    },
+    {
+      "name": "tarekmo0--hunterstick",
+      "source": "./tarekmo0--hunterstick",
+      "description": "A persistent context and fieldcraft system for AI-assisted bug bounty hunting."
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -518673,6 +518958,226 @@
       "name": "antonio-faure--devplan",
       "source": "./antonio-faure--devplan",
       "description": "DevPlan - Suite d'outils pour le RAG sur vid\u00e9os YouTube"
+    },
+    {
+      "name": "umang-eng--start-up-evolution-engine",
+      "source": "./umang-eng--start-up-evolution-engine",
+      "description": "Start-up-Evolution-Engine"
+    },
+    {
+      "name": "lellino-elias--winkelmayerhof-camping-demo",
+      "source": "./lellino-elias--winkelmayerhof-camping-demo",
+      "description": "Demo redesign \u2014 Camping Winkelmayer Hof. Acquisition demo, noindex."
+    },
+    {
+      "name": "jus24194971--lvxhomes",
+      "source": "./jus24194971--lvxhomes",
+      "description": "LVX homes Public Repo"
+    },
+    {
+      "name": "kernelacademy-aicamp--ai-camp-7th-main-project-2teams",
+      "source": "./kernelacademy-aicamp--ai-camp-7th-main-project-2teams",
+      "description": "ai-camp-7th-main-project-2teams created by GitHub Classroom"
+    },
+    {
+      "name": "alex-20kd--petsworld-app",
+      "source": "./alex-20kd--petsworld-app",
+      "description": "PetsWorld-app"
+    },
+    {
+      "name": "antarsolusi--caka",
+      "source": "./antarsolusi--caka",
+      "description": "caka"
+    },
+    {
+      "name": "yentlfrickx--dreeve-polar-connector",
+      "source": "./yentlfrickx--dreeve-polar-connector",
+      "description": "dreeve-polar-connector"
+    },
+    {
+      "name": "beatrice-b-m--dicom-test-suite",
+      "source": "./beatrice-b-m--dicom-test-suite",
+      "description": "A Rust project for generating a comprehensive local corpus of synthetic DICOM files for viewer compatibility testing"
+    },
+    {
+      "name": "codetech-jr--catalogo-suministros-l-d",
+      "source": "./codetech-jr--catalogo-suministros-l-d",
+      "description": "catalogo-suministros-l-d"
+    },
+    {
+      "name": "hakonikomoru--floor-column-copy",
+      "source": "./hakonikomoru--floor-column-copy",
+      "description": "Minecraft Bedrock addon for copying floor columns"
+    },
+    {
+      "name": "cristianadrianpulupa--seleccion-ecuatoriana-app",
+      "source": "./cristianadrianpulupa--seleccion-ecuatoriana-app",
+      "description": "Seleccion-Ecuatoriana-App"
+    },
+    {
+      "name": "gustavolbs--devvault-web",
+      "source": "./gustavolbs--devvault-web",
+      "description": "DevVault-web"
+    },
+    {
+      "name": "gigzii4--gigzi-landing",
+      "source": "./gigzii4--gigzi-landing",
+      "description": "gigzi_landing"
+    },
+    {
+      "name": "clyra-ai--lumyn",
+      "source": "./clyra-ai--lumyn",
+      "description": "Lumyn OSS MVP implementation"
+    },
+    {
+      "name": "sb-chalmers--epsm",
+      "source": "./sb-chalmers--epsm",
+      "description": "A containerized web application for managing building energy simulations using EnergyPlus. EPSM streamlines the process of evaluating energy renovation strategies across large building stocks, enablin"
+    },
+    {
+      "name": "bedardandy--maine-court-forms",
+      "source": "./bedardandy--maine-court-forms",
+      "description": "Experimental Maine court form automation for first drafts and review workflows; not legal advice or a primary source."
+    },
+    {
+      "name": "nswaz--auth-bot-docker",
+      "source": "./nswaz--auth-bot-docker",
+      "description": "auth-bot-docker"
+    },
+    {
+      "name": "brunojardiminfo--access-fit",
+      "source": "./brunojardiminfo--access-fit",
+      "description": "access-fit"
+    },
+    {
+      "name": "liewchinquan34--singapling",
+      "source": "./liewchinquan34--singapling",
+      "description": "singapling"
+    },
+    {
+      "name": "dewhush--gpu-renderer",
+      "source": "./dewhush--gpu-renderer",
+      "description": "gpu-renderer"
+    },
+    {
+      "name": "robin10125--llm-bootstrap-control-framework",
+      "source": "./robin10125--llm-bootstrap-control-framework",
+      "description": "llm-bootstrap-control-framework"
+    },
+    {
+      "name": "qzenta--stutterheim-school",
+      "source": "./qzenta--stutterheim-school",
+      "description": "Stutterheim International School \u2014 website managed by Qzenta"
+    },
+    {
+      "name": "desarrollos-boedra--citapp",
+      "source": "./desarrollos-boedra--citapp",
+      "description": "citapp"
+    },
+    {
+      "name": "bastikohn--effect-grpc",
+      "source": "./bastikohn--effect-grpc",
+      "description": "effect-grpc"
+    },
+    {
+      "name": "yaiwell--yaiwell2",
+      "source": "./yaiwell--yaiwell2",
+      "description": "yaiwell2"
+    },
+    {
+      "name": "yuqianglianshou--hyperframes-music-playlist-template",
+      "source": "./yuqianglianshou--hyperframes-music-playlist-template",
+      "description": "HyperFrames \u97f3\u4e50\u5408\u96c6\u89c6\u9891\u6a21\u677f \uff1a \u4e00\u4e2a\u7528\u4e8e\u751f\u6210 B \u7ad9 / YouTube \u6a2a\u5c4f\u97f3\u4e50\u5408\u96c6\u89c6\u9891\u7684 HyperFrames \u6a21\u677f\uff0c\u652f\u6301\u6b4c\u5355\u5c55\u793a\u3001\u5f53\u524d\u6b4c\u66f2\u9ad8\u4eae\u3001LRC \u6b4c\u8bcd\u6eda\u52a8\u3001\u6b4c\u66f2\u80cc\u666f\u4fe1\u606f\u3001\u5408\u96c6\u8fdb\u5ea6\u6761\u548c\u672c\u5730 MP4 \u6e32\u67d3\u3002"
+    },
+    {
+      "name": "criztiano--marktab",
+      "source": "./criztiano--marktab",
+      "description": "A minimal, searchable bookmark new tab page for Chrome (WXT + React + TS), with an optional configurable Pins row."
+    },
+    {
+      "name": "sh-sharifahamed--digital-life-lessons",
+      "source": "./sh-sharifahamed--digital-life-lessons",
+      "description": "digital-life-lessons"
+    },
+    {
+      "name": "euforicio--agentdock",
+      "source": "./euforicio--agentdock",
+      "description": "A native macOS profile manager for isolated desktop coding sessions"
+    },
+    {
+      "name": "angelsistemas7--conversion",
+      "source": "./angelsistemas7--conversion",
+      "description": "Sitio web Conversion + test de madurez de marketing"
+    },
+    {
+      "name": "themagickingsman--optical-illusion",
+      "source": "./themagickingsman--optical-illusion",
+      "description": "optical-illusion"
+    },
+    {
+      "name": "4kclinton--swyft-agent",
+      "source": "./4kclinton--swyft-agent",
+      "description": "Swyft-Agent"
+    },
+    {
+      "name": "trushi-jasani--portfolio",
+      "source": "./trushi-jasani--portfolio",
+      "description": "portfolio"
+    },
+    {
+      "name": "byteyass4--receipt-vision-ai",
+      "source": "./byteyass4--receipt-vision-ai",
+      "description": "receipt-vision-ai"
+    },
+    {
+      "name": "vinit403--vinit-kumbhani",
+      "source": "./vinit403--vinit-kumbhani",
+      "description": "vinit-kumbhani"
+    },
+    {
+      "name": "infoquantmarket--bitwave-web",
+      "source": "./infoquantmarket--bitwave-web",
+      "description": "bitwave"
+    },
+    {
+      "name": "modrexio--modrex-site",
+      "source": "./modrexio--modrex-site",
+      "description": "modrex-site"
+    },
+    {
+      "name": "alxp-daniel--portfolio",
+      "source": "./alxp-daniel--portfolio",
+      "description": "PORTFOLIO"
+    },
+    {
+      "name": "deepak-077--nike",
+      "source": "./deepak-077--nike",
+      "description": "nike full stack website"
+    },
+    {
+      "name": "thiengthb--todo",
+      "source": "./thiengthb--todo",
+      "description": "todo"
+    },
+    {
+      "name": "amnoor-ai--velvet",
+      "source": "./amnoor-ai--velvet",
+      "description": "velvet"
+    },
+    {
+      "name": "abid-hossain-sifat--arthub",
+      "source": "./abid-hossain-sifat--arthub",
+      "description": "ArtHub is a modern digital art marketplace built with Next.js, Express, and MongoDB. Artists can showcase and sell their artwork, while buyers can discover, purchase, and manage original digital art t"
+    },
+    {
+      "name": "ulungmurdiantoro--mutululusan",
+      "source": "./ulungmurdiantoro--mutululusan",
+      "description": "mutululusan"
+    },
+    {
+      "name": "pwslcc24-hash--jandt",
+      "source": "./pwslcc24-hash--jandt",
+      "description": "Base44 App: NeuralAtelier"
     }
   ]
 }
