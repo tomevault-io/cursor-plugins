@@ -7,11 +7,11 @@ Simple resume generator built for developers. Content in YAML, layout in Typst.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [gustavo-ferreira03/resume-ci](https://github.com/gustavo-ferreira03/resume-ci).
+Original source: `AGENTS.md` in [gustavo-ferreira03/resume-ci](https://github.com/gustavo-ferreira03/resume-ci).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
