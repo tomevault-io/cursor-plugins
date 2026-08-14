@@ -7,11 +7,11 @@ AlignDev helps AI-assisted frontend teams generate shared coding standards and S
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [razr001/aligndev](https://github.com/razr001/aligndev).
+Original source: `AGENTS.md` in [razr001/aligndev](https://github.com/razr001/aligndev).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
