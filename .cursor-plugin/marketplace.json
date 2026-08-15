@@ -410025,6 +410025,16 @@
       "description": "Safety-gated self-learning agent for Touhou 8 practice and route play"
     },
     {
+      "name": "s3ggie--miyoofin",
+      "source": "./s3ggie--miyoofin",
+      "description": "Native Jellyfin client for the Miyoo Mini Plus running OnionOS"
+    },
+    {
+      "name": "hainrixz--whatsapp-closer-agentkit",
+      "source": "./hainrixz--whatsapp-closer-agentkit",
+      "description": "Repo blueprint para Claude Code: no trae la app, trae las instrucciones para construirla en tu m\u00e1quina paso a paso. Un agente que atiende cada chat de WhatsApp como setter y closer: califica, responde"
+    },
+    {
       "name": "nirholas--scroll-zoom-thing",
       "source": "./nirholas--scroll-zoom-thing",
       "description": "CSS 3D perspective scrolling \u2014 a pure-CSS parallax. perspective on the scroll container pushes each layer back with translateZ; layers farther from the vanishing point move slower. scale() compensates"
@@ -526033,6 +526043,21 @@
       "name": "fischerdr--pyplayground",
       "source": "./fischerdr--pyplayground",
       "description": "pyplayground"
+    },
+    {
+      "name": "atchim--dotfiles",
+      "source": "./atchim--dotfiles",
+      "description": "Personal dotfiles managed with chezmoi"
+    },
+    {
+      "name": "emperordmasac--personal-website",
+      "source": "./emperordmasac--personal-website",
+      "description": "personal-website"
+    },
+    {
+      "name": "baidiwang--3d-portfolio",
+      "source": "./baidiwang--3d-portfolio",
+      "description": "3D-Portfolio"
     }
   ]
 }
