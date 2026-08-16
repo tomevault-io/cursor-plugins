@@ -7,11 +7,11 @@ Local-first review gates and learning for coding agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dsifry/metareview](https://github.com/dsifry/metareview).
+Original source: `AGENTS.md` in [dsifry/metareview](https://github.com/dsifry/metareview).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
