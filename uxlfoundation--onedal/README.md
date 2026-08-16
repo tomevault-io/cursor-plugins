@@ -5,12 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [uxlfoundation/oneDAL](https://github.com/uxlfoundation/oneDAL).
+Original source: `AGENTS.md` in [uxlfoundation/oneDAL](https://github.com/uxlfoundation/oneDAL).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
