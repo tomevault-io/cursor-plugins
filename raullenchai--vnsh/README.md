@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [raullenchai/vnsh](https://github.com/raullenchai/vnsh).
+Original source: `AGENTS.md` in [raullenchai/vnsh](https://github.com/raullenchai/vnsh).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [raullenchai/vnsh](https://github.com/raullenchai/vnsh) — a repo with 167+ stars on GitHub.
+From [raullenchai/vnsh](https://github.com/raullenchai/vnsh) — a repo with 155+ stars on GitHub.
 
 ---
 
