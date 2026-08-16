@@ -5,12 +5,13 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [konstruktoid/ansible-role-docker-rootless](https://github.com/konstruktoid/ansible-role-docker-rootless).
+Original source: `` in [konstruktoid/ansible-role-docker-rootless](https://github.com/konstruktoid/ansible-role-docker-rootless).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
