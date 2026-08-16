@@ -7,11 +7,11 @@ Cursor for Reverse Engineering
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [aayush0325/recurse](https://github.com/aayush0325/recurse).
+Original source: `AGENTS.md` in [aayush0325/recurse](https://github.com/aayush0325/recurse).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
