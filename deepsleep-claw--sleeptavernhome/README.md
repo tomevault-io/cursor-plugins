@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [deepsleep-claw/SleepTavernHome](https://github.com/deepsleep-claw/SleepTavernHome).
+Original source: `AGENTS.md` in [deepsleep-claw/SleepTavernHome](https://github.com/deepsleep-claw/SleepTavernHome).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
