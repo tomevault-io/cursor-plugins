@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [sapcc/keppel](https://github.com/sapcc/keppel).
+Original source: `CLAUDE.md` in [sapcc/keppel](https://github.com/sapcc/keppel).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [sapcc/keppel](https://github.com/sapcc/keppel) — a repo with 122+ stars on GitHub.
+From [sapcc/keppel](https://github.com/sapcc/keppel) — a repo with 123+ stars on GitHub.
 
 ---
 
