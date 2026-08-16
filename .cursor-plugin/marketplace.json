@@ -382910,6 +382910,11 @@
       "description": "Pluggable DeepSeek-colored TUI for DeepSeek Harness"
     },
     {
+      "name": "akkaraponsala--thaipua",
+      "source": "./akkaraponsala--thaipua",
+      "description": "Converts Thai text to PUA Unicode and generates composite fonts mapped to PUA code points for games lacking proper complex Thai script rendering support."
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -410783,6 +410788,11 @@
       "name": "1449690477--dsh",
       "source": "./1449690477--dsh",
       "description": "\u9002\u914ddsh\u7684\u4e00\u952e\u7834\u89e3 \u652f\u6301v4flash\u548cv4pro"
+    },
+    {
+      "name": "limbo947--dsh-recall-plugin",
+      "source": "./limbo947--dsh-recall-plugin",
+      "description": "DSH \u6d88\u606f\u64a4\u56de\u63d2\u4ef6\uff1a\u56de\u5230\u53d1\u9001\u8be5\u6d88\u606f\u65f6\u7684\u72b6\u6001"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
