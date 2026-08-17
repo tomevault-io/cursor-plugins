@@ -244595,6 +244595,11 @@
       "description": "contracts"
     },
     {
+      "name": "nithin42--pii-radar",
+      "source": "./nithin42--pii-radar",
+      "description": "CLI tool to scan CSV, JSON and Parquet files for PII -> emails, phones, SSNs, credit cards and more"
+    },
+    {
       "name": "mulhamna--jira-commands",
       "source": "./mulhamna--jira-commands",
       "description": "Jira toolkit for terminals, coding assistants, and bots."
@@ -322890,6 +322895,11 @@
       "description": "A terminal coding harness with a headless agent core"
     },
     {
+      "name": "albertobeiz--kindergrimm",
+      "source": "./albertobeiz--kindergrimm",
+      "description": "Procedural doodle characters drawn as if by hand on cream paper \u2014 and Kindergrimm, the game they live in"
+    },
+    {
       "name": "makenowjust--naraku",
       "source": "./makenowjust--naraku",
       "description": "next Ruby Regexp engine"
@@ -339898,6 +339908,11 @@
       "name": "wtfzambo--speak-like-you-eat",
       "source": "./wtfzambo--speak-like-you-eat",
       "description": "Translate AI garbage to human language. A Pi package for plain-language rewrites."
+    },
+    {
+      "name": "robbeverhelst--unifi-reactor",
+      "source": "./robbeverhelst--unifi-reactor",
+      "description": "Kubernetes operator for UniFi networks. Reacts to WAN failover, UPS power loss and device health with declarative Automations."
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
