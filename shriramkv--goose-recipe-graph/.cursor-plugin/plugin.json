@@ -1,0 +1,11 @@
+{
+  "name": "shriramkv--goose-recipe-graph",
+  "displayName": "goose-recipe-graph",
+  "version": "1.0.0",
+  "description": "goose-recipe-graph maps and validates sub_recipe dependencies across a whole recipe library, catching broken references, cycles, and mismatched parameter values. It renders the graph as Mermaid and gr",
+  "author": {
+    "name": "shriramkv",
+    "url": "https://github.com/shriramkv"
+  },
+  "homepage": "https://github.com/shriramkv/goose-recipe-graph"
+}
