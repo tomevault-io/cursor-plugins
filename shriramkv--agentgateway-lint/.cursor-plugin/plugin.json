@@ -1,0 +1,11 @@
+{
+  "name": "shriramkv--agentgateway-lint",
+  "displayName": "agentgateway-lint",
+  "version": "1.0.0",
+  "description": "Static linter for agentgateway configurations that detects security, reliability, and operational risks such as unsafe CORS, missing authentication/rate limits, hardcoded secrets, and exposed admin in",
+  "author": {
+    "name": "shriramkv",
+    "url": "https://github.com/shriramkv"
+  },
+  "homepage": "https://github.com/shriramkv/agentgateway-lint"
+}
