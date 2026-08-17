@@ -180670,6 +180670,11 @@
       "description": "easyss"
     },
     {
+      "name": "perrylink--dsh-memento",
+      "source": "./perrylink--dsh-memento",
+      "description": "Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness (capability seam: ctx.memory + SQLite provider + memory tool + frozen snapshot injection)"
+    },
+    {
       "name": "eduardo-sl--go-agent-skills",
       "source": "./eduardo-sl--go-agent-skills",
       "description": "Curated AI agent skills for Go projects."
@@ -271550,6 +271555,11 @@
       "description": "Open-Source AI Governance Frameworks & Compliance SOPs for responsible AI development, risk mitigation, and ethical oversight. Ensuring trust, transparency, and accountability in AI systems."
     },
     {
+      "name": "huacnlee--omarchy-mihoro",
+      "source": "./huacnlee--omarchy-mihoro",
+      "description": "Omarchy plugin to display Mihoro status."
+    },
+    {
       "name": "nirholas--auto-kill-terminal",
       "source": "./nirholas--auto-kill-terminal",
       "description": "\ud83e\udd2f  Stop AI agents from leaving zombie terminals in GitHub Codespaces & VS Code. Copy-paste terminal management rules for Copilot, Claude, Gemini, Cursor, Windsurf, Cline, Aider. Fix \"terminal unrespon"
@@ -322873,6 +322883,11 @@
       "name": "omdsh-dev--dsh-mygo",
       "source": "./omdsh-dev--dsh-mygo",
       "description": "dsh-mygo"
+    },
+    {
+      "name": "xal-sh--xal",
+      "source": "./xal-sh--xal",
+      "description": "A terminal coding harness with a headless agent core"
     },
     {
       "name": "makenowjust--naraku",
@@ -386180,6 +386195,11 @@
       "description": "Second-model AI auto-review for DeepSeek Harness approval requests: a read-only reviewer subagent returns structured allow/deny verdicts with reasons, fail-closed by default, fully auditable from the "
     },
     {
+      "name": "chebizarro--nostrc",
+      "source": "./chebizarro--nostrc",
+      "description": "A C library for the Nostr protocol"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -414493,6 +414513,11 @@
       "name": "xi-zhao--openquantum",
       "source": "./xi-zhao--openquantum",
       "description": "Open-source quantum Agent workspace built on DeepSeek Harness"
+    },
+    {
+      "name": "lvpengfei1--dhs-wiki",
+      "source": "./lvpengfei1--dhs-wiki",
+      "description": "Deepseek-harness-wiki"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
