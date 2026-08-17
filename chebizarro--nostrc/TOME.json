@@ -2,9 +2,9 @@
   "name": "nostrc",
   "owner": "chebizarro",
   "repo": "nostrc",
-  "description": "AI instruction files for nostrc by chebizarro",
+  "description": "A C library for the Nostr protocol",
   "type": "tome",
-  "source_format": ".windsurf/rules/*.md",
+  "source_format": "CLAUDE.md",
   "formats": [
     {
       "format": "claude_md",
@@ -63,7 +63,7 @@
       "description": ""
     }
   ],
-  "claim_url": "https://tomevault.io/claim/chebizarro",
+  "source_url": "https://github.com/chebizarro/nostrc",
   "distributed_by": "TomeVault",
-  "distributed_at": "2026-04-13T05:30:23Z"
+  "distributed_at": "2026-08-17T17:30:36Z"
 }
