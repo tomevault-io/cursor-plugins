@@ -7,11 +7,11 @@ O'Reilly Live Learning: Agentic Commerce — building systems that let AI agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kousen/agentic-commerce](https://github.com/kousen/agentic-commerce).
+Original source: `CLAUDE.md` in [kousen/agentic-commerce](https://github.com/kousen/agentic-commerce).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
