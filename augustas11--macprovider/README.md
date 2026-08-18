@@ -7,11 +7,11 @@ Mac Provider — pooled MLX inference network for Apple Silicon Macs
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Augustas11/macprovider](https://github.com/Augustas11/macprovider).
+Original source: `AGENTS.md` in [Augustas11/macprovider](https://github.com/Augustas11/macprovider).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
