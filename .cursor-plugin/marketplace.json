@@ -285370,6 +285370,11 @@
       "description": "A library for rendering bevy_ui elements inside Bevy app using React"
     },
     {
+      "name": "qlarr-surveys--qlarr",
+      "source": "./qlarr-surveys--qlarr",
+      "description": "WYSIWYG editor and renderer for offline-first, programmable surveys"
+    },
+    {
       "name": "fcoury--termwright",
       "source": "./fcoury--termwright",
       "description": "Playwright-like automation framework for terminal TUI applications"
@@ -387380,6 +387385,66 @@
       "description": "Statewave use case in TypeScript: a grounded product advisor and support assistant, with an Ops Assistant that tracks and closes content gaps."
     },
     {
+      "name": "25cloud--turaidc",
+      "source": "./25cloud--turaidc",
+      "description": "TuraIDC - Next-generation IDC cloud service management & billing system \u56fe\u62c9\u4e91\u4e1a\u52a1/\u8d22\u52a1\u7cfb\u7edf \u2014\u2014 \u65b0\u4e00\u4ee3\u7684IDC\u4e91\u670d\u52a1\u7ecf\u8425\u7cfb\u7edf"
+    },
+    {
+      "name": "juliusbrussee--caveman-browse",
+      "source": "./juliusbrussee--caveman-browse",
+      "description": "Token-efficient browser automation for coding agents: compressed accessibility snapshots, uid actions, byte-exact recovery. A Playwright MCP alternative."
+    },
+    {
+      "name": "gmartins-dev--sdd-agentic-flow",
+      "source": "./gmartins-dev--sdd-agentic-flow",
+      "description": "sdd-agentic-flow is a local-first, Spec Driven Development(SDD) toolkit for coding-agent workflows."
+    },
+    {
+      "name": "25cloud--turaidc",
+      "source": "./25cloud--turaidc",
+      "description": "TuraIDC - Next-generation IDC cloud service management & billing system \u56fe\u62c9\u4e91\u4e1a\u52a1/\u8d22\u52a1\u7cfb\u7edf \u2014\u2014 \u65b0\u4e00\u4ee3\u7684IDC\u4e91\u670d\u52a1\u7ecf\u8425\u7cfb\u7edf"
+    },
+    {
+      "name": "kousen--agentic-commerce",
+      "source": "./kousen--agentic-commerce",
+      "description": "O'Reilly Live Learning: Agentic Commerce \u2014 building systems that let AI agents search, decide, and buy"
+    },
+    {
+      "name": "gmartins-dev--sdd-agentic-flow",
+      "source": "./gmartins-dev--sdd-agentic-flow",
+      "description": "sdd-agentic-flow is a local-first, Spec Driven Development(SDD) toolkit for coding-agent workflows."
+    },
+    {
+      "name": "nunomaduro--pet",
+      "source": "./nunomaduro--pet",
+      "description": "pet is a dependency audit ledger for php"
+    },
+    {
+      "name": "kousen--agentic-commerce",
+      "source": "./kousen--agentic-commerce",
+      "description": "O'Reilly Live Learning: Agentic Commerce \u2014 building systems that let AI agents search, decide, and buy"
+    },
+    {
+      "name": "futrime--webdsh",
+      "source": "./futrime--webdsh",
+      "description": "Browser-only build of DeepSeek Harness"
+    },
+    {
+      "name": "juliusbrussee--caveman-browse",
+      "source": "./juliusbrussee--caveman-browse",
+      "description": "Token-efficient browser automation for coding agents: compressed accessibility snapshots, uid actions, byte-exact recovery. A Playwright MCP alternative."
+    },
+    {
+      "name": "juliusbrussee--caveman-browse",
+      "source": "./juliusbrussee--caveman-browse",
+      "description": "Token-efficient browser automation for coding agents: compressed accessibility snapshots, uid actions, byte-exact recovery. A Playwright MCP alternative."
+    },
+    {
+      "name": "qwewqa--sonolus-py",
+      "source": "./qwewqa--sonolus-py",
+      "description": "Python library for Sonolus engine development"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -415903,6 +415968,36 @@
       "name": "zethrise--readydesign-skill",
       "source": "./zethrise--readydesign-skill",
       "description": "Ready to use design system for cool UI/UX with no extra slop"
+    },
+    {
+      "name": "oldwarma--mini-gateway",
+      "source": "./oldwarma--mini-gateway",
+      "description": "\u667a\u80fd\u4f53\u8ff7\u4f60\u7f51\u5173 (Agent Mini Gateway) \u2014\u2014 \u57fa\u4e8e\u53ef\u8ffd\u8e2a Harness \u67b6\u6784\u7684\u667a\u80fd\u4f53\u7f51\u5173\uff1aAgent = LLM + Harness\uff0c\u7528\u4ee3\u7801\u5305\u56f4\u5e76\u7ea6\u675f LLM"
+    },
+    {
+      "name": "alexkgwyn--ds4-vllm",
+      "source": "./alexkgwyn--ds4-vllm",
+      "description": "A Deepseek V4 Flash 0731 VLLM stack"
+    },
+    {
+      "name": "prism-shadow--learn-deepseek-harness",
+      "source": "./prism-shadow--learn-deepseek-harness",
+      "description": "learn-deepseek-harness"
+    },
+    {
+      "name": "adwmc--helm-d",
+      "source": "./adwmc--helm-d",
+      "description": "DeepSeek Harness \u7834\u7532\u4e00\u4f53\u5316\u5b89\u5168\u5206\u6790\u63d2\u4ef6\uff1aAndroid \u00b7 Web \u00b7 Native \u00b7 Protocol \u00b7 Malware \u00b7 AI-Security \u5168\u9886\u57df\u805a\u5408\uff089 bundle + 1 preset\uff09"
+    },
+    {
+      "name": "nadernabil216--interviewprep",
+      "source": "./nadernabil216--interviewprep",
+      "description": "InterviewPrep"
+    },
+    {
+      "name": "nadernabil216--interviewprep",
+      "source": "./nadernabil216--interviewprep",
+      "description": "InterviewPrep"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
