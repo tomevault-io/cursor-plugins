@@ -387475,6 +387475,31 @@
       "description": "arcforge"
     },
     {
+      "name": "researchradar--research-radar",
+      "source": "./researchradar--research-radar",
+      "description": "Self-hosted research intelligence for collecting, deduplicating, ranking, searching, and browsing the researchers, topics, and sources you care about."
+    },
+    {
+      "name": "reviewstage--luke",
+      "source": "./reviewstage--luke",
+      "description": "Open-source coding agent manager"
+    },
+    {
+      "name": "jochi2018--soup",
+      "source": "./jochi2018--soup",
+      "description": "Fine-tune and post-train LLMs with one command\u2014no SSH, no config hell."
+    },
+    {
+      "name": "reviewstage--luke",
+      "source": "./reviewstage--luke",
+      "description": "Open-source coding agent manager"
+    },
+    {
+      "name": "susyimes--groupx",
+      "source": "./susyimes--groupx",
+      "description": "Local group chat broker for Codex, Grok, and Kimi CLIs"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -416033,6 +416058,31 @@
       "name": "lburny--deepseek-harness-desktop",
       "source": "./lburny--deepseek-harness-desktop",
       "description": "Windows desktop shell for DeepSeek's agent harness CLI (dsh). The installer bundles Node.js and dsh, so the official Web UI runs as a native app with tray, notifications, and theme following. No prere"
+    },
+    {
+      "name": "panaversity--ksor",
+      "source": "./panaversity--ksor",
+      "description": "KSoR (Knowledge System of Record) is an open-source SDK for building governed, authoritative knowledge systems for humans and AI agents."
+    },
+    {
+      "name": "neeeophytee--agent-stylebooks",
+      "source": "./neeeophytee--agent-stylebooks",
+      "description": "11 installable editorial systems for AI agents, based on leading public style guides."
+    },
+    {
+      "name": "nem-tudo--group-sharescreen",
+      "source": "./nem-tudo--group-sharescreen",
+      "description": "Share your screen! Just that."
+    },
+    {
+      "name": "panaversity--ksor",
+      "source": "./panaversity--ksor",
+      "description": "KSoR (Knowledge System of Record) is an open-source SDK for building governed, authoritative knowledge systems for humans and AI agents."
+    },
+    {
+      "name": "neeeophytee--agent-stylebooks",
+      "source": "./neeeophytee--agent-stylebooks",
+      "description": "11 installable editorial systems for AI agents, based on leading public style guides."
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -532000,11 +532050,6 @@
       "description": "unified-mcp"
     },
     {
-      "name": "djelibeybi--lifx-async",
-      "source": "./djelibeybi--lifx-async",
-      "description": "lifx-async"
-    },
-    {
       "name": "md-mushfiqur123--basecoat",
       "source": "./md-mushfiqur123--basecoat",
       "description": "Enterprise shared library of GitHub Copilot customization assets \u2014 77 agents, 57 skills, 63 instructions, and prompts. Fork, customize, and sync."
@@ -532743,6 +532788,11 @@
       "name": "2006shubham18gupta-lang--arti-garment",
       "source": "./2006shubham18gupta-lang--arti-garment",
       "description": "Arti Garment - Premium Clothing Store"
+    },
+    {
+      "name": "djelibeybi--lifx-async",
+      "source": "./djelibeybi--lifx-async",
+      "description": "lifx-async"
     }
   ]
 }
