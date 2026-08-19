@@ -7,11 +7,11 @@ Share APIs with agents, without sharing secrets.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [clavia-labs/agent.pw](https://github.com/clavia-labs/agent.pw).
+Original source: `AGENTS.md` in [clavia-labs/agent.pw](https://github.com/clavia-labs/agent.pw).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
