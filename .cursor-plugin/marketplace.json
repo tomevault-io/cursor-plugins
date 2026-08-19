@@ -54235,6 +54235,11 @@
       "description": "triggers"
     },
     {
+      "name": "ww-w-ai--bkit-claude-code",
+      "source": "./ww-w-ai--bkit-claude-code",
+      "description": "bkit Vibecoding Kit - PDCA methodology + Claude Code mastery for AI-native development"
+    },
+    {
       "name": "onllm-dev--onwatch",
       "source": "./onllm-dev--onwatch",
       "description": "Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dash"
@@ -122408,6 +122413,11 @@
       "name": "khalilzhang0825--boring-is-all-you-need",
       "source": "./khalilzhang0825--boring-is-all-you-need",
       "description": "Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, fail-closed safety hooks, risk-based review, checkpoint commits, and release evidence."
+    },
+    {
+      "name": "vectora-foundry--native-devtools-mcp",
+      "source": "./vectora-foundry--native-devtools-mcp",
+      "description": "MCP server for computer use & browser automation  - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP cl"
     },
     {
       "name": "clovesvg--one-click-clone",
@@ -216025,6 +216035,11 @@
       "description": "sdoog"
     },
     {
+      "name": "anyastra--easydict",
+      "source": "./anyastra--easydict",
+      "description": "json-based e-dict, easy to use~"
+    },
+    {
       "name": "w3cj--ruta",
       "source": "./w3cj--ruta",
       "description": "A tiny type-safe client-side router for hono/jsx"
@@ -220563,6 +220578,11 @@
       "name": "primeintellect-ai--nano-rlm",
       "source": "./primeintellect-ai--nano-rlm",
       "description": "Minimal RLM harness"
+    },
+    {
+      "name": "marsz42--awel",
+      "source": "./marsz42--awel",
+      "description": "\ud83c\udf38 Local, Open Source AI agent/App Builder that lives inside your Next.js app"
     },
     {
       "name": "nikolasburk--livestore-tanstack-cloudflare-auth-example",
@@ -228813,6 +228833,11 @@
       "name": "chatwork--dockerfiles",
       "source": "./chatwork--dockerfiles",
       "description": "dockerfiles"
+    },
+    {
+      "name": "qingchenyouforcc--neurolingsce-qt",
+      "source": "./qingchenyouforcc--neurolingsce-qt",
+      "description": "Universal shimeji-type desktop pet engine, built-in desktop pets like neuro. Deep Modification of Shijima-Qt."
     },
     {
       "name": "r44vc0rp--itui",
@@ -268860,6 +268885,11 @@
       "description": "A fullstack meal delivery platorm, build with NestJs & React"
     },
     {
+      "name": "nerdsorg--mutsumi",
+      "source": "./nerdsorg--mutsumi",
+      "description": "Multi-Agents VSCode Extension that Focuses on the Full Control of Context, Observability and Auditability. Works like Wakaba Mutsumi's Personalilties \ud83e\udd52. \u5413\u6211\u4e00\u8df3\u6211\u91ca\u653e\u5fcd\u672f\ud83d\ude30\u82e5\u53f6\u7766\u90a3\u4e48\u591a\u9996\u554a\ud83e\udd77"
+    },
+    {
       "name": "googlecloudplatform--cxas-scrapi",
       "source": "./googlecloudplatform--cxas-scrapi",
       "description": "cxas-scrapi"
@@ -272173,6 +272203,11 @@
       "name": "suge8--architecture-wiki",
       "source": "./suge8--architecture-wiki",
       "description": "Agent skill that builds a verifiable architecture wiki \u2014 isometric city map, health report, drift check wired into lint/CI"
+    },
+    {
+      "name": "ishanjain1502--distributed-inference-engine",
+      "source": "./ishanjain1502--distributed-inference-engine",
+      "description": "A distributed inference framework for large language models that routes requests to workers, manages KV cache lifecycle, handles failures gracefully, and applies backpressure so memory \u2014 not compute \u2014"
     },
     {
       "name": "nirholas--auto-kill-terminal",
@@ -285670,6 +285705,11 @@
       "description": "openapi-ruby"
     },
     {
+      "name": "redhat-developer--rhdh-skills",
+      "source": "./redhat-developer--rhdh-skills",
+      "description": "Claude Code skill for RHDH plugin lifecycle management"
+    },
+    {
       "name": "fcoury--termwright",
       "source": "./fcoury--termwright",
       "description": "Playwright-like automation framework for terminal TUI applications"
@@ -297065,6 +297105,11 @@
       "description": "Self-hosted health data server with visualization dashboard and MCP interface"
     },
     {
+      "name": "pkurzok--sankeykit",
+      "source": "./pkurzok--sankeykit",
+      "description": "Swift Charts-style Sankey diagrams for SwiftUI"
+    },
+    {
       "name": "lucas-acc--sancho-skills",
       "source": "./lucas-acc--sancho-skills",
       "description": "Skills of my personal assistant, I call him Sancho."
@@ -304448,6 +304493,11 @@
       "name": "w4g1--experimental-threads",
       "source": "./w4g1--experimental-threads",
       "description": "Highly experimental multithreading in JavaScript using lexical scope analysis and shared memory rehydration. Works in Deno, Bun and Node"
+    },
+    {
+      "name": "huacnlee--omamail",
+      "source": "./huacnlee--omamail",
+      "description": "A native Gmail client for Omarchy."
     },
     {
       "name": "scardoso-lu--google-antigravity-settings",
@@ -324000,6 +324050,21 @@
       "description": "Soma Dynamics \u2014 unified full-body flesh physics controller for Koikatu / Koikatsu Party and CharaStudio"
     },
     {
+      "name": "tkasperczyk--claude-memory",
+      "source": "./tkasperczyk--claude-memory",
+      "description": "claude-memory"
+    },
+    {
+      "name": "tkasperczyk--claude-memory",
+      "source": "./tkasperczyk--claude-memory",
+      "description": "claude-memory"
+    },
+    {
+      "name": "smallhoursorg--hotsauce",
+      "source": "./smallhoursorg--hotsauce",
+      "description": "hotsauce"
+    },
+    {
       "name": "makenowjust--naraku",
       "source": "./makenowjust--naraku",
       "description": "next Ruby Regexp engine"
@@ -341423,6 +341488,21 @@
       "name": "asen-goat-mine--boujoy-local-markdown-memory",
       "source": "./asen-goat-mine--boujoy-local-markdown-memory",
       "description": "A local Markdown knowledge-base template for shared use with Codex and WorkBuddy."
+    },
+    {
+      "name": "kasway-tech--pos",
+      "source": "./kasway-tech--pos",
+      "description": "A Flutter-based point-of-sale terminal that accepts Kaspa (KAS) payments via QR code."
+    },
+    {
+      "name": "salustlab--3dsort",
+      "source": "./salustlab--3dsort",
+      "description": "Rearrange your Nintendo 3DS HOME menu from your PC: drag and drop icons, folders and system apps, with a live preview of the console screen and a backup before every write."
+    },
+    {
+      "name": "anchalive--collegems",
+      "source": "./anchalive--collegems",
+      "description": "A scalable, feature-rich College Management System using MERN Stack"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
@@ -388265,6 +388345,11 @@
       "description": "An attempt at Raylib LuaJit bindings that are generated from the raylib-parser API docs"
     },
     {
+      "name": "lamost423--dsh-trace-compare",
+      "source": "./lamost423--dsh-trace-compare",
+      "description": "Trace Compare & Live Maze for DeepSeek Harness: visualize agent exploration (main path, detours, backtracks) from session logs or live sessions"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -417023,6 +417108,16 @@
       "name": "xiangkehan--fathom",
       "source": "./xiangkehan--fathom",
       "description": "Fathom"
+    },
+    {
+      "name": "beancookie--chrome-needle",
+      "source": "./beancookie--chrome-needle",
+      "description": "Chrome extension running a 45M-parameter LLM (Needle 2) entirely in WASM. Natural-language control of tabs, forms, pages, and custom scripts \u2014 fully offline."
+    },
+    {
+      "name": "archestra-ai--openappa",
+      "source": "./archestra-ai--openappa",
+      "description": "Deterministic security for real-world agentic applications"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
