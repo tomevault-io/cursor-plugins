@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [brandonpowers/vc-e2e-k8s-728985cb](https://github.com/brandonpowers/vc-e2e-k8s-728985cb).
+Original source: `AGENTS.md` in [brandonpowers/vc-e2e-k8s-728985cb](https://github.com/brandonpowers/vc-e2e-k8s-728985cb).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
