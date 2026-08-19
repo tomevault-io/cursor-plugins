@@ -7,11 +7,11 @@ Free, open-source Android AI workflow automation with cloud, on-device, and comp
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [atj393/automatist-android](https://github.com/atj393/automatist-android).
+Original source: `AGENTS.md` in [atj393/automatist-android](https://github.com/atj393/automatist-android).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
