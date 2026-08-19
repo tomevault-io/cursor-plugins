@@ -119025,6 +119025,11 @@
       "description": "Build a compiler to solve Anthropic's interview challenge."
     },
     {
+      "name": "mobrava--pasteclip",
+      "source": "./mobrava--pasteclip",
+      "description": "Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, Quick Look, and 100% local storage."
+    },
+    {
       "name": "htekdev--vidpipe",
       "source": "./htekdev--vidpipe",
       "description": "CLI tool that auto-processes video recordings: transcribes, removes silence, generates captions, creates shorts, social posts, and more"
@@ -218120,6 +218125,16 @@
       "description": "docker-sshd"
     },
     {
+      "name": "clavia-labs--agent-pw",
+      "source": "./clavia-labs--agent-pw",
+      "description": "Share APIs with agents, without sharing secrets."
+    },
+    {
+      "name": "clavia-labs--agent-pw",
+      "source": "./clavia-labs--agent-pw",
+      "description": "Share APIs with agents, without sharing secrets."
+    },
+    {
       "name": "bobmatnyc--claude-mpm-skills",
       "source": "./bobmatnyc--claude-mpm-skills",
       "description": "Curated collection of Claude Code skills for intelligent project development with progressive loading and toolchain detection"
@@ -251878,6 +251893,11 @@
       "name": "vvolhejn--samuel",
       "source": "./vvolhejn--samuel",
       "description": "A silly speech model - Pink Trombone automated"
+    },
+    {
+      "name": "sdetbman--qa-automation-portfolio",
+      "source": "./sdetbman--qa-automation-portfolio",
+      "description": "26-framework SDET monorepo: Playwright, Selenium, Cypress, Cucumber, Postman, FastAPI, Pact, AI/LLM eval (DeepEval), agentic AI (LangChain, LangGraph, DSPy, Claude), k6, flakiness detection, site moni"
     },
     {
       "name": "jojobeans1981--ember-campfire-edition",
@@ -313340,6 +313360,11 @@
       "description": "\u7528\u4e8e\u53ef\u590d\u73b0 AI Agent \u8bc4\u6d4b\u7684\u786e\u5b9a\u6027\u3001\u53ef\u5206\u53c9\u3001\u6709\u72b6\u6001 MCP \u6d4b\u8bd5\u4e16\u754c\u2014\u2014\u4e0d\u5bf9\u751f\u4ea7\u73af\u5883\u4ea7\u751f\u526f\u4f5c\u7528\u3002Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation\u2014without production side effects."
     },
     {
+      "name": "yw9299-stack--project-orrery",
+      "source": "./yw9299-stack--project-orrery",
+      "description": "A portable Codex skill for traceable Markdown project documentation, local observability, and safe migration."
+    },
+    {
       "name": "godblessamki--workout-tracker",
       "source": "./godblessamki--workout-tracker",
       "description": "IronTrack is a native iOS workout tracker built with SwiftUI and SwiftData. It allows users to create custom workout routines and exercises. During active sessions, it automatically displays the maxim"
@@ -341188,6 +341213,26 @@
       "name": "tyvsmith--facelock",
       "source": "./tyvsmith--facelock",
       "description": "Modern Face Authentication for Linux"
+    },
+    {
+      "name": "prasannajaga--deployment-guide",
+      "source": "./prasannajaga--deployment-guide",
+      "description": "Deployment & experimentation of LLM inference at production scale (KV offloading, P/D disaggregation, parallelism, and autoscaling)."
+    },
+    {
+      "name": "datadog--fastjq",
+      "source": "./datadog--fastjq",
+      "description": "A fast jq engine for Go with a principled allocation model, designed for high-throughput structured log processing."
+    },
+    {
+      "name": "datadog--fastjq",
+      "source": "./datadog--fastjq",
+      "description": "A fast jq engine for Go with a principled allocation model, designed for high-throughput structured log processing."
+    },
+    {
+      "name": "flexmark-intl--maiterm",
+      "source": "./flexmark-intl--maiterm",
+      "description": "A modern terminal emulator with workspace organization, split panes, editor tabs, and smart automation \u2014 built with Tauri, Svelte 5, and xterm.js."
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
