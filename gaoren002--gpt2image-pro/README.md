@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [gaoren002/GPT2Image-Pro](https://github.com/gaoren002/GPT2Image-Pro).
+Original source: `AGENTS.md` in [gaoren002/GPT2Image-Pro](https://github.com/gaoren002/GPT2Image-Pro).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
