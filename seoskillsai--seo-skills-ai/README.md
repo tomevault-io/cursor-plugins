@@ -7,11 +7,11 @@ SEO Skills AI: Universal AI SEO Agent & Technical Optimization Suite across Clau
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [seoskillsai/seo-skills-ai](https://github.com/seoskillsai/seo-skills-ai).
+Original source: `AGENTS.md` in [seoskillsai/seo-skills-ai](https://github.com/seoskillsai/seo-skills-ai).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
