@@ -1,0 +1,26 @@
+# nexusOS
+
+> Source: [AFKmoney/nexusOS](https://github.com/AFKmoney/nexusOS). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
+
+Meet Daemon, the Self-Evolving Operating System.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `copilot-instructions.md` in [AFKmoney/nexusOS](https://github.com/AFKmoney/nexusOS).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [AFKmoney/nexusOS](https://github.com/AFKmoney/nexusOS) — a repo with 9+ stars on GitHub.
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io), the platform that grades AI instruction files and catches silent drift across every major tool.
+
+<!-- genome:d-e-s -->
