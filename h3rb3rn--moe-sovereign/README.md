@@ -7,11 +7,11 @@ Self-hosted Compound AI System for sovereign environments. Features token-saving
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [h3rb3rn/moe-sovereign](https://github.com/h3rb3rn/moe-sovereign).
+Original source: `AGENTS.md` in [h3rb3rn/moe-sovereign](https://github.com/h3rb3rn/moe-sovereign).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
