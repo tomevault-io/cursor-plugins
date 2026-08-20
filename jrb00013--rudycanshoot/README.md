@@ -7,12 +7,12 @@ MCP server + CLI that lets AI assistants take and view screenshots. Auto-install
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [jrb00013/rudycanshoot](https://github.com/jrb00013/rudycanshoot).
+Original source: `CLAUDE.md` in [jrb00013/rudycanshoot](https://github.com/jrb00013/rudycanshoot).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
