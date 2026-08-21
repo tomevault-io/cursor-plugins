@@ -7,11 +7,11 @@ Local control plane for coordinating multi-agent work — tasks, claims, evidenc
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [blue-az/operator-control-plane](https://github.com/blue-az/operator-control-plane).
+Original source: `AGENTS.md` in [blue-az/operator-control-plane](https://github.com/blue-az/operator-control-plane).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
