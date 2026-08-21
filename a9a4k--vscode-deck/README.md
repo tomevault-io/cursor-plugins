@@ -7,11 +7,11 @@ Agentic Development in VS Code
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [a9a4k/vscode-deck](https://github.com/a9a4k/vscode-deck).
+Original source: `AGENTS.md` in [a9a4k/vscode-deck](https://github.com/a9a4k/vscode-deck).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
