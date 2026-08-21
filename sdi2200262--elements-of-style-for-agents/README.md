@@ -7,11 +7,11 @@ A compact plain-English writing standard for clear, concise agent communication 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sdi2200262/elements-of-style-for-agents](https://github.com/sdi2200262/elements-of-style-for-agents).
+Original source: `AGENTS.md` in [sdi2200262/elements-of-style-for-agents](https://github.com/sdi2200262/elements-of-style-for-agents).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
