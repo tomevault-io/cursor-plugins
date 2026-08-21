@@ -7,14 +7,14 @@ Flutter Clean Architecture template optimised for AI coding agents — BLoC, Fre
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [abhinav503/flutter-agentic](https://github.com/abhinav503/flutter-agentic).
+Original source: `copilot-instructions.md` in [abhinav503/flutter-agentic](https://github.com/abhinav503/flutter-agentic).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
-- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [abhinav503/flutter-agentic](https://github.com/abhinav503/flutter-agentic) — a repo with 9+ stars on GitHub.
