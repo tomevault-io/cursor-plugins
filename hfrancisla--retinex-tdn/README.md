@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [HFrancisla/Retinex_TDN](https://github.com/HFrancisla/Retinex_TDN).
+Original source: `AGENTS.md` in [HFrancisla/Retinex_TDN](https://github.com/HFrancisla/Retinex_TDN).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
