@@ -7,11 +7,11 @@ Read-only AI trading companion harness for decision logging, D1/D3 review, and r
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [myc0576/SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub).
+Original source: `AGENTS.md` in [myc0576/SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
