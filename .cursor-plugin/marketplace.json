@@ -247585,6 +247585,11 @@
       "description": "Dataset and Code for \"AirZoo : A Unified Large-Scale Dataset for Grounding Aerial Geometric 3D Vision\", ECCV 2026"
     },
     {
+      "name": "arguslabs-ai--argus",
+      "source": "./arguslabs-ai--argus",
+      "description": "Catch silent failures in AI agents before your users do"
+    },
+    {
       "name": "aeroxy--ast-outline",
       "source": "./aeroxy--ast-outline",
       "description": "Fast, AST-based structural outline for source files. Built for LLM coding agents and humans."
@@ -343455,6 +343460,11 @@
       "description": "Reference implementation of std::big_int for C++ (https://isocpp.org/files/papers/D4444R0.html)"
     },
     {
+      "name": "montezuma-p--harken",
+      "source": "./montezuma-p--harken",
+      "description": "Transcribe a WhatsApp chat export \u2014 or any audio \u2014 fully offline. One 13 MB binary: no Python, no ffmpeg, no API key."
+    },
+    {
       "name": "stefanmaron--businesscentral-al-runner",
       "source": "./stefanmaron--businesscentral-al-runner",
       "description": "BusinessCentral.AL.Runner"
@@ -391660,6 +391670,41 @@
       "description": "RikkaRs is an Android APP that fork from rikkahub/rikkahub. \u4e00\u4e2a\u975e\u5e38\u597d\u7528\u7684rikkahub\u5206\u652f\uff0c\u96c6\u6210\u5b50\u4ee3\u7406\u3001\u8bb0\u5fc6\u8868\u683c\u7b49\u7279\u8272\u529f\u80fd\uff0c\u4f18\u5316\u5404\u79cd\u4ea4\u4e92\u903b\u8f91\u4f8b\u5982\u7528\u9690\u85cf\u4ee3\u66ff\u5220\u9664\u7684\u538b\u7f29\u4e0a\u4e0b\u6587\u3001\u5206\u4eab\u591a\u9009\u65f6\u6298\u53e0\u5185\u5bb9\u4e3a\u4e09\u884c\u3001\u66f4\u6613\u7528\u7684\u4e0a\u4e0b\u6587\u67e5\u770b\u9875\u9762\u3001\u589e\u52a0\u591a\u79cd\u6307\u4ee4\u5982\uff5e\u5207\u6362\u9884\u8bbe\uff08\u805a\u5408\u5feb\u901f\u6ce8\u5165\uff09\u5982/\u4e3b\u52a8\u6fc0\u6d3bskills\uff1b\u6b64\u5916\u4e3a\u4e86\u66f4\u597d\u8e6c\u516c\u76ca\u7ad9\u800c\u63d0\u4f9b\u4f9b\u5e94\u5546\u6807\u7b7e\u3001\u5206\u7ec4\u3001rp"
     },
     {
+      "name": "mudb0y--openevv",
+      "source": "./mudb0y--openevv",
+      "description": "Reimplementation of IBM's Embedded ViaVoice / ETI Eloquence SF in portable C"
+    },
+    {
+      "name": "dankeder--homeassistant-meteoblue",
+      "source": "./dankeder--homeassistant-meteoblue",
+      "description": "A Home Assistant integration for the MeteoBlue weather service. "
+    },
+    {
+      "name": "dicklesworthstone--frankengit",
+      "source": "./dicklesworthstone--frankengit",
+      "description": "Git-compatible, agent-native, repairable, self-hostable code forge and GitHub alternative."
+    },
+    {
+      "name": "gfazioli--findergit-website",
+      "source": "./gfazioli--findergit-website",
+      "description": "Marketing site and download portal for FinderGit \u2014 the native macOS Git-aware file browser."
+    },
+    {
+      "name": "sound-systems--fileloft",
+      "source": "./sound-systems--fileloft",
+      "description": "a framework agnostic, composable implementation of the tus resumable upload protocol in rust."
+    },
+    {
+      "name": "henryiii--skills",
+      "source": "./henryiii--skills",
+      "description": "Some agent skills that are useful for coding."
+    },
+    {
+      "name": "metaany--anyfusion",
+      "source": "./metaany--anyfusion",
+      "description": "AGI-native enterprise workbench for task continuity, memory, and proactive agent orchestration. \u9762\u5411\u4f01\u4e1a\u670d\u52a1\u573a\u666f\u7684 AI \u539f\u751f\u5de5\u4f5c\u4e2d\u67a2\u3002"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -420838,6 +420883,11 @@
       "name": "yyy622hhh--komari-theme-transit",
       "source": "./yyy622hhh--komari-theme-transit",
       "description": "Topology-first network operations theme for Komari with multi-route visualization and three-carrier Ping."
+    },
+    {
+      "name": "janusilver--douyin-dl",
+      "source": "./janusilver--douyin-dl",
+      "description": "\u591a\u5e73\u53f0\u65e0\u6c34\u5370\u4e0b\u8f7d\u5668\uff1a\u6296\u97f3 / \u5c0f\u7ea2\u4e66 / \u5feb\u624b / B\u7ad9\uff0c\u56fe\u6587\u539f\u56fe\u3001\u5b9e\u51b5\u56fe\u52a8\u56fe\u3001\u65e0\u6c34\u5370\u89c6\u9891\u4e00\u952e\u4e0b\u8f7d\uff08Python + tkinter GUI\uff09"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -538103,6 +538153,71 @@
       "name": "rifahtasminrahman05-bit--ai-engineering-platform",
       "source": "./rifahtasminrahman05-bit--ai-engineering-platform",
       "description": "AI-Engineering-Platform"
+    },
+    {
+      "name": "kingkmb24-cpu--coll-gefammily21",
+      "source": "./kingkmb24-cpu--coll-gefammily21",
+      "description": "Site web"
+    },
+    {
+      "name": "pranavpuranik-hub--hackerrank-orchestrate-august26-solution",
+      "source": "./pranavpuranik-hub--hackerrank-orchestrate-august26-solution",
+      "description": "hackerrank-orchestrate-august26-solution"
+    },
+    {
+      "name": "baxefst--stackmysaas",
+      "source": "./baxefst--stackmysaas",
+      "description": "stackmysaas"
+    },
+    {
+      "name": "prathmesh2005-art--harbor-task-transaction-summary",
+      "source": "./prathmesh2005-art--harbor-task-transaction-summary",
+      "description": "harbor-task-transaction-summary"
+    },
+    {
+      "name": "hari-saikiran--interview-agent",
+      "source": "./hari-saikiran--interview-agent",
+      "description": "interview-agent"
+    },
+    {
+      "name": "richw100--android-currency-calculator",
+      "source": "./richw100--android-currency-calculator",
+      "description": "Android calculator app with live dual-currency conversion. Kotlin + Jetpack Compose."
+    },
+    {
+      "name": "hfrancisla--retinex-tdn",
+      "source": "./hfrancisla--retinex-tdn",
+      "description": "Retinex_TDN"
+    },
+    {
+      "name": "hugobld--omora",
+      "source": "./hugobld--omora",
+      "description": "omora"
+    },
+    {
+      "name": "parwej7398--drtarun",
+      "source": "./parwej7398--drtarun",
+      "description": "drtarun"
+    },
+    {
+      "name": "retro735--easy-cocktails-diploma",
+      "source": "./retro735--easy-cocktails-diploma",
+      "description": "easy-cocktails-diploma"
+    },
+    {
+      "name": "hfrancisla--retinex-tdn",
+      "source": "./hfrancisla--retinex-tdn",
+      "description": "Retinex_TDN"
+    },
+    {
+      "name": "sau-mili--birth-chart-generator",
+      "source": "./sau-mili--birth-chart-generator",
+      "description": "birth-chart-generator"
+    },
+    {
+      "name": "aew909--focusboard",
+      "source": "./aew909--focusboard",
+      "description": "Life Coaching Made Fun"
     }
   ]
 }
