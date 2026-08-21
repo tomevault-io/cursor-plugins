@@ -7,11 +7,11 @@ Open-source control plane for private, governed enterprise AI — one gateway fo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC).
+Original source: `AGENTS.md` in [off-grid-ai/OGAC](https://github.com/off-grid-ai/OGAC).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
