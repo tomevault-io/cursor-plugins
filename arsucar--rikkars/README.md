@@ -7,11 +7,11 @@ RikkaRs is an Android APP that fork from rikkahub/rikkahub. 一个非常好用�
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Arsucar/RikkaRs](https://github.com/Arsucar/RikkaRs).
+Original source: `AGENTS.md` in [Arsucar/RikkaRs](https://github.com/Arsucar/RikkaRs).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
