@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ramdamain-commits/ssd-deal-tracker](https://github.com/ramdamain-commits/ssd-deal-tracker).
+Original source: `CLAUDE.md` in [ramdamain-commits/ssd-deal-tracker](https://github.com/ramdamain-commits/ssd-deal-tracker).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
