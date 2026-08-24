@@ -5,7 +5,7 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [iPythoning/b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template).
+Original source: `GEMINI.md` in [iPythoning/b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template).
 
 ## Also available for
 
@@ -13,7 +13,7 @@ Original source: `.windsurf/rules/*.md` in [iPythoning/b2b-sdr-agent-template](h
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/iPythoning/b2b-sdr-agent-template](https://github.com/iPythoning/b2b-sdr-agent-template)
 
