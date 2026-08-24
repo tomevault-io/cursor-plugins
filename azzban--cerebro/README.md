@@ -7,11 +7,11 @@ Cerebro — AI-powered automated trading system
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [AzzBAN/cerebro](https://github.com/AzzBAN/cerebro).
+Original source: `CLAUDE.md` in [AzzBAN/cerebro](https://github.com/AzzBAN/cerebro).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
