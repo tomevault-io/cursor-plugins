@@ -7,11 +7,11 @@ A powerful command-line interface for Canvas LMS, built with Go.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jjuanrivvera/canvas-cli](https://github.com/jjuanrivvera/canvas-cli).
+Original source: `CLAUDE.md` in [jjuanrivvera/canvas-cli](https://github.com/jjuanrivvera/canvas-cli).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
