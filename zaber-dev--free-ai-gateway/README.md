@@ -7,11 +7,11 @@ Enterprise-grade capability-driven AI routing engine, proxy gateway, MCP server,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zaber-dev/free-ai-gateway](https://github.com/zaber-dev/free-ai-gateway).
+Original source: `AGENTS.md` in [zaber-dev/free-ai-gateway](https://github.com/zaber-dev/free-ai-gateway).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
