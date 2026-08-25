@@ -7,11 +7,11 @@ MetaSim is a simulation layer that supports multiple simulation backends.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [RoboVerseOrg/MetaSim](https://github.com/RoboVerseOrg/MetaSim).
+Original source: `AGENTS.md` in [RoboVerseOrg/MetaSim](https://github.com/RoboVerseOrg/MetaSim).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
