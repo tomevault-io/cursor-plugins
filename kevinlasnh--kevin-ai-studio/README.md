@@ -7,11 +7,11 @@ A personal open-source hub by kevinlasnh — agents, knowledge, systems.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [kevinlasnh/kevin-AI-studio](https://github.com/kevinlasnh/kevin-AI-studio).
+Original source: `AGENTS.md` in [kevinlasnh/kevin-AI-studio](https://github.com/kevinlasnh/kevin-AI-studio).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
