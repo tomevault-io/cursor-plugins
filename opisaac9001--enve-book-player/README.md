@@ -7,11 +7,11 @@ Native iOS and Android apps for audiobooks, ebooks, comics, and podcasts from lo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [opisaac9001/Enve-Book-Player](https://github.com/opisaac9001/Enve-Book-Player).
+Original source: `AGENTS.md` in [opisaac9001/Enve-Book-Player](https://github.com/opisaac9001/Enve-Book-Player).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
