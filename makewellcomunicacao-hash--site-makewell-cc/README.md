@@ -7,11 +7,11 @@ ClaudeCodeProject
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [makewellcomunicacao-hash/site-makewell-cc](https://github.com/makewellcomunicacao-hash/site-makewell-cc).
+Original source: `AGENTS.md` in [makewellcomunicacao-hash/site-makewell-cc](https://github.com/makewellcomunicacao-hash/site-makewell-cc).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
