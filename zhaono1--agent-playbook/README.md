@@ -2,8 +2,6 @@
 
 > Tome by [zhaono1](https://github.com/zhaono1/agent-playbook), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
-AI instruction skills by zhaono1
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
