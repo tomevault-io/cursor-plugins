@@ -1,0 +1,11 @@
+{
+  "name": "thkdog--codex-openai-proxy",
+  "displayName": "codex-openai-proxy",
+  "version": "1.0.0",
+  "description": "A local OpenAI-compatible proxy that reuses ~/.codex/auth.json to forward requests to the Codex backend API, with support for models, responses, and chat/completions.",
+  "author": {
+    "name": "thkdog",
+    "url": "https://github.com/thkdog"
+  },
+  "homepage": "https://github.com/thkdog/codex-openai-proxy"
+}
