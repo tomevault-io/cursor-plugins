@@ -1,0 +1,11 @@
+{
+  "name": "iamwrm--pi-unified-exec",
+  "displayName": "pi-unified-exec",
+  "version": "1.0.0",
+  "description": "Codex-style unified_exec for pi: long-lived shell sessions the LLM polls and drives with write_stdin (Ctrl-C, arrow keys, PTY, REPLs, ssh, dev servers). Full output logged to disk.",
+  "author": {
+    "name": "iamwrm",
+    "url": "https://github.com/iamwrm"
+  },
+  "homepage": "https://github.com/iamwrm/pi-unified-exec"
+}
