@@ -7,11 +7,11 @@ BenchBox is a "benchmarking toolbox" that makes it simple to benchmark analyitic
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [BenchBox-dev/BenchBox](https://github.com/BenchBox-dev/BenchBox).
+Original source: `AGENTS.md` in [BenchBox-dev/BenchBox](https://github.com/BenchBox-dev/BenchBox).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
