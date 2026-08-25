@@ -7,11 +7,11 @@ Zhihu+ | 知乎+: Ad-free, low cost, content archiving Zhihu Android 3rd-party c
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zhihu-plus/android](https://github.com/zhihu-plus/android).
+Original source: `AGENTS.md` in [zhihu-plus/android](https://github.com/zhihu-plus/android).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
