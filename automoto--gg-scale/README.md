@@ -7,11 +7,11 @@ Open-source backend for multiplayer games
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [automoto/gg-scale](https://github.com/automoto/gg-scale).
+Original source: `AGENTS.md` in [automoto/gg-scale](https://github.com/automoto/gg-scale).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
