@@ -1,0 +1,30 @@
+# AI instruction files for eztest
+
+> Sourced from [belsterns/eztest](https://github.com/belsterns/eztest), graded against the public Tome Standard and kept consistent across every major platform by [TomeVault](https://tomevault.io)
+
+Lightweight, powerful test management platform that runs on minimal hardware. Perfect for teams who want control without complexity.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [belsterns/eztest](https://github.com/belsterns/eztest).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [belsterns/eztest](https://github.com/belsterns/eztest) — a repo with 19+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install belsterns/eztest
+```
+Source: [github.com/belsterns/eztest](https://github.com/belsterns/eztest).
+
+<!-- genome:a-i-s -->
