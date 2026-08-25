@@ -7,11 +7,11 @@ Durable high-performance backend for Django's task framework.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [codingjoe/threadmill](https://github.com/codingjoe/threadmill).
+Original source: `AGENTS.md` in [codingjoe/threadmill](https://github.com/codingjoe/threadmill).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
