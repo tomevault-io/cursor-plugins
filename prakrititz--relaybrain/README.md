@@ -7,12 +7,12 @@ Coordination and context layer for AI coding agents. Shared file locks, live pat
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [prakrititz/relayBrain](https://github.com/prakrititz/relayBrain).
+Original source: `CLAUDE.md` in [prakrititz/relayBrain](https://github.com/prakrititz/relayBrain).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
