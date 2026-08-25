@@ -7,11 +7,11 @@ AI agent skill for seamless integration with JsonCut, enabling automated creatio
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [jsoncut/jsoncut-skill](https://github.com/jsoncut/jsoncut-skill).
+Original source: `AGENTS.md` in [jsoncut/jsoncut-skill](https://github.com/jsoncut/jsoncut-skill).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
