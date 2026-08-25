@@ -7,11 +7,11 @@ OpalaTex: your local academic production studio Create papers, classes, tutorial
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [opalacoderdev/OpalaTex](https://github.com/opalacoderdev/OpalaTex).
+Original source: `AGENTS.md` in [opalacoderdev/OpalaTex](https://github.com/opalacoderdev/OpalaTex).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
