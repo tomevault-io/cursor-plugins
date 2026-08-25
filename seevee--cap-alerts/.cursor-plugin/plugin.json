@@ -1,0 +1,11 @@
+{
+  "name": "seevee--cap-alerts",
+  "displayName": "cap_alerts",
+  "version": "1.0.0",
+  "description": "HA multi-region weather alerts integration: one entity per active weather alert, modeled on CAP fields. Solves the 16KB attribute limit.",
+  "author": {
+    "name": "seevee",
+    "url": "https://github.com/seevee"
+  },
+  "homepage": "https://github.com/seevee/cap_alerts"
+}
