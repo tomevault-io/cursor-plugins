@@ -7,11 +7,11 @@ AI 时代的私人影库
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sqzw-x/amane](https://github.com/sqzw-x/amane).
+Original source: `AGENTS.md` in [sqzw-x/amane](https://github.com/sqzw-x/amane).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
