@@ -1,0 +1,30 @@
+# lemyloi-dichvideos
+
+> Tome by [Lexombien](https://github.com/Lexombien/lemyloi-dichvideos), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+Trình chỉnh sửa video local-first với ASR, OCR phụ đề gốc, dịch và thuyết minh.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [Lexombien/lemyloi-dichvideos](https://github.com/Lexombien/lemyloi-dichvideos).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/Lexombien/lemyloi-dichvideos](https://github.com/Lexombien/lemyloi-dichvideos)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install Lexombien/lemyloi-dichvideos
+```
+Source: [github.com/Lexombien/lemyloi-dichvideos](https://github.com/Lexombien/lemyloi-dichvideos).
+
+<!-- genome:t-i-q -->
