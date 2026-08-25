@@ -7,11 +7,11 @@ A TypeScript SDK for building terminal apps with real UI — menus, modal dialog
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [blendsdk/jsvision](https://github.com/blendsdk/jsvision).
+Original source: `AGENTS.md` in [blendsdk/jsvision](https://github.com/blendsdk/jsvision).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
