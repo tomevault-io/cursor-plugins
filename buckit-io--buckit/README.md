@@ -7,11 +7,11 @@ Buckit Object Storage application
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [buckit-io/buckit](https://github.com/buckit-io/buckit).
+Original source: `AGENTS.md` in [buckit-io/buckit](https://github.com/buckit-io/buckit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
