@@ -7,11 +7,11 @@ Dashboard SRE — probe engine, meta-dashboard, and alert rules for Grafana dash
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [koren88i/dashmon](https://github.com/koren88i/dashmon).
+Original source: `AGENTS.md` in [koren88i/dashmon](https://github.com/koren88i/dashmon).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
