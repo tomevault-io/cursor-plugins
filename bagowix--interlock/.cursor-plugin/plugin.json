@@ -1,0 +1,11 @@
+{
+  "name": "bagowix--interlock",
+  "displayName": "interlock",
+  "version": "1.0.0",
+  "description": "Circuit breaker for Python: sync + async in one class, sliding-window rate, slow-call detection, Polly-style resilience pipeline, type-safe API",
+  "author": {
+    "name": "bagowix",
+    "url": "https://github.com/bagowix"
+  },
+  "homepage": "https://github.com/bagowix/interlock"
+}
