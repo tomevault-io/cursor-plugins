@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [conductor-oss/conductor](https://github.com/conductor-oss/conductor).
+Original source: `AGENTS.md` in [conductor-oss/conductor](https://github.com/conductor-oss/conductor).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [conductor-oss/conductor](https://github.com/conductor-oss/conductor) — a repo with 32043+ stars on GitHub.
+From [conductor-oss/conductor](https://github.com/conductor-oss/conductor) — a repo with 32105+ stars on GitHub.
 
 ---
 
