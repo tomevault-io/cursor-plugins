@@ -7,11 +7,11 @@ Unofficial KMP client for Openship (self-hostable deploy platform)
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kareemessam09/Openship-App](https://github.com/kareemessam09/Openship-App).
+Original source: `CLAUDE.md` in [kareemessam09/Openship-App](https://github.com/kareemessam09/Openship-App).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
