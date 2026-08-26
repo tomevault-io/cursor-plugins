@@ -285540,6 +285540,11 @@
       "description": "Open-source gateway for reliable image, video and LLM jobs. | \u9762\u5411\u53ef\u9760\u56fe\u7247\u3001\u89c6\u9891\u548c LLM \u4efb\u52a1\u7684\u5f00\u6e90\u7f51\u5173\u3002"
     },
     {
+      "name": "metasekailab--privatesekai",
+      "source": "./metasekailab--privatesekai",
+      "description": "Server for Hatsune Miku: Project DIVA"
+    },
+    {
       "name": "13point5--agent-canvas",
       "source": "./13point5--agent-canvas",
       "description": "agent-canvas"
@@ -309965,6 +309970,31 @@
       "description": "Visual AI workflow orchestrator for DeepSeek Harness (dsh): multi-agent DAGs, live execution, recovery, and Feishu integration."
     },
     {
+      "name": "decentespresso--streamline-js",
+      "source": "./decentespresso--streamline-js",
+      "description": "streamline-js"
+    },
+    {
+      "name": "decentespresso--streamline-js",
+      "source": "./decentespresso--streamline-js",
+      "description": "streamline-js"
+    },
+    {
+      "name": "bnjam--stac-mcp",
+      "source": "./bnjam--stac-mcp",
+      "description": "An MCP Server for STAC requests"
+    },
+    {
+      "name": "bnjam--stac-mcp",
+      "source": "./bnjam--stac-mcp",
+      "description": "An MCP Server for STAC requests"
+    },
+    {
+      "name": "decentespresso--streamline-js",
+      "source": "./decentespresso--streamline-js",
+      "description": "streamline-js"
+    },
+    {
       "name": "scardoso-lu--google-antigravity-settings",
       "source": "./scardoso-lu--google-antigravity-settings",
       "description": "google-antigravity-settings"
@@ -319228,6 +319258,11 @@
       "name": "tirforge--aruvi",
       "source": "./tirforge--aruvi",
       "description": "Self-hosted media platform \u2014 stream your Telegram files to Web, Android, Android-TV & Desktop. Multi-bot parallel streaming, two-tier caching, FastAPI + React + Kotlin."
+    },
+    {
+      "name": "zaber-dev--zeython",
+      "source": "./zaber-dev--zeython",
+      "description": "Async-first, batteries-included MVC framework for Python \u2014 DI container, async ORM, auth, queues, WebSockets, and a Laravel-style CLI, built on Starlette and SQLAlchemy 2.0."
     },
     {
       "name": "godblessamki--workout-tracker",
@@ -330313,6 +330348,11 @@
       "name": "ml-stat-sustech--searcherkit",
       "source": "./ml-stat-sustech--searcherkit",
       "description": "SearcherKit"
+    },
+    {
+      "name": "huzun1--kke",
+      "source": "./huzun1--kke",
+      "description": "Windows 2D rendering engine built on Direct2D, DirectWrite, and WIC."
     },
     {
       "name": "makenowjust--naraku",
@@ -348868,6 +348908,26 @@
       "name": "gaogushenling--ai-project-os",
       "source": "./gaogushenling--ai-project-os",
       "description": "A lightweight, portable project-level AI collaboration layer\u2014the foundation for personal AI development workbenches, with context routing, memory, capability management, risk boundaries, and verifiabl"
+    },
+    {
+      "name": "nao1215--prompt",
+      "source": "./nao1215--prompt",
+      "description": "prompt - interactive terminal prompts library in Go"
+    },
+    {
+      "name": "artcodefun--heat-expansion-server",
+      "source": "./artcodefun--heat-expansion-server",
+      "description": "Backend for Heat Expansion game"
+    },
+    {
+      "name": "helsome--miniclaw",
+      "source": "./helsome--miniclaw",
+      "description": "\u57fa\u4e8e Pi Agent Runtime \u7684 AI Agent \u5de5\u4f5c\u53f0\uff0c\u652f\u6301\u591a\u6e20\u9053\u63a5\u5165\u3001\u6301\u4e45\u5316\u8bb0\u5fc6\u3001Skills\u3001MCP\u3001Subagents \u4e0e\u4efb\u52a1\u8c03\u5ea6\u3002"
+    },
+    {
+      "name": "nao1215--prompt",
+      "source": "./nao1215--prompt",
+      "description": "prompt - interactive terminal prompts library in Go"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
@@ -399145,6 +399205,86 @@
       "description": "Enjoy Roleplay powered by Codex/ClaudeCode CLI!"
     },
     {
+      "name": "pablo-albaladejo--kaiord",
+      "source": "./pablo-albaladejo--kaiord",
+      "description": "Open-source, local-first training platform: calendar, AI assistant, Garmin & WHOOP sync \u2014 plus a TypeScript SDK, CLI, and MCP server for FIT, TCX, ZWO, and Garmin Connect workout files."
+    },
+    {
+      "name": "teorth--ieantn",
+      "source": "./teorth--ieantn",
+      "description": "IEANTN"
+    },
+    {
+      "name": "teorth--ieantn",
+      "source": "./teorth--ieantn",
+      "description": "IEANTN"
+    },
+    {
+      "name": "ohdsi--atlas3",
+      "source": "./ohdsi--atlas3",
+      "description": "A complete reimplementation of OHDSI ATLAS for cohort definition and analysis, built with Vue 3 and TypeScript."
+    },
+    {
+      "name": "seven282--oss-prompt-optimizer",
+      "source": "./seven282--oss-prompt-optimizer",
+      "description": "\u7528\u4e8e\u4f18\u5316 DeepSeek harness\u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff0c\u63d0\u5347 AI \u8f93\u51fa\u8d28\u91cf"
+    },
+    {
+      "name": "dgtovar24--n8n-enhanced",
+      "source": "./dgtovar24--n8n-enhanced",
+      "description": "n8n Community Edition with all Enterprise features unlocked"
+    },
+    {
+      "name": "aiperceivable--apflow",
+      "source": "./aiperceivable--apflow",
+      "description": "**AI-Perceivable Distributed Orchestration**  apflow is a distributed task orchestration engine where every capability is AI-perceivable \u2014 discoverable, understandable, and invocable by AI agents thro"
+    },
+    {
+      "name": "wikid82--charon",
+      "source": "./wikid82--charon",
+      "description": "A lightweight, user-friendly web interface for managing Caddy as a reverse proxy. It simplifies SSL management and host routing for self-hosters who want the power of Caddy without the manual configur"
+    },
+    {
+      "name": "aiperceivable--apflow",
+      "source": "./aiperceivable--apflow",
+      "description": "**AI-Perceivable Distributed Orchestration**  apflow is a distributed task orchestration engine where every capability is AI-perceivable \u2014 discoverable, understandable, and invocable by AI agents thro"
+    },
+    {
+      "name": "umzcio--zmd",
+      "source": "./umzcio--zmd",
+      "description": "A lightweight macOS markdown viewer with tab support and export capabilities"
+    },
+    {
+      "name": "q10elabs--mls-chat",
+      "source": "./q10elabs--mls-chat",
+      "description": "Example client/server for the MLS protocol based on the OpenMLS library"
+    },
+    {
+      "name": "aiperceivable--apflow",
+      "source": "./aiperceivable--apflow",
+      "description": "**AI-Perceivable Distributed Orchestration**  apflow is a distributed task orchestration engine where every capability is AI-perceivable \u2014 discoverable, understandable, and invocable by AI agents thro"
+    },
+    {
+      "name": "youversion--platform-sdk-swift",
+      "source": "./youversion--platform-sdk-swift",
+      "description": "Swift SDK for the YouVersion Platform"
+    },
+    {
+      "name": "q10elabs--mls-chat",
+      "source": "./q10elabs--mls-chat",
+      "description": "Example client/server for the MLS protocol based on the OpenMLS library"
+    },
+    {
+      "name": "youversion--platform-sdk-swift",
+      "source": "./youversion--platform-sdk-swift",
+      "description": "Swift SDK for the YouVersion Platform"
+    },
+    {
+      "name": "silverfeelin--skygame-data",
+      "source": "./silverfeelin--skygame-data",
+      "description": "Data repository for SkyGame-Planner."
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -429333,6 +429473,36 @@
       "name": "validitybase--vbase-api-py",
       "source": "./validitybase--vbase-api-py",
       "description": "Python Client for the vBase REST API"
+    },
+    {
+      "name": "wieslawsoltes--promarkdown",
+      "source": "./wieslawsoltes--promarkdown",
+      "description": "Reusable Avalonia Markdown rendering, editing, and plugin libraries built on Markdig."
+    },
+    {
+      "name": "viktor-platform--aps-automation-sdk",
+      "source": "./viktor-platform--aps-automation-sdk",
+      "description": "A Python SDK that wraps the Autodesk Platform Services (APS) Automation API"
+    },
+    {
+      "name": "arustydev--agents",
+      "source": "./arustydev--agents",
+      "description": "AI Contexts, Commands, Plugins, Docs, Examples, Specs, Etc"
+    },
+    {
+      "name": "wfjsw--shitspeak-rs",
+      "source": "./wfjsw--shitspeak-rs",
+      "description": "Geo-distributed Mumble Server in Rust"
+    },
+    {
+      "name": "arustydev--agents",
+      "source": "./arustydev--agents",
+      "description": "AI Contexts, Commands, Plugins, Docs, Examples, Specs, Etc"
+    },
+    {
+      "name": "fernandopalafox--max",
+      "source": "./fernandopalafox--max",
+      "description": "MAX is an experimental RL library built with JAX for research in information gathering and online adaptation. It supports model-based control with parameter beliefs, model-free methods, and multi-agen"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -549613,6 +549783,96 @@
       "name": "iwillig--llm-planner",
       "source": "./iwillig--llm-planner",
       "description": "llm-planner"
+    },
+    {
+      "name": "michael-freling--claude-code-plugins",
+      "source": "./michael-freling--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "gourabporey--recallist",
+      "source": "./gourabporey--recallist",
+      "description": "recallist"
+    },
+    {
+      "name": "subhashbohra--copilot-poc-inventory-api-full",
+      "source": "./subhashbohra--copilot-poc-inventory-api-full",
+      "description": "copilot-poc-inventory-api-full"
+    },
+    {
+      "name": "miserix13--orchestratr",
+      "source": "./miserix13--orchestratr",
+      "description": "Job orchestration, which provides vertical and horizontal scalability."
+    },
+    {
+      "name": "kiranbondili--monkeyapp",
+      "source": "./kiranbondili--monkeyapp",
+      "description": "MonkeyApp"
+    },
+    {
+      "name": "escutaceppat-dot--projetoescuta",
+      "source": "./escutaceppat-dot--projetoescuta",
+      "description": "projetoescuta"
+    },
+    {
+      "name": "xbcsmith--xzatoma",
+      "source": "./xbcsmith--xzatoma",
+      "description": "XZAtoma Rust Agent"
+    },
+    {
+      "name": "hoiber--mavt",
+      "source": "./hoiber--mavt",
+      "description": "A Go application that tracks Apple App Store app version updates. Run it as a CLI tool or as a containerized daemon to monitor your favorite iOS apps for version changes."
+    },
+    {
+      "name": "b-gutierrez1--requi",
+      "source": "./b-gutierrez1--requi",
+      "description": "requi"
+    },
+    {
+      "name": "lukelast--ktp-login-react",
+      "source": "./lukelast--ktp-login-react",
+      "description": "ktp-login-react"
+    },
+    {
+      "name": "codepengg--retro-snake-app",
+      "source": "./codepengg--retro-snake-app",
+      "description": "retro_snake_app"
+    },
+    {
+      "name": "gourabporey--recallist",
+      "source": "./gourabporey--recallist",
+      "description": "recallist"
+    },
+    {
+      "name": "michael-freling--claude-code-plugins",
+      "source": "./michael-freling--claude-code-plugins",
+      "description": "claude-code-plugins"
+    },
+    {
+      "name": "glazinski--szt-backend",
+      "source": "./glazinski--szt-backend",
+      "description": "Recipe Management Platform - Spring REST API"
+    },
+    {
+      "name": "jchz6--biblioteca-personal",
+      "source": "./jchz6--biblioteca-personal",
+      "description": "Organizar, documentar y cargar a la nube mi biblioteca personal"
+    },
+    {
+      "name": "lukelast--ktp-login-react",
+      "source": "./lukelast--ktp-login-react",
+      "description": "ktp-login-react"
+    },
+    {
+      "name": "7ochan--kairoscv",
+      "source": "./7ochan--kairoscv",
+      "description": "An AI-driven tool that rephrases and optimizes resumes to align with specific job descriptions while maintaining factual accuracy."
+    },
+    {
+      "name": "mateoismael--autoob",
+      "source": "./mateoismael--autoob",
+      "description": "autoob"
     }
   ]
 }
