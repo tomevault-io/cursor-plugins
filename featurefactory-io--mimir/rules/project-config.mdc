@@ -1,37 +1,40 @@
 ---
-description: When you encounter a Draw.io file (.drawio extension) that contains embedded images or screenshots, automatically convert it to a viewable format to analyze the visual content and annotations.
+description: When designing new methods:
 alwaysApply: true
 ---
 
-# Rule: View Draw.io Diagrams with Embedded Images
+# Rule: Write Concise Methods
 
-When you encounter a Draw.io file (.drawio extension) that contains embedded images or screenshots, automatically convert it to a viewable format to analyze the visual content and annotations.
+When designing new methods:
+- Ensure the top-level (public) method is concise—ideally 20–30 lines maximum.
+- Move all supporting logic and details into well-named private (or inner/helper) methods.
+- The top-level method should clearly express the main workflow, delegating specifics to lower-level helpers.
 
-## Process
+Example:
+```python
+class SomeObject:
+    def main_method(self, id):
+        # Inner/helper method for a single, focused operation
+        def _short_method(arg): 
+            return op(arg)
 
-1. **Detect Draw.io Files**: When asked to analyze a .drawio file
-2. **Check for Embedded Content**: Look for embedded images or screenshots
-3. **Convert to Viewable Format**: Use one of these methods:
-   - Export to PNG using Draw.io CLI: `drawio -x -f png -o output.png input.drawio`
-   - Export to SVG using Draw.io CLI: `drawio -x -f svg -o output.svg input.drawio`
-   - Open in browser and capture screenshot if CLI not available
-4. **Analyze Visual Content**: View the converted image to understand:
-   - Red annotation rectangles and their purpose
-   - Embedded screenshots and UI mockups
-   - Design patterns being highlighted
-   - Implementation guidance provided
+        target = self._get_target(_short_method(id))
+        result = self._do_magic_on(target)
+        return result
 
-## Tools to Use
+    def _get_target(self, id):
+        # Implementation here
+        pass
 
-- Draw.io CLI (if available): /Applications/draw.io.app/Contents/MacOS/draw.io
-- Browser preview with screenshot capture
-- File conversion utilities
+    def _do_magic_on(self, target):
+        # Implementation here
+        pass
+```
 
-## Expected Outcome
-
-- Ability to see and analyze embedded images within Draw.io files
-- Understanding of red annotation system and design guidance
-- Clear interpretation of UI patterns and implementation notes
+Guidelines:
+- Keep the top-level method readable and high-level—think of it as a summary of the operation.
+- Each helper/private method should do one thing and have a clear, descriptive name.
+- Avoid cramming complex logic into the top-level method; instead, encapsulate details in private helpers.
 
 ---
 > Source: [FeatureFactory-io/mimir](https://github.com/FeatureFactory-io/mimir) — distributed by [TomeVault](https://tomevault.io).
