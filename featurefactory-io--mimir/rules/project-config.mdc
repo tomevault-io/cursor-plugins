@@ -1,11 +1,21 @@
 ---
-description: Failing tests are major problem - we don't start new development until we fix them.
+description: When committing, follow the Angular convention:
 alwaysApply: true
 ---
 
-Failing tests are major problem - we don't start new development until we fix them.
-If its a test problem - fix it.
-If its a implementation details VS test diff - either fix the test, or ask user what takes precedence.
+# Rule: Follow Angular Commit Convention
+
+When committing, follow the Angular convention:
+
+```
+<type>(<scope>): <subject>
+<BLANK LINE>
+<body - what changed>
+<BLANK LINE>
+<footer>
+```
+
+Reference: https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
 
 ---
 > Source: [FeatureFactory-io/mimir](https://github.com/FeatureFactory-io/mimir) — distributed by [TomeVault](https://tomevault.io).
