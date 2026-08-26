@@ -7,11 +7,11 @@ A structured library of web security flaws for humans and coding agents with vul
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ukorvl/web-of-flaws](https://github.com/ukorvl/web-of-flaws).
+Original source: `CLAUDE.md` in [ukorvl/web-of-flaws](https://github.com/ukorvl/web-of-flaws).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
