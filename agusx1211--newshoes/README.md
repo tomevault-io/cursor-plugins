@@ -7,11 +7,11 @@ The original Command & Conquer: Generals Zero Hour engine, ported to WebAssembly
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Agusx1211/NewShoes](https://github.com/Agusx1211/NewShoes).
+Original source: `AGENTS.md` in [Agusx1211/NewShoes](https://github.com/Agusx1211/NewShoes).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
