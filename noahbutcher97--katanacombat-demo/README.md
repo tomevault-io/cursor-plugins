@@ -7,11 +7,11 @@ The Katana Combat System is a production-ready, C++-based melee combat framework
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [noahbutcher97/KatanaCombat_Demo](https://github.com/noahbutcher97/KatanaCombat_Demo).
+Original source: `CLAUDE.md` in [noahbutcher97/KatanaCombat_Demo](https://github.com/noahbutcher97/KatanaCombat_Demo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
