@@ -7,11 +7,11 @@ Huntable CTI Studio is an AI-assisted cyber threat intelligence workbench that t
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dfirtnt/Huntable-CTI-Studio](https://github.com/dfirtnt/Huntable-CTI-Studio).
+Original source: `AGENTS.md` in [dfirtnt/Huntable-CTI-Studio](https://github.com/dfirtnt/Huntable-CTI-Studio).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
