@@ -7,11 +7,11 @@ Web procedural modeling + procedural PBR material library
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [wellingfeng/Meshova](https://github.com/wellingfeng/Meshova).
+Original source: `AGENTS.md` in [wellingfeng/Meshova](https://github.com/wellingfeng/Meshova).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
