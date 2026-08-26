@@ -7,11 +7,11 @@ Verifier-first transfer-matrix workbench for multilayer optics and differentiabl
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Lihonggang-scnu/VeriTMM](https://github.com/Lihonggang-scnu/VeriTMM).
+Original source: `AGENTS.md` in [Lihonggang-scnu/VeriTMM](https://github.com/Lihonggang-scnu/VeriTMM).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
