@@ -7,11 +7,11 @@ Agent Skills for running, benchmarking, and profiling Hugging Face models on Int
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [intel/gpu-ai-skills](https://github.com/intel/gpu-ai-skills).
+Original source: `CLAUDE.md` in [intel/gpu-ai-skills](https://github.com/intel/gpu-ai-skills).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
