@@ -7,11 +7,11 @@ NFT pet game on Ethereum & Solana - mint, breed, train, and battle pets with Cha
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [radcrew/cryptopets](https://github.com/radcrew/cryptopets).
+Original source: `CLAUDE.md` in [radcrew/cryptopets](https://github.com/radcrew/cryptopets).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
