@@ -1,0 +1,11 @@
+{
+  "name": "seatgeek--next-memcached",
+  "displayName": "next-memcached",
+  "version": "1.0.0",
+  "description": "A reliable, drop-in `cacheHandlers` implementation: `use cache` backed by memcached instead of a per-pod in-memory LRU",
+  "author": {
+    "name": "seatgeek",
+    "url": "https://github.com/seatgeek"
+  },
+  "homepage": "https://github.com/seatgeek/next-memcached"
+}
