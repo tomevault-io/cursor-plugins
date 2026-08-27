@@ -180495,6 +180495,11 @@
       "description": "google-calendar-mcp"
     },
     {
+      "name": "jart--dropbear",
+      "source": "./jart--dropbear",
+      "description": "the apex market taker"
+    },
+    {
       "name": "asakin--llm-context-base",
       "source": "./asakin--llm-context-base",
       "description": "A git template for building your own LLM-powered personal wiki. Training period, metadata standard, lint system included. Clone and go."
@@ -227030,6 +227035,11 @@
       "description": "nutrient-dws-client-typescript"
     },
     {
+      "name": "lucas-xi--intentroute-ai",
+      "source": "./lucas-xi--intentroute-ai",
+      "description": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane."
+    },
+    {
       "name": "affitor--open-affiliate",
       "source": "./affitor--open-affiliate",
       "description": "The open registry of affiliate programs. Built for developers and AI agents."
@@ -273495,6 +273505,11 @@
       "description": "TSRX language, compilers, tooling, and editor integrations"
     },
     {
+      "name": "mreflow--control-center",
+      "source": "./mreflow--control-center",
+      "description": "A local-first, settings-driven business intelligence dashboard."
+    },
+    {
       "name": "googlecloudplatform--cxas-scrapi",
       "source": "./googlecloudplatform--cxas-scrapi",
       "description": "cxas-scrapi"
@@ -276883,6 +276898,11 @@
       "name": "01mvp--photodelete",
       "source": "./01mvp--photodelete",
       "description": "OnePhoto / \u5220\u56fe: local-first iPhone photo cleaner. Swipe, confirm, then delete. AGPL-3.0."
+    },
+    {
+      "name": "riscv--riscv-isa-explorer",
+      "source": "./riscv--riscv-isa-explorer",
+      "description": "A simple and intuitive approach to visualize RISC-V Extensions and Profiles."
     },
     {
       "name": "nirholas--auto-kill-terminal",
@@ -330933,6 +330953,11 @@
       "name": "maisrc--ggplotplus",
       "source": "./maisrc--ggplotplus",
       "description": "Package home for ggplot_plus"
+    },
+    {
+      "name": "eelcohoogendoorn--nodejax",
+      "source": "./eelcohoogendoorn--nodejax",
+      "description": "Functional JAX middleware using a compute Node abstraction"
     },
     {
       "name": "makenowjust--naraku",
@@ -400345,6 +400370,46 @@
       "description": "A library to generate ClickHouse SQL queries in a typesafe way with OCaml"
     },
     {
+      "name": "bretfisher--skills",
+      "source": "./bretfisher--skills",
+      "description": "My handcrafted agent skills for DevOps, CI/CD, and platforms"
+    },
+    {
+      "name": "jacinthpaul--claude-certified-architect",
+      "source": "./jacinthpaul--claude-certified-architect",
+      "description": "Claude-Certified-Architect"
+    },
+    {
+      "name": "bretfisher--skills",
+      "source": "./bretfisher--skills",
+      "description": "My handcrafted agent skills for DevOps, CI/CD, and platforms"
+    },
+    {
+      "name": "retab-dev--retab-ui",
+      "source": "./retab-dev--retab-ui",
+      "description": "Headless React components for document processing pipelines. File viewers and the JSON Schema builder, distributed via a shadcn registry."
+    },
+    {
+      "name": "retab-dev--retab-ui",
+      "source": "./retab-dev--retab-ui",
+      "description": "Headless React components for document processing pipelines. File viewers and the JSON Schema builder, distributed via a shadcn registry."
+    },
+    {
+      "name": "simone-rizzo--style-app",
+      "source": "./simone-rizzo--style-app",
+      "description": "App creata nel workshop"
+    },
+    {
+      "name": "sshaaf--rgctl",
+      "source": "./sshaaf--rgctl",
+      "description": "A code knowledge graph built for LLM agents \u2014 accurate answers, minimal tokens, maximum speed"
+    },
+    {
+      "name": "yujianwudi--ai-image-prompts",
+      "source": "./yujianwudi--ai-image-prompts",
+      "description": "AI\u751f\u56fe\u63d0\u793a\u8bcd\u6a21\u677f\u5e93\uff0c\u6309\u89d2\u8272\u4e0e\u6a21\u677f\u5206\u7c7b\u6574\u7406\uff0c\u5305\u542b\u5199\u5b9ecos\u3001\u6f2b\u5c55\u573a\u666f\u3001\u955c\u5934\u3001\u706f\u5149\u3001\u6750\u8d28\u548c\u8d1f\u9762\u8bcd\u6a21\u677f"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -430703,6 +430768,31 @@
       "name": "agentjido--jido-behaviortree",
       "source": "./agentjido--jido-behaviortree",
       "description": "Behavior tree engine for Jido agent decision-making"
+    },
+    {
+      "name": "wildcat-finance--skills",
+      "source": "./wildcat-finance--skills",
+      "description": "get in loser, we're building god"
+    },
+    {
+      "name": "clavierhaus--gnubg-android",
+      "source": "./clavierhaus--gnubg-android",
+      "description": "GNU Backgammon for Android \u2014 the real engine, fully offline. Match play, analysis, rollouts, and correct-or-silent coaching. Free, GPL-3.0, on F-Droid."
+    },
+    {
+      "name": "sylirre--ghostty-android-terminal",
+      "source": "./sylirre--ghostty-android-terminal",
+      "description": "Linux shell for Android OS, backed by ARM64 userspace emulator and Ghostty lib."
+    },
+    {
+      "name": "barryshow--atradebot",
+      "source": "./barryshow--atradebot",
+      "description": "\u57fa\u4e8e XGBoost\u768415 \u5206\u949f\u4e8b\u4ef6\u5408\u7ea6\u91cf\u5316\u4ea4\u6613\u7cfb\u7edf"
+    },
+    {
+      "name": "wanyi424--savepoint",
+      "source": "./wanyi424--savepoint",
+      "description": "\u4e00\u6b3e\u50cf\u7d20\u98ce\u7684AI\u65e5\u8bb0Web\u5e94\u7528 | AI chat/\u804a\u5929\u751f\u6210\u65e5\u8bb0 | An immersive pixel-art AI diary web app."
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -551143,6 +551233,26 @@
       "name": "huggingface--new-model-addition-cwm",
       "source": "./huggingface--new-model-addition-cwm",
       "description": "new-model-addition-cwm"
+    },
+    {
+      "name": "kharloridado--wbg",
+      "source": "./kharloridado--wbg",
+      "description": "World Bank Group Live Style Guide"
+    },
+    {
+      "name": "joaogabriel43--budgetlens",
+      "source": "./joaogabriel43--budgetlens",
+      "description": "Analisador inteligente de extratos banc\u00e1rios com categoriza\u00e7\u00e3o autom\u00e1tica via IA e gera\u00e7\u00e3o de insights financeiros."
+    },
+    {
+      "name": "ashumsd7--corporate-radio",
+      "source": "./ashumsd7--corporate-radio",
+      "description": "corporate-radio"
+    },
+    {
+      "name": "divyabakshi--divya-portfolio",
+      "source": "./divyabakshi--divya-portfolio",
+      "description": "Divya-Portfolio"
     }
   ]
 }
