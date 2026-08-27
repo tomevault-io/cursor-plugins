@@ -7,12 +7,12 @@ Local-first MiniMax Music 3.0 generation workspace
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [Sunwood-ai-labs/minimax-music3-studio](https://github.com/Sunwood-ai-labs/minimax-music3-studio).
+Original source: `AGENTS.md` in [Sunwood-ai-labs/minimax-music3-studio](https://github.com/Sunwood-ai-labs/minimax-music3-studio).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
