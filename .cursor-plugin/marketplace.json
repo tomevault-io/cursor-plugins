@@ -400525,6 +400525,11 @@
       "description": "A lightweight, R6-based ORM for R that mimics SQLAlchemy-style models using DBI and dbplyr."
     },
     {
+      "name": "nehemiaharchives--lucene-kmp",
+      "source": "./nehemiaharchives--lucene-kmp",
+      "description": "Kotlin Multiplatform port of Apache Lucene Full Text Search Library works on iOS & Android"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -430973,6 +430978,11 @@
       "name": "tecfancy--dsh-auth-gate",
       "source": "./tecfancy--dsh-auth-gate",
       "description": "Login gate for the DeepSeek Harness (dsh) web surface: password or shared-token authentication, session cookies, rate limiting, and a user-management CLI. | DeepSeek Harness (dsh) \u7f51\u9875\u7248\u767b\u5f55\u95e8\u63d2\u4ef6:\u8d26\u53f7\u53e3\u4ee4\u6216\u5171\u4eab\u4ee4\u724c\u8ba4\u8bc1"
+    },
+    {
+      "name": "agent-field--harness-orchestration-alphasignal",
+      "source": "./agent-field--harness-orchestration-alphasignal",
+      "description": "Learn harness orchestration: seven notebooks that climb from one agent call to a system that writes its own execution graph. Companion to the AlphaSignal talk."
     },
     {
       "name": "nirholas--scroll-zoom-thing",
