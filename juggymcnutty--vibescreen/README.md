@@ -7,11 +7,11 @@ This is a fork and drop-in replacement of guppyscreen, that is updated with AI a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [JuggyMcNutty/vibescreen](https://github.com/JuggyMcNutty/vibescreen).
+Original source: `AGENTS.md` in [JuggyMcNutty/vibescreen](https://github.com/JuggyMcNutty/vibescreen).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
