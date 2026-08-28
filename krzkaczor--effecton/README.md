@@ -7,11 +7,11 @@ Typed effect system for Python
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [krzkaczor/effecton](https://github.com/krzkaczor/effecton).
+Original source: `AGENTS.md` in [krzkaczor/effecton](https://github.com/krzkaczor/effecton).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
