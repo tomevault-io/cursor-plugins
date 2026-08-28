@@ -1,0 +1,11 @@
+{
+  "name": "shriramkv--agentgateway-config-diff",
+  "displayName": "agentgateway-config-diff-",
+  "version": "1.0.0",
+  "description": "Diff two agentgateway configs and catch security-relevant drift before it ships: authentication removed from a route, a CORS wildcard slipping in, a dropped rate limit, backend TLS verification switch",
+  "author": {
+    "name": "shriramkv",
+    "url": "https://github.com/shriramkv"
+  },
+  "homepage": "https://github.com/shriramkv/agentgateway-config-diff-"
+}
