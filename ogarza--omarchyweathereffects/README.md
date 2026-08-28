@@ -1,0 +1,30 @@
+# omarchyweathereffects
+
+> Tome by [ogarza](https://github.com/ogarza/omarchyweathereffects), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+Post processing weather effects for Omarchy
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [ogarza/omarchyweathereffects](https://github.com/ogarza/omarchyweathereffects).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/ogarza/omarchyweathereffects](https://github.com/ogarza/omarchyweathereffects)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install ogarza/omarchyweathereffects
+```
+Source: [github.com/ogarza/omarchyweathereffects](https://github.com/ogarza/omarchyweathereffects).
+
+<!-- genome:t-i-q -->
