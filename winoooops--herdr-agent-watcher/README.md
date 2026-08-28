@@ -7,11 +7,11 @@ Coding-agent observability for Herdr: live sidebar cards, lifecycle notification
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [winoooops/herdr-agent-watcher](https://github.com/winoooops/herdr-agent-watcher).
+Original source: `AGENTS.md` in [winoooops/herdr-agent-watcher](https://github.com/winoooops/herdr-agent-watcher).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
