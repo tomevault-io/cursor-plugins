@@ -7,11 +7,11 @@ Agentic image Design Mode for DeepSeek Harness: infinite canvas, ask_user clarif
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [KaichenCurry/dsh-design-mode](https://github.com/KaichenCurry/dsh-design-mode).
+Original source: `AGENTS.md` in [KaichenCurry/dsh-design-mode](https://github.com/KaichenCurry/dsh-design-mode).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
