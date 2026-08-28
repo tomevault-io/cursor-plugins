@@ -1,0 +1,11 @@
+{
+  "name": "dhidary--tpu-runner",
+  "displayName": "tpu-runner",
+  "version": "1.0.0",
+  "description": "tpu-runner is a job orchestrator designed to maximize utilization of your Google Cloud TPU allocation. It races capacity across TPU types and regions, assigns jobs efficiently, retries preempted jobs,",
+  "author": {
+    "name": "dhidary",
+    "url": "https://github.com/dhidary"
+  },
+  "homepage": "https://github.com/dhidary/tpu-runner"
+}
