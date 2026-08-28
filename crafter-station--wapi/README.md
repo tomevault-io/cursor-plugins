@@ -7,11 +7,11 @@ WhatsApp REST API — a drop-in-compatible WasenderAPI clone. Baileys engine, Ho
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [crafter-station/wapi](https://github.com/crafter-station/wapi).
+Original source: `AGENTS.md` in [crafter-station/wapi](https://github.com/crafter-station/wapi).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
