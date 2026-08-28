@@ -1,0 +1,11 @@
+{
+  "name": "thisuxhq--agent-memory",
+  "displayName": "agent-memory",
+  "version": "1.0.0",
+  "description": "Persistent, scoped agent memory on Cloudflare Workers. One SQLite Durable Object per profile, with Luna-powered extract and recall.",
+  "author": {
+    "name": "thisuxhq",
+    "url": "https://github.com/thisuxhq"
+  },
+  "homepage": "https://github.com/thisuxhq/agent-memory"
+}
