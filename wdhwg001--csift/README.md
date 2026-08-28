@@ -7,11 +7,11 @@ The missing tool to sift your Claude Code sessions: regex search across all reco
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [wdhwg001/csift](https://github.com/wdhwg001/csift).
+Original source: `AGENTS.md` in [wdhwg001/csift](https://github.com/wdhwg001/csift).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
