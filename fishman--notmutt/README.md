@@ -7,11 +7,11 @@ Async terminal mail client for notmuch: staged undoable tag ops, diff-and-insert
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [fishman/notmutt](https://github.com/fishman/notmutt).
+Original source: `AGENTS.md` in [fishman/notmutt](https://github.com/fishman/notmutt).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
