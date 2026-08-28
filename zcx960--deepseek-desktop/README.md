@@ -7,11 +7,11 @@ DeepSeek Desktop application with Chat and Harness modes;deepseek-harness桌面�
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zcx960/deepseek-desktop](https://github.com/zcx960/deepseek-desktop).
+Original source: `AGENTS.md` in [zcx960/deepseek-desktop](https://github.com/zcx960/deepseek-desktop).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
