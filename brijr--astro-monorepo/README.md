@@ -7,11 +7,11 @@ A reusable Astro monorepo starter for independently deploying multiple static si
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [brijr/astro-monorepo](https://github.com/brijr/astro-monorepo).
+Original source: `AGENTS.md` in [brijr/astro-monorepo](https://github.com/brijr/astro-monorepo).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
