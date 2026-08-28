@@ -7,11 +7,11 @@ Top-level Lumio game product: client, server Gameplay, UI, content, packaging, a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [LumioGames/LumioGame](https://github.com/LumioGames/LumioGame).
+Original source: `AGENTS.md` in [LumioGames/LumioGame](https://github.com/LumioGames/LumioGame).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
