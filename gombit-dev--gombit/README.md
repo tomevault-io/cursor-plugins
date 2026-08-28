@@ -7,11 +7,11 @@ Django-inspired full-stack web framework for Go. Gin + GORM + React/TypeScript, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [gombit-dev/gombit](https://github.com/gombit-dev/gombit).
+Original source: `AGENTS.md` in [gombit-dev/gombit](https://github.com/gombit-dev/gombit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
