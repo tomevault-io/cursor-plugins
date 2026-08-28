@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [HecateFake/21st-smartcar-flying-minefield](https://github.com/HecateFake/21st-smartcar-flying-minefield).
+Original source: `AGENTS.md` in [HecateFake/21st-smartcar-flying-minefield](https://github.com/HecateFake/21st-smartcar-flying-minefield).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
