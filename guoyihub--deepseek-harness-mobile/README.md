@@ -7,11 +7,11 @@ DeepSeek Harness 开源手机端（iOS / Android PWA）：局域网扫码配对�
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [guoyihub/deepseek-harness-mobile](https://github.com/guoyihub/deepseek-harness-mobile).
+Original source: `AGENTS.md` in [guoyihub/deepseek-harness-mobile](https://github.com/guoyihub/deepseek-harness-mobile).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
