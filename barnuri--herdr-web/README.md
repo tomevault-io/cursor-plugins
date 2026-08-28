@@ -7,11 +7,11 @@ Mobile-first web UI plugin for herdr — drive your coding agents from a phone, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [barnuri/herdr-web](https://github.com/barnuri/herdr-web).
+Original source: `AGENTS.md` in [barnuri/herdr-web](https://github.com/barnuri/herdr-web).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
