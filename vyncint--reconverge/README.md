@@ -7,11 +7,11 @@ Static reconvergence analysis for Rust GPU kernels — catches divergent barrier
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [vyncint/reconverge](https://github.com/vyncint/reconverge).
+Original source: `AGENTS.md` in [vyncint/reconverge](https://github.com/vyncint/reconverge).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
