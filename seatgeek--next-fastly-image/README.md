@@ -7,11 +7,11 @@ A stateless, zero-dependency loader that lets next/image delegate image transfor
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [seatgeek/next-fastly-image](https://github.com/seatgeek/next-fastly-image).
+Original source: `AGENTS.md` in [seatgeek/next-fastly-image](https://github.com/seatgeek/next-fastly-image).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
