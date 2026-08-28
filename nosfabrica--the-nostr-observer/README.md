@@ -7,11 +7,11 @@ Web-of-trust-based daily newspaper
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [NosFabrica/the-nostr-observer](https://github.com/NosFabrica/the-nostr-observer).
+Original source: `AGENTS.md` in [NosFabrica/the-nostr-observer](https://github.com/NosFabrica/the-nostr-observer).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
