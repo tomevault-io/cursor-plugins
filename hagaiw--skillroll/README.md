@@ -7,11 +7,11 @@ The simple eval harness for your skills
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [hagaiw/skillroll](https://github.com/hagaiw/skillroll).
+Original source: `AGENTS.md` in [hagaiw/skillroll](https://github.com/hagaiw/skillroll).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
