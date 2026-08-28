@@ -1,0 +1,11 @@
+{
+  "name": "shriramkv--agentsmd-resolve",
+  "displayName": "agentsmd-resolve",
+  "version": "1.0.0",
+  "description": "agentsmd-resolve is a stdlib-only Python tool that computes the effective AGENTS.md an agent sees at any path by walking the nested chain root-first and merging section by section with nearest-wins.",
+  "author": {
+    "name": "shriramkv",
+    "url": "https://github.com/shriramkv"
+  },
+  "homepage": "https://github.com/shriramkv/agentsmd-resolve"
+}
