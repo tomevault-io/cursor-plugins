@@ -7,11 +7,11 @@ Remote MCP server for Gmail with support for multiple connected accounts, deploy
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [boonkgim/mcp-gmail-multi-account](https://github.com/boonkgim/mcp-gmail-multi-account).
+Original source: `AGENTS.md` in [boonkgim/mcp-gmail-multi-account](https://github.com/boonkgim/mcp-gmail-multi-account).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
