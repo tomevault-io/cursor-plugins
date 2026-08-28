@@ -7,11 +7,11 @@ Progressive tool discovery for DeepSeek Harness — tiny stable surface, searcha
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [everclear077/dsh-progressive-tools](https://github.com/everclear077/dsh-progressive-tools).
+Original source: `AGENTS.md` in [everclear077/dsh-progressive-tools](https://github.com/everclear077/dsh-progressive-tools).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
