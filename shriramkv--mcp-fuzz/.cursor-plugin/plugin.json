@@ -1,0 +1,11 @@
+{
+  "name": "shriramkv--mcp-fuzz",
+  "displayName": "mcp-fuzz",
+  "version": "1.0.0",
+  "description": "mcp-fuzz is a stdlib-only Python robustness harness for AAIF that throws 17 malformed and adversarial JSON-RPC cases at an MCP server over stdio and grades it A to F on crash resistance, responsivenes",
+  "author": {
+    "name": "shriramkv",
+    "url": "https://github.com/shriramkv"
+  },
+  "homepage": "https://github.com/shriramkv/mcp-fuzz"
+}
