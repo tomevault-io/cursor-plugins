@@ -7,12 +7,12 @@ Requirements board, specs, and agent skills for Linux Engineering Tools
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [linux-engineering-tools/community](https://github.com/linux-engineering-tools/community).
+Original source: `CLAUDE.md` in [linux-engineering-tools/community](https://github.com/linux-engineering-tools/community).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
