@@ -1,0 +1,11 @@
+{
+  "name": "perrylink--dsh-mask",
+  "displayName": "dsh-mask",
+  "version": "1.0.0",
+  "description": "PII masking middleware for DeepSeek Harness: anonymize names, phones, emails, ID cards, bank cards, keys, and addresses to placeholders before they reach the model, restore them at the display layer, ",
+  "author": {
+    "name": "PerryLink",
+    "url": "https://github.com/PerryLink"
+  },
+  "homepage": "https://github.com/PerryLink/dsh-mask"
+}
