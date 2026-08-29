@@ -7,11 +7,11 @@ PWA for managing Lightning and Nostr contacts
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [linky-fit/linky](https://github.com/linky-fit/linky).
+Original source: `CLAUDE.md` in [linky-fit/linky](https://github.com/linky-fit/linky).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
