@@ -7,11 +7,11 @@ Research Knowledge Agent — MCP server + REST API + React dashboard for AI-assi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [rka-project/rka-core](https://github.com/rka-project/rka-core).
+Original source: `AGENTS.md` in [rka-project/rka-core](https://github.com/rka-project/rka-core).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
