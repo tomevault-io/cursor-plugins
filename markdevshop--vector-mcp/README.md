@@ -7,11 +7,11 @@ Vector MCP Server for AI Agents - Supports ChromaDB, Couchbase, MongoDB, Qdrant,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [markdevshop/vector-mcp](https://github.com/markdevshop/vector-mcp).
+Original source: `AGENTS.md` in [markdevshop/vector-mcp](https://github.com/markdevshop/vector-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
