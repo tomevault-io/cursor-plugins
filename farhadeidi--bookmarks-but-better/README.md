@@ -7,11 +7,11 @@ A clean, beautiful bookmarks dashboard that replaces your new tab page.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [farhadeidi/bookmarks-but-better](https://github.com/farhadeidi/bookmarks-but-better).
+Original source: `AGENTS.md` in [farhadeidi/bookmarks-but-better](https://github.com/farhadeidi/bookmarks-but-better).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
