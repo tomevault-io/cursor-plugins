@@ -7,11 +7,11 @@ A lightweight, in-process sandbox for safely executing the tool calls an AI agen
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [goccy/sheena](https://github.com/goccy/sheena).
+Original source: `AGENTS.md` in [goccy/sheena](https://github.com/goccy/sheena).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
