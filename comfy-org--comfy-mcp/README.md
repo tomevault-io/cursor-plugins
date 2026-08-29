@@ -7,11 +7,11 @@ Local MCP server for ComfyUI — run your local ComfyUI from AI agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp).
+Original source: `AGENTS.md` in [Comfy-Org/comfy-mcp](https://github.com/Comfy-Org/comfy-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
