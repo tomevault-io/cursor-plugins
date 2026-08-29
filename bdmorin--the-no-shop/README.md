@@ -7,11 +7,11 @@ Ixian technology for Claude Code. Invisible marketplace where you get tech that 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [bdmorin/the-no-shop](https://github.com/bdmorin/the-no-shop).
+Original source: `AGENTS.md` in [bdmorin/the-no-shop](https://github.com/bdmorin/the-no-shop).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
