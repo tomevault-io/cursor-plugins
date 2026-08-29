@@ -7,11 +7,11 @@ Agent Integrity Protocol — real-time thinking block analysis for AI agent alig
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [mnemom/aip](https://github.com/mnemom/aip).
+Original source: `AGENTS.md` in [mnemom/aip](https://github.com/mnemom/aip).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
