@@ -1,0 +1,11 @@
+{
+  "name": "trefeon--agentrouter-spoof-proxy",
+  "displayName": "agentrouter-spoof-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy that exposes AgentRouter's Claude/OpenAI models as a local OpenAI-compatible API with WAF bypass, header spoofing, and auto model health routing.",
+  "author": {
+    "name": "trefeon",
+    "url": "https://github.com/trefeon"
+  },
+  "homepage": "https://github.com/trefeon/agentrouter-spoof-proxy"
+}
