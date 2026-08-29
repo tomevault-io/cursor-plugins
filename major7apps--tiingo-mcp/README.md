@@ -7,11 +7,11 @@ Native Rust/RMCP server for the Tiingo financial data API — stocks, forex, cry
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [major7apps/tiingo-mcp](https://github.com/major7apps/tiingo-mcp).
+Original source: `AGENTS.md` in [major7apps/tiingo-mcp](https://github.com/major7apps/tiingo-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
