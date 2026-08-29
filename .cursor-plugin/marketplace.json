@@ -312285,6 +312285,11 @@
       "description": "NVIDIA Rack Management Service"
     },
     {
+      "name": "aaditya-v-more--claude-graft",
+      "source": "./aaditya-v-more--claude-graft",
+      "description": "Run several Claude Desktop accounts side by side on macOS, sharing Claude Code chats between them"
+    },
+    {
       "name": "scardoso-lu--google-antigravity-settings",
       "source": "./scardoso-lu--google-antigravity-settings",
       "description": "google-antigravity-settings"
@@ -404895,6 +404900,16 @@
       "description": "Self-hosted workflow automation with AI Agents"
     },
     {
+      "name": "r1c7--cluxmate",
+      "source": "./r1c7--cluxmate",
+      "description": "AI coding agent with one Python core and three front-ends \u2014 headless CLI, Textual TUI, and an Electron desktop. Works with any OpenAI-compatible API, with risk-tiered permissions, event-sourced replay"
+    },
+    {
+      "name": "ulyngs--digital-habits-blocker",
+      "source": "./ulyngs--digital-habits-blocker",
+      "description": "Source code for 'Digital Habits: Blocker', a powerful app & website blocker for iOS, Mac, Windows, and Android that lets the user choose how hard it is to override"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -435628,6 +435643,11 @@
       "name": "chaitanya299--orient",
       "source": "./chaitanya299--orient",
       "description": "A living map of what you're building: state, decisions, and the why for Claude Code, opencode, and Codex. Cheap enough that it never gets in the way."
+    },
+    {
+      "name": "p13marc--nlink",
+      "source": "./p13marc--nlink",
+      "description": "Async Rust library for Linux network configuration via netlink - a modern alternative to iproute2 \u2014 mirror of https://git.marcpardo.eu/marcpardo/nlink"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
