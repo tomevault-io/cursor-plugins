@@ -7,11 +7,11 @@ The open AI agent harness. Extensible TUI, mouse support, minimal overhead, with
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [riipandi/elph](https://github.com/riipandi/elph).
+Original source: `AGENTS.md` in [riipandi/elph](https://github.com/riipandi/elph).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
