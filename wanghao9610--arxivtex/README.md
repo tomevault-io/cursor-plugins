@@ -1,0 +1,30 @@
+# arXivTeX
+
+> Source: [wanghao9610/arXivTeX](https://github.com/wanghao9610/arXivTeX). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
+
+Template the paper for arXiv or any conference
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [wanghao9610/arXivTeX](https://github.com/wanghao9610/arXivTeX).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/wanghao9610/arXivTeX](https://github.com/wanghao9610/arXivTeX)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install wanghao9610/arXivTeX
+```
+Source: [github.com/wanghao9610/arXivTeX](https://github.com/wanghao9610/arXivTeX).
+
+<!-- genome:d-i-q -->
