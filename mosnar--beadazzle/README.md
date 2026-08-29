@@ -7,11 +7,11 @@ MacOS native Beads UI written in 99.7% Swift.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Mosnar/beadazzle](https://github.com/Mosnar/beadazzle).
+Original source: `AGENTS.md` in [Mosnar/beadazzle](https://github.com/Mosnar/beadazzle).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
