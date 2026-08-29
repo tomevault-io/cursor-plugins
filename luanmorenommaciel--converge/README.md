@@ -7,11 +7,11 @@ The Agentic Framework for Building Autonomous Systems
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [luanmorenommaciel/converge](https://github.com/luanmorenommaciel/converge).
+Original source: `AGENTS.md` in [luanmorenommaciel/converge](https://github.com/luanmorenommaciel/converge).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
