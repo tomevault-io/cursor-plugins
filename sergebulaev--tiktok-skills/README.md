@@ -7,11 +7,11 @@ TikTok marketing skills for Claude Code and Codex: 3-second video hooks, caption
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sergebulaev/tiktok-skills](https://github.com/sergebulaev/tiktok-skills).
+Original source: `AGENTS.md` in [sergebulaev/tiktok-skills](https://github.com/sergebulaev/tiktok-skills).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
