@@ -7,11 +7,11 @@ A tiny, rate-limit-aware OpenAI-compatible proxy for the NVIDIA NIM API, built f
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [miztertea/nim-proxy](https://github.com/miztertea/nim-proxy).
+Original source: `AGENTS.md` in [miztertea/nim-proxy](https://github.com/miztertea/nim-proxy).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
