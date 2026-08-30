@@ -7,11 +7,11 @@ Governed, repo-native AgentOps template for AI-assisted software projects, with 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [SarutobiSasuke8/agentops-template](https://github.com/SarutobiSasuke8/agentops-template).
+Original source: `AGENTS.md` in [SarutobiSasuke8/agentops-template](https://github.com/SarutobiSasuke8/agentops-template).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
