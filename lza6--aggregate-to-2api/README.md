@@ -7,14 +7,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lza6/Aggregate-to-2api](https://github.com/lza6/Aggregate-to-2api).
+Original source: `GEMINI.md` in [lza6/Aggregate-to-2api](https://github.com/lza6/Aggregate-to-2api).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/lza6/Aggregate-to-2api](https://github.com/lza6/Aggregate-to-2api)
