@@ -7,11 +7,11 @@ Public source for CodeAgent Mobile clients: codeam-cli (npm), VS Code / Cursor /
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [edgar-durand/codeagent-mobile-clients](https://github.com/edgar-durand/codeagent-mobile-clients).
+Original source: `CLAUDE.md` in [edgar-durand/codeagent-mobile-clients](https://github.com/edgar-durand/codeagent-mobile-clients).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
