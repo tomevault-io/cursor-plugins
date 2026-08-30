@@ -262955,6 +262955,16 @@
       "description": "Local-first desktop command center for Claude Code, Codex, OpenCode, and other coding agents\u2014parallel tasks, worktrees, dev services, port forwards, diffs, and review."
     },
     {
+      "name": "openipc--waybeam",
+      "source": "./openipc--waybeam",
+      "description": "Waybeam \u2014 standalone H.265 encoder, RTP streamer and camera-side daemon for FPV camera SoCs"
+    },
+    {
+      "name": "openipc--waybeam",
+      "source": "./openipc--waybeam",
+      "description": "Waybeam \u2014 standalone H.265 encoder, RTP streamer and camera-side daemon for FPV camera SoCs"
+    },
+    {
       "name": "iamtouchskyer--logex",
       "source": "./iamtouchskyer--logex",
       "description": "Turn Claude Code session transcripts into blog-style articles \u2014 narrative, not logs"
@@ -268718,6 +268728,11 @@
       "name": "leanprover--lean-beam",
       "source": "./leanprover--lean-beam",
       "description": "Claude/Codex skill and local workflow layer for efficient interaction with Lean 4 and Monte-Carlo Tree Search."
+    },
+    {
+      "name": "d1vai--d1v-cli",
+      "source": "./d1vai--d1v-cli",
+      "description": "Experimental CLI for d1v.ai"
     },
     {
       "name": "heyaohuo--templateflow",
@@ -353430,6 +353445,11 @@
       "description": "Fleet \u2014 a native macOS terminal workspace with a fleet canvas board. Derived from cmux (GPL-3.0-or-later)."
     },
     {
+      "name": "quiqueporta--don3txt",
+      "source": "./quiqueporta--don3txt",
+      "description": "Mobile application for managing tasks based on the todo.txt format, designed for users who prefer plain text, full control of their data and simple workflows."
+    },
+    {
       "name": "stefanmaron--businesscentral-al-runner",
       "source": "./stefanmaron--businesscentral-al-runner",
       "description": "BusinessCentral.AL.Runner"
@@ -406403,6 +406423,16 @@
       "name": "v0lka--c0wrk",
       "source": "./v0lka--c0wrk",
       "description": "Desktop R&D AI-agent"
+    },
+    {
+      "name": "scoutqa-dot-ai--thor",
+      "source": "./scoutqa-dot-ai--thor",
+      "description": "Ambient intelligence for product engineers."
+    },
+    {
+      "name": "daveremy--function-health-mcp",
+      "source": "./daveremy--function-health-mcp",
+      "description": "MCP server and CLI for Function Health lab results \u2014 query biomarkers, track changes, get recommendations"
     },
     {
       "name": "ocrbase-hq--ocrbase",
