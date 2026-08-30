@@ -406455,6 +406455,46 @@
       "description": "MCP server and CLI for Function Health lab results \u2014 query biomarkers, track changes, get recommendations"
     },
     {
+      "name": "zararogers338-hash--chatgpt-local-mcp-kit",
+      "source": "./zararogers338-hash--chatgpt-local-mcp-kit",
+      "description": "Windows \u7f51\u9875 ChatGPT \u672c\u673a MCP \u90e8\u7f72\u5305\uff1aAgentDock\u3001OAuth\u3001\u6d4f\u89c8\u5668\u4e0e Codex ACP\uff0c\u542b\u4e2d\u6587\u6559\u7a0b\u3001\u6545\u969c\u6392\u67e5\u548c Agent \u90e8\u7f72\u4fe1\u3002"
+    },
+    {
+      "name": "mindfabric--manifold",
+      "source": "./mindfabric--manifold",
+      "description": "Cross-platform Claude Code workspace manager - Electron + xterm.js"
+    },
+    {
+      "name": "minatofullstack-ops--foundersradar",
+      "source": "./minatofullstack-ops--foundersradar",
+      "description": "FoundersRadar"
+    },
+    {
+      "name": "xpozpublic--xpoz-ts-sdk",
+      "source": "./xpozpublic--xpoz-ts-sdk",
+      "description": "TypeScript SDK for Xpoz \u2014 typed access to Twitter/X, Instagram, Reddit & TikTok data for social listening, research, and AI agents. npm: @xpoz/xpoz"
+    },
+    {
+      "name": "sqcows--forgejo-mcp",
+      "source": "./sqcows--forgejo-mcp",
+      "description": "A Model Context Protocol (MCP) server for Forgejo and Gitea instances. Provides 103 tools across repos, issues, PRs, orgs, users, and admin APIs. Works with Claude, Cursor, and any MCP-compatible clie"
+    },
+    {
+      "name": "aksika--abtars",
+      "source": "./aksika--abtars",
+      "description": "Agent harness with persistent memory, skills, scheduled tasks, extended messaging connectivity, self-healing supervision, and distributed multi-agent collaboration. Pi harness integration"
+    },
+    {
+      "name": "substructureai--subs",
+      "source": "./substructureai--subs",
+      "description": "subs is an agent harness for the cloud. It runs an unprivileged agent loop and uses MCP servers for executing tools. Use it locally, remotely and with your team. You can customize everything."
+    },
+    {
+      "name": "sanna-ai--sanna",
+      "source": "./sanna-ai--sanna",
+      "description": "Trust infrastructure for AI agents \u2014 constitution enforcement and cryptographic receipts. Python SDK."
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -437253,6 +437293,11 @@
       "name": "theolundqvist--pr-cockpit",
       "source": "./theolundqvist--pr-cockpit",
       "description": "GitHub pull request review at local speed \u2014 a keyboard-first macOS cockpit that keeps PRs, diffs, threads, and checks in a local webhook-refreshed cache for humans and coding agents"
+    },
+    {
+      "name": "pixelml--club-170hx",
+      "source": "./pixelml--club-170hx",
+      "description": "Community-tested recipes, diagnostics, and benchmarks for CMP 170HX AI workloads"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -564828,6 +564873,11 @@
       "name": "eddyalvaro--neo-portfolio",
       "source": "./eddyalvaro--neo-portfolio",
       "description": "neo-portfolio"
+    },
+    {
+      "name": "dmulder--kinderforge",
+      "source": "./dmulder--kinderforge",
+      "description": "A self-hosted adaptive learning engine that guides students through structured curriculum"
     }
   ]
 }
