@@ -5,22 +5,15 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [GuyTeichman/RNAlysis](https://github.com/GuyTeichman/RNAlysis).
+Original source: `AGENTS.md` in [GuyTeichman/RNAlysis](https://github.com/GuyTeichman/RNAlysis).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
-
-## Bundled Skills (4)
-
-- [RNAlysis](https://github.com/GuyTeichman/RNAlysis/tree/main/.claude/skills/release/SKILL.md)
-- [RNAlysis](https://github.com/GuyTeichman/RNAlysis/tree/main/.claude/skills/gui-screenshots/SKILL.md)
-- [RNAlysis](https://github.com/GuyTeichman/RNAlysis/tree/main/.claude/skills/safe-optimization/SKILL.md)
-- [RNAlysis](https://github.com/GuyTeichman/RNAlysis/tree/main/.claude/skills/external-api-change/SKILL.md)
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/GuyTeichman/RNAlysis](https://github.com/GuyTeichman/RNAlysis)
 
