@@ -293230,6 +293230,16 @@
       "description": "framework for using llms on object grounding"
     },
     {
+      "name": "appandflow--stim",
+      "source": "./appandflow--stim",
+      "description": "Isolated React Native / Expo dev environments per project or worktree \u2014 each project gets its own Metro and simulator."
+    },
+    {
+      "name": "appandflow--stim",
+      "source": "./appandflow--stim",
+      "description": "Isolated React Native / Expo dev environments per project or worktree \u2014 each project gets its own Metro and simulator."
+    },
+    {
       "name": "fcoury--termwright",
       "source": "./fcoury--termwright",
       "description": "Playwright-like automation framework for terminal TUI applications"
@@ -305218,6 +305228,11 @@
       "name": "sunyuzheng--kedaibiao-open-context",
       "source": "./sunyuzheng--kedaibiao-open-context",
       "description": "Source-grounded public context for \u8bfe\u4ee3\u8868\u7acb\u6b63: Knowledge Bank, YouTube, Public Axioms V1, and \u300a\u771f\u672c\u4e8b\u300b frameworks."
+    },
+    {
+      "name": "sandeepbaskaran--design-mode",
+      "source": "./sandeepbaskaran--design-mode",
+      "description": "A visual editor for the browser to communicate with your coding agent."
     },
     {
       "name": "lucas-acc--sancho-skills",
@@ -353613,6 +353628,26 @@
       "name": "tt-a1i--skillroster",
       "source": "./tt-a1i--skillroster",
       "description": "Turn scattered, duplicated AI-agent Skills into per-Agent Rosters\u2014with evidence, receipts, and exact undo."
+    },
+    {
+      "name": "scottblydotcom--hermia",
+      "source": "./scottblydotcom--hermia",
+      "description": "Vendor-agnostic security evals for LLM inference stacks. Detects behavioral divergence across models, backends, and hardware."
+    },
+    {
+      "name": "scottblydotcom--hermia",
+      "source": "./scottblydotcom--hermia",
+      "description": "Vendor-agnostic security evals for LLM inference stacks. Detects behavioral divergence across models, backends, and hardware."
+    },
+    {
+      "name": "darkdarkcocoa--cocoa-recorder",
+      "source": "./darkdarkcocoa--cocoa-recorder",
+      "description": "A cute pixel-art system audio recorder for Windows \u2014 WAV/MP3, live waveform, cassette library."
+    },
+    {
+      "name": "darkdarkcocoa--cocoa-recorder",
+      "source": "./darkdarkcocoa--cocoa-recorder",
+      "description": "A cute pixel-art system audio recorder for Windows \u2014 WAV/MP3, live waveform, cassette library."
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
@@ -406695,6 +406730,11 @@
       "description": "A focused GitHub desktop workspace for notifications, issues, pull requests, Actions, repository discovery, and an optional repository-aware agent."
     },
     {
+      "name": "kevin-liu-01--sigil-ui",
+      "source": "./kevin-liu-01--sigil-ui",
+      "description": "Opinionated design language + token-driven React components. 31 presets, 70+ components, one markdown file. Built to kill the AI-generated aesthetic."
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -437543,6 +437583,16 @@
       "name": "clovercatlab--nanotrans",
       "source": "./clovercatlab--nanotrans",
       "description": "\u6781\u81f4\u8f7b\u91cf\u5316\u8f93\u5165\u7ffb\u8bd1\u52a9\u624b  --Built with Rust"
+    },
+    {
+      "name": "elpabloultron--open-meteo-precisa-chile",
+      "source": "./elpabloultron--open-meteo-precisa-chile",
+      "description": "Plataforma Open-Source de Inteligencia Agrometeorol\u00f3gica Hiperlocal, Teledetecci\u00f3n Satelital y Calidad del Aire para Chile"
+    },
+    {
+      "name": "xxiaoa--encore-nvim",
+      "source": "./xxiaoa--encore-nvim",
+      "description": "Semantic HUD, history and reports for nvim"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -565163,6 +565213,196 @@
       "name": "skinny-hedgehog--monorepo-py",
       "source": "./skinny-hedgehog--monorepo-py",
       "description": "monorepo-py"
+    },
+    {
+      "name": "socketry--fantail",
+      "source": "./socketry--fantail",
+      "description": "Worker-aware HTTP load balancing with a global admission queue."
+    },
+    {
+      "name": "kimichenatp--syswebapi",
+      "source": "./kimichenatp--syswebapi",
+      "description": "SYSWebAPI"
+    },
+    {
+      "name": "ovidiuficiu--neon-starfighter",
+      "source": "./ovidiuficiu--neon-starfighter",
+      "description": "STARFALL VECTOR neon formation shooter"
+    },
+    {
+      "name": "kipsmith-arch--web4xener",
+      "source": "./kipsmith-arch--web4xener",
+      "description": "web app for xener"
+    },
+    {
+      "name": "yihua0906--meeting-room-board",
+      "source": "./yihua0906--meeting-room-board",
+      "description": "meeting-room-board"
+    },
+    {
+      "name": "kipsmith-arch--web4xener",
+      "source": "./kipsmith-arch--web4xener",
+      "description": "web app for xener"
+    },
+    {
+      "name": "jaes1237712--wiki-portfolio",
+      "source": "./jaes1237712--wiki-portfolio",
+      "description": "\u7dad\u57fa\u767e\u79d1\u9023\u7d50\u7db2\u7d61\u7684\u4e92\u52d5\u5f0f\u5206\u6790:Infomap \u793e\u7fa4\u5075\u6e2c\u3001pgvector \u8a9e\u610f\u641c\u5c0b\u3001\u700f\u89bd\u91cf\u7570\u5e38\u5075\u6e2c\u3002Python pipeline \u2192 Neon \u2192 Cloudflare Workers \u2192 React + Sigma.js"
+    },
+    {
+      "name": "phuckhuenguyen216-byte--central-support",
+      "source": "./phuckhuenguyen216-byte--central-support",
+      "description": "Central_Support"
+    },
+    {
+      "name": "jameslee1113--meeting-room-board",
+      "source": "./jameslee1113--meeting-room-board",
+      "description": "meeting-room-board"
+    },
+    {
+      "name": "guifagundes01--atlas-football",
+      "source": "./guifagundes01--atlas-football",
+      "description": "atlas-football"
+    },
+    {
+      "name": "yangyoung-max--ai-demo-tool",
+      "source": "./yangyoung-max--ai-demo-tool",
+      "description": "Ai-Demo-Tool"
+    },
+    {
+      "name": "omarfaruktaj--expo-starter",
+      "source": "./omarfaruktaj--expo-starter",
+      "description": "expo-starter"
+    },
+    {
+      "name": "santycloud--copa-fugaz",
+      "source": "./santycloud--copa-fugaz",
+      "description": "copa-fugaz"
+    },
+    {
+      "name": "kku1993--gmsv-web",
+      "source": "./kku1993--gmsv-web",
+      "description": "Official website for Good Morning Silicon Valley"
+    },
+    {
+      "name": "lovelygale1--signet",
+      "source": "./lovelygale1--signet",
+      "description": "SIGNET \u2014 Document to Data Contract | Balerion Internal Hackathon Case B"
+    },
+    {
+      "name": "zmactep--hermesses",
+      "source": "./zmactep--hermesses",
+      "description": "Use Rokid Glasses with your Hermes Agent"
+    },
+    {
+      "name": "ippoan--ironrdp-remoteapp",
+      "source": "./ippoan--ironrdp-remoteapp",
+      "description": "IronRDP fork \u2014 \u30d6\u30e9\u30a6\u30b6\u5185 RemoteApp \u63cf\u753b (RAIL \u30a6\u30a3\u30f3\u30c9\u30a6\u5408\u6210 / \u4eee\u60f3\u30d7\u30ea\u30f3\u30bf)\u3002\u4e0a\u6d41 git \u4f9d\u5b58 (rev \u56fa\u5b9a) \u306e\u7e2e\u5c0f\u69cb\u6210"
+    },
+    {
+      "name": "thay32-heng--aureon-ai",
+      "source": "./thay32-heng--aureon-ai",
+      "description": "Aureon-Ai"
+    },
+    {
+      "name": "kimichenatp--syswebapi",
+      "source": "./kimichenatp--syswebapi",
+      "description": "SYSWebAPI"
+    },
+    {
+      "name": "jcsylvester000--aria-chat-v5",
+      "source": "./jcsylvester000--aria-chat-v5",
+      "description": "Nextjs application for chatbot widget using getcody API"
+    },
+    {
+      "name": "dreamer6364--blog",
+      "source": "./dreamer6364--blog",
+      "description": "Blog"
+    },
+    {
+      "name": "lorenzorubenecia--pangasinan-heritage-digital-showcase",
+      "source": "./lorenzorubenecia--pangasinan-heritage-digital-showcase",
+      "description": "A digital tourism and heritage showcase featuring the culture, history, attractions, and traditions of Pangasinan."
+    },
+    {
+      "name": "fatirmalik1--smart-file-organizer",
+      "source": "./fatirmalik1--smart-file-organizer",
+      "description": "Session 4 workshop demo repo: a sub-agent pipeline ixes content based file classification."
+    },
+    {
+      "name": "lovelygale1--signet",
+      "source": "./lovelygale1--signet",
+      "description": "SIGNET \u2014 Document to Data Contract | Balerion Internal Hackathon Case B"
+    },
+    {
+      "name": "teerawat-k--smart-pole",
+      "source": "./teerawat-k--smart-pole",
+      "description": "smart-pole"
+    },
+    {
+      "name": "inceptionretreats-stack--chapega",
+      "source": "./inceptionretreats-stack--chapega",
+      "description": "Chapega"
+    },
+    {
+      "name": "rubiya82--dev-knowledge",
+      "source": "./rubiya82--dev-knowledge",
+      "description": "Personal development knowledge base for software engineering, automation, troubleshooting and system design."
+    },
+    {
+      "name": "f1h444--rumahideal",
+      "source": "./f1h444--rumahideal",
+      "description": "website Jasa Konstruksi & Interior Rumah"
+    },
+    {
+      "name": "vladimirminchenkov--pirosmani-frontend",
+      "source": "./vladimirminchenkov--pirosmani-frontend",
+      "description": "Frontend for Pirosmani delivery app"
+    },
+    {
+      "name": "estelledc--system-design-15-cloud-drive",
+      "source": "./estelledc--system-design-15-cloud-drive",
+      "description": "Evidence-first immutable file versions and bounded change pages"
+    },
+    {
+      "name": "syabantania-ops--pertemuan-1-frontend",
+      "source": "./syabantania-ops--pertemuan-1-frontend",
+      "description": "pertemuan-1-frontend"
+    },
+    {
+      "name": "mahrous-amer--tazkara",
+      "source": "./mahrous-amer--tazkara",
+      "description": "Node.js CLI that checks showtimes for **any movie** on two Cairo cinema chains"
+    },
+    {
+      "name": "keinakx26-debug--kyzen-essence-bloom",
+      "source": "./keinakx26-debug--kyzen-essence-bloom",
+      "description": "kyzen-essence-bloom"
+    },
+    {
+      "name": "dreamer6364--blog",
+      "source": "./dreamer6364--blog",
+      "description": "Blog"
+    },
+    {
+      "name": "aarambhgrow--aarambh-grow",
+      "source": "./aarambhgrow--aarambh-grow",
+      "description": "From business registration and compliance to digital marketing, financial consulting, certifications, and growth strategies, AarambhGrow provides end to end business solutions that help startups, MSME"
+    },
+    {
+      "name": "chenyunhey--wyg-dolai",
+      "source": "./chenyunhey--wyg-dolai",
+      "description": "wyg_dolai"
+    },
+    {
+      "name": "dantaniaman506-svg--prospector-harmony",
+      "source": "./dantaniaman506-svg--prospector-harmony",
+      "description": "prospector-harmony"
+    },
+    {
+      "name": "guavasoftcom--spring-batch-dashboard",
+      "source": "./guavasoftcom--spring-batch-dashboard",
+      "description": "React/Spring Boot Application for displaying Spring Batch Jobs"
     }
   ]
 }
