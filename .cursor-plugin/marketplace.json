@@ -191845,6 +191845,11 @@
       "description": "hexstellar"
     },
     {
+      "name": "claude-reverser--ida-instances-mcp",
+      "source": "./claude-reverser--ida-instances-mcp",
+      "description": "Custom build of ida-pro-mcp - stability-hardened MCP server for hosting headless IDA Pro instances"
+    },
+    {
       "name": "isaaccorley--geospatial-skills",
       "source": "./isaaccorley--geospatial-skills",
       "description": "geospatial-skills"
@@ -258008,6 +258013,11 @@
       "name": "gilsmt--cache-app",
       "source": "./gilsmt--cache-app",
       "description": "The AI bookmark manager for busy people. Private, with support for links, notes, images, and videos from your favorite platforms"
+    },
+    {
+      "name": "nickname21kmr--gameops-investigator",
+      "source": "./nickname21kmr--gameops-investigator",
+      "description": "Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations."
     },
     {
       "name": "jojobeans1981--ember-campfire-edition",
@@ -334395,6 +334405,16 @@
       "description": "Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable."
     },
     {
+      "name": "theharoonali--reclit",
+      "source": "./theharoonali--reclit",
+      "description": "Reclit"
+    },
+    {
+      "name": "theharoonali--reclit",
+      "source": "./theharoonali--reclit",
+      "description": "Reclit"
+    },
+    {
       "name": "makenowjust--naraku",
       "source": "./makenowjust--naraku",
       "description": "next Ruby Regexp engine"
@@ -353803,6 +353823,11 @@
       "name": "big0lives--codex-task-pointer",
       "source": "./big0lives--codex-task-pointer",
       "description": "Pre-compaction hooks + a CAS-guarded task pointer that keep Codex agents on-goal across context auto-compaction \u2014 no mainline drift, no duplicate work, no conflicting progress in long runs."
+    },
+    {
+      "name": "glukicov--slideops",
+      "source": "./glukicov--slideops",
+      "description": "Turn a repository into a slide deck that tells you when it stops matching the code"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
