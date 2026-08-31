@@ -353655,6 +353655,21 @@
       "description": "A cute pixel-art system audio recorder for Windows \u2014 WAV/MP3, live waveform, cassette library."
     },
     {
+      "name": "event4u-app--agent-config",
+      "source": "./event4u-app--agent-config",
+      "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract, every host agent."
+    },
+    {
+      "name": "bolewood--collegedata-fyi",
+      "source": "./bolewood--collegedata-fyi",
+      "description": "Open Common Data Set API and archive for U.S. colleges \u2014 raw CDS PDFs, structured extracts, IPEDS/College Scorecard joins"
+    },
+    {
+      "name": "woxiangyangzhimao--skills",
+      "source": "./woxiangyangzhimao--skills",
+      "description": "C"
+    },
+    {
       "name": "stefanmaron--businesscentral-al-runner",
       "source": "./stefanmaron--businesscentral-al-runner",
       "description": "BusinessCentral.AL.Runner"
@@ -406740,6 +406755,46 @@
       "description": "Opinionated design language + token-driven React components. 31 presets, 70+ components, one markdown file. Built to kill the AI-generated aesthetic."
     },
     {
+      "name": "qingyis--llama-7900xtx-qwen3-8-27b",
+      "source": "./qingyis--llama-7900xtx-qwen3-8-27b",
+      "description": "llama-7900xtx-qwen3.8-27b"
+    },
+    {
+      "name": "realtyz--mini-hf",
+      "source": "./realtyz--mini-hf",
+      "description": "On-Premises Model/Dataset Cache"
+    },
+    {
+      "name": "svs--compos",
+      "source": "./svs--compos",
+      "description": "Emacs rebuilt on the BEAM"
+    },
+    {
+      "name": "guillempuche--batuda",
+      "source": "./guillempuche--batuda",
+      "description": "Open-source CRM with a built-in research agent. Find people, email them, follow up, remember the trail. Your providers, your budget. MCP-ready, MIT."
+    },
+    {
+      "name": "qingyis--llama-7900xtx-qwen3-8-27b",
+      "source": "./qingyis--llama-7900xtx-qwen3-8-27b",
+      "description": "llama-7900xtx-qwen3.8-27b"
+    },
+    {
+      "name": "arjunkai--optcg-api",
+      "source": "./arjunkai--optcg-api",
+      "description": "Cloudflare Workers API powering opbindr.com. Public card image proxy and OpenAPI docs; data endpoints gated to opbindr.com origins (request a key for non-commercial dev use). One Piece TCG today, Pok\u00e9"
+    },
+    {
+      "name": "tylerilunga--procore-mcp-server",
+      "source": "./tylerilunga--procore-mcp-server",
+      "description": "MCP server exposing the full Procore REST API for Claude Desktop and Claude Code"
+    },
+    {
+      "name": "realtyz--mini-hf",
+      "source": "./realtyz--mini-hf",
+      "description": "On-Premises Model/Dataset Cache"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -437598,6 +437653,11 @@
       "name": "xxiaoa--encore-nvim",
       "source": "./xxiaoa--encore-nvim",
       "description": "Semantic HUD, history and reports for nvim"
+    },
+    {
+      "name": "rohitedathil--dagic",
+      "source": "./rohitedathil--dagic",
+      "description": "A minimal workflow DAG (Directed Acyclic Graph) definition language and an asynchronous execution engine, implemented in Python."
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -565408,6 +565468,11 @@
       "name": "guavasoftcom--spring-batch-dashboard",
       "source": "./guavasoftcom--spring-batch-dashboard",
       "description": "React/Spring Boot Application for displaying Spring Batch Jobs"
+    },
+    {
+      "name": "alextymosh--fastapi-saas-template",
+      "source": "./alextymosh--fastapi-saas-template",
+      "description": "Production-oriented FastAPI backend template based on a modular monolith architecture, designed for small to medium SaaS applications, including marketplace and two-sided platforms. The system is desi"
     }
   ]
 }
