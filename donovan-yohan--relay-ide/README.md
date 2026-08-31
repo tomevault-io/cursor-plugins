@@ -7,11 +7,11 @@ Lightweight remote web chat interface for facilitating multi-harness agent colla
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [donovan-yohan/relay-ide](https://github.com/donovan-yohan/relay-ide).
+Original source: `CLAUDE.md` in [donovan-yohan/relay-ide](https://github.com/donovan-yohan/relay-ide).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
