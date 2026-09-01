@@ -7,11 +7,11 @@ A personal wiki built with Astro
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [masmuss/veka](https://github.com/masmuss/veka).
+Original source: `AGENTS.md` in [masmuss/veka](https://github.com/masmuss/veka).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
