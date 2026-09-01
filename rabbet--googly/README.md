@@ -7,11 +7,11 @@ Generate modern, self-contained Elixir clients for any Google API from its disco
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Rabbet/googly](https://github.com/Rabbet/googly).
+Original source: `AGENTS.md` in [Rabbet/googly](https://github.com/Rabbet/googly).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
