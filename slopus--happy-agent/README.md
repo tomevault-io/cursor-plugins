@@ -7,11 +7,11 @@ Universal Agent Harness from Happy that works with any subscription
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [slopus/happy-agent](https://github.com/slopus/happy-agent).
+Original source: `AGENTS.md` in [slopus/happy-agent](https://github.com/slopus/happy-agent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
