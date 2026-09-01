@@ -7,11 +7,11 @@ Wrap rl training env to make it a mcp-server.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mktk1117/rl-mcp](https://github.com/mktk1117/rl-mcp).
+Original source: `CLAUDE.md` in [mktk1117/rl-mcp](https://github.com/mktk1117/rl-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
