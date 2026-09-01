@@ -355260,6 +355260,16 @@
       "description": "browse-plugin"
     },
     {
+      "name": "darkraise--flashpoint-web",
+      "source": "./darkraise--flashpoint-web",
+      "description": "Selfhosted flashpoint archive for playing flash and HTML5 game in browser without any additional app"
+    },
+    {
+      "name": "rocm--hip-ep",
+      "source": "./rocm--hip-ep",
+      "description": "ROCm Execution Provider for ONNX Runtime on AMD GPUs. Compiles ONNX models through MLIR to LLVM bitcode, JIT-loads them at session creation, and dispatches to hipDNN, MIOpen, hipBLASLt, and custom HIP"
+    },
+    {
       "name": "stefanmaron--businesscentral-al-runner",
       "source": "./stefanmaron--businesscentral-al-runner",
       "description": "BusinessCentral.AL.Runner"
@@ -409225,6 +409235,36 @@
       "description": "On-device AI framework inspired by LangChain, purpose-built for mobile. Build, compose, and extend AI features using platform-native models \u2014 all processing happens locally on the device."
     },
     {
+      "name": "lanyz1--tgsec-qtzuu",
+      "source": "./lanyz1--tgsec-qtzuu",
+      "description": "TGSEC\u793e\u533a \u5b66\u4e60\u6e17\u900f\u5957\u4ef6 \u2014 \u6309\u653b\u51fb\u9762\u7ec4\u7ec7\u7684\u6e17\u900f\u6d4b\u8bd5\u77e5\u8bc6\u5e93,\u53ef\u76f4\u63a5\u5582\u7ed9AI\u81ea\u52a8\u914d\u7f6e\u4f7f\u7528"
+    },
+    {
+      "name": "mktk1117--rl-mcp",
+      "source": "./mktk1117--rl-mcp",
+      "description": "Wrap rl training env to make it a mcp-server."
+    },
+    {
+      "name": "mktk1117--rl-mcp",
+      "source": "./mktk1117--rl-mcp",
+      "description": "Wrap rl training env to make it a mcp-server."
+    },
+    {
+      "name": "edwardbr--canopy",
+      "source": "./edwardbr--canopy",
+      "description": "An RPC solution that is agnostic on serialization formats, transports and coroutine libraries. With remote RAII object management support.   A major rewrite of https://github.com/edwardbr/rpc"
+    },
+    {
+      "name": "sidneybissoli--ibge-br-mcp",
+      "source": "./sidneybissoli--ibge-br-mcp",
+      "description": "MCP Server for IBGE APIs - Brazilian geographic, demographic and statistical data"
+    },
+    {
+      "name": "edwardbr--canopy",
+      "source": "./edwardbr--canopy",
+      "description": "An RPC solution that is agnostic on serialization formats, transports and coroutine libraries. With remote RAII object management support.   A major rewrite of https://github.com/edwardbr/rpc"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -440243,6 +440283,16 @@
       "name": "siyuan-liu31--minimax-h3-video-studio",
       "source": "./siyuan-liu31--minimax-h3-video-studio",
       "description": "Visual AI video studio for MiniMax H3 + ComfyUI. Create text-to-video, image-to-video, reference video, video-to-video, storyboards, resumable generations, and long-form AI videos."
+    },
+    {
+      "name": "astrofoundry--omarchy-keybind-editor",
+      "source": "./astrofoundry--omarchy-keybind-editor",
+      "description": "omarchy-keybind-editor"
+    },
+    {
+      "name": "mattzcarey--durable-mcp-server",
+      "source": "./mattzcarey--durable-mcp-server",
+      "description": "mcp tasks backed by durable objects"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
