@@ -7,11 +7,11 @@ Native macOS menu bar app for per-application volume control, mute, and output r
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mehtiumit/Volumix](https://github.com/mehtiumit/Volumix).
+Original source: `CLAUDE.md` in [mehtiumit/Volumix](https://github.com/mehtiumit/Volumix).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
