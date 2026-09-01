@@ -7,11 +7,11 @@ On-device AI framework inspired by LangChain, purpose-built for mobile. Build, c
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [hyodotdev/locanara](https://github.com/hyodotdev/locanara).
+Original source: `AGENTS.md` in [hyodotdev/locanara](https://github.com/hyodotdev/locanara).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
