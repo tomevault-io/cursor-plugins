@@ -7,11 +7,11 @@ Generador de plugins de QGIS 4: de una descripción en lenguaje natural a un .zi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [BernabeHL/qgis-plugin-generator](https://github.com/BernabeHL/qgis-plugin-generator).
+Original source: `CLAUDE.md` in [BernabeHL/qgis-plugin-generator](https://github.com/BernabeHL/qgis-plugin-generator).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
