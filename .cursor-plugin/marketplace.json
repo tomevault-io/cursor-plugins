@@ -299875,6 +299875,11 @@
       "description": "CAPI E2E testing framework \u2014 currently transitioning from CAPZ E2E to multi-provider CAPI"
     },
     {
+      "name": "anthropics--commerce-agents",
+      "source": "./anthropics--commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included."
+    },
+    {
       "name": "hyaway--hyaway",
       "source": "./hyaway--hyaway",
       "description": "hyAway.com site"
@@ -355738,6 +355743,11 @@
       "name": "boardui--boardui",
       "source": "./boardui--boardui",
       "description": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage."
+    },
+    {
+      "name": "kingyosun--kukuri",
+      "source": "./kingyosun--kukuri",
+      "description": "Reddit + X + VRChat, remixed as a topic-first hybrid P2P social app"
     },
     {
       "name": "stefanmaron--businesscentral-al-runner",
