@@ -355720,6 +355720,11 @@
       "description": "A WebAssembly runtime implemented in Erlang/OTP"
     },
     {
+      "name": "omninode-ai--omnibase-core",
+      "source": "./omninode-ai--omnibase-core",
+      "description": "ONEX Core Framework - Base classes and essential implementations for the ONEX ecosystem"
+    },
+    {
       "name": "stefanmaron--businesscentral-al-runner",
       "source": "./stefanmaron--businesscentral-al-runner",
       "description": "BusinessCentral.AL.Runner"
@@ -410025,6 +410030,31 @@
       "description": "Baby AI Compannion using Reachy-Mini"
     },
     {
+      "name": "unjs--jup",
+      "source": "./unjs--jup",
+      "description": "\ud83d\udce6 pin and run the right package manager or runtime for every project."
+    },
+    {
+      "name": "ahmadzein--contextvault",
+      "source": "./ahmadzein--contextvault",
+      "description": "  ContextVault - External context management system for Claude Code CLI. A two-tier documentation system that stores knowledge globally and per-project, loading only what's needed. Features 9 slash co"
+    },
+    {
+      "name": "antimateriallabs--allui-rs",
+      "source": "./antimateriallabs--allui-rs",
+      "description": "allui-rs"
+    },
+    {
+      "name": "frysztak--pennywise",
+      "source": "./frysztak--pennywise",
+      "description": "A self-hosted expense tracking and splitting application for groups"
+    },
+    {
+      "name": "tyoverby--arewelegacycomputingyet-com",
+      "source": "./tyoverby--arewelegacycomputingyet-com",
+      "description": "The website arewelegacycomputingyet.com"
+    },
+    {
       "name": "ocrbase-hq--ocrbase",
       "source": "./ocrbase-hq--ocrbase",
       "description": "\ud83d\udcc4 PDF/IMG ->.MD/JSON Document OCR API for PaddleOCR and GLMOCR. Self-hostable."
@@ -441153,6 +441183,31 @@
       "name": "m-sanchez--clawdeck",
       "source": "./m-sanchez--clawdeck",
       "description": "Watch Claude Code work: a zero-dependency local dashboard for sessions, events, cost, worktrees, and reviews - one loopback server, no build step."
+    },
+    {
+      "name": "adsorgcn--chanlun-engine-skill",
+      "source": "./adsorgcn--chanlun-engine-skill",
+      "description": "\u8ba9 AI \u5e2e\u4f60\u505a\u7f20\u8bba\u5206\u6790\uff1a\u81ea\u52a8\u753b\u7b14\u3001\u7ebf\u6bb5\u3001\u4e2d\u67a2\uff0c\u6807\u51fa\u4e09\u7c7b\u4e70\u5356\u70b9\u4e0e\u80cc\u9a70\uff0c\u6bcf\u4e2a\u4fe1\u53f7\u90fd\u5e26\u5931\u6548\u4ef7\u4f4d\u3002\u811a\u672c\u8d1f\u8d23\u8ba1\u7b97\uff0cAI \u8d1f\u8d23\u8bb2\u4eba\u8bdd\uff1b\u53ef\u590d\u6838\u3001\u4e0d\u8350\u80a1\u3002\u9002\u914d WorkBuddy / Claude Code / Codex / OpenClaw\u3002Chan Theory (\u7f20\u4e2d\u8bf4\u7985) engine for AI agents."
+    },
+    {
+      "name": "criso2hd-alt--dlss5-image-converter",
+      "source": "./criso2hd-alt--dlss5-image-converter",
+      "description": "A fun True DLSS5 Image converter, just copy and paste in or drop any images to start"
+    },
+    {
+      "name": "gaearon--conway-refinement",
+      "source": "./gaearon--conway-refinement",
+      "description": "A proof of Conway's refinement conjecture in Lean"
+    },
+    {
+      "name": "petekp--agent-skills",
+      "source": "./petekp--agent-skills",
+      "description": "Agent skills for UI development, parameter tuning, and design iteration"
+    },
+    {
+      "name": "petekp--agent-skills",
+      "source": "./petekp--agent-skills",
+      "description": "Agent skills for UI development, parameter tuning, and design iteration"
     },
     {
       "name": "nirholas--scroll-zoom-thing",
@@ -569608,6 +569663,41 @@
       "name": "naeemmohsin--hackathon2-phase3-todo-full-stack-app-with-ai-powered-chatbot",
       "source": "./naeemmohsin--hackathon2-phase3-todo-full-stack-app-with-ai-powered-chatbot",
       "description": "Created An AI-Powered Chatbot Interface For Managing Todos Through Natural Language Using MCP (Model Context Protocol) Server Architecture And Using Claude Code And Spec-Kit Plus."
+    },
+    {
+      "name": "jorgvt--rift-rl",
+      "source": "./jorgvt--rift-rl",
+      "description": "Riftbound simulator for RL."
+    },
+    {
+      "name": "davyang--fncv-rvas-ms",
+      "source": "./davyang--fncv-rvas-ms",
+      "description": "FNCV_RVAS_MS"
+    },
+    {
+      "name": "hundong2--all-in-one",
+      "source": "./hundong2--all-in-one",
+      "description": "All in one app"
+    },
+    {
+      "name": "vitorbianchini--radar-sentinel",
+      "source": "./vitorbianchini--radar-sentinel",
+      "description": "radar-sentinel"
+    },
+    {
+      "name": "banr1--tailored-clawdbot",
+      "source": "./banr1--tailored-clawdbot",
+      "description": "tailored-clawdbot"
+    },
+    {
+      "name": "zhangyiqun018--gomoku",
+      "source": "./zhangyiqun018--gomoku",
+      "description": "gomoku"
+    },
+    {
+      "name": "banr1--tailored-clawdbot",
+      "source": "./banr1--tailored-clawdbot",
+      "description": "tailored-clawdbot"
     }
   ]
 }
