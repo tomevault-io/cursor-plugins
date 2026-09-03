@@ -7,11 +7,11 @@ Halo is an open-source framework built by White Circle for training large langua
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [whitecircle/halo](https://github.com/whitecircle/halo).
+Original source: `CLAUDE.md` in [whitecircle/halo](https://github.com/whitecircle/halo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
