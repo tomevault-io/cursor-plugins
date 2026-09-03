@@ -133750,6 +133750,11 @@
       "description": "m365copilot-docs"
     },
     {
+      "name": "generative-computing--steerability",
+      "source": "./generative-computing--steerability",
+      "description": "The Steerability toolkit is an extensible library for general purpose steering of language models."
+    },
+    {
       "name": "pithings--voipi",
       "source": "./pithings--voipi",
       "description": "\ud83c\udf99\ufe0f Give your apps, CLIs, and agents a voice. VoiPi is a universal, zero-dependency, free text-to-speech library for JavaScript."
@@ -294918,6 +294923,11 @@
       "name": "nguyensitrung--vieneuttsapp",
       "source": "./nguyensitrung--vieneuttsapp",
       "description": "Cross-platform, fully-offline Vietnamese/English text-to-speech desktop workstation powered by VieNeu-TTS v3 Turbo (ONNX/CUDA, Voice Cloning, EPUB Audiobooks, PySide6/QML)"
+    },
+    {
+      "name": "plannotator--artifact-server",
+      "source": "./plannotator--artifact-server",
+      "description": "The self-hosted, open-source alternative to Claude Code artifacts."
     },
     {
       "name": "fcoury--termwright",
