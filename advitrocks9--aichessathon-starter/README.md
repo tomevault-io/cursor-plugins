@@ -7,11 +7,11 @@ Fork this to build an AI Chessathon agent.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [advitrocks9/aichessathon-starter](https://github.com/advitrocks9/aichessathon-starter).
+Original source: `AGENTS.md` in [advitrocks9/aichessathon-starter](https://github.com/advitrocks9/aichessathon-starter).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
