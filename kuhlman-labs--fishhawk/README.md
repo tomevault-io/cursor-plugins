@@ -7,11 +7,11 @@ A governed, auditable workflow engine for an agent-driven software factory.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk).
+Original source: `AGENTS.md` in [kuhlman-labs/fishhawk](https://github.com/kuhlman-labs/fishhawk).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
