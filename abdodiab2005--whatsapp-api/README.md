@@ -7,11 +7,11 @@ Free, self-hosted WhatsApp REST API for Node.js, powered by Baileys. Send text, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Abdodiab2005/whatsapp-api](https://github.com/Abdodiab2005/whatsapp-api).
+Original source: `AGENTS.md` in [Abdodiab2005/whatsapp-api](https://github.com/Abdodiab2005/whatsapp-api).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
