@@ -7,11 +7,11 @@ Advanced cross-platform NVIDIA-GPU tweaker designed for true geek overclockers!
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Skyworks-Neo/nvoc](https://github.com/Skyworks-Neo/nvoc).
+Original source: `AGENTS.md` in [Skyworks-Neo/nvoc](https://github.com/Skyworks-Neo/nvoc).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
