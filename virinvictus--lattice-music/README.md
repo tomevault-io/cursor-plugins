@@ -7,11 +7,11 @@ CLI/TUI for music collections: ~20 read-only audit/visualization modes (library 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [VirInvictus/lattice-music](https://github.com/VirInvictus/lattice-music).
+Original source: `AGENTS.md` in [VirInvictus/lattice-music](https://github.com/VirInvictus/lattice-music).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
