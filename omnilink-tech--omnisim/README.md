@@ -7,11 +7,11 @@ Open-source robotics simulator for coding agents: HTTP/JSON + MCP control, Newto
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [omnilink-tech/omnisim](https://github.com/omnilink-tech/omnisim).
+Original source: `CLAUDE.md` in [omnilink-tech/omnisim](https://github.com/omnilink-tech/omnisim).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
