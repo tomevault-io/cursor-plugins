@@ -7,12 +7,12 @@ A Dart CLI tool designed to enforce architectural rules in your flutter/dart pro
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [CodandoTV/eagle-eye](https://github.com/CodandoTV/eagle-eye).
+Original source: `CLAUDE.md` in [CodandoTV/eagle-eye](https://github.com/CodandoTV/eagle-eye).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
