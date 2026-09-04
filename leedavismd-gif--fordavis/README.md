@@ -5,12 +5,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [leedavismd-gif/fordavis](https://github.com/leedavismd-gif/fordavis).
+Original source: `AGENTS.md` in [leedavismd-gif/fordavis](https://github.com/leedavismd-gif/fordavis).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
