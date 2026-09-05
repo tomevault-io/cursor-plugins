@@ -7,11 +7,11 @@ FreeWili 2 (RP2350B) board support package: one CMake BSP library + hello apps +
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [freewili/wilibsp](https://github.com/freewili/wilibsp).
+Original source: `AGENTS.md` in [freewili/wilibsp](https://github.com/freewili/wilibsp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
