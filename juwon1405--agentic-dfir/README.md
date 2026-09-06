@@ -7,11 +7,11 @@ Agentic-DFIR — autonomous digital forensics & incident response agent. Archite
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Juwon1405/agentic-dfir](https://github.com/Juwon1405/agentic-dfir).
+Original source: `AGENTS.md` in [Juwon1405/agentic-dfir](https://github.com/Juwon1405/agentic-dfir).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
