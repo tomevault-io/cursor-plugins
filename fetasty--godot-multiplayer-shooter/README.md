@@ -7,11 +7,11 @@ A simple Godot multiplayer game practice project
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [fetasty/godot-multiplayer-shooter](https://github.com/fetasty/godot-multiplayer-shooter).
+Original source: `AGENTS.md` in [fetasty/godot-multiplayer-shooter](https://github.com/fetasty/godot-multiplayer-shooter).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
