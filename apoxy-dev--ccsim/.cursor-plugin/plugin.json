@@ -1,0 +1,11 @@
+{
+  "name": "apoxy-dev--ccsim",
+  "displayName": "ccsim",
+  "version": "1.0.0",
+  "description": "Deterministic TCP congestion control simulator on gVisor netstack (Cubic vs BBRv3, native + wasm)",
+  "author": {
+    "name": "apoxy-dev",
+    "url": "https://github.com/apoxy-dev"
+  },
+  "homepage": "https://github.com/apoxy-dev/ccsim"
+}
