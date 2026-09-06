@@ -7,11 +7,11 @@ A Logseq plugin that transforms hierarchical block trees into interactive visual
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [hdansou/logseq-outline-canvas](https://github.com/hdansou/logseq-outline-canvas).
+Original source: `AGENTS.md` in [hdansou/logseq-outline-canvas](https://github.com/hdansou/logseq-outline-canvas).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
