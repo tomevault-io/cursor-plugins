@@ -7,11 +7,11 @@ Ephemeral GitHub Actions runners. Single binary, every platform. Containers on L
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ephpm/ephemerd](https://github.com/ephpm/ephemerd).
+Original source: `CLAUDE.md` in [ephpm/ephemerd](https://github.com/ephpm/ephemerd).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
