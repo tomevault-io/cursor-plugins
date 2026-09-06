@@ -7,11 +7,11 @@ AI Terminal Manager — Claude Code + Codex 的统一会话历史与 tmux 常驻
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [lyfuci/ai-terminal-manager](https://github.com/lyfuci/ai-terminal-manager).
+Original source: `CLAUDE.md` in [lyfuci/ai-terminal-manager](https://github.com/lyfuci/ai-terminal-manager).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
