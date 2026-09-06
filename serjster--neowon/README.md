@@ -7,11 +7,11 @@ A scope-grade oscilloscope app in Rust + Bevy for the OWON VDS1022
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [serjster/neowon](https://github.com/serjster/neowon).
+Original source: `CLAUDE.md` in [serjster/neowon](https://github.com/serjster/neowon).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
