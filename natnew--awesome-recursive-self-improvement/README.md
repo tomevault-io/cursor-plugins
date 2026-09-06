@@ -7,11 +7,11 @@ A curated list of recent AI resources on recursive self-improvement, self-evolvi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [natnew/awesome-recursive-self-improvement](https://github.com/natnew/awesome-recursive-self-improvement).
+Original source: `AGENTS.md` in [natnew/awesome-recursive-self-improvement](https://github.com/natnew/awesome-recursive-self-improvement).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
