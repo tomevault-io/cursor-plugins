@@ -7,11 +7,11 @@ Safely fork ILoveBingLu/CipherTalk
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [mintleaf84/CipherTalk-SafeFork](https://github.com/mintleaf84/CipherTalk-SafeFork).
+Original source: `AGENTS.md` in [mintleaf84/CipherTalk-SafeFork](https://github.com/mintleaf84/CipherTalk-SafeFork).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
