@@ -1,0 +1,11 @@
+{
+  "name": "giantswarm--agentlab",
+  "displayName": "agentlab",
+  "version": "1.0.0",
+  "description": "Run the Giant Swarm agent platform locally: muster + Kubernetes MCP (optionally Backstage) on a throwaway kind cluster, with a bundled Dex as IdP",
+  "author": {
+    "name": "giantswarm",
+    "url": "https://github.com/giantswarm"
+  },
+  "homepage": "https://github.com/giantswarm/agentlab"
+}
