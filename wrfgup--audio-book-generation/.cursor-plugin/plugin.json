@@ -1,0 +1,11 @@
+{
+  "name": "wrfgup--audio-book-generation",
+  "displayName": "audio_book_generation",
+  "version": "1.0.0",
+  "description": "A local-first Python CLI for creating multi-speaker audiobooks from authorized text and web content, powered by OpenAI TTS with configurable voices, resumable caching, and built-in cost safeguards.",
+  "author": {
+    "name": "wrfgup",
+    "url": "https://github.com/wrfgup"
+  },
+  "homepage": "https://github.com/wrfgup/audio_book_generation"
+}
