@@ -7,11 +7,11 @@ Independent iOS client for Lody — native chat, sessions, and coding-agent coll
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Innei/lody-ios](https://github.com/Innei/lody-ios).
+Original source: `AGENTS.md` in [Innei/lody-ios](https://github.com/Innei/lody-ios).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
