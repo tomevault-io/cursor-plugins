@@ -7,11 +7,11 @@ Enterprise grade Angular UI library with 200+ standalone components, Signals, SS
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [NGXSMK/ngxsmk-ui-kit](https://github.com/NGXSMK/ngxsmk-ui-kit).
+Original source: `CLAUDE.md` in [NGXSMK/ngxsmk-ui-kit](https://github.com/NGXSMK/ngxsmk-ui-kit).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
