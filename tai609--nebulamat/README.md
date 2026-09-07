@@ -7,11 +7,11 @@ NebulaMat scientific materials research workbench
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Tai609/NebulaMat](https://github.com/Tai609/NebulaMat).
+Original source: `AGENTS.md` in [Tai609/NebulaMat](https://github.com/Tai609/NebulaMat).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
