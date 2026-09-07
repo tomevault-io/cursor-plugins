@@ -7,11 +7,11 @@ Self-improving AI brain for Claude Code & Desktop — 28 MCP tools, 253 skills, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [PIXARTSeu/Synapse](https://github.com/PIXARTSeu/Synapse).
+Original source: `AGENTS.md` in [PIXARTSeu/Synapse](https://github.com/PIXARTSeu/Synapse).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
