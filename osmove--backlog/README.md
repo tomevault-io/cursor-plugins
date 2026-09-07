@@ -7,11 +7,11 @@ Execution engine that turns backlog into scoped, reviewable agent work — vendo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [osmove/backlog](https://github.com/osmove/backlog).
+Original source: `AGENTS.md` in [osmove/backlog](https://github.com/osmove/backlog).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
