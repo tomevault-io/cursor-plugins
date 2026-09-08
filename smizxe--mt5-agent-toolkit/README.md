@@ -7,11 +7,11 @@ Turn a written trading strategy into a MetaTrader 5 Expert Advisor with an AI co
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [smizxe/mt5-agent-toolkit](https://github.com/smizxe/mt5-agent-toolkit).
+Original source: `AGENTS.md` in [smizxe/mt5-agent-toolkit](https://github.com/smizxe/mt5-agent-toolkit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
