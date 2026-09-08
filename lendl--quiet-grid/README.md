@@ -7,11 +7,11 @@ Privacy-first logic puzzle app for Android. No ads, no account, fully offline.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [lendl/quiet-grid](https://github.com/lendl/quiet-grid).
+Original source: `AGENTS.md` in [lendl/quiet-grid](https://github.com/lendl/quiet-grid).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
