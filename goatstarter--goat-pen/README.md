@@ -7,11 +7,11 @@ The paid community playbook: positioning, onboarding, live cadence, churn math, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [goatstarter/goat-pen](https://github.com/goatstarter/goat-pen).
+Original source: `AGENTS.md` in [goatstarter/goat-pen](https://github.com/goatstarter/goat-pen).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
