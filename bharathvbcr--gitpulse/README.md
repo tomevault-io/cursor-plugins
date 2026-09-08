@@ -7,11 +7,11 @@ High-performance native Git desktop client built with Rust (Tauri 2) and Svelte 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [bharathvbcr/GitPulse](https://github.com/bharathvbcr/GitPulse).
+Original source: `AGENTS.md` in [bharathvbcr/GitPulse](https://github.com/bharathvbcr/GitPulse).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
