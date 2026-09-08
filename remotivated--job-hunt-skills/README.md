@@ -7,11 +7,11 @@ AI-assisted skills for a practical job search — resume tailoring, cover letter
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Remotivated/job-hunt-skills](https://github.com/Remotivated/job-hunt-skills).
+Original source: `AGENTS.md` in [Remotivated/job-hunt-skills](https://github.com/Remotivated/job-hunt-skills).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
