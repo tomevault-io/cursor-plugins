@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe).
+Original source: `AGENTS.md` in [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) — a repo with 712+ stars on GitHub.
+From [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) — a repo with 783+ stars on GitHub.
 
 ---
 
