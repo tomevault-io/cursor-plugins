@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mic1on/xpath-helper-plus](https://github.com/mic1on/xpath-helper-plus).
+Original source: `CLAUDE.md` in [mic1on/xpath-helper-plus](https://github.com/mic1on/xpath-helper-plus).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
