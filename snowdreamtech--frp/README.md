@@ -5,7 +5,7 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [snowdreamtech/frp](https://github.com/snowdreamtech/frp).
+Original source: `` in [snowdreamtech/frp](https://github.com/snowdreamtech/frp).
 
 ## Also available for
 
@@ -14,6 +14,7 @@ Original source: `.windsurf/rules/*.md` in [snowdreamtech/frp](https://github.co
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 From [snowdreamtech/frp](https://github.com/snowdreamtech/frp) — a repo with 908+ stars on GitHub.
 
