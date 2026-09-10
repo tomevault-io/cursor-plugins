@@ -5,11 +5,10 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [snowdreamtech/frp](https://github.com/snowdreamtech/frp).
+Original source: `CLAUDE.md` in [snowdreamtech/frp](https://github.com/snowdreamtech/frp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
