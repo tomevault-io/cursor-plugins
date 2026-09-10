@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [callstackincubator/react-native-node-api](https://github.com/callstackincubator/react-native-node-api).
+Original source: `CLAUDE.md` in [callstackincubator/react-native-node-api](https://github.com/callstackincubator/react-native-node-api).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [callstackincubator/react-native-node-api](https://github.com/callstackincubator/react-native-node-api) — a repo with 186+ stars on GitHub.
+From [callstackincubator/react-native-node-api](https://github.com/callstackincubator/react-native-node-api) — a repo with 188+ stars on GitHub.
 
 ---
 
