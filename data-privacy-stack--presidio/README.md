@@ -5,11 +5,10 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio).
+Original source: `CLAUDE.md` in [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
