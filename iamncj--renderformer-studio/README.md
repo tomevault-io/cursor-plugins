@@ -7,11 +7,11 @@ Official data, training, and inference code for RenderFormer (SIGGRAPH2025) and 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [iamNCJ/RenderFormer-Studio](https://github.com/iamNCJ/RenderFormer-Studio).
+Original source: `AGENTS.md` in [iamNCJ/RenderFormer-Studio](https://github.com/iamNCJ/RenderFormer-Studio).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
