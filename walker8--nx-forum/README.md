@@ -7,11 +7,11 @@ NX Forum 是一个基于 Spring Boot + Nuxt 构建的现代化开源论坛系统
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [walker8/nx-forum](https://github.com/walker8/nx-forum).
+Original source: `AGENTS.md` in [walker8/nx-forum](https://github.com/walker8/nx-forum).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
