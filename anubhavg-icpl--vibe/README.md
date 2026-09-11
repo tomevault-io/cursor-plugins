@@ -7,14 +7,14 @@ A comprehensive, professionally organized collection of specialized AI chat mode
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [anubhavg-icpl/vibe](https://github.com/anubhavg-icpl/vibe).
+Original source: `CLAUDE.md` in [anubhavg-icpl/vibe](https://github.com/anubhavg-icpl/vibe).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [anubhavg-icpl/vibe](https://github.com/anubhavg-icpl/vibe) — a repo with 9+ stars on GitHub.
