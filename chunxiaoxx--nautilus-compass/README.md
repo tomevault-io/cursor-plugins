@@ -7,11 +7,11 @@ Reliability layer for multi-agent setups — keep agents coordinating without an
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [chunxiaoxx/nautilus-compass](https://github.com/chunxiaoxx/nautilus-compass).
+Original source: `AGENTS.md` in [chunxiaoxx/nautilus-compass](https://github.com/chunxiaoxx/nautilus-compass).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
