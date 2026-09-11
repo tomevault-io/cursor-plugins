@@ -7,11 +7,11 @@ Scoped process-launch monitor for Linux: every program one app starts, folded, w
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [yeet-src/exectop](https://github.com/yeet-src/exectop).
+Original source: `AGENTS.md` in [yeet-src/exectop](https://github.com/yeet-src/exectop).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
