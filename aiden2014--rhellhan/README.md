@@ -7,11 +7,11 @@ Chinese translation plugin for Rhell: Warped Worlds & Troubled Times
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Aiden2014/RhellHan](https://github.com/Aiden2014/RhellHan).
+Original source: `AGENTS.md` in [Aiden2014/RhellHan](https://github.com/Aiden2014/RhellHan).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
