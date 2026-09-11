@@ -7,11 +7,11 @@ fastmcp 3.4 server plus webapp for qcad pro architectural cad
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sandraschi/qcad-mcp](https://github.com/sandraschi/qcad-mcp).
+Original source: `AGENTS.md` in [sandraschi/qcad-mcp](https://github.com/sandraschi/qcad-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
