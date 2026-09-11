@@ -7,11 +7,11 @@ One repository for every Orbiters project: PigroCRM, the Orbiters hub and the pu
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [joinorbiters/orbiters](https://github.com/joinorbiters/orbiters).
+Original source: `AGENTS.md` in [joinorbiters/orbiters](https://github.com/joinorbiters/orbiters).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
