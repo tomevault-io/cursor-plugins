@@ -7,11 +7,11 @@ Voxigo - A WebRTC-native, audio-first conversational-AI framework for Go.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [nuxflix/voxigo](https://github.com/nuxflix/voxigo).
+Original source: `AGENTS.md` in [nuxflix/voxigo](https://github.com/nuxflix/voxigo).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
