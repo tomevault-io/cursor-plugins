@@ -7,11 +7,11 @@ Optivolt is a linear and mixed-integer optimizer for home energy systems.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bmesuere/optivolt](https://github.com/bmesuere/optivolt).
+Original source: `CLAUDE.md` in [bmesuere/optivolt](https://github.com/bmesuere/optivolt).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
