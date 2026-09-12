@@ -7,11 +7,11 @@ Rove — the agent multiplexer for your terminal. Run coding agents on parallel 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Sma1lboy/rove](https://github.com/Sma1lboy/rove).
+Original source: `CLAUDE.md` in [Sma1lboy/rove](https://github.com/Sma1lboy/rove).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
