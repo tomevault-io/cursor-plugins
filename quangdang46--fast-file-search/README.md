@@ -7,11 +7,11 @@ Ultra-fast file search toolkit for AI agents, Neovim, and code editors. MCP serv
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [quangdang46/fast_file_search](https://github.com/quangdang46/fast_file_search).
+Original source: `AGENTS.md` in [quangdang46/fast_file_search](https://github.com/quangdang46/fast_file_search).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
