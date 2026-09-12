@@ -7,11 +7,11 @@ A type erased value-type for C++ using reflection
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jbcoe/cc-protocol](https://github.com/jbcoe/cc-protocol).
+Original source: `CLAUDE.md` in [jbcoe/cc-protocol](https://github.com/jbcoe/cc-protocol).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
