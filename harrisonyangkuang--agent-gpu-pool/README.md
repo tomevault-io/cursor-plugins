@@ -7,11 +7,11 @@ Persistent GPU jobs for AI agents. MCP + CLI, hardware-aware scheduling, Kaggle 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [HarrisonYangKuang/agent-gpu-pool](https://github.com/HarrisonYangKuang/agent-gpu-pool).
+Original source: `CLAUDE.md` in [HarrisonYangKuang/agent-gpu-pool](https://github.com/HarrisonYangKuang/agent-gpu-pool).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
