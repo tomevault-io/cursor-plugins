@@ -7,11 +7,11 @@ A PaaS you run on your own server. docker push, and it is live — with HTTPS, a
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [cubeshipd/cubeship](https://github.com/cubeshipd/cubeship).
+Original source: `AGENTS.md` in [cubeshipd/cubeship](https://github.com/cubeshipd/cubeship).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
