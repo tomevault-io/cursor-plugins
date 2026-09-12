@@ -7,11 +7,11 @@ Unofficial code for finetuning Personaplex on specific domains
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [tin-computer/personaplex-finetune](https://github.com/tin-computer/personaplex-finetune).
+Original source: `AGENTS.md` in [tin-computer/personaplex-finetune](https://github.com/tin-computer/personaplex-finetune).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
