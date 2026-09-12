@@ -7,11 +7,11 @@ Claude Code skill: one topic in, one ranked YouTube research workbook out. Searc
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [AgriciDaniel/youtube-scout](https://github.com/AgriciDaniel/youtube-scout).
+Original source: `CLAUDE.md` in [AgriciDaniel/youtube-scout](https://github.com/AgriciDaniel/youtube-scout).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
