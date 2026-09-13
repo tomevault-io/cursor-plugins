@@ -7,11 +7,11 @@ Read-only Telegram MCP server. Search chats, read messages, and download attachm
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [mshykhov/telegram-mcp-readonly](https://github.com/mshykhov/telegram-mcp-readonly).
+Original source: `AGENTS.md` in [mshykhov/telegram-mcp-readonly](https://github.com/mshykhov/telegram-mcp-readonly).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
