@@ -7,11 +7,11 @@ LeRobot中文版
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dctx-team/lerobot-zh](https://github.com/dctx-team/lerobot-zh).
+Original source: `AGENTS.md` in [dctx-team/lerobot-zh](https://github.com/dctx-team/lerobot-zh).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
