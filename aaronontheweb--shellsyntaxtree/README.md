@@ -7,11 +7,11 @@ pure C# abstract syntax tree representation for parsing shell commands. Supports
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Aaronontheweb/ShellSyntaxTree](https://github.com/Aaronontheweb/ShellSyntaxTree).
+Original source: `AGENTS.md` in [Aaronontheweb/ShellSyntaxTree](https://github.com/Aaronontheweb/ShellSyntaxTree).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
