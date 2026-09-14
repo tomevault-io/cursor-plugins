@@ -7,11 +7,11 @@ Containerized Linux engineering platform for automated RF/microwave design, KiCa
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [cholan2100/rf-agent](https://github.com/cholan2100/rf-agent).
+Original source: `AGENTS.md` in [cholan2100/rf-agent](https://github.com/cholan2100/rf-agent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
