@@ -7,11 +7,11 @@ JSX/TSX support for minitype
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [minitype-project/tsx](https://github.com/minitype-project/tsx).
+Original source: `AGENTS.md` in [minitype-project/tsx](https://github.com/minitype-project/tsx).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
