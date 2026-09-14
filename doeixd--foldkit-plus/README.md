@@ -7,11 +7,11 @@ A Schema-first agent layer for Foldkit: project an application's Model and Messa
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [doeixd/foldkit-plus](https://github.com/doeixd/foldkit-plus).
+Original source: `CLAUDE.md` in [doeixd/foldkit-plus](https://github.com/doeixd/foldkit-plus).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
