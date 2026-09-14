@@ -7,11 +7,11 @@ PyVista accessor and conversions for trueform — the CSG engine
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [polydera/pyvista-trueform](https://github.com/polydera/pyvista-trueform).
+Original source: `AGENTS.md` in [polydera/pyvista-trueform](https://github.com/polydera/pyvista-trueform).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
