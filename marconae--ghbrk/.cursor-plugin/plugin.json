@@ -1,0 +1,11 @@
+{
+  "name": "marconae--ghbrk",
+  "displayName": "ghbrk",
+  "version": "1.0.0",
+  "description": "A credential broker that gives coding agents git and gh access without exposing SSH keys or tokens, gated by a root-owned policy. Written in Rust \ud83e\udd80",
+  "author": {
+    "name": "marconae",
+    "url": "https://github.com/marconae"
+  },
+  "homepage": "https://github.com/marconae/ghbrk"
+}
