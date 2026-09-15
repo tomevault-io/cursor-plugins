@@ -7,11 +7,11 @@ A Qualifying Exam for Coding Agent as Robot Learning Engineers
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [RLE-Bench/RLE-Bench](https://github.com/RLE-Bench/RLE-Bench).
+Original source: `AGENTS.md` in [RLE-Bench/RLE-Bench](https://github.com/RLE-Bench/RLE-Bench).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
