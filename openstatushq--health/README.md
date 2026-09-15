@@ -7,11 +7,11 @@ Tree-shakable health endpoints for JS servers. Zero-dependency core, adapters fo
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [openstatusHQ/health](https://github.com/openstatusHQ/health).
+Original source: `AGENTS.md` in [openstatusHQ/health](https://github.com/openstatusHQ/health).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
