@@ -1,0 +1,32 @@
+---
+description: A small service used to demonstrate agentsmd-mcp-bridge.
+alwaysApply: true
+---
+
+# Example Web Service
+
+A small service used to demonstrate agentsmd-mcp-bridge.
+
+## Setup
+```bash
+pip install -r requirements.txt
+```
+
+## Build
+```bash
+python3 -m build
+```
+
+## Test
+```bash
+pytest -q
+```
+
+## Lint
+```bash
+ruff check src
+```
+
+---
+> Source: [shriramkv/agentsmd-mcp-bridge](https://github.com/shriramkv/agentsmd-mcp-bridge) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:cursor_mdc:2026-09-15 -->
