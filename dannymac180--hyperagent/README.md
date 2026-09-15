@@ -7,11 +7,11 @@ The Iron Man Suit for AI Agents
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [DannyMac180/HyperAgent](https://github.com/DannyMac180/HyperAgent).
+Original source: `AGENTS.md` in [DannyMac180/HyperAgent](https://github.com/DannyMac180/HyperAgent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
