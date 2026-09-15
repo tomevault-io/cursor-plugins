@@ -7,11 +7,11 @@ A high-performance home for the music you already own. Luminous is a fast, local
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [esoltys/luminous](https://github.com/esoltys/luminous).
+Original source: `AGENTS.md` in [esoltys/luminous](https://github.com/esoltys/luminous).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
