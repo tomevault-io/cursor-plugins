@@ -7,11 +7,11 @@ A hardware verification framework in Rust, inspired by the UVM.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [rustdv/rustdv](https://github.com/rustdv/rustdv).
+Original source: `AGENTS.md` in [rustdv/rustdv](https://github.com/rustdv/rustdv).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
