@@ -7,11 +7,11 @@ Open-source macOS dictation that turns speech into polished text in the app you'
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [AssemblyAI/blurt](https://github.com/AssemblyAI/blurt).
+Original source: `AGENTS.md` in [AssemblyAI/blurt](https://github.com/AssemblyAI/blurt).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
