@@ -7,11 +7,11 @@ Agent-ergonomic AXI wrapper around mesheryctl with token-efficient TOON output
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [meshery-extensions/mesheryctl-axi](https://github.com/meshery-extensions/mesheryctl-axi).
+Original source: `AGENTS.md` in [meshery-extensions/mesheryctl-axi](https://github.com/meshery-extensions/mesheryctl-axi).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
