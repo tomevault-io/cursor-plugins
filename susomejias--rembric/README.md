@@ -7,11 +7,11 @@ Persistent memory for AI coding agents — self-hosted, MCP-native, append-only.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [susomejias/rembric](https://github.com/susomejias/rembric).
+Original source: `AGENTS.md` in [susomejias/rembric](https://github.com/susomejias/rembric).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
