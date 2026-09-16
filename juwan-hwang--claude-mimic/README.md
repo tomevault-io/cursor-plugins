@@ -7,14 +7,14 @@ The AI coding agent attribution compatibility layer. Make any coding agent speak
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [Juwan-Hwang/claude-mimic](https://github.com/Juwan-Hwang/claude-mimic).
+Original source: `AGENTS.md` in [Juwan-Hwang/claude-mimic](https://github.com/Juwan-Hwang/claude-mimic).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/Juwan-Hwang/claude-mimic](https://github.com/Juwan-Hwang/claude-mimic)
