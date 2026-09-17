@@ -7,11 +7,11 @@ A comprehensive style guide and ruleset specifically designed for AI code genera
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [SeanMooney/openstack-ai-style-guide](https://github.com/SeanMooney/openstack-ai-style-guide).
+Original source: `AGENTS.md` in [SeanMooney/openstack-ai-style-guide](https://github.com/SeanMooney/openstack-ai-style-guide).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
