@@ -1,0 +1,26 @@
+# jev-trader
+
+> Source: [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
+
+One AI trade decision every Monad block. Jev on Kuru MON-USDC.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) — a repo with 24+ stars on GitHub.
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io), the platform that grades AI instruction files and catches silent drift across every major tool.
+
+<!-- genome:d-e-s -->
