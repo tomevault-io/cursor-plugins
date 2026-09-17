@@ -7,11 +7,11 @@ A personal marketplace of AI-oriented plugins for the GitHub Copilot CLI.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [urikanonov/ai-marketplace](https://github.com/urikanonov/ai-marketplace).
+Original source: `AGENTS.md` in [urikanonov/ai-marketplace](https://github.com/urikanonov/ai-marketplace).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
