@@ -7,11 +7,11 @@ Multix virtual filesystem node, MCP-compatible, really just a glorified function
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [ProjectAtlantis-dev/atlantis-mcp-server](https://github.com/ProjectAtlantis-dev/atlantis-mcp-server).
+Original source: `CLAUDE.md` in [ProjectAtlantis-dev/atlantis-mcp-server](https://github.com/ProjectAtlantis-dev/atlantis-mcp-server).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
