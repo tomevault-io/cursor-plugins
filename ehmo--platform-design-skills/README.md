@@ -2,8 +2,6 @@
 
 > Source: [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
-Platform design skill pack: 300+ rules for Apple HIG, Material Design 3, and WCAG 2.2 across iOS, iPadOS, macOS, watchOS, visionOS, tvOS, Android, and Web.
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
