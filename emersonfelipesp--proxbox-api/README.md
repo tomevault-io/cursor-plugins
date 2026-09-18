@@ -7,11 +7,11 @@ Backend of NetBox Proxbox Plugin using FastAPI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [emersonfelipesp/proxbox-api](https://github.com/emersonfelipesp/proxbox-api).
+Original source: `AGENTS.md` in [emersonfelipesp/proxbox-api](https://github.com/emersonfelipesp/proxbox-api).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
