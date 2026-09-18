@@ -7,11 +7,11 @@ WeChat local data CLI (query/decrypt/export) — fresh start from wx-cli
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [jackwener/wx-cli-again](https://github.com/jackwener/wx-cli-again).
+Original source: `AGENTS.md` in [jackwener/wx-cli-again](https://github.com/jackwener/wx-cli-again).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
