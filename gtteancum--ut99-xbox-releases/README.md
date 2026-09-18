@@ -7,11 +7,11 @@ Release-only downloads and installation notes for Unreal Tournament Xbox.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [GTTeancum/UT99-Xbox-Releases](https://github.com/GTTeancum/UT99-Xbox-Releases).
+Original source: `AGENTS.md` in [GTTeancum/UT99-Xbox-Releases](https://github.com/GTTeancum/UT99-Xbox-Releases).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
