@@ -7,11 +7,11 @@ the one stop shop for course information at northeastern university
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sandboxnu/searchneu](https://github.com/sandboxnu/searchneu).
+Original source: `AGENTS.md` in [sandboxnu/searchneu](https://github.com/sandboxnu/searchneu).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
