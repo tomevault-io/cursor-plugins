@@ -1,0 +1,11 @@
+{
+  "name": "cyberverse-research--skyline-speeder",
+  "displayName": "skyline-speeder",
+  "version": "1.0.0",
+  "description": "Sender-side TCP acceleration: eBPF struct_ops congestion control with a Rust control plane. For links with non-congestive random loss. Kernel 6.12 LTS+.",
+  "author": {
+    "name": "CYBERVERSE-Research",
+    "url": "https://github.com/CYBERVERSE-Research"
+  },
+  "homepage": "https://github.com/CYBERVERSE-Research/skyline-speeder"
+}
