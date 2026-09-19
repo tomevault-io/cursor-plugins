@@ -7,11 +7,11 @@ Cross-platform Pali language learning app
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [DhammaBytes/PaliPractice](https://github.com/DhammaBytes/PaliPractice).
+Original source: `CLAUDE.md` in [DhammaBytes/PaliPractice](https://github.com/DhammaBytes/PaliPractice).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
