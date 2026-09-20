@@ -7,11 +7,11 @@ A trustworthy context layer for AI that remembers, plans and acts — free text 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [heymi/aldus-palace](https://github.com/heymi/aldus-palace).
+Original source: `AGENTS.md` in [heymi/aldus-palace](https://github.com/heymi/aldus-palace).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
