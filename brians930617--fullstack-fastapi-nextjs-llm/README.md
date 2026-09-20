@@ -7,11 +7,11 @@ it is from vladdoster
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [brians930617/fullstack-fastapi-nextjs-llm](https://github.com/brians930617/fullstack-fastapi-nextjs-llm).
+Original source: `AGENTS.md` in [brians930617/fullstack-fastapi-nextjs-llm](https://github.com/brians930617/fullstack-fastapi-nextjs-llm).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
