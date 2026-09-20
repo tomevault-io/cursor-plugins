@@ -7,11 +7,11 @@ One orchestration engine for multi-agent work: warm persistent sessions, a durab
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [masonlee39/Multi-Agent](https://github.com/masonlee39/Multi-Agent).
+Original source: `AGENTS.md` in [masonlee39/Multi-Agent](https://github.com/masonlee39/Multi-Agent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
