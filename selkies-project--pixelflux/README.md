@@ -7,11 +7,11 @@ A performant pixel delivery pipeline for diverse sources, blending flexible and 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [selkies-project/pixelflux](https://github.com/selkies-project/pixelflux).
+Original source: `AGENTS.md` in [selkies-project/pixelflux](https://github.com/selkies-project/pixelflux).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
