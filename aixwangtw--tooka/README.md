@@ -7,11 +7,11 @@ Write social cards as React components — tooka renders 1080×1350 carousels, e
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [aixwangtw/tooka](https://github.com/aixwangtw/tooka).
+Original source: `AGENTS.md` in [aixwangtw/tooka](https://github.com/aixwangtw/tooka).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
