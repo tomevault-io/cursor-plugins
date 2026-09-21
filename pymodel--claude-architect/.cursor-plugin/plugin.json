@@ -1,0 +1,11 @@
+{
+  "name": "pymodel--claude-architect",
+  "displayName": "claude-architect",
+  "version": "1.0.0",
+  "description": "Claude Code delegates coding to isolated CLI agents it doesn't trust (Codex, OpenCode, Pi, Pythinker), freezes what they produce, verifies it independently, and merges only what a human approves.",
+  "author": {
+    "name": "PyModel",
+    "url": "https://github.com/PyModel"
+  },
+  "homepage": "https://github.com/PyModel/claude-architect"
+}
