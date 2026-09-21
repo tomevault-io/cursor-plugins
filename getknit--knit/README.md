@@ -7,11 +7,11 @@ Offline, serverless, end-to-end-encrypted mesh messenger for Android — runs Wi
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [getknit/knit](https://github.com/getknit/knit).
+Original source: `AGENTS.md` in [getknit/knit](https://github.com/getknit/knit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
