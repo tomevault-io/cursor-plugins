@@ -7,11 +7,11 @@ The npx serve of Android devices: stream and control emulators or real devices f
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [jiunshinn/serve-emu](https://github.com/jiunshinn/serve-emu).
+Original source: `CLAUDE.md` in [jiunshinn/serve-emu](https://github.com/jiunshinn/serve-emu).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
