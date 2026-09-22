@@ -1,0 +1,11 @@
+{
+  "name": "protonos--protonos",
+  "displayName": "ProtonOS",
+  "version": "1.0.0",
+  "description": "Bare-metal operating system written in C# using bflat's zero-library mode. Features a custom Tier 0 JIT compiler, hardware abstraction layer, and boots directly on x86-64 hardware.",
+  "author": {
+    "name": "ProtonOS",
+    "url": "https://github.com/ProtonOS"
+  },
+  "homepage": "https://github.com/ProtonOS/ProtonOS"
+}
