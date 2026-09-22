@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [AlibabaResearch/SparkDiffusion](https://github.com/AlibabaResearch/SparkDiffusion).
+Original source: `AGENTS.md` in [AlibabaResearch/SparkDiffusion](https://github.com/AlibabaResearch/SparkDiffusion).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
