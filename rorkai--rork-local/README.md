@@ -7,11 +7,11 @@ Build, test & publish iOS apps directly in Claude Code, Codex, and Cursor
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [rorkai/rork-local](https://github.com/rorkai/rork-local).
+Original source: `AGENTS.md` in [rorkai/rork-local](https://github.com/rorkai/rork-local).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
