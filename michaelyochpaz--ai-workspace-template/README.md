@@ -7,11 +7,11 @@ A unified, multi-repo workspace for AI coding agents and developers.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [MichaelYochpaz/ai-workspace-template](https://github.com/MichaelYochpaz/ai-workspace-template).
+Original source: `AGENTS.md` in [MichaelYochpaz/ai-workspace-template](https://github.com/MichaelYochpaz/ai-workspace-template).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
