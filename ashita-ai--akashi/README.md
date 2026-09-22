@@ -7,11 +7,11 @@ Version control for AI decisions
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ashita-ai/akashi](https://github.com/ashita-ai/akashi).
+Original source: `AGENTS.md` in [ashita-ai/akashi](https://github.com/ashita-ai/akashi).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
