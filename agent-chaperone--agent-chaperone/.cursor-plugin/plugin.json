@@ -1,0 +1,11 @@
+{
+  "name": "agent-chaperone--agent-chaperone",
+  "displayName": "agent-chaperone",
+  "version": "1.0.0",
+  "description": "Screens an AI agent's tool calls before they run and tool results before the agent reads them. An MCP proxy plus a hooks adapter for a client's built-in tools.",
+  "author": {
+    "name": "agent-chaperone",
+    "url": "https://github.com/agent-chaperone"
+  },
+  "homepage": "https://github.com/agent-chaperone/agent-chaperone"
+}
