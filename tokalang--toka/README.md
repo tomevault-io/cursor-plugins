@@ -7,11 +7,11 @@ Toka is a no-GC systems programming language that keeps performance and static s
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [tokalang/toka](https://github.com/tokalang/toka).
+Original source: `CLAUDE.md` in [tokalang/toka](https://github.com/tokalang/toka).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
