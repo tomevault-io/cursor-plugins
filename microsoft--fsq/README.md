@@ -7,12 +7,12 @@ FSQ is an evidence-first agent harness for replayable, verifiable AI UI automati
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [microsoft/FSQ](https://github.com/microsoft/FSQ).
+Original source: `CLAUDE.md` in [microsoft/FSQ](https://github.com/microsoft/FSQ).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
