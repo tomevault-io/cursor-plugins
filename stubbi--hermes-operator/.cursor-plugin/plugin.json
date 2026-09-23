@@ -1,0 +1,11 @@
+{
+  "name": "stubbi--hermes-operator",
+  "displayName": "hermes-operator",
+  "version": "1.0.0",
+  "description": "Production-grade Kubernetes operator for nousresearch/hermes-agent: declarative spec, security defaults, S3 backups, OCI auto-update with rollback, SSA-based GitOps coexistence, OpenClaw migration.",
+  "author": {
+    "name": "stubbi",
+    "url": "https://github.com/stubbi"
+  },
+  "homepage": "https://github.com/stubbi/hermes-operator"
+}
