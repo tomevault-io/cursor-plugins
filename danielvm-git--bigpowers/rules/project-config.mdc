@@ -1,63 +1,98 @@
 ---
-description: > **Auto-generated** by `sync-skills.sh` from `CLAUDE.md`. Edit CLAUDE.md, not this file.
+description: > **Multi-agent context** — This file is the canonical project context for **Cline**, **Aider**, **OpenCode**, and other AGENTS.md-native tools. Claude Code and Cursor read it via the `CLAUDE.md` symlink.
 alwaysApply: true
 ---
 
-# bigpowers — Gemini CLI
+# story: e37s01
+# story: e45s21
+# story: e81s01
+# scenario: SC-e37s01-P1-01
+# [Project Name] — AI Agents
 
-> **Auto-generated** by `sync-skills.sh` from `CLAUDE.md`. Edit CLAUDE.md, not this file.
+> **Multi-agent context** — This file is the canonical project context for **Cline**, **Aider**, **OpenCode**, and other AGENTS.md-native tools. Claude Code and Cursor read it via the `CLAUDE.md` symlink.
 
 Read CONVENTIONS.md before any GitHub or git operation.
 
+<!-- BEGIN bigpowers:context-routing -->
+## Context Routing
+
+Load subdirectory context by file glob — see project-specific routing table (seeded by `seed-conventions`).
+<!-- END bigpowers:context-routing -->
+
+<!-- BEGIN bigpowers:learned-preferences -->
+## Learned User Preferences
+
+- (none yet — updated via `session-state`)
+
+## Workspace Facts
+
+- (none yet — durable facts discovered across sessions)
+<!-- END bigpowers:learned-preferences -->
+
+<!-- BEGIN bigpowers:project -->
 ## Project
 
-bigpowers — 58 agent skills for spec-driven, test-first software development by solo developers.
-Stack: Markdown / Bash (documentation-based; skills integrate with Claude Code, Cursor, Gemini CLI)
+[One sentence. What this codebase does.]
+Stack: [language, framework, runtime]
 
 ## Commands
 
-| Action  | Command |
-|---------|---------|
-| Install | `npx bigpowers` or `npm install -g bigpowers` |
-| Run     | `bash scripts/sync-skills.sh` |
-| Test    | N/A (documentation project) |
-| Build   | `bash scripts/install.sh` (from source) |
-| Lint    | `bash scripts/sync-skills.sh` (validates SKILL.md syntax) |
+| Action | Command |
+|--------|---------|
+| Run | `[cmd]` |
+| Test | `[cmd]` or N/A |
+| Build | `[cmd]` |
+| Lint | `[cmd]` |
+| Preflight | `[test && lint && build chain — or user-named full-green cmd]` |
+| CI | `gh pr checks` (when a PR is open) |
+
+## Test
+
+`[cmd]` or N/A
+
+## Lint
+
+`[cmd]` or N/A
+
+## Build
+
+`[cmd]` or N/A
 
 ## Architecture
 
-Collection of 58 verb-noun skills, each with a SKILL.md source file and supporting documentation. Includes Verify phase and profiles/. The sync-skills.sh script auto-generates artifacts for Cursor (.cursor/rules) and Gemini CLI (.gemini/extensions/bigpowers/) from SKILL.md sources. All planning and spec output goes to specs/ at the project root.
+[1–2 sentences. Key modules and their relationships.]
 
 ## Conventions
 
-- Skill directories use verb-noun naming (two words, kebab-case)
-- Every skill has a single SKILL.md file as its source of truth
-- All planning/spec output goes to specs/ at project root
-- Artifacts in .cursor/rules and .gemini/ are auto-generated; edit SKILL.md, not artifacts
-- Run sync-skills.sh after any SKILL.md changes to regenerate artifacts
+- [e.g. Named exports only]
+- [e.g. All queries go through the repository layer]
 
 ## Never
 
-- Never edit .cursor/rules or .gemini/extensions/ directly — these are generated files
-- Never create a skill without a SKILL.md file and proper verb-noun naming
-- Never push changes without running sync-skills.sh first
-
-## Token Management
-
-- **Auto-Terse**: When a session exceeds 20 turns or the context window feels "heavy" (latency increasing), you MUST switch to `terse-mode` to save tokens.
-- **Context Compaction**: Every 10 turns, summarize the current session state and implementation decisions into a short, high-density note.
-- **Minimal Output**: Prefer text-only output for simple status; use `web_fetch` or `run_shell_command` only for evidence.
+- Never dismiss reproducible gate failures as pre-existing or out of scope
+- Never proceed on red Preflight or red CI — invoke quick-fix or fix-bug first
+- [Hard stop — e.g. Never touch legacy/]
 
 ## Agent Rules
 
-- **Workflow Mandate:** You MUST use the bigpowers skills (e.g., `plan-work`, `develop-tdd`, `craft-skill`) to perform tasks. DO NOT write code directly in response to a user prompt like "build this feature".
+- **Workflow Mandate:** Use bigpowers skills (e.g. `plan-work`, `develop-tdd`) for structured work.
+- **Always Green:** Preflight and CI must be green before forward work.
 - Read specs/ and CONVENTIONS.md before writing code.
-- Write the minimum code that solves the stated problem. Nothing extra.
-- Never refactor, rename, or reorganize code outside the task scope.
+- Write the minimum code that solves the stated problem.
 - Run tests after every change. Show evidence before declaring done.
-- One clarifying question beats a wrong assumption baked into 200 lines.
-- All written output (plans, specs, investigations) goes in specs/.
+- All planning output goes in specs/.
+
+## Token Economy — Minimal Footprint
+
+> Production-safe subset of the 8-rule AGENTS.md pattern (Vercel engineer, ~60B tokens).
+> Rule 1 ("no backward compatibility") is excluded deliberately: it risks data loss in production.
+
+1. **Check existing dependencies first.** DO inspect what your current dependencies already do before adding a package or writing your own code.
+2. **Prefer mature, maintained libraries.** DO NOT rewrite a capability a maintained library provides without a documented reason.
+3. **Copy validated patterns.** DO study how established products solve the same problem before inventing a new approach.
+4. **Keep the simplest working implementation.** DO write the least code that satisfies the stated requirement. NEVER add preventive abstraction or unused config layers.
+<!-- END bigpowers:project -->
 
 ---
 > Source: [danielvm-git/bigpowers](https://github.com/danielvm-git/bigpowers) — distributed by [TomeVault](https://tomevault.io).
-<!-- tomevault:4.0:cursor_mdc:2026-06-26 -->
+<!-- tomevault:4.0:cursor_mdc:2026-09-23 -->
