@@ -7,11 +7,11 @@ Code aided Design python library for timber framing and woodworking
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [minimapletinytools/kumiki](https://github.com/minimapletinytools/kumiki).
+Original source: `AGENTS.md` in [minimapletinytools/kumiki](https://github.com/minimapletinytools/kumiki).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
