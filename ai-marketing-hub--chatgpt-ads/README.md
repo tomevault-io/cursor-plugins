@@ -7,11 +7,11 @@ Sourced ChatGPT Ads knowledge and 12 operating skills for Codex and Claude, with
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [AI-Marketing-Hub/chatgpt-ads](https://github.com/AI-Marketing-Hub/chatgpt-ads).
+Original source: `AGENTS.md` in [AI-Marketing-Hub/chatgpt-ads](https://github.com/AI-Marketing-Hub/chatgpt-ads).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
