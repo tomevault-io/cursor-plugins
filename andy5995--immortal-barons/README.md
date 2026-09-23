@@ -7,11 +7,11 @@ Turn-based strategy door game, playable over SSH or on a BBS; a remake of  Barre
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [andy5995/immortal-barons](https://github.com/andy5995/immortal-barons).
+Original source: `AGENTS.md` in [andy5995/immortal-barons](https://github.com/andy5995/immortal-barons).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
