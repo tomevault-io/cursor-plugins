@@ -1,17 +1,15 @@
 # bigpowers
 
-> Tome by [danielvm-git](https://github.com/danielvm-git/bigpowers) — distributed by [TomeVault](https://tomevault.io)
-
-59 agent skills for high-integrity, spec-driven, test-first software development by solo developers.  bigpowers provides a prescriptive, vertical-slice methodology for building software with AI agents (Claude Code, Gemini CLI, Cursor). It bridges the gap between raw LLM capabilities and professional engineering standards.
+> Tome by [danielvm-git](https://github.com/danielvm-git/bigpowers), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [danielvm-git/bigpowers](https://github.com/danielvm-git/bigpowers).
+Original source: `AGENTS.md` in [danielvm-git/bigpowers](https://github.com/danielvm-git/bigpowers).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
