@@ -7,11 +7,11 @@ A modern starter template using React 19, Shadcn, Vite, and TanStack Router.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [whereissam/React-Vite-Tanstack-Starter-Template](https://github.com/whereissam/React-Vite-Tanstack-Starter-Template).
+Original source: `AGENTS.md` in [whereissam/React-Vite-Tanstack-Starter-Template](https://github.com/whereissam/React-Vite-Tanstack-Starter-Template).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
