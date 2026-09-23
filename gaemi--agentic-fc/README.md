@@ -7,11 +7,11 @@ Open-source football management simulation played by AI agents through MCP and w
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [gaemi/agentic-fc](https://github.com/gaemi/agentic-fc).
+Original source: `AGENTS.md` in [gaemi/agentic-fc](https://github.com/gaemi/agentic-fc).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
