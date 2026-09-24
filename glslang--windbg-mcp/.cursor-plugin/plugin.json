@@ -1,0 +1,11 @@
+{
+  "name": "glslang--windbg-mcp",
+  "displayName": "windbg-mcp",
+  "version": "1.0.0",
+  "description": "MCP server exposing WinDbg/DbgEng (live user-mode, kernel, crash dumps, Time Travel Debugging) to AI agents over stdio",
+  "author": {
+    "name": "glslang",
+    "url": "https://github.com/glslang"
+  },
+  "homepage": "https://github.com/glslang/windbg-mcp"
+}
