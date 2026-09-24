@@ -2,8 +2,6 @@
 
 > Tome by [strelov1](https://github.com/strelov1/freehire), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
-freehire — the open-source search engine for job seekers
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
