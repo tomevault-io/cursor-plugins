@@ -7,12 +7,12 @@ Agentic Content Creator to increase views & followers across different social me
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [het8802/OpenNolan](https://github.com/het8802/OpenNolan).
+Original source: `CLAUDE.md` in [het8802/OpenNolan](https://github.com/het8802/OpenNolan).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
