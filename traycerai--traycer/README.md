@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [traycerai/traycer](https://github.com/traycerai/traycer).
+Original source: `CLAUDE.md` in [traycerai/traycer](https://github.com/traycerai/traycer).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [traycerai/traycer](https://github.com/traycerai/traycer) — a repo with 1519+ stars on GitHub.
+From [traycerai/traycer](https://github.com/traycerai/traycer) — a repo with 1521+ stars on GitHub.
 
 ---
 
