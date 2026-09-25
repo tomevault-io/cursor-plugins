@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay).
+Original source: `AGENTS.md` in [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay) — a repo with 87+ stars on GitHub.
+From [getpaseo/paseo-relay](https://github.com/getpaseo/paseo-relay) — a repo with 86+ stars on GitHub.
 
 ---
 
