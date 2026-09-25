@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [netbirdio/terraform-provider-netbird](https://github.com/netbirdio/terraform-provider-netbird).
+Original source: `AGENTS.md` in [netbirdio/terraform-provider-netbird](https://github.com/netbirdio/terraform-provider-netbird).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
