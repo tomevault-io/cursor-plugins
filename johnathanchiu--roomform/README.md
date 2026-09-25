@@ -2,8 +2,6 @@
 
 > Source: [johnathanchiu/roomform](https://github.com/johnathanchiu/roomform). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
-converting indoor point cloud scans into structured data
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
