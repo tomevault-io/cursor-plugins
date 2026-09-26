@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS).
+Original source: `GEMINI.md` in [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
-- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) — a repo with 1086+ stars on GitHub.
+From [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) — a repo with 1393+ stars on GitHub.
 
 ---
 
