@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [GroundUpCoder/c-compiler](https://github.com/GroundUpCoder/c-compiler).
+Original source: `AGENTS.md` in [GroundUpCoder/c-compiler](https://github.com/GroundUpCoder/c-compiler).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [GroundUpCoder/c-compiler](https://github.com/GroundUpCoder/c-compiler) — a repo with 50+ stars on GitHub.
+From [GroundUpCoder/c-compiler](https://github.com/GroundUpCoder/c-compiler) — a repo with 51+ stars on GitHub.
 
 ---
 
