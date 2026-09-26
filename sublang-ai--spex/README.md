@@ -5,14 +5,14 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [sublang-ai/spex](https://github.com/sublang-ai/spex).
+Original source: `AGENTS.md` in [sublang-ai/spex](https://github.com/sublang-ai/spex).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [sublang-ai/spex](https://github.com/sublang-ai/spex) — a repo with 67+ stars on GitHub.
