@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER).
+Original source: `AGENTS.md` in [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) — a repo with 220+ stars on GitHub.
+From [BossHobby/QUICKSILVER](https://github.com/BossHobby/QUICKSILVER) — a repo with 225+ stars on GitHub.
 
 ---
 
