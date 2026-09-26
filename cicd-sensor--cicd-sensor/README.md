@@ -5,11 +5,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [cicd-sensor/cicd-sensor](https://github.com/cicd-sensor/cicd-sensor).
+Original source: `` in [cicd-sensor/cicd-sensor](https://github.com/cicd-sensor/cicd-sensor).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
