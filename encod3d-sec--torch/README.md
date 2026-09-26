@@ -5,10 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Encod3d-Sec/TORCH](https://github.com/Encod3d-Sec/TORCH).
+Original source: `` in [Encod3d-Sec/TORCH](https://github.com/Encod3d-Sec/TORCH).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
