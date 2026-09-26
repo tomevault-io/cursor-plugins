@@ -5,10 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Nikola1Davydov/AnalyzeTool](https://github.com/Nikola1Davydov/AnalyzeTool).
+Original source: `` in [Nikola1Davydov/AnalyzeTool](https://github.com/Nikola1Davydov/AnalyzeTool).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
