@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [kathari00/keycloak-theme-editor](https://github.com/kathari00/keycloak-theme-editor).
+Original source: `AGENTS.md` in [kathari00/keycloak-theme-editor](https://github.com/kathari00/keycloak-theme-editor).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [kathari00/keycloak-theme-editor](https://github.com/kathari00/keycloak-theme-editor) — a repo with 63+ stars on GitHub.
+From [kathari00/keycloak-theme-editor](https://github.com/kathari00/keycloak-theme-editor) — a repo with 65+ stars on GitHub.
 
 ---
 
