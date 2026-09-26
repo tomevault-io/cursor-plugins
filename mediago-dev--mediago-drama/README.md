@@ -5,10 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [mediago-dev/mediago-drama](https://github.com/mediago-dev/mediago-drama).
+Original source: `` in [mediago-dev/mediago-drama](https://github.com/mediago-dev/mediago-drama).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
