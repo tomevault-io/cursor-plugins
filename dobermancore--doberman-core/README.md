@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [DobermanCore/Doberman-Core](https://github.com/DobermanCore/Doberman-Core).
+Original source: `AGENTS.md` in [DobermanCore/Doberman-Core](https://github.com/DobermanCore/Doberman-Core).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [DobermanCore/Doberman-Core](https://github.com/DobermanCore/Doberman-Core) — a repo with 276+ stars on GitHub.
+From [DobermanCore/Doberman-Core](https://github.com/DobermanCore/Doberman-Core) — a repo with 278+ stars on GitHub.
 
 ---
 
