@@ -1,0 +1,11 @@
+{
+  "name": "corium-os--corium",
+  "displayName": "Corium",
+  "version": "1.0.0",
+  "description": "An immutable Kubernetes node, built as an OCI image. Fedora bootc, k0s baked into a read-only /usr, configured with cloud-init.",
+  "author": {
+    "name": "Corium-OS",
+    "url": "https://github.com/Corium-OS"
+  },
+  "homepage": "https://github.com/Corium-OS/Corium"
+}
