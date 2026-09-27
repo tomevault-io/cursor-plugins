@@ -7,12 +7,12 @@ Daemonless, rootless-first, kernel-native container & microVM runtime — Rust.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [angolardevops/delonix-runtime](https://github.com/angolardevops/delonix-runtime).
+Original source: `AGENTS.md` in [angolardevops/delonix-runtime](https://github.com/angolardevops/delonix-runtime).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
