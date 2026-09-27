@@ -7,11 +7,11 @@ Build the workspace your coding agents work in.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dip497/hivemind](https://github.com/dip497/hivemind).
+Original source: `AGENTS.md` in [dip497/hivemind](https://github.com/dip497/hivemind).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
