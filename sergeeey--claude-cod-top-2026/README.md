@@ -7,11 +7,11 @@ Still trusting results that AI generated, tested, and declared successful by its
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sergeeey/Claude-cod-top-2026](https://github.com/sergeeey/Claude-cod-top-2026).
+Original source: `AGENTS.md` in [sergeeey/Claude-cod-top-2026](https://github.com/sergeeey/Claude-cod-top-2026).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
