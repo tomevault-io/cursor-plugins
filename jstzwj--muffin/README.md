@@ -7,11 +7,11 @@ Yet Another Fast and Lightweight Markdown Editor.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [jstzwj/Muffin](https://github.com/jstzwj/Muffin).
+Original source: `AGENTS.md` in [jstzwj/Muffin](https://github.com/jstzwj/Muffin).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
