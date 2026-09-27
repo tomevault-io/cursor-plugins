@@ -7,11 +7,11 @@ Open-source configurator for Attack Shark and other ROYUAN keyboards. Remap keys
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dniminenn/sharkfin](https://github.com/dniminenn/sharkfin).
+Original source: `AGENTS.md` in [dniminenn/sharkfin](https://github.com/dniminenn/sharkfin).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
