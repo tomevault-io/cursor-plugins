@@ -7,11 +7,11 @@ Cellar — open-source universal desktop database client written in GPUI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [MRL-00/cellar](https://github.com/MRL-00/cellar).
+Original source: `AGENTS.md` in [MRL-00/cellar](https://github.com/MRL-00/cellar).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
