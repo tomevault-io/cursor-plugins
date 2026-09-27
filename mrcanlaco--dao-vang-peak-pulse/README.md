@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [mrcanlaco/Dao-Vang-Peak-Pulse](https://github.com/mrcanlaco/Dao-Vang-Peak-Pulse).
+Original source: `CLAUDE.md` in [mrcanlaco/Dao-Vang-Peak-Pulse](https://github.com/mrcanlaco/Dao-Vang-Peak-Pulse).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
