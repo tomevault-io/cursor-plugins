@@ -7,11 +7,11 @@ Config-driven LLM fine-tuning with safety evaluation, EU AI Act compliance, 6 al
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [HodeTech/ForgeLM](https://github.com/HodeTech/ForgeLM).
+Original source: `AGENTS.md` in [HodeTech/ForgeLM](https://github.com/HodeTech/ForgeLM).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
