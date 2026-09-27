@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Nixer-2301/CipherTalk-Backup](https://github.com/Nixer-2301/CipherTalk-Backup).
+Original source: `AGENTS.md` in [Nixer-2301/CipherTalk-Backup](https://github.com/Nixer-2301/CipherTalk-Backup).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
