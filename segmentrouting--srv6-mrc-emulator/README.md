@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [segmentrouting/srv6-mrc-emulator](https://github.com/segmentrouting/srv6-mrc-emulator).
+Original source: `AGENTS.md` in [segmentrouting/srv6-mrc-emulator](https://github.com/segmentrouting/srv6-mrc-emulator).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
