@@ -7,11 +7,11 @@ Clumoove - Multi-cloud data migration & sync platform: resilient, privacy-friend
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [xXRoxXeRXx/clumoove](https://github.com/xXRoxXeRXx/clumoove).
+Original source: `AGENTS.md` in [xXRoxXeRXx/clumoove](https://github.com/xXRoxXeRXx/clumoove).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
