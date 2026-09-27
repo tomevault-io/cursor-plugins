@@ -7,11 +7,11 @@ Validate and visiualize how your Renovate configurations merge
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger).
+Original source: `AGENTS.md` in [secustor/renovate-config-debugger](https://github.com/secustor/renovate-config-debugger).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
