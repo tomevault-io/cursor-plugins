@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [gremlin-labs/vibe-jinja](https://github.com/gremlin-labs/vibe-jinja).
+Original source: `CLAUDE.md` in [gremlin-labs/vibe-jinja](https://github.com/gremlin-labs/vibe-jinja).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
