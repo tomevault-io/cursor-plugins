@@ -1,0 +1,28 @@
+# AI instruction files for swytchcode-examples
+
+> Sourced from [swytchcodehq/swytchcode-examples](https://github.com/swytchcodehq/swytchcode-examples), graded against the public Tome Standard and kept consistent across every major platform by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [swytchcodehq/swytchcode-examples](https://github.com/swytchcodehq/swytchcode-examples).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/swytchcodehq/swytchcode-examples](https://github.com/swytchcodehq/swytchcode-examples)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install swytchcodehq/swytchcode-examples
+```
+Source: [github.com/swytchcodehq/swytchcode-examples](https://github.com/swytchcodehq/swytchcode-examples).
+
+<!-- genome:a-i-p -->
