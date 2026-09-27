@@ -7,11 +7,11 @@ Differentiable RF Digital Twin for Wireless Research (MobiCom'26 )
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [witwin-ai/witwin-channel](https://github.com/witwin-ai/witwin-channel).
+Original source: `AGENTS.md` in [witwin-ai/witwin-channel](https://github.com/witwin-ai/witwin-channel).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
