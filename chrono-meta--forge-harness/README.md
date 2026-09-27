@@ -7,11 +7,11 @@ Stop re-explaining your rules to your agent. Put them in the project.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [chrono-meta/forge-harness](https://github.com/chrono-meta/forge-harness).
+Original source: `AGENTS.md` in [chrono-meta/forge-harness](https://github.com/chrono-meta/forge-harness).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
