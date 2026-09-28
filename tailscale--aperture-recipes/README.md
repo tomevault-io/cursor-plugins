@@ -7,12 +7,12 @@ Community-supported collection of third-party Aperture integration documentation
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [tailscale/aperture-recipes](https://github.com/tailscale/aperture-recipes).
+Original source: `CLAUDE.md` in [tailscale/aperture-recipes](https://github.com/tailscale/aperture-recipes).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
