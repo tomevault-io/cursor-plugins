@@ -7,11 +7,11 @@ A TeX mathematics layout engine written in Julia and heavily inspired by KaTeX
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dawbarton/TeXLayout.jl](https://github.com/dawbarton/TeXLayout.jl).
+Original source: `AGENTS.md` in [dawbarton/TeXLayout.jl](https://github.com/dawbarton/TeXLayout.jl).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
