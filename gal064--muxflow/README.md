@@ -7,11 +7,11 @@ Muxflow desktop and mobile tmux client
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [gal064/muxflow](https://github.com/gal064/muxflow).
+Original source: `AGENTS.md` in [gal064/muxflow](https://github.com/gal064/muxflow).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
