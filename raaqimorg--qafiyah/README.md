@@ -7,11 +7,11 @@ The Arabic Poetry Reference
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [raaqimorg/qafiyah](https://github.com/raaqimorg/qafiyah).
+Original source: `AGENTS.md` in [raaqimorg/qafiyah](https://github.com/raaqimorg/qafiyah).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
