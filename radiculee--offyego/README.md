@@ -7,11 +7,11 @@ Sarcastic pub randomiser for the Republic of Ireland. Can't pick a pub? Off ye g
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [radiculee/offyego](https://github.com/radiculee/offyego).
+Original source: `AGENTS.md` in [radiculee/offyego](https://github.com/radiculee/offyego).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
