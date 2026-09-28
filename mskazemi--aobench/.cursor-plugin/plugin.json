@@ -1,0 +1,11 @@
+{
+  "name": "mskazemi--aobench",
+  "displayName": "aobench",
+  "version": "1.0.0",
+  "description": "Role-aware, permission-enforced benchmark for LLM agents that operate HPC systems \u2014 SLURM, telemetry, RBAC, docs, facility. A policy violation hard-fails the task. 88 tasks (10 categories x 5 roles), ",
+  "author": {
+    "name": "MSKazemi",
+    "url": "https://github.com/MSKazemi"
+  },
+  "homepage": "https://github.com/MSKazemi/aobench"
+}
