@@ -7,11 +7,11 @@ Unified FastMCP 3.3 server for the *arr automation stack — Radarr, Sonarr, Lid
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [sandraschi/arr-mcp](https://github.com/sandraschi/arr-mcp).
+Original source: `AGENTS.md` in [sandraschi/arr-mcp](https://github.com/sandraschi/arr-mcp).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
