@@ -2,8 +2,6 @@
 
 > Tome by [karthikrshet](https://github.com/karthikrshet/Career-Agents), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
-The Open-Source AI Career Operating System. 167 Specialized AI Agents across 19 Divisions, Spoken Voice Lab (27 Languages), AI job search ,ATS Resume Studio, FAANG Interview Tracks, GitHub Portfolio Auditor, Model Context Protocol (MCP) Server, and Career Knowledge Graph.
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
@@ -17,7 +15,7 @@ Original source: `AGENTS.md` in [karthikrshet/Career-Agents](https://github.com/
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [karthikrshet/Career-Agents](https://github.com/karthikrshet/Career-Agents) — a repo with 40+ stars on GitHub.
+From [karthikrshet/Career-Agents](https://github.com/karthikrshet/Career-Agents) — a repo with 52+ stars on GitHub.
 
 ---
 
