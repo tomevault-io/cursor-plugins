@@ -7,14 +7,14 @@ Native LG webOS ambient sync for Philips Hue Entertainment and Nanoleaf 4D
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [adeze/lg-hue-sync](https://github.com/adeze/lg-hue-sync).
+Original source: `AGENTS.md` in [adeze/lg-hue-sync](https://github.com/adeze/lg-hue-sync).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/adeze/lg-hue-sync](https://github.com/adeze/lg-hue-sync)
