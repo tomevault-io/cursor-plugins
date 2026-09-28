@@ -7,11 +7,11 @@ Converts decrypted PS5 game dumps into native Windows executables via binary rel
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [yuriolive/PortPS5](https://github.com/yuriolive/PortPS5).
+Original source: `AGENTS.md` in [yuriolive/PortPS5](https://github.com/yuriolive/PortPS5).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
