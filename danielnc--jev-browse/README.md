@@ -7,11 +7,11 @@ Fast, cheap browser sub-tasks for Claude and other agents: TypeSafe Jev decision
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [danielnc/jev-browse](https://github.com/danielnc/jev-browse).
+Original source: `AGENTS.md` in [danielnc/jev-browse](https://github.com/danielnc/jev-browse).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
