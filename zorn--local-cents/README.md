@@ -7,11 +7,11 @@ LocalCents is an open-source expense-tracking application built for local-first,
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [zorn/local_cents](https://github.com/zorn/local_cents).
+Original source: `AGENTS.md` in [zorn/local_cents](https://github.com/zorn/local_cents).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
