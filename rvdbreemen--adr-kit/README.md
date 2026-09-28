@@ -7,11 +7,11 @@ Architecture decisions your AI coding agents actually follow. Ranked ADR retriev
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [rvdbreemen/adr-kit](https://github.com/rvdbreemen/adr-kit).
+Original source: `AGENTS.md` in [rvdbreemen/adr-kit](https://github.com/rvdbreemen/adr-kit).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
