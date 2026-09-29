@@ -7,11 +7,11 @@ NSpawn Subsystem for Linux: development environments for atomic hosts and people
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [frostyard/nsl](https://github.com/frostyard/nsl).
+Original source: `CLAUDE.md` in [frostyard/nsl](https://github.com/frostyard/nsl).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
