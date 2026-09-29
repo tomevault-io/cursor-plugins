@@ -7,11 +7,11 @@ Explainer videos from HTML (HyperFrames → MP4) with AI narrator, music and mix
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [vakovalskii/nd-video-studio](https://github.com/vakovalskii/nd-video-studio).
+Original source: `CLAUDE.md` in [vakovalskii/nd-video-studio](https://github.com/vakovalskii/nd-video-studio).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
