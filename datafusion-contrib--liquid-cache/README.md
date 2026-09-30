@@ -2,8 +2,6 @@
 
 > Source: [datafusion-contrib/liquid-cache](https://github.com/datafusion-contrib/liquid-cache). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
-Pushdown cache for DataFusion
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
