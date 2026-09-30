@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [yako-dev/flutter-full-screen-menu](https://github.com/yako-dev/flutter-full-screen-menu).
+Original source: `AGENTS.md` in [yako-dev/flutter-full-screen-menu](https://github.com/yako-dev/flutter-full-screen-menu).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
