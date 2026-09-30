@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [egor-xyz/devkitty](https://github.com/egor-xyz/devkitty).
+Original source: `AGENTS.md` in [egor-xyz/devkitty](https://github.com/egor-xyz/devkitty).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [egor-xyz/devkitty](https://github.com/egor-xyz/devkitty) — a repo with 57+ stars on GitHub.
+From [egor-xyz/devkitty](https://github.com/egor-xyz/devkitty) — a repo with 58+ stars on GitHub.
 
 ---
 
