@@ -1,12 +1,16 @@
 ---
-description: - `ISessionStore` is the session/turn persistence contract (no streaming/SSE); Postgres, SQLite, and `InMemorySessionStore` MUST implement it, and shared behavior MUST live in `storeContractSuite.ts` (backend wrappers only bind a store).
+description: - One server session maps to one assistant-ui thread (`session.id` is the thread `remoteId`).
 alwaysApply: true
 ---
 
-- `ISessionStore` is the session/turn persistence contract (no streaming/SSE); Postgres, SQLite, and `InMemorySessionStore` MUST implement it, and shared behavior MUST live in `storeContractSuite.ts` (backend wrappers only bind a store).
-- Changing an `ISessionStore` method, input, error, or semantic MUST update the interface, every implementation, and the contract suite in the same change.
-- Path filters for the `store` filter in `.github/workflows/ci.yml` MUST stay synchronized when store or contract-test paths are added, moved, or renamed.
+- One server session maps to one assistant-ui thread (`session.id` is the thread `remoteId`).
+- The root thread id is always `main`; sub-agent threads nest beneath their creating tool call.
+- The runtime accepts a ready `AgentUIServer` and MUST NOT own credentials or construct backend clients.
+- Resuming a paused turn MUST include every pending tool approval and tool response across root and sub-agent threads in one turn request.
+- Named and draft agent modes share the same runtime; draft spec updates remain synchronized through the server port.
+- Canonical server ports, DTOs, and events live in `src/server/types.ts` and `src/server/events.ts`.
+- Public runtime names use `TrueForge`, never the removed `TrueFoundry` backend name.
 
 ---
 > Source: [truefoundry/trueforge](https://github.com/truefoundry/trueforge) — distributed by [TomeVault](https://tomevault.io).
-<!-- tomevault:4.0:cursor_mdc:2026-09-24 -->
+<!-- tomevault:4.0:cursor_mdc:2026-09-30 -->
