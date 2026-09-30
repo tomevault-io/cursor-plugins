@@ -5,19 +5,15 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent).
+Original source: `AGENTS.md` in [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
-
-## Bundled Skills (1)
-
-- [story-shot-agent](https://github.com/neopen/story-shot-agent/tree/main/.claude/skills/penshot/SKILL.md)
 
 Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/neopen/story-shot-agent](https://github.com/neopen/story-shot-agent)
 
