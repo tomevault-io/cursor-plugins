@@ -2,16 +2,14 @@
 
 > Sourced from [dsx-ai-factory/topograph](https://github.com/dsx-ai-factory/topograph), graded against the public Tome Standard and kept consistent across every major platform by [TomeVault](https://tomevault.io)
 
-A toolkit for discovering cluster network topology.
-
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [dsx-ai-factory/topograph](https://github.com/dsx-ai-factory/topograph).
+Original source: `CLAUDE.md` in [dsx-ai-factory/topograph](https://github.com/dsx-ai-factory/topograph).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
