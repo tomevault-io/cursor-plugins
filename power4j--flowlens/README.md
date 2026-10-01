@@ -7,11 +7,11 @@ command-line network traffic analyzer
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [power4j/flowlens](https://github.com/power4j/flowlens).
+Original source: `CLAUDE.md` in [power4j/flowlens](https://github.com/power4j/flowlens).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
