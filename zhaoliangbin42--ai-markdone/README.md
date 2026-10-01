@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [zhaoliangbin42/AI-MarkDone](https://github.com/zhaoliangbin42/AI-MarkDone).
+Original source: `CLAUDE.md` in [zhaoliangbin42/AI-MarkDone](https://github.com/zhaoliangbin42/AI-MarkDone).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
