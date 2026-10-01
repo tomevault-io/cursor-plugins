@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [bhouston/template-typescript-monorepo](https://github.com/bhouston/template-typescript-monorepo).
+Original source: `CLAUDE.md` in [bhouston/template-typescript-monorepo](https://github.com/bhouston/template-typescript-monorepo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
