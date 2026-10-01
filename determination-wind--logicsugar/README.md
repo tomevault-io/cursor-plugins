@@ -1,0 +1,30 @@
+# LogicSugar
+
+> Source: [DeterMination-Wind/LogicSugar](https://github.com/DeterMination-Wind/LogicSugar). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
+
+A user-friendly Mindustry logic editor mod with readable for, while, and switch blocks, indentation, folding, and vanilla-compatible output.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [DeterMination-Wind/LogicSugar](https://github.com/DeterMination-Wind/LogicSugar).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/DeterMination-Wind/LogicSugar](https://github.com/DeterMination-Wind/LogicSugar)
+
+---
+
+Install this config instantly:
+```
+npx tomevault install DeterMination-Wind/LogicSugar
+```
+Source: [github.com/DeterMination-Wind/LogicSugar](https://github.com/DeterMination-Wind/LogicSugar).
+
+<!-- genome:d-i-p -->
