@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [chenjackle45/html-visualizer](https://github.com/chenjackle45/html-visualizer).
+Original source: `CLAUDE.md` in [chenjackle45/html-visualizer](https://github.com/chenjackle45/html-visualizer).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
