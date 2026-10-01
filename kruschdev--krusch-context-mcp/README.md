@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [kruschdev/krusch-context-mcp](https://github.com/kruschdev/krusch-context-mcp).
+Original source: `CLAUDE.md` in [kruschdev/krusch-context-mcp](https://github.com/kruschdev/krusch-context-mcp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
