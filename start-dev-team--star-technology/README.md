@@ -5,12 +5,12 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [StarT-Dev-Team/Star-Technology](https://github.com/StarT-Dev-Team/Star-Technology).
+Original source: `CLAUDE.md` in [StarT-Dev-Team/Star-Technology](https://github.com/StarT-Dev-Team/Star-Technology).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
