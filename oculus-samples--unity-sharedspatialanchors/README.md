@@ -5,7 +5,7 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `.windsurf/rules/*.md` in [oculus-samples/Unity-SharedSpatialAnchors](https://github.com/oculus-samples/Unity-SharedSpatialAnchors).
+Original source: `` in [oculus-samples/Unity-SharedSpatialAnchors](https://github.com/oculus-samples/Unity-SharedSpatialAnchors).
 
 ## Also available for
 
@@ -14,6 +14,7 @@ Original source: `.windsurf/rules/*.md` in [oculus-samples/Unity-SharedSpatialAn
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
 
 From [oculus-samples/Unity-SharedSpatialAnchors](https://github.com/oculus-samples/Unity-SharedSpatialAnchors) — a repo with 165+ stars on GitHub.
 
