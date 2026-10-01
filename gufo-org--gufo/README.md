@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [gufo-org/gufo](https://github.com/gufo-org/gufo).
+Original source: `CLAUDE.md` in [gufo-org/gufo](https://github.com/gufo-org/gufo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [gufo-org/gufo](https://github.com/gufo-org/gufo) — a repo with 429+ stars on GitHub.
+From [gufo-org/gufo](https://github.com/gufo-org/gufo) — a repo with 444+ stars on GitHub.
 
 ---
 
