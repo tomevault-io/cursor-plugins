@@ -7,11 +7,11 @@ Type-1 AMD svm hypervisor
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [qwnd-real/pulzar-hypervisor](https://github.com/qwnd-real/pulzar-hypervisor).
+Original source: `CLAUDE.md` in [qwnd-real/pulzar-hypervisor](https://github.com/qwnd-real/pulzar-hypervisor).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
