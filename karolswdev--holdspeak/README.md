@@ -1,17 +1,15 @@
 # HoldSpeak
 
-> Tome by [karolswdev](https://github.com/karolswdev/HoldSpeak) — distributed by [TomeVault](https://tomevault.io)
-
-Cross-platform local voice typing and meeting transcription for macOS and Linux.
+> Tome by [karolswdev](https://github.com/karolswdev/HoldSpeak), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [karolswdev/HoldSpeak](https://github.com/karolswdev/HoldSpeak).
+Original source: `AGENTS.md` in [karolswdev/HoldSpeak](https://github.com/karolswdev/HoldSpeak).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
