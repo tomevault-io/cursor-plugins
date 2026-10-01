@@ -1,0 +1,24 @@
+# jevmem
+
+> Tome by [Avinash-jetwani](https://github.com/Avinash-jetwani/jevmem), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `CLAUDE.md` in [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem).
+
+## Also available for
+
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem)
+
+---
+
+Explore more instruction files on [TomeVault](https://tomevault.io), the platform that grades AI instruction files and catches silent drift across every major tool.
+
+<!-- genome:t-e-q -->
