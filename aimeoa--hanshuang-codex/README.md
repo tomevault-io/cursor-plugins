@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [aimeoa/hanshuang-codex](https://github.com/aimeoa/hanshuang-codex).
+Original source: `CLAUDE.md` in [aimeoa/hanshuang-codex](https://github.com/aimeoa/hanshuang-codex).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [aimeoa/hanshuang-codex](https://github.com/aimeoa/hanshuang-codex) — a repo with 779+ stars on GitHub.
+From [aimeoa/hanshuang-codex](https://github.com/aimeoa/hanshuang-codex) — a repo with 822+ stars on GitHub.
 
 ---
 
