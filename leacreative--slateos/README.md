@@ -7,11 +7,11 @@ An OS for the PineTime Smartwatch
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [LeaCreative/SlateOS](https://github.com/LeaCreative/SlateOS).
+Original source: `CLAUDE.md` in [LeaCreative/SlateOS](https://github.com/LeaCreative/SlateOS).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
