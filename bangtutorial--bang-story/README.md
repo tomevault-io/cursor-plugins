@@ -7,11 +7,11 @@ Aplikasi desktop untuk mengubah ide cerita jadi video YouTube dengan AI. Masukin
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [bangtutorial/bang-story](https://github.com/bangtutorial/bang-story).
+Original source: `AGENTS.md` in [bangtutorial/bang-story](https://github.com/bangtutorial/bang-story).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
