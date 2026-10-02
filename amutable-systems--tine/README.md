@@ -7,11 +7,11 @@ Build packages, go/Rust projects, and OS images with Buck2
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [amutable-systems/tine](https://github.com/amutable-systems/tine).
+Original source: `CLAUDE.md` in [amutable-systems/tine](https://github.com/amutable-systems/tine).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
