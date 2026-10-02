@@ -1,0 +1,26 @@
+# sently
+
+> Tome by [omqkhafi](https://github.com/omqkhafi/sently), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+Open-source TypeScript messaging infrastructure for Email, SMS, WhatsApp & Push with interchangeable providers.
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [omqkhafi/sently](https://github.com/omqkhafi/sently).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+Available for 6 platforms including Claude Code, Cursor, Windsurf, and more. Source: [github.com/omqkhafi/sently](https://github.com/omqkhafi/sently)
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:t-c-p -->
