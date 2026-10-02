@@ -7,11 +7,11 @@ The database agent for Postgres and MySQL - Point it at PostgreSQL or MySQL and 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [DeepSQLAI/deepsql](https://github.com/DeepSQLAI/deepsql).
+Original source: `CLAUDE.md` in [DeepSQLAI/deepsql](https://github.com/DeepSQLAI/deepsql).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
