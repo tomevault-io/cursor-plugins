@@ -7,11 +7,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [lza6/GPT-Codex-image-2api](https://github.com/lza6/GPT-Codex-image-2api).
+Original source: `AGENTS.md` in [lza6/GPT-Codex-image-2api](https://github.com/lza6/GPT-Codex-image-2api).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
