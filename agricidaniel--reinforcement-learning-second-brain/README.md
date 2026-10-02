@@ -7,14 +7,14 @@ Your RL second brain: 34 source-cited topics from Q-learning to GRPO and agentic
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `GEMINI.md` in [AgriciDaniel/reinforcement-learning-second-brain](https://github.com/AgriciDaniel/reinforcement-learning-second-brain).
+Original source: `CLAUDE.md` in [AgriciDaniel/reinforcement-learning-second-brain](https://github.com/AgriciDaniel/reinforcement-learning-second-brain).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
 From [AgriciDaniel/reinforcement-learning-second-brain](https://github.com/AgriciDaniel/reinforcement-learning-second-brain) — a repo with 9+ stars on GitHub.
