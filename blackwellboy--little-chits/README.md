@@ -7,11 +7,11 @@ A living AI civilisation you can watch: tiny creatures discover, build, teach an
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Blackwellboy/little-chits](https://github.com/Blackwellboy/little-chits).
+Original source: `AGENTS.md` in [Blackwellboy/little-chits](https://github.com/Blackwellboy/little-chits).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
