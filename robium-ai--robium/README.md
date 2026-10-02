@@ -7,11 +7,11 @@ Physical AI skills for coding agents, with field-tested robotics guidance, the r
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [robium-ai/robium](https://github.com/robium-ai/robium).
+Original source: `AGENTS.md` in [robium-ai/robium](https://github.com/robium-ai/robium).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
