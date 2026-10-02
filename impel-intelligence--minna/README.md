@@ -7,11 +7,11 @@ A local-first search index and assistant for your Mac.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [impel-intelligence/Minna](https://github.com/impel-intelligence/Minna).
+Original source: `AGENTS.md` in [impel-intelligence/Minna](https://github.com/impel-intelligence/Minna).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
