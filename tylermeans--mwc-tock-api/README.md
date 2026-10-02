@@ -7,11 +7,11 @@ Midwest Cards reservation board — Tock webhook -> n8n (PII redaction) -> Googl
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Tylermeans/mwc-tock-api](https://github.com/Tylermeans/mwc-tock-api).
+Original source: `AGENTS.md` in [Tylermeans/mwc-tock-api](https://github.com/Tylermeans/mwc-tock-api).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
