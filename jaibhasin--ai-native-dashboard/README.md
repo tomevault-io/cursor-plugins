@@ -7,11 +7,11 @@ AI powered whiteboards for AI-native companies
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [jaibhasin/AI-Native-Dashboard](https://github.com/jaibhasin/AI-Native-Dashboard).
+Original source: `AGENTS.md` in [jaibhasin/AI-Native-Dashboard](https://github.com/jaibhasin/AI-Native-Dashboard).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
