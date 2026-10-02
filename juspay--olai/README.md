@@ -7,11 +7,11 @@ AI-native tree-based memory system
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [juspay/olai](https://github.com/juspay/olai).
+Original source: `AGENTS.md` in [juspay/olai](https://github.com/juspay/olai).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
