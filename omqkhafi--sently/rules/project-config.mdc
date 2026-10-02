@@ -1,0 +1,43 @@
+---
+description: sently is a runtime-agnostic TypeScript channel-delivery library (email, SMS, WhatsApp, Web Push, FCM) for Node.js, Bun, Deno, and Cloudflare Workers. ESM-only, zero runtime dependencies. One sender shape / error model / retry path as channels grow — not a hosted orchestration platform.
+alwaysApply: true
+---
+
+# sently — agent contract
+
+sently is a runtime-agnostic TypeScript channel-delivery library (email, SMS, WhatsApp, Web Push, FCM) for Node.js, Bun, Deno, and Cloudflare Workers. ESM-only, zero runtime dependencies. One sender shape / error model / retry path as channels grow — not a hosted orchestration platform.
+
+## Sently-first provider model
+
+Apps use **channel senders**, not vendor SDKs:
+
+| Channel | Sender | Contract |
+|---------|--------|----------|
+| Email | `createMailer` / `createSMTPMailer` | `Transport` |
+| SMS | `createSmsSender` | `SmsTransport` |
+| WhatsApp | `createWhatsAppSender` | `WhatsAppTransport` |
+| Push | `createPushSender` | `PushTransport` |
+
+Providers are transports under those senders. Vendor extras (OTP, account utilities) live on the concrete transport class — never on the shared channel contract.
+
+## Docs
+
+- Handbook: `site/content/docs/` (Fumadocs)
+- Machine index: `/llms.txt` on the docs site
+
+## Commands
+
+```sh
+bun install
+bun test            # unit/integration only — never runs *.live.test.ts
+bun run test:live   # local-only provider live suites (requires *_LIVE=1)
+bun run site:dev
+bun run site:build
+bun run verify      # lint, typecheck, build, site:build, then bun test
+```
+
+Do not invent APIs. Prefer imports from published subpaths (`sently/mailer`, `sently/sms`, `sently/transports/*`).
+
+---
+> Source: [omqkhafi/sently](https://github.com/omqkhafi/sently) — distributed by [TomeVault](https://tomevault.io).
+<!-- tomevault:4.0:cursor_mdc:2026-10-01 -->
