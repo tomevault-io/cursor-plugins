@@ -7,11 +7,11 @@ Volumetric capture and non-linear editing for the Kinect v2: record what a depth
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [totally-tim/braindance](https://github.com/totally-tim/braindance).
+Original source: `AGENTS.md` in [totally-tim/braindance](https://github.com/totally-tim/braindance).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
