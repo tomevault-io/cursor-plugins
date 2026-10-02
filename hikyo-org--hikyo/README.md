@@ -7,11 +7,11 @@ Fully open-source, self-hosted control plane for validated secrets and configura
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Hikyo-Org/Hikyo](https://github.com/Hikyo-Org/Hikyo).
+Original source: `CLAUDE.md` in [Hikyo-Org/Hikyo](https://github.com/Hikyo-Org/Hikyo).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
