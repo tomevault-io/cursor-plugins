@@ -1,0 +1,11 @@
+{
+  "name": "avison9--cdclint",
+  "displayName": "cdclint",
+  "version": "1.0.0",
+  "description": "Lint the contract between your database, your Debezium connector and your sink, before the deploy that silently drops a column.",
+  "author": {
+    "name": "avison9",
+    "url": "https://github.com/avison9"
+  },
+  "homepage": "https://github.com/avison9/cdclint"
+}
