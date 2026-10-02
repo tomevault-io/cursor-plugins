@@ -7,11 +7,11 @@ Keep growing TypeScript codebases maintainable. Trellis measures complexity, dup
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [jayminwest/trellis](https://github.com/jayminwest/trellis).
+Original source: `AGENTS.md` in [jayminwest/trellis](https://github.com/jayminwest/trellis).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
