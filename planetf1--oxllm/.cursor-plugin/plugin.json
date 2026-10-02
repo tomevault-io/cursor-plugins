@@ -1,0 +1,11 @@
+{
+  "name": "planetf1--oxllm",
+  "displayName": "oxllm",
+  "version": "1.0.0",
+  "description": "\ud83e\udd80 Ultra-minimalist, high-resilience LLM routing gateway in Rust. OpenAI-compatible with auto-retry, backoffs, circuit breakers, SIGHUP hot-reloads, and open telemetry. Ideal for free provider surfing.",
+  "author": {
+    "name": "planetf1",
+    "url": "https://github.com/planetf1"
+  },
+  "homepage": "https://github.com/planetf1/oxllm"
+}
