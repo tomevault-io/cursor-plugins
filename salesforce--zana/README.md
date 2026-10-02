@@ -1,0 +1,30 @@
+# zana
+
+> Tome by [salesforce](https://github.com/salesforce/zana), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+Run, schedule, and coordinate fleets of coding agents from one desktop app
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `AGENTS.md` in [salesforce/zana](https://github.com/salesforce/zana).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Gemini CLI** — `GEMINI.md`
+- **Windsurf** — `project-config.md`
+
+From [salesforce/zana](https://github.com/salesforce/zana) — a repo with 34+ stars on GitHub.
+
+---
+
+Install this config instantly:
+```
+npx tomevault install salesforce/zana
+```
+Source: [github.com/salesforce/zana](https://github.com/salesforce/zana).
+
+<!-- genome:t-i-s -->
