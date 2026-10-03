@@ -7,11 +7,11 @@ A cost-efficient, model-agnostic QQ-group AI agent built around an ~8K-token con
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Eternal-Wanderer-Vegetable/Stella_project](https://github.com/Eternal-Wanderer-Vegetable/Stella_project).
+Original source: `AGENTS.md` in [Eternal-Wanderer-Vegetable/Stella_project](https://github.com/Eternal-Wanderer-Vegetable/Stella_project).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
