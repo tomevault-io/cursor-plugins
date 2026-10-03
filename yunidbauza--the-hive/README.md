@@ -7,11 +7,11 @@ A claude code command center
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [yunidbauza/the-hive](https://github.com/yunidbauza/the-hive).
+Original source: `AGENTS.md` in [yunidbauza/the-hive](https://github.com/yunidbauza/the-hive).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
