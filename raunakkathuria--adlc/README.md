@@ -7,11 +7,11 @@ ADLC — the agentic development life cycle. A spec-driven automated delivery wh
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [raunakkathuria/adlc](https://github.com/raunakkathuria/adlc).
+Original source: `AGENTS.md` in [raunakkathuria/adlc](https://github.com/raunakkathuria/adlc).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
