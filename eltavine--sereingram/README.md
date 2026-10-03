@@ -7,11 +7,11 @@ SereinGram is an open-source Telegram client inspired by Nagram and AyuGram, des
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [eltavine/SereinGram](https://github.com/eltavine/SereinGram).
+Original source: `AGENTS.md` in [eltavine/SereinGram](https://github.com/eltavine/SereinGram).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
