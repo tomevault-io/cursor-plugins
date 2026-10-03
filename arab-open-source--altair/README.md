@@ -7,11 +7,11 @@ The batteries-included web framework for Crystal
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [Arab-Open-Source/Altair](https://github.com/Arab-Open-Source/Altair).
+Original source: `CLAUDE.md` in [Arab-Open-Source/Altair](https://github.com/Arab-Open-Source/Altair).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
