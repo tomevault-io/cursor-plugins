@@ -7,11 +7,11 @@ Event application agent distro: maintained profiles, computer-use applications, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [giga-james/eventmaxxer](https://github.com/giga-james/eventmaxxer).
+Original source: `AGENTS.md` in [giga-james/eventmaxxer](https://github.com/giga-james/eventmaxxer).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
