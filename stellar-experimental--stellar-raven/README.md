@@ -7,11 +7,11 @@ Stellar MCP server for AI agents: one authenticated gateway to official docs, li
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [stellar-experimental/stellar-raven](https://github.com/stellar-experimental/stellar-raven).
+Original source: `AGENTS.md` in [stellar-experimental/stellar-raven](https://github.com/stellar-experimental/stellar-raven).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
