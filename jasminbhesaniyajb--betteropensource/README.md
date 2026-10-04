@@ -7,11 +7,11 @@ The website should help users discover the best open-source alternatives for pop
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [jasminbhesaniyajb/betteropensource](https://github.com/jasminbhesaniyajb/betteropensource).
+Original source: `AGENTS.md` in [jasminbhesaniyajb/betteropensource](https://github.com/jasminbhesaniyajb/betteropensource).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
