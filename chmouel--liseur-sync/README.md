@@ -7,11 +7,11 @@ Self-hostable reading-position sync and statistics server for Liseur, KOReader, 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [chmouel/liseur-sync](https://github.com/chmouel/liseur-sync).
+Original source: `AGENTS.md` in [chmouel/liseur-sync](https://github.com/chmouel/liseur-sync).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
