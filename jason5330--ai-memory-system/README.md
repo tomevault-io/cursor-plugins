@@ -7,11 +7,11 @@ Self-evolving memory for Claude Code & Codex — two-layer (personal + per-proje
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [Jason5330/ai-memory-system](https://github.com/Jason5330/ai-memory-system).
+Original source: `AGENTS.md` in [Jason5330/ai-memory-system](https://github.com/Jason5330/ai-memory-system).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
