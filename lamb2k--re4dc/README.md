@@ -7,11 +7,11 @@ Work-in-progress Resident Evil 4 port for Sega Dreamcast, with native PowerVR re
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [lamb2k/re4dc](https://github.com/lamb2k/re4dc).
+Original source: `AGENTS.md` in [lamb2k/re4dc](https://github.com/lamb2k/re4dc).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
