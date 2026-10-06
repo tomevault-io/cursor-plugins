@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [robocurve/inspect-robots](https://github.com/robocurve/inspect-robots).
+Original source: `AGENTS.md` in [robocurve/inspect-robots](https://github.com/robocurve/inspect-robots).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [robocurve/inspect-robots](https://github.com/robocurve/inspect-robots) — a repo with 603+ stars on GitHub.
+From [robocurve/inspect-robots](https://github.com/robocurve/inspect-robots) — a repo with 643+ stars on GitHub.
 
 ---
 
