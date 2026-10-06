@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [nullclaw/nullboiler](https://github.com/nullclaw/nullboiler).
+Original source: `AGENTS.md` in [nullclaw/nullboiler](https://github.com/nullclaw/nullboiler).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [nullclaw/nullboiler](https://github.com/nullclaw/nullboiler) — a repo with 265+ stars on GitHub.
+From [nullclaw/nullboiler](https://github.com/nullclaw/nullboiler) — a repo with 183+ stars on GitHub.
 
 ---
 
