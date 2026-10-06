@@ -1,0 +1,11 @@
+{
+  "name": "dnehring7--vdr-plugin-vaapivideo",
+  "displayName": "vdr-plugin-vaapivideo",
+  "version": "1.0.0",
+  "description": "Hardware-accelerated video output plugin for VDR using VAAPI decode, DRM atomic modesetting, and ALSA audio. Runs on a bare console \u2014 no X11 or display server required.",
+  "author": {
+    "name": "dnehring7",
+    "url": "https://github.com/dnehring7"
+  },
+  "homepage": "https://github.com/dnehring7/vdr-plugin-vaapivideo"
+}
