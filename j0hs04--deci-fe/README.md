@@ -1,0 +1,24 @@
+# Deci_FE
+
+> Tome by [j0hs04](https://github.com/j0hs04/Deci_FE), graded and kept true across every major AI platform by [TomeVault](https://tomevault.io)
+
+## Cursor Config
+
+The `project-config.mdc` file in this directory is the project config converted for Cursor.
+Original source: `GEMINI.md` in [j0hs04/Deci_FE](https://github.com/j0hs04/Deci_FE).
+
+## Also available for
+
+- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
+- **Cursor** — `project-config.mdc`
+- **Windsurf** — `project-config.md`
+
+Graded against the Tome Standard, TomeVault's public ruleset for whether AI instructions load, read clearly and stay safe. Source: [github.com/j0hs04/Deci_FE](https://github.com/j0hs04/Deci_FE)
+
+---
+
+Own this repo? Install the TomeVault Relay to keep every platform's copy in sync on every push: [https://tomevault.io/install](https://tomevault.io/install).
+
+<!-- genome:t-c-q -->
