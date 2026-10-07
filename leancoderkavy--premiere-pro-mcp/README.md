@@ -5,12 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [leancoderkavy/premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp).
+Original source: `AGENTS.md` in [leancoderkavy/premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
