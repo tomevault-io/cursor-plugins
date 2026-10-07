@@ -5,11 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `AGENTS.md` in [zcanann/SFA-Decomp](https://github.com/zcanann/SFA-Decomp).
+Original source: `CLAUDE.md` in [zcanann/SFA-Decomp](https://github.com/zcanann/SFA-Decomp).
 
 ## Also available for
 
-- **Claude Code** — `CLAUDE.md`
+- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
