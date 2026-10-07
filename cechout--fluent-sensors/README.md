@@ -5,17 +5,17 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [cechout/fluent-sensors](https://github.com/cechout/fluent-sensors).
+Original source: `AGENTS.md` in [cechout/fluent-sensors](https://github.com/cechout/fluent-sensors).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
 
-From [cechout/fluent-sensors](https://github.com/cechout/fluent-sensors) — a repo with 157+ stars on GitHub.
+From [cechout/fluent-sensors](https://github.com/cechout/fluent-sensors) — a repo with 159+ stars on GitHub.
 
 ---
 
