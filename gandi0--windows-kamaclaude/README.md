@@ -5,10 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [gandi0/windows-kamaclaude](https://github.com/gandi0/windows-kamaclaude).
+Original source: `` in [gandi0/windows-kamaclaude](https://github.com/gandi0/windows-kamaclaude).
 
 ## Also available for
 
+- **Claude Code** — `CLAUDE.md`
 - **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
