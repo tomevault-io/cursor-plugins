@@ -1,15 +1,15 @@
 # clipse-gui
 
-> Source: [d7omdev/clipse-gui](https://github.com/d7omdev/clipse-gui). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
+> Source: [d7omdev/clipse-gui](https://github.com/d7omdev/clipse-gui). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [d7omdev/clipse-gui](https://github.com/d7omdev/clipse-gui).
+Original source: `AGENTS.md` in [d7omdev/clipse-gui](https://github.com/d7omdev/clipse-gui).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
