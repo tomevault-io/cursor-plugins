@@ -1,16 +1,16 @@
 # effect-aws
 
-> Source: [floydspace/effect-aws](https://github.com/floydspace/effect-aws). Graded, signed and kept in sync across platforms by [TomeVault](https://tomevault.io)
+> Source: [floydspace/effect-aws](https://github.com/floydspace/effect-aws). Graded, signed and kept current as the models change by [TomeVault](https://tomevault.io)
 
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `copilot-instructions.md` in [floydspace/effect-aws](https://github.com/floydspace/effect-aws).
+Original source: `AGENTS.md` in [floydspace/effect-aws](https://github.com/floydspace/effect-aws).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
+- **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
 - **Windsurf** — `project-config.md`
