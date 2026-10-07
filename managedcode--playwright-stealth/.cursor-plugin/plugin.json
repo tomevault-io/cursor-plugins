@@ -1,0 +1,11 @@
+{
+  "name": "managedcode--playwright-stealth",
+  "displayName": "playwright_stealth",
+  "version": "1.0.0",
+  "description": "Stealth evasion library for Microsoft.Playwright (.NET). Applies 31 init-script patches that mask headless Chrome fingerprints \u2014 navigator properties, WebGL, canvas, audio, CDP traces, automation mark",
+  "author": {
+    "name": "managedcode",
+    "url": "https://github.com/managedcode"
+  },
+  "homepage": "https://github.com/managedcode/playwright_stealth"
+}
