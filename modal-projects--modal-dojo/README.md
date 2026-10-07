@@ -5,12 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [modal-projects/modal-dojo](https://github.com/modal-projects/modal-dojo).
+Original source: `AGENTS.md` in [modal-projects/modal-dojo](https://github.com/modal-projects/modal-dojo).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
