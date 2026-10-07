@@ -5,12 +5,11 @@
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `` in [eas4ai/suprnova](https://github.com/eas4ai/suprnova).
+Original source: `AGENTS.md` in [eas4ai/suprnova](https://github.com/eas4ai/suprnova).
 
 ## Also available for
 
 - **Claude Code** — `CLAUDE.md`
-- **Codex** — `AGENTS.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
