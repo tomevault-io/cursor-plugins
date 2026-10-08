@@ -7,11 +7,11 @@ DuneCity — Dune Legacy RTS + Micropolis city-building simulation
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [dunecity-project/dunecity](https://github.com/dunecity-project/dunecity).
+Original source: `AGENTS.md` in [dunecity-project/dunecity](https://github.com/dunecity-project/dunecity).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
