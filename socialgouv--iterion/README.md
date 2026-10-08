@@ -7,11 +7,11 @@ Build, run and orchestrate agentic AI workflows.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [SocialGouv/iterion](https://github.com/SocialGouv/iterion).
+Original source: `AGENTS.md` in [SocialGouv/iterion](https://github.com/SocialGouv/iterion).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
