@@ -1,0 +1,11 @@
+{
+  "name": "nkkalmyk--openwrt-singbox-router",
+  "displayName": "openwrt-singbox-router",
+  "version": "1.0.0",
+  "description": "Split-tunnel home router on OpenWrt + sing-box: local traffic direct, the rest via VLESS/Reality, split DNS, self-healing watchdogs, Tailscale",
+  "author": {
+    "name": "nkkalmyk",
+    "url": "https://github.com/nkkalmyk"
+  },
+  "homepage": "https://github.com/nkkalmyk/openwrt-singbox-router"
+}
