@@ -7,11 +7,11 @@ FlowReader —— 开源的 Android 离线电子书阅读器，支持 EPUB/TXT/M
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [HuZaiGong/flowreader](https://github.com/HuZaiGong/flowreader).
+Original source: `AGENTS.md` in [HuZaiGong/flowreader](https://github.com/HuZaiGong/flowreader).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
