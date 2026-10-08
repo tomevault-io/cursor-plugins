@@ -7,11 +7,11 @@ Perfect memory. Exact reasoning. Complete history for AI agents.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [project-minigraf/temporal_reasoning](https://github.com/project-minigraf/temporal_reasoning).
+Original source: `AGENTS.md` in [project-minigraf/temporal_reasoning](https://github.com/project-minigraf/temporal_reasoning).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
