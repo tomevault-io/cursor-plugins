@@ -7,11 +7,11 @@ Manage macOS Apple apps from the command line. JSON on stdout, errors on stderr.
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [thrashr888/cider](https://github.com/thrashr888/cider).
+Original source: `AGENTS.md` in [thrashr888/cider](https://github.com/thrashr888/cider).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
