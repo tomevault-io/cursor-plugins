@@ -7,11 +7,11 @@ Tips for using Antigravity CLI
 ## Cursor Config
 
 The `project-config.mdc` file in this directory is the project config converted for Cursor.
-Original source: `CLAUDE.md` in [ykdojo/antigravity-cli-tips](https://github.com/ykdojo/antigravity-cli-tips).
+Original source: `AGENTS.md` in [ykdojo/antigravity-cli-tips](https://github.com/ykdojo/antigravity-cli-tips).
 
 ## Also available for
 
-- **Codex** — `AGENTS.md`
+- **Claude Code** — `CLAUDE.md`
 - **GitHub Copilot** — `copilot-instructions.md`
 - **Cursor** — `project-config.mdc`
 - **Gemini CLI** — `GEMINI.md`
